@@ -1,0 +1,34 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow
+---
+name: compile
+on:
+  schedule:
+  - cron: '0 8 * * *'
+  workflow_dispatch:
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/checkout@v3
+      with:
+        repository: curl/curl.wiki
+        path: curl.wiki
+    - id: check
+      run: |
+        SOURCE_HASH=$(sha256sum curl.wiki/DNS-over-HTTPS.md | cut -d' ' -f1)
+        CUR_HASH=$(head -1 doh-list.txt | sed 's/#*//')
+        if [[ $SOURCE_HASH != $CUR_HASH ]]; then
+          echo ::set-output name=should_compile::true
+        fi
+    - if: ${{ steps.check.outputs.should_compile == 'true' }}
+      run: ./update-doh-list.sh
+    - if: ${{ steps.check.outputs.should_compile == 'true' }}
+      uses: swinton/commit@v2.x
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        files: |
+          doh-list.txt
+        commit-message: Updated doh-list.txt
+        ref: refs/heads/master

@@ -1,4 +1,4 @@
-#dcfe5d7a5f464297572a34d5e969c3618423caef1b310e804dbedecf5eaabc4e
+#e7c99f36591b6ecc32c15739ff26ede068ccb36c75ee37b55674db7536d5cc9e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -90,6 +90,7 @@ dns.dnswarden.com
 dns.dnswarden.com
 dnscache.e-utp.net
 edgy-dns.com
+opennic1.eth-services.de
 rdns.faelix.net
 doh.ffmuc.net
 doh.applied-privacy.net
@@ -97,6 +98,7 @@ doh.futa.gg
 dns.google
 dns64.dns.google
 8888.google
+dns.hinet.net
 hitian.me
 dns.hostux.net
 dns.hostux.net
@@ -143,8 +145,11 @@ doh.tiar.app
 doh.tiarap.org
 dns.twnic.tw
 dns.therifleman.name
+dns.t53.de
 anycast.uncensoreddns.org
+anycast.censurfridns.dk
 unicast.uncensoreddns.org
+unicast.censurfridns.dk
 adfree.usableprivacy.net
 dns.wevpn.com
 dns-weblock.wevpn.com

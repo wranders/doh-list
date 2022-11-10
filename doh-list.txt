@@ -1,4 +1,4 @@
-#e7c99f36591b6ecc32c15739ff26ede068ccb36c75ee37b55674db7536d5cc9e
+#a24289ef5f40ab225cb174ec8372af3fde4bba4a447de7a2c95b2accb41c46f1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -16,6 +16,7 @@
 #	dns.google
 #	8888.google
 #	hitian.me
+#	doh.lv
 #	puredns.org
 #	rethinkdns.com
 #
@@ -41,6 +42,7 @@ dnsnl.alekberg.net
 dnsse.alekberg.net
 dns.artikel10.org
 dns.bebasid.com
+dns.belnet.be
 doh-ch.blahdns.com
 doh-sg.blahdns.com
 doh-fi.blahdns.com
@@ -109,6 +111,7 @@ doh.infotek.net.id
 a.passcloud.xyz
 jp.tiar.app
 jp.tiarap.org
+dns.kawa.tf
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 us1.dns.lavate.ch
@@ -118,8 +121,11 @@ sby-doh.limotelu.org
 chewbacca.meganerd.nl
 doh.mullvad.net
 adblock.doh.mullvad.net
+dns.ndo.dev
 dns.nextdns.io
 my.nextdns.io
+doh.lv
+doh.nic.lv
 dns.njal.la
 resolver4.dns.openinternet.io
 dns.paesa.es
@@ -153,6 +159,7 @@ unicast.censurfridns.dk
 adfree.usableprivacy.net
 dns.wevpn.com
 dns-weblock.wevpn.com
+yarp.lefolgoc.net
 doh.crypto.sx
 freedom.mydns.network
 adblock.mydns.network

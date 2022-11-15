@@ -1,4 +1,4 @@
-#a24289ef5f40ab225cb174ec8372af3fde4bba4a447de7a2c95b2accb41c46f1
+#e15397029435780ca5bf47fde1ec05649e265ab82bdc91e9301e1f57c14e808f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -19,6 +19,7 @@
 #	doh.lv
 #	puredns.org
 #	rethinkdns.com
+#	spacedns.org
 #
 
 dns-nyc.aaflalo.me
@@ -137,6 +138,7 @@ dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
 dns11.quad9.net
+doh.qis.io
 doh.360.cn
 kaitain.restena.lu
 basic.rethinkdns.com
@@ -146,6 +148,7 @@ dns.rubyfish.cn
 dns1.ryan-palmer.com
 doh.safesurfer.io
 fi.doh.dns.snopyta.org
+spacedns.org
 dns.switch.ch
 doh.tiar.app
 doh.tiarap.org

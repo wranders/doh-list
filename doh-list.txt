@@ -1,4 +1,4 @@
-#e15397029435780ca5bf47fde1ec05649e265ab82bdc91e9301e1f57c14e808f
+#fcf1967a4240412253d4788460f01f762929615f7c32638c35deea23c2457a40
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -16,6 +16,8 @@
 #	dns.google
 #	8888.google
 #	hitian.me
+#	jabber-germany.de
+#	masters-of-cloud.de
 #	doh.lv
 #	puredns.org
 #	rethinkdns.com
@@ -37,11 +39,12 @@ doh.no.ahadns.net
 blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com
-dns.alidns.com
-dns.aa.net.uk
 dnsnl.alekberg.net
 dnsse.alekberg.net
+dns.alidns.com
+dns.aa.net.uk
 dns.artikel10.org
+dns.keweon.center
 dns.bebasid.com
 dns.belnet.be
 doh-ch.blahdns.com
@@ -69,11 +72,14 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 doh.xfinity.com
+dns.circl.lu
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
+cube.neubsi.at
 odvr.nic.cz
+doh.datahata.by
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.flatuslifir.is
@@ -101,15 +107,20 @@ doh.futa.gg
 dns.google
 dns64.dns.google
 8888.google
+query.hdns.io
 dns.hinet.net
 hitian.me
 dns.hostux.net
 dns.hostux.net
 ordns.he.net
+opennic.i2pd.xyz
 ibksturm.synology.me
+doh.iucc.ac.il
 public.dns.iij.jp
 doh.infotek.net.id
+dns.ipv6dns.com
 a.passcloud.xyz
+jabber-germany.de
 jp.tiar.app
 jp.tiarap.org
 dns.kawa.tf
@@ -119,7 +130,11 @@ us1.dns.lavate.ch
 eu1.dns.lavate.ch
 doh.libredns.gr
 sby-doh.limotelu.org
+masters-of-cloud.de
 chewbacca.meganerd.nl
+dns.melalandia.tk
+doh.micronets.in
+www.morbitzer.de
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.ndo.dev
@@ -128,6 +143,8 @@ my.nextdns.io
 doh.lv
 doh.nic.lv
 dns.njal.la
+a-bld.sys-adm.in
+bld.sys-adm.in
 resolver4.dns.openinternet.io
 dns.paesa.es
 kronos.plan9-dns.com
@@ -147,9 +164,11 @@ doh.rezhajul.io
 dns.rubyfish.cn
 dns1.ryan-palmer.com
 doh.safesurfer.io
+dns.scapetical.com
 fi.doh.dns.snopyta.org
 spacedns.org
 dns.switch.ch
+doh.syshero.org
 doh.tiar.app
 doh.tiarap.org
 dns.twnic.tw
@@ -162,6 +181,7 @@ unicast.censurfridns.dk
 adfree.usableprivacy.net
 dns.wevpn.com
 dns-weblock.wevpn.com
+doh.xcom.pro
 yarp.lefolgoc.net
 doh.crypto.sx
 freedom.mydns.network

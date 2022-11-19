@@ -1,4 +1,4 @@
-#9b53eece732c956d5c83d7a0bfd6d62498d725bd4ef993cb4fee23adac972e9c
+#2470efb5032cc5ec027ac7c35ad611bc062e751f0571b47f4e529f02c9b2ee75
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -111,6 +111,7 @@ dns.hostux.net
 dns.hostux.net
 ordns.he.net
 opennic.i2pd.xyz
+doh.ibr.cs.tu-bs.de
 doh.iucc.ac.il
 public.dns.iij.jp
 doh.infotek.net.id

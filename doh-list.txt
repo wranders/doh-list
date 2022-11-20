@@ -1,4 +1,4 @@
-#2470efb5032cc5ec027ac7c35ad611bc062e751f0571b47f4e529f02c9b2ee75
+#8faf4a51a5df6ab55e0a28021ba629bc26348b8f395db1c0971e6745f282bccc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -38,6 +38,10 @@ dns.alidns.com
 dns.aa.net.uk
 dns.artikel10.org
 dns.keweon.center
+awan.ftp.sh
+awan.ftp.sh
+awan.ftp.sh
+awan.ftp.sh
 dns.bebasid.com
 dns.belnet.be
 doh-ch.blahdns.com

@@ -1,4 +1,4 @@
-#8faf4a51a5df6ab55e0a28021ba629bc26348b8f395db1c0971e6745f282bccc
+#1dfacc75d6a86e2e3ac3ee64891d91d6a85976452658cbf047107f1cfe3f0670
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -35,6 +35,7 @@ blitz.ahadns.com
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dns.alidns.com
+atelier.alica.idv.tw
 dns.aa.net.uk
 dns.artikel10.org
 dns.keweon.center
@@ -120,7 +121,8 @@ doh.iucc.ac.il
 public.dns.iij.jp
 doh.infotek.net.id
 dns.ipv6dns.com
-a.passcloud.xyz
+a.vvvglass.com
+a.vvvglass.com
 jabber-germany.de
 jp.tiar.app
 jp.tiarap.org
@@ -138,6 +140,8 @@ www.morbitzer.de
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.ndo.dev
+nebula.tru.io
+nebula.tru.io
 dns.nextdns.io
 doh.lv
 doh.nic.lv
@@ -170,9 +174,11 @@ dns.switch.ch
 doh.syshero.org
 doh.tiar.app
 doh.tiarap.org
+nat64.tuxis.nl
 dns.twnic.tw
 dns.therifleman.name
 dns.t53.de
+ines.zfn.uni-bremen.de
 anycast.uncensoreddns.org
 anycast.censurfridns.dk
 unicast.uncensoreddns.org
@@ -180,6 +186,7 @@ unicast.censurfridns.dk
 adfree.usableprivacy.net
 dns.wevpn.com
 dns-weblock.wevpn.com
+doh.wewitro.net
 doh.xcom.pro
 yarp.lefolgoc.net
 dns.7vpn.com

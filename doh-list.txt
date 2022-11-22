@@ -1,4 +1,4 @@
-#1dfacc75d6a86e2e3ac3ee64891d91d6a85976452658cbf047107f1cfe3f0670
+#6b92d169e8c6afc6ce7f0aa81c9260029ee80b357208852147084dd675a9c88a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -43,6 +43,9 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
+sg-dns1.bancuh.com
+fr-dns1.bancuh.com
+jp-dns1.bancuh.com
 dns.bebasid.com
 dns.belnet.be
 doh-ch.blahdns.com
@@ -103,6 +106,7 @@ edgy-dns.com
 opennic1.eth-services.de
 rdns.faelix.net
 doh.ffmuc.net
+ns1.flodns.net
 doh.applied-privacy.net
 dns.froth.zone
 doh.futa.gg
@@ -146,6 +150,7 @@ dns.nextdns.io
 doh.lv
 doh.nic.lv
 dns.njal.la
+resolver.noaddns.com
 a-bld.sys-adm.in
 bld.sys-adm.in
 ns1.opennameserver.org
@@ -163,6 +168,7 @@ dns10.quad9.net
 dns11.quad9.net
 doh.qis.io
 doh.360.cn
+resolver.r0cket.net
 kaitain.restena.lu
 basic.rethinkdns.com
 doh.rezhajul.io
@@ -172,6 +178,11 @@ doh.safesurfer.io
 spacedns.org
 dns.switch.ch
 doh.syshero.org
+uk.teradns.org
+de.teradns.org
+ny.teradns.org
+tx.teradns.org
+sg.teradns.org
 doh.tiar.app
 doh.tiarap.org
 nat64.tuxis.nl

@@ -1,4 +1,4 @@
-#6b92d169e8c6afc6ce7f0aa81c9260029ee80b357208852147084dd675a9c88a
+#9875a759afeba5500b2907bde19576010bc2abc1e99f9f27900a9fe7fa09ac25
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,11 +7,14 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
+#	chaos-system.de
 #	cloudflare-dns.com
 #	dnslow.me
 #	dns.pub
 #	dnsforge.de
 #	doh.li
+#	dnsenc.com
+#	easyhandshake.com
 #	edgy-dns.com
 #	dns.google
 #	8888.google
@@ -21,9 +24,12 @@
 #	doh.lv
 #	puredns.org
 #	spacedns.org
+#	wyx.cloud
+#	zougloub.eu
 #
 
 dns-nyc.aaflalo.me
+abel.waringer-atg.de
 dns.adguard.com
 dns-family.adguard.com
 unfiltered.adguard-dns.com
@@ -48,6 +54,7 @@ fr-dns1.bancuh.com
 jp-dns1.bancuh.com
 dns.bebasid.com
 dns.belnet.be
+dns.bitdefender.net
 doh-ch.blahdns.com
 doh-sg.blahdns.com
 doh-fi.blahdns.com
@@ -57,6 +64,7 @@ dns.blokada.org
 dns.brahma.world
 doh.bortzmeyer.fr
 doh1.b-cdn.net
+chaos-system.de
 doh-01.spectrum.com
 doh-02.spectrum.com
 private.canadianshield.cira.ca
@@ -72,6 +80,8 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
+ca.doh.cloudveil.org
+us.doh.cloudveil.org
 doh.xfinity.com
 dns.circl.lu
 dns.comss.one
@@ -97,10 +107,12 @@ dns-doh.dnsforfamily.com
 dnsforge.de
 dns.dnshome.de
 doh.li
+dnsenc.com
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
 dnscache.e-utp.net
+easyhandshake.com
 dns.eddi.net
 edgy-dns.com
 opennic1.eth-services.de
@@ -113,13 +125,18 @@ doh.futa.gg
 dns.google
 dns64.dns.google
 8888.google
+cluster-0.gac.edu
+cluster-1.gac.edu
 query.hdns.io
 dns.hinet.net
 hitian.me
 dns.hostux.net
 dns.hostux.net
+ns2.hshh.org
 ordns.he.net
+ns1.i-evolve.net
 opennic.i2pd.xyz
+qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 doh.iucc.ac.il
 public.dns.iij.jp
@@ -151,6 +168,7 @@ doh.lv
 doh.nic.lv
 dns.njal.la
 resolver.noaddns.com
+dns.novg.net
 a-bld.sys-adm.in
 bld.sys-adm.in
 ns1.opennameserver.org
@@ -161,6 +179,7 @@ dns.paesa.es
 kronos.plan9-dns.com
 pluton.plan9-dns.com
 helios.plan9-dns.com
+pope.cnblw.me
 puredns.org
 dns.quad9.net
 dns9.quad9.net
@@ -176,8 +195,10 @@ dns.rubyfish.cn
 dns1.ryan-palmer.com
 doh.safesurfer.io
 spacedns.org
+muli.stusta.mhn.de
 dns.switch.ch
 doh.syshero.org
+dns.telekom.de
 uk.teradns.org
 de.teradns.org
 ny.teradns.org
@@ -185,6 +206,7 @@ tx.teradns.org
 sg.teradns.org
 doh.tiar.app
 doh.tiarap.org
+dns.tls-data.de
 nat64.tuxis.nl
 dns.twnic.tw
 dns.therifleman.name
@@ -198,8 +220,11 @@ adfree.usableprivacy.net
 dns.wevpn.com
 dns-weblock.wevpn.com
 doh.wewitro.net
+iris.woozeno.eu
 doh.xcom.pro
 yarp.lefolgoc.net
+wyx.cloud
+zougloub.eu
 dns.7vpn.com
 doh.crypto.sx
 ibuki.cgnat.net

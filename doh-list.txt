@@ -1,4 +1,4 @@
-#9875a759afeba5500b2907bde19576010bc2abc1e99f9f27900a9fe7fa09ac25
+#a3825e40c262619a82f00d6c8973012bdbf393694accf07253577264020bb02b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -19,17 +19,21 @@
 #	dns.google
 #	8888.google
 #	hitian.me
+#	irre.li
 #	jabber-germany.de
+#	lastentarvike.fi
 #	masters-of-cloud.de
 #	doh.lv
 #	puredns.org
 #	spacedns.org
+#	timmes.nl
 #	wyx.cloud
 #	zougloub.eu
 #
 
 dns-nyc.aaflalo.me
 abel.waringer-atg.de
+res-acst3.absolight.net
 dns.adguard.com
 dns-family.adguard.com
 unfiltered.adguard-dns.com
@@ -89,7 +93,7 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-cube.neubsi.at
+dotdns.cryptroute.com
 odvr.nic.cz
 doh.datahata.by
 dns.decloudus.com
@@ -111,6 +115,7 @@ dnsenc.com
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
+dns.dyn1.de
 dnscache.e-utp.net
 easyhandshake.com
 dns.eddi.net
@@ -121,6 +126,7 @@ doh.ffmuc.net
 ns1.flodns.net
 doh.applied-privacy.net
 dns.froth.zone
+fuchur.pentament.de
 doh.futa.gg
 dns.google
 dns64.dns.google
@@ -141,15 +147,19 @@ doh.ibr.cs.tu-bs.de
 doh.iucc.ac.il
 public.dns.iij.jp
 doh.infotek.net.id
+dns1.in-berlin.de
 dns.ipv6dns.com
 a.vvvglass.com
 a.vvvglass.com
+irre.li
 jabber-germany.de
 jp.tiar.app
 jp.tiarap.org
 dns.kawa.tf
+dns.kescher.at
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
+lastentarvike.fi
 eu1.dns.lavate.ch
 doh.libredns.gr
 sby-doh.limotelu.org
@@ -157,18 +167,21 @@ masters-of-cloud.de
 chewbacca.meganerd.nl
 dns.melalandia.tk
 doh.micronets.in
+zrh1-ns01.monzoon.net
 www.morbitzer.de
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.ndo.dev
 nebula.tru.io
 nebula.tru.io
+cube.neubsi.at
 dns.nextdns.io
 doh.lv
 doh.nic.lv
 dns.njal.la
 resolver.noaddns.com
 dns.novg.net
+nsc.torgues.net
 a-bld.sys-adm.in
 bld.sys-adm.in
 ns1.opennameserver.org
@@ -194,8 +207,12 @@ doh.rezhajul.io
 dns.rubyfish.cn
 dns1.ryan-palmer.com
 doh.safesurfer.io
+pates.services.sfr.fr.casepp.sfr.fr
+dns.slinkyman.net
+clientdns3.softcom.net
 spacedns.org
 muli.stusta.mhn.de
+esel.stusta.mhn.de
 dns.switch.ch
 doh.syshero.org
 dns.telekom.de
@@ -206,17 +223,20 @@ tx.teradns.org
 sg.teradns.org
 doh.tiar.app
 doh.tiarap.org
+timmes.nl
 dns.tls-data.de
 nat64.tuxis.nl
 dns.twnic.tw
 dns.therifleman.name
 dns.t53.de
 ines.zfn.uni-bremen.de
+galileo.math.unipd.it
 anycast.uncensoreddns.org
 anycast.censurfridns.dk
 unicast.uncensoreddns.org
 unicast.censurfridns.dk
 adfree.usableprivacy.net
+tor.vasi.li
 dns.wevpn.com
 dns-weblock.wevpn.com
 doh.wewitro.net

@@ -1,4 +1,4 @@
-#a3825e40c262619a82f00d6c8973012bdbf393694accf07253577264020bb02b
+#5fcb4d919a9395ff35c526af9f5aed3e166463e2d51f427526c920073751c815
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -89,6 +89,7 @@ us.doh.cloudveil.org
 doh.xfinity.com
 dns.circl.lu
 dns.comss.one
+freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -203,6 +204,7 @@ doh.360.cn
 resolver.r0cket.net
 kaitain.restena.lu
 basic.rethinkdns.com
+sky.rethinkdns.com
 doh.rezhajul.io
 dns.rubyfish.cn
 dns1.ryan-palmer.com
@@ -225,6 +227,7 @@ doh.tiar.app
 doh.tiarap.org
 timmes.nl
 dns.tls-data.de
+doh.totoro.pub
 nat64.tuxis.nl
 dns.twnic.tw
 dns.therifleman.name

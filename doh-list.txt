@@ -1,4 +1,4 @@
-#5fcb4d919a9395ff35c526af9f5aed3e166463e2d51f427526c920073751c815
+#8a7b870664ca86168a5362aea39f8f6a0c60c211c4ee3dfd7e8f95b36a64ca57
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -18,9 +18,11 @@
 #	edgy-dns.com
 #	dns.google
 #	8888.google
+#	himedns.com
 #	hitian.me
 #	irre.li
 #	jabber-germany.de
+#	jackyes.ovh
 #	lastentarvike.fi
 #	masters-of-cloud.de
 #	doh.lv
@@ -37,6 +39,7 @@ res-acst3.absolight.net
 dns.adguard.com
 dns-family.adguard.com
 unfiltered.adguard-dns.com
+ns.aguaslindasweb.com.br
 doh.nl.ahadns.net
 doh.la.ahadns.net
 blitz.ahadns.com
@@ -45,10 +48,8 @@ blitz.ahadns.com
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dns.alidns.com
-atelier.alica.idv.tw
 dns.aa.net.uk
 dns.artikel10.org
-dns.keweon.center
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
@@ -65,8 +66,9 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-de.blahdns.com
 dns.blokada.org
-dns.brahma.world
+dns.bofh.in
 doh.bortzmeyer.fr
+dns.brahma.world
 doh1.b-cdn.net
 chaos-system.de
 doh-01.spectrum.com
@@ -96,8 +98,11 @@ freedns.controld.com
 freedns.controld.com
 dotdns.cryptroute.com
 odvr.nic.cz
+dns.daw.dev
 doh.datahata.by
+dns.david888.com
 dns.decloudus.com
+adguard.dekonix.ru
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns.digitalsize.net
@@ -121,27 +126,32 @@ dnscache.e-utp.net
 easyhandshake.com
 dns.eddi.net
 edgy-dns.com
+dns.elemental.software
 opennic1.eth-services.de
 rdns.faelix.net
+dns.fancyorg.at
 doh.ffmuc.net
+dns01.flm9.net
 ns1.flodns.net
 doh.applied-privacy.net
 dns.froth.zone
 fuchur.pentament.de
+doh.funtopia.tv
 doh.futa.gg
 dns.google
 dns64.dns.google
 8888.google
+dns.ginovs.nl
 cluster-0.gac.edu
 cluster-1.gac.edu
 query.hdns.io
+himedns.com
 dns.hinet.net
 hitian.me
 dns.hostux.net
 dns.hostux.net
 ns2.hshh.org
 ordns.he.net
-ns1.i-evolve.net
 opennic.i2pd.xyz
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
@@ -154,10 +164,13 @@ a.vvvglass.com
 a.vvvglass.com
 irre.li
 jabber-germany.de
+jackyes.ovh
+adguard.jfchenier.ca
 jp.tiar.app
 jp.tiarap.org
 dns.kawa.tf
 dns.kescher.at
+dns.k3nny.fr
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 lastentarvike.fi
@@ -168,6 +181,7 @@ masters-of-cloud.de
 chewbacca.meganerd.nl
 dns.melalandia.tk
 doh.micronets.in
+dns.molinero.dev
 zrh1-ns01.monzoon.net
 www.morbitzer.de
 doh.mullvad.net
@@ -179,10 +193,13 @@ cube.neubsi.at
 dns.nextdns.io
 doh.lv
 doh.nic.lv
+adguard.nielsvoorn.nl
+doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
 dns.novg.net
 nsc.torgues.net
+dns.nullgate.net
 a-bld.sys-adm.in
 bld.sys-adm.in
 ns1.opennameserver.org
@@ -194,7 +211,9 @@ kronos.plan9-dns.com
 pluton.plan9-dns.com
 helios.plan9-dns.com
 pope.cnblw.me
+doh.port53.dk
 puredns.org
+vpsus3.pzhg.me
 dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
@@ -215,6 +234,7 @@ clientdns3.softcom.net
 spacedns.org
 muli.stusta.mhn.de
 esel.stusta.mhn.de
+dns.surfshark.com
 dns.switch.ch
 doh.syshero.org
 dns.telekom.de
@@ -240,10 +260,14 @@ unicast.uncensoreddns.org
 unicast.censurfridns.dk
 adfree.usableprivacy.net
 tor.vasi.li
+dns.vinnyp.xyz
+dns.vinokurov.tk
+dns.warpnine.de
 dns.wevpn.com
 dns-weblock.wevpn.com
 doh.wewitro.net
 iris.woozeno.eu
+1.xhr0no.my
 doh.xcom.pro
 yarp.lefolgoc.net
 wyx.cloud

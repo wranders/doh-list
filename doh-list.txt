@@ -1,4 +1,4 @@
-#8a7b870664ca86168a5362aea39f8f6a0c60c211c4ee3dfd7e8f95b36a64ca57
+#a2526ae5622a031a6b9fa8f9739c8fb693cb4fd87dd289f6ba43ced86bf1b77c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,6 +7,7 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
+#	aihe.app
 #	chaos-system.de
 #	cloudflare-dns.com
 #	dnslow.me
@@ -14,12 +15,14 @@
 #	dnsforge.de
 #	doh.li
 #	dnsenc.com
+#	dukun.de
 #	easyhandshake.com
 #	edgy-dns.com
 #	dns.google
 #	8888.google
 #	himedns.com
 #	hitian.me
+#	hshh.org
 #	irre.li
 #	jabber-germany.de
 #	jackyes.ovh
@@ -27,9 +30,12 @@
 #	masters-of-cloud.de
 #	doh.lv
 #	puredns.org
+#	rayneau.fr
+#	ricko.is
 #	spacedns.org
 #	timmes.nl
 #	wyx.cloud
+#	your-dns.run
 #	zougloub.eu
 #
 
@@ -45,11 +51,16 @@ doh.la.ahadns.net
 blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com
+aihe.app
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dns.alidns.com
+dns.almir1904.eu
 dns.aa.net.uk
+nsec.arnor.org
 dns.artikel10.org
+dns.b612.me
+dns.infosec.xyz
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
@@ -67,17 +78,23 @@ doh-jp.blahdns.com
 doh-de.blahdns.com
 dns.blokada.org
 dns.bofh.in
+adblock.borjalopez.eu
 doh.bortzmeyer.fr
 dns.brahma.world
 doh1.b-cdn.net
+www.c-dns.com
+doh.ccb-net.it
+dns.ceai.com.tw
 chaos-system.de
 doh-01.spectrum.com
 doh-02.spectrum.com
+c.cicitt.ch
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
 doh.opendns.com
 doh.familyshield.opendns.com
+dns.clanless.ovh
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
@@ -88,9 +105,11 @@ family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 ca.doh.cloudveil.org
 us.doh.cloudveil.org
+dns.colorfreedom.org
 doh.xfinity.com
 dns.circl.lu
 dns.comss.one
+dns1.conne.net
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -99,7 +118,9 @@ freedns.controld.com
 dotdns.cryptroute.com
 odvr.nic.cz
 dns.daw.dev
+ns.00dani.me
 doh.datahata.by
+mail.data.haus
 dns.david888.com
 dns.decloudus.com
 adguard.dekonix.ru
@@ -117,16 +138,27 @@ dns-doh.dnsforfamily.com
 dnsforge.de
 dns.dnshome.de
 doh.li
+nz01.dns4me.net
+au01.dns4me.net
+au02.dns4me.net
+sg01.dns4me.net
+uk01.dns4me.net
+us01.dns4me.net
+us02.dns4me.net
+sa01.dns4me.net
 dnsenc.com
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
+dukun.de
 dns.dyn1.de
 dnscache.e-utp.net
 easyhandshake.com
-dns.eddi.net
 edgy-dns.com
+dns.emiliyan.com
 dns.elemental.software
+dns.eddi.net
+dns.zzuhacker.cn
 opennic1.eth-services.de
 rdns.faelix.net
 dns.fancyorg.at
@@ -137,22 +169,30 @@ doh.applied-privacy.net
 dns.froth.zone
 fuchur.pentament.de
 doh.funtopia.tv
+doh.funil.de
 doh.futa.gg
 dns.google
 dns64.dns.google
 8888.google
 dns.ginovs.nl
+dns.grqu.de
 cluster-0.gac.edu
 cluster-1.gac.edu
+dns.hanmey.de
 query.hdns.io
 himedns.com
 dns.hinet.net
 hitian.me
+pihole2.hoerli.net
 dns.hostux.net
 dns.hostux.net
-ns2.hshh.org
+hshh.org
+doth.huque.com
 ordns.he.net
 opennic.i2pd.xyz
+dns.ihaveacloud.com
+buc-m2.illmods.com
+dns.indust.me
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 doh.iucc.ac.il
@@ -165,31 +205,48 @@ a.vvvglass.com
 irre.li
 jabber-germany.de
 jackyes.ovh
+doh.jeroenhd.nl
 adguard.jfchenier.ca
+dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
+dns.kamilszczepanski.com
 dns.kawa.tf
+dns.kernel-error.de
 dns.kescher.at
 dns.k3nny.fr
+dns.kosan.moe
+xray.krnl.eu
+kswro.web.id
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 lastentarvike.fi
 eu1.dns.lavate.ch
 doh.libredns.gr
+dns.lightmaster.pw
 sby-doh.limotelu.org
 masters-of-cloud.de
+br.servers.legat.ml
+dns.maybe.icu
 chewbacca.meganerd.nl
 dns.melalandia.tk
+testaghome.meshkov.info
 doh.micronets.in
+dns.truong.fi
+dnstls.mobik.com
 dns.molinero.dev
 zrh1-ns01.monzoon.net
 www.morbitzer.de
 doh.mullvad.net
 adblock.doh.mullvad.net
+dns.murgi.de
+blackhole.myon.lu
 dns.ndo.dev
+adguard.ender.fr
 nebula.tru.io
 nebula.tru.io
 cube.neubsi.at
+doh.luigi.nexific.it
 dns.nextdns.io
 doh.lv
 doh.nic.lv
@@ -197,9 +254,17 @@ adguard.nielsvoorn.nl
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
+pi1.node15.com
 dns.novg.net
+dns.npe.bz
 nsc.torgues.net
 dns.nullgate.net
+adguard.onlyfriends.info
+jp2.ooroot.com
+sg2.ooroot.com
+hk2.ooroot.com
+tw2.ooroot.com
+kr2.ooroot.com
 a-bld.sys-adm.in
 bld.sys-adm.in
 ns1.opennameserver.org
@@ -214,28 +279,39 @@ pope.cnblw.me
 doh.port53.dk
 puredns.org
 vpsus3.pzhg.me
+at.pzhg.me
 dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
 dns11.quad9.net
 doh.qis.io
 doh.360.cn
-resolver.r0cket.net
+dns.rafn.is
+rayneau.fr
+dns.reckoningslug.name
 kaitain.restena.lu
 basic.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
+ricko.is
+dns.rin.sh
+resolver.r0cket.net
 dns.rubyfish.cn
 dns1.ryan-palmer.com
 doh.safesurfer.io
+dns.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
+do.shimul.me
+dns.silen.org
 dns.slinkyman.net
 clientdns3.softcom.net
 spacedns.org
+dns.startupstack.tech
 muli.stusta.mhn.de
 esel.stusta.mhn.de
 dns.surfshark.com
 dns.switch.ch
+dns.syaifullah.com
 doh.syshero.org
 dns.telekom.de
 uk.teradns.org
@@ -243,6 +319,8 @@ de.teradns.org
 ny.teradns.org
 tx.teradns.org
 sg.teradns.org
+dns.tesem.dog
+cloud.tezoi.com
 doh.tiar.app
 doh.tiarap.org
 timmes.nl
@@ -252,6 +330,7 @@ nat64.tuxis.nl
 dns.twnic.tw
 dns.therifleman.name
 dns.t53.de
+ueni.dyndns.org
 ines.zfn.uni-bremen.de
 galileo.math.unipd.it
 anycast.uncensoreddns.org
@@ -271,6 +350,9 @@ iris.woozeno.eu
 doh.xcom.pro
 yarp.lefolgoc.net
 wyx.cloud
+your-dns.run
+dns.ypbind.de
+dns.zfsystem.tech
 zougloub.eu
 dns.7vpn.com
 doh.crypto.sx

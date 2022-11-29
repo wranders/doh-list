@@ -1,4 +1,4 @@
-#a2526ae5622a031a6b9fa8f9739c8fb693cb4fd87dd289f6ba43ced86bf1b77c
+#63f2ccb016561df51884bf13e6cec9528201620517274efb9ccc0ea979a281c6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,7 +41,12 @@
 
 dns-nyc.aaflalo.me
 abel.waringer-atg.de
+res-acst1.absolight.net
+res-acst2.absolight.net
 res-acst3.absolight.net
+resolver1.absolight.net
+resolver2.absolight.net
+resolver3.absolight.net
 dns.adguard.com
 dns-family.adguard.com
 unfiltered.adguard-dns.com
@@ -115,6 +120,7 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
+freedns.controld.com
 dotdns.cryptroute.com
 odvr.nic.cz
 dns.daw.dev
@@ -183,7 +189,10 @@ query.hdns.io
 himedns.com
 dns.hinet.net
 hitian.me
+pihole1.hoerli.net
 pihole2.hoerli.net
+pihole3.hoerli.net
+pihole4.hoerli.net
 dns.hostux.net
 dns.hostux.net
 hshh.org
@@ -270,7 +279,7 @@ bld.sys-adm.in
 ns1.opennameserver.org
 ns2.opennameserver.org
 ns3.opennameserver.org
-ns1.opennameserver.org
+ns4.opennameserver.org
 dns.paesa.es
 kronos.plan9-dns.com
 pluton.plan9-dns.com

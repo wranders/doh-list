@@ -1,4 +1,4 @@
-#a30b6a6b6515f9196b34e742c2c25b0709248b8e61cf3c69470ece6f278773d4
+#0f3fb9d5b07a70b57cd548e6028c6b0a1561d706478c30bc6a2a246c420e0c97
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -59,6 +59,8 @@ blitz.ahadns.com
 aihe.app
 dnsnl.alekberg.net
 dnsse.alekberg.net
+dnsnl-noads.alekberg.net
+dnsse-noads.alekberg.net
 dns.alidns.com
 dns.almir1904.eu
 dns.aa.net.uk
@@ -143,6 +145,7 @@ doh.dnscrypt.uk
 v.dnscrypt.uk
 dns-doh.dnsforfamily.com
 dnsforge.de
+secure-dns.dns-ga.de
 dns.dnshome.de
 doh.li
 nz01.dns4me.net
@@ -188,6 +191,7 @@ cluster-1.gac.edu
 dns.hafidzradhival.my.id
 dns.hanmey.de
 query.hdns.io
+us-ny-alula.heliumcloud.cc
 himedns.com
 dns.hinet.net
 hitian.me

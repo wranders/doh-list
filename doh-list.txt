@@ -1,4 +1,4 @@
-#0f3fb9d5b07a70b57cd548e6028c6b0a1561d706478c30bc6a2a246c420e0c97
+#d8d2439b6c7a60c6fa7426481da7808e50fe7027c522af8be759aa7d95ff3d13
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -125,6 +125,7 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 dotdns.cryptroute.com
+dns.cybershell.xyz
 odvr.nic.cz
 dns.daw.dev
 ns.00dani.me
@@ -316,6 +317,7 @@ doh.safesurfer.io
 dns.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
 do.shimul.me
+dns.lsho.top
 dns.silen.org
 dns.slinkyman.net
 clientdns3.softcom.net
@@ -351,8 +353,10 @@ anycast.uncensoreddns.org
 anycast.censurfridns.dk
 unicast.uncensoreddns.org
 unicast.censurfridns.dk
+resolver.unstoppable.io
 adfree.usableprivacy.net
 tor.vasi.li
+doh.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.warpnine.de

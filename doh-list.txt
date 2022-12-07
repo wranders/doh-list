@@ -1,4 +1,4 @@
-#2197aaf2546a9263c2d48200553707b27653811e46928f68241fb061b66a4566
+#ce9af8b0009e2b3fa8e618b35026df83d2e87b6c2b521ba81a11687d77047f1e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -323,6 +323,7 @@ dns.slinkyman.net
 clientdns3.softcom.net
 spacedns.org
 dns.startupstack.tech
+dns.stevenz.net
 muli.stusta.mhn.de
 esel.stusta.mhn.de
 dns.surfshark.com

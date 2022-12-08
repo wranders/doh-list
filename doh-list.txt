@@ -1,4 +1,4 @@
-#ce9af8b0009e2b3fa8e618b35026df83d2e87b6c2b521ba81a11687d77047f1e
+#75e2f04217c9cfff755bfce4ea361b98def093f93b2ae35238bb6322578691fd
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -23,6 +23,8 @@
 #	himedns.com
 #	hitian.me
 #	hshh.org
+#	doh.buzz
+#	doh.beauty
 #	irre.li
 #	jabber-germany.de
 #	jackyes.ovh
@@ -50,7 +52,6 @@ resolver3.absolight.net
 dns.adguard.com
 dns-family.adguard.com
 unfiltered.adguard-dns.com
-ns.aguaslindasweb.com.br
 doh.nl.ahadns.net
 doh.la.ahadns.net
 blitz.ahadns.com
@@ -96,6 +97,7 @@ dns.ceai.com.tw
 chaos-system.de
 doh-01.spectrum.com
 doh-02.spectrum.com
+dns.chromeina.top
 c.cicitt.ch
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -113,6 +115,7 @@ family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 ca.doh.cloudveil.org
 us.doh.cloudveil.org
+jpdns.cola16.app
 dns.colorfreedom.org
 doh.xfinity.com
 dns.circl.lu
@@ -129,11 +132,13 @@ dns.cybershell.xyz
 odvr.nic.cz
 dns.daw.dev
 ns.00dani.me
+doh.datacore.ch
 doh.datahata.by
 mail.data.haus
 dns.david888.com
 dns.decloudus.com
 adguard.dekonix.ru
+doh-primary-pool.detoxifypornblocker.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns.digitalsize.net
@@ -176,12 +181,15 @@ dns.fancyorg.at
 doh.ffmuc.net
 dns01.flm9.net
 ns1.flodns.net
+ns2.flodns.net
 doh.applied-privacy.net
+dns.frank-ruan.com
 dns.froth.zone
 fuchur.pentament.de
 doh.funtopia.tv
 doh.funil.de
 doh.futa.gg
+doh-primary-pool.goodbyegambling.com
 dns.google
 dns64.dns.google
 8888.google
@@ -190,6 +198,7 @@ dns.grqu.de
 cluster-0.gac.edu
 cluster-1.gac.edu
 dns.hafidzradhival.my.id
+adguard.haneulo.com
 dns.hanmey.de
 query.hdns.io
 us-ny-alula.heliumcloud.cc
@@ -202,11 +211,15 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 dns.hostux.net
 dns.hostux.net
+dns.hotta.page
+doh.hottis.de
 hshh.org
 doth.huque.com
 ordns.he.net
 opennic.i2pd.xyz
 dns.ihaveacloud.com
+doh.buzz
+doh.beauty
 buc-m2.illmods.com
 dns.indust.me
 qlf-doh.inria.fr
@@ -229,6 +242,7 @@ dns.kawa.tf
 dns.kernel-error.de
 dns.kescher.at
 dns.k3nny.fr
+doh.killtw.im
 dns.kosan.moe
 xray.krnl.eu
 kswro.web.id
@@ -243,6 +257,7 @@ sby-doh.limotelu.org
 masters-of-cloud.de
 br.servers.legat.ml
 dns.maybe.icu
+dns.meeo.win
 chewbacca.meganerd.nl
 dns.melalandia.tk
 testaghome.meshkov.info
@@ -256,12 +271,14 @@ doh.mullvad.net
 adblock.doh.mullvad.net
 dns.murgi.de
 blackhole.myon.lu
+doh.nala.ru
 dns.ndo.dev
 adguard.ender.fr
 nebula.tru.io
 nebula.tru.io
 doh.luigi.nexific.it
 dns.nextdns.io
+dns.nhtsky.com
 doh.lv
 doh.nic.lv
 adguard.nielsvoorn.nl
@@ -286,12 +303,14 @@ ns2.opennameserver.org
 ns3.opennameserver.org
 ns4.opennameserver.org
 dns.paesa.es
+doh.gcp.pathofgrace.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
 helios.plan9-dns.com
 pope.cnblw.me
 doh.port53.dk
 puredns.org
+doh.pyry.me
 vpsus3.pzhg.me
 at.pzhg.me
 dns.quad9.net
@@ -316,6 +335,7 @@ dns1.ryan-palmer.com
 doh.safesurfer.io
 dns.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
+free.shecan.ir
 do.shimul.me
 dns.lsho.top
 dns.silen.org
@@ -371,6 +391,7 @@ yarp.lefolgoc.net
 wyx.cloud
 your-dns.run
 dns.ypbind.de
+adguard.zachitect.com
 dns.zfsystem.tech
 zougloub.eu
 dns.7vpn.com

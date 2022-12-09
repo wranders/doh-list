@@ -1,4 +1,4 @@
-#75e2f04217c9cfff755bfce4ea361b98def093f93b2ae35238bb6322578691fd
+#0cf217231ff8965abbee7e7306b4779f2462b6fbb242a5b289da4e428eb0f8e3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -162,6 +162,8 @@ uk01.dns4me.net
 us01.dns4me.net
 us02.dns4me.net
 sa01.dns4me.net
+ca01.dns4me.net
+ca02.dns4me.net
 dnsenc.com
 dns.dnswarden.com
 dns.dnswarden.com
@@ -295,6 +297,7 @@ jp2.ooroot.com
 sg2.ooroot.com
 hk2.ooroot.com
 tw2.ooroot.com
+kr1.ooroot.com
 kr2.ooroot.com
 a-bld.sys-adm.in
 bld.sys-adm.in
@@ -336,6 +339,8 @@ doh.safesurfer.io
 dns.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
 free.shecan.ir
+dns.shecan.ir
+pro.shecan.ir
 do.shimul.me
 dns.lsho.top
 dns.silen.org

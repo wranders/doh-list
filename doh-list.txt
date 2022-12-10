@@ -1,4 +1,4 @@
-#0cf217231ff8965abbee7e7306b4779f2462b6fbb242a5b289da4e428eb0f8e3
+#0b54dfe69e020b81b6c4a072fcf6f33ecd78162ce553d2e2434d5d7cfb60bc40
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,9 +39,11 @@
 #	wyx.cloud
 #	your-dns.run
 #	zougloub.eu
+#	adguard-server.cf
 #
 
 dns-nyc.aaflalo.me
+adguard.aa4.co.uk
 abel.waringer-atg.de
 res-acst1.absolight.net
 res-acst2.absolight.net
@@ -113,6 +115,7 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
+adguard.cloudmini.net
 ca.doh.cloudveil.org
 us.doh.cloudveil.org
 jpdns.cola16.app
@@ -237,6 +240,7 @@ jackyes.ovh
 doh.jeroenhd.nl
 adguard.jfchenier.ca
 dns.hahnjo.de
+dns.justinnetworkingsolutions.com
 jp.tiar.app
 jp.tiarap.org
 dns.kamilszczepanski.com
@@ -363,6 +367,7 @@ tx.teradns.org
 sg.teradns.org
 dns.tesem.dog
 cloud.tezoi.com
+dns.theres.one
 doh.tiar.app
 doh.tiarap.org
 timmes.nl
@@ -372,7 +377,9 @@ nat64.tuxis.nl
 dns.twnic.tw
 dns.therifleman.name
 dns.t53.de
+adguard-dns.turker.info
 ueni.dyndns.org
+adguard-ironhide.ultima-thule.ru
 ines.zfn.uni-bremen.de
 galileo.math.unipd.it
 anycast.uncensoreddns.org
@@ -389,6 +396,7 @@ dns.warpnine.de
 dns.wevpn.com
 dns-weblock.wevpn.com
 doh.wewitro.net
+adguard.wirimij.nl
 iris.woozeno.eu
 1.xhr0no.my
 doh.xcom.pro
@@ -397,6 +405,7 @@ wyx.cloud
 your-dns.run
 dns.ypbind.de
 adguard.zachitect.com
+adguard-kartoffel.zernico.de
 dns.zfsystem.tech
 zougloub.eu
 dns.7vpn.com
@@ -404,3 +413,4 @@ doh.crypto.sx
 ibuki.cgnat.net
 doh-2.seby.io
 doh.seby.io
+adguard-server.cf

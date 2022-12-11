@@ -1,4 +1,4 @@
-#0b54dfe69e020b81b6c4a072fcf6f33ecd78162ce553d2e2434d5d7cfb60bc40
+#c9511a3bae9ab20e080bc2329bd4815848e75c9777750329a67d6d2d609d7096
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -70,6 +70,7 @@ dns.aa.net.uk
 nsec.arnor.org
 dns.artikel10.org
 dns.b612.me
+adguardhome.atakorah.com
 dns.infosec.xyz
 awan.ftp.sh
 awan.ftp.sh

@@ -1,4 +1,4 @@
-#c9511a3bae9ab20e080bc2329bd4815848e75c9777750329a67d6d2d609d7096
+#b384b08f5c310d5e3855e0fff2d7e0ef6f78984cee56cf8ceb2d2c07ccb6bf69
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -38,12 +38,10 @@
 #	timmes.nl
 #	wyx.cloud
 #	your-dns.run
-#	zougloub.eu
 #	adguard-server.cf
 #
 
 dns-nyc.aaflalo.me
-adguard.aa4.co.uk
 abel.waringer-atg.de
 res-acst1.absolight.net
 res-acst2.absolight.net
@@ -116,7 +114,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-adguard.cloudmini.net
 ca.doh.cloudveil.org
 us.doh.cloudveil.org
 jpdns.cola16.app
@@ -179,8 +176,6 @@ easyhandshake.com
 edgy-dns.com
 dns.emiliyan.com
 dns.elemental.software
-dns.eddi.net
-dns.zzuhacker.cn
 opennic1.eth-services.de
 rdns.faelix.net
 dns.fancyorg.at
@@ -263,7 +258,6 @@ dns.lightmaster.pw
 sby-doh.limotelu.org
 masters-of-cloud.de
 br.servers.legat.ml
-dns.maybe.icu
 dns.meeo.win
 chewbacca.meganerd.nl
 dns.melalandia.tk
@@ -297,7 +291,6 @@ dns.novg.net
 dns.npe.bz
 nsc.torgues.net
 dns.nullgate.net
-adguard.onlyfriends.info
 jp2.ooroot.com
 sg2.ooroot.com
 hk2.ooroot.com
@@ -408,7 +401,6 @@ dns.ypbind.de
 adguard.zachitect.com
 adguard-kartoffel.zernico.de
 dns.zfsystem.tech
-zougloub.eu
 dns.7vpn.com
 doh.crypto.sx
 ibuki.cgnat.net

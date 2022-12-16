@@ -1,4 +1,4 @@
-#b384b08f5c310d5e3855e0fff2d7e0ef6f78984cee56cf8ceb2d2c07ccb6bf69
+#ba70aa51b35ad98ef2806d54652cba5467d00926db02871ba966c37eec5e6757
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -121,7 +121,6 @@ dns.colorfreedom.org
 doh.xfinity.com
 dns.circl.lu
 dns.comss.one
-dns1.conne.net
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -217,7 +216,6 @@ doh.hottis.de
 hshh.org
 doth.huque.com
 ordns.he.net
-opennic.i2pd.xyz
 dns.ihaveacloud.com
 doh.buzz
 doh.beauty

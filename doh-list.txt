@@ -1,4 +1,4 @@
-#ba70aa51b35ad98ef2806d54652cba5467d00926db02871ba966c37eec5e6757
+#4ad5826510e93cb44fe9cc5cf8205a03b0bc9f3ee81d19fc3bf25d314bd87c19
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -216,17 +216,20 @@ doh.hottis.de
 hshh.org
 doth.huque.com
 ordns.he.net
+ibksturm.synology.me
 dns.ihaveacloud.com
+ihctw.synology.me
 doh.buzz
 doh.beauty
 buc-m2.illmods.com
 dns.indust.me
+doh.infotek.net.id
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 doh.iucc.ac.il
 public.dns.iij.jp
-doh.infotek.net.id
 dns1.in-berlin.de
+dns.invisv.com
 dns.ipv6dns.com
 irre.li
 jabber-germany.de
@@ -316,7 +319,6 @@ dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
 dns11.quad9.net
-doh.qis.io
 doh.360.cn
 ns1.qquack.org
 dns.rafn.is

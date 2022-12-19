@@ -1,4 +1,4 @@
-#4ad5826510e93cb44fe9cc5cf8205a03b0bc9f3ee81d19fc3bf25d314bd87c19
+#86ab8ed690a86a673915fff7b5059177eb81199a407ae4a9ca709165cc06bdfd
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -64,6 +64,7 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
 dns.almir1904.eu
+adguard.ambiya.net
 dns.aa.net.uk
 nsec.arnor.org
 dns.artikel10.org
@@ -143,6 +144,7 @@ dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns.digitalsize.net
 dns.flatuslifir.is
+dns.linkr.ninja
 dnslow.me
 dns.pub
 doh.dns.sb
@@ -170,6 +172,7 @@ dns.dnswarden.com
 dns.dnswarden.com
 dukun.de
 dns.dyn1.de
+dns.d4d.moe
 dnscache.e-utp.net
 easyhandshake.com
 edgy-dns.com
@@ -200,6 +203,7 @@ cluster-1.gac.edu
 dns.hafidzradhival.my.id
 adguard.haneulo.com
 dns.hanmey.de
+dns.ha-dvin.pp.ua
 query.hdns.io
 us-ny-alula.heliumcloud.cc
 himedns.com
@@ -247,6 +251,7 @@ dns.kescher.at
 dns.k3nny.fr
 doh.killtw.im
 dns.kosan.moe
+adguard.k0rap.com
 xray.krnl.eu
 kswro.web.id
 doh.lacontrevoie.fr
@@ -320,6 +325,7 @@ dns9.quad9.net
 dns10.quad9.net
 dns11.quad9.net
 doh.360.cn
+doh.qis.io
 ns1.qquack.org
 dns.rafn.is
 rayneau.fr
@@ -341,9 +347,11 @@ dns.shecan.ir
 pro.shecan.ir
 do.shimul.me
 dns.lsho.top
+adguard.shuting.idv.tw
 dns.silen.org
 dns.slinkyman.net
 clientdns3.softcom.net
+doh.southam.family
 spacedns.org
 dns.startupstack.tech
 dns.stevenz.net
@@ -396,9 +404,11 @@ iris.woozeno.eu
 doh.xcom.pro
 yarp.lefolgoc.net
 wyx.cloud
+dns.youni.win
 your-dns.run
 dns.ypbind.de
 adguard.zachitect.com
+doh.zephyrus.id
 adguard-kartoffel.zernico.de
 dns.zfsystem.tech
 dns.7vpn.com

@@ -1,4 +1,4 @@
-#86ab8ed690a86a673915fff7b5059177eb81199a407ae4a9ca709165cc06bdfd
+#e2710a695e2de922d311dd5900fd47e4d00755579fb7a44d94cf8447ff2e8e77
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -87,6 +87,7 @@ doh-sg.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-de.blahdns.com
+us1.blissdns.net
 dns.blokada.org
 dns.bofh.in
 adblock.borjalopez.eu

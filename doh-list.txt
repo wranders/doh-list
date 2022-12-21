@@ -1,4 +1,4 @@
-#e2710a695e2de922d311dd5900fd47e4d00755579fb7a44d94cf8447ff2e8e77
+#eec8e1f55b4ba9f7caccab9500aa322c03f0ab379cea4257146101898b37f24e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -75,6 +75,7 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
+dns.azsopro.net
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 jp-dns1.bancuh.com
@@ -205,6 +206,7 @@ dns.hafidzradhival.my.id
 adguard.haneulo.com
 dns.hanmey.de
 dns.ha-dvin.pp.ua
+dns.hakutakucn.com
 query.hdns.io
 us-ny-alula.heliumcloud.cc
 himedns.com
@@ -310,6 +312,7 @@ ns1.opennameserver.org
 ns2.opennameserver.org
 ns3.opennameserver.org
 ns4.opennameserver.org
+1a.ns.ozer.im
 dns.paesa.es
 doh.gcp.pathofgrace.com
 kronos.plan9-dns.com
@@ -383,6 +386,7 @@ dns.t53.de
 adguard-dns.turker.info
 ueni.dyndns.org
 adguard-ironhide.ultima-thule.ru
+www.unasw.eu
 ines.zfn.uni-bremen.de
 galileo.math.unipd.it
 anycast.uncensoreddns.org

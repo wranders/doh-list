@@ -1,4 +1,4 @@
-#eec8e1f55b4ba9f7caccab9500aa322c03f0ab379cea4257146101898b37f24e
+#4fe02bad9d98849f4bd34f8dc194e447c4d216c5029b58d1e3f2fefcf23bf1d8
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -66,6 +66,7 @@ dns.alidns.com
 dns.almir1904.eu
 adguard.ambiya.net
 dns.aa.net.uk
+dns.aquilenet.fr
 nsec.arnor.org
 dns.artikel10.org
 dns.b612.me

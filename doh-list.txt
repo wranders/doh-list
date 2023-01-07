@@ -1,4 +1,4 @@
-#4fe02bad9d98849f4bd34f8dc194e447c4d216c5029b58d1e3f2fefcf23bf1d8
+#776cf84d6c2ef4b90f8c1f1512d00f757500d1d0ad8ecff8d7e578342c68708c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -22,7 +22,6 @@
 #	8888.google
 #	himedns.com
 #	hitian.me
-#	hshh.org
 #	doh.buzz
 #	doh.beauty
 #	irre.li
@@ -33,7 +32,6 @@
 #	doh.lv
 #	puredns.org
 #	rayneau.fr
-#	ricko.is
 #	spacedns.org
 #	timmes.nl
 #	wyx.cloud
@@ -80,7 +78,6 @@ dns.azsopro.net
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 jp-dns1.bancuh.com
-dns.bayas.dev
 dns.bebasid.com
 dns.belnet.be
 dns.bitdefender.net
@@ -91,7 +88,6 @@ doh-jp.blahdns.com
 doh-de.blahdns.com
 us1.blissdns.net
 dns.blokada.org
-dns.bofh.in
 adblock.borjalopez.eu
 doh.bortzmeyer.fr
 dns.brahma.world
@@ -118,8 +114,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-ca.doh.cloudveil.org
-us.doh.cloudveil.org
 jpdns.cola16.app
 dns.colorfreedom.org
 doh.xfinity.com
@@ -146,7 +140,6 @@ doh-primary-pool.detoxifypornblocker.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns.digitalsize.net
-dns.flatuslifir.is
 dns.linkr.ninja
 dnslow.me
 dns.pub
@@ -175,7 +168,6 @@ dns.dnswarden.com
 dns.dnswarden.com
 dukun.de
 dns.dyn1.de
-dns.d4d.moe
 dnscache.e-utp.net
 easyhandshake.com
 edgy-dns.com
@@ -221,7 +213,6 @@ dns.hostux.net
 dns.hostux.net
 dns.hotta.page
 doh.hottis.de
-hshh.org
 doth.huque.com
 ordns.he.net
 ibksturm.synology.me
@@ -229,7 +220,6 @@ dns.ihaveacloud.com
 ihctw.synology.me
 doh.buzz
 doh.beauty
-buc-m2.illmods.com
 dns.indust.me
 doh.infotek.net.id
 qlf-doh.inria.fr
@@ -245,7 +235,6 @@ jackyes.ovh
 doh.jeroenhd.nl
 adguard.jfchenier.ca
 dns.hahnjo.de
-dns.justinnetworkingsolutions.com
 jp.tiar.app
 jp.tiarap.org
 dns.kamilszczepanski.com
@@ -298,7 +287,6 @@ dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
 dns.novg.net
-dns.npe.bz
 nsc.torgues.net
 dns.nullgate.net
 jp2.ooroot.com
@@ -339,7 +327,6 @@ kaitain.restena.lu
 basic.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
-ricko.is
 dns.rin.sh
 resolver.r0cket.net
 dns.rubyfish.cn
@@ -372,7 +359,6 @@ de.teradns.org
 ny.teradns.org
 tx.teradns.org
 sg.teradns.org
-dns.tesem.dog
 cloud.tezoi.com
 dns.theres.one
 doh.tiar.app
@@ -387,7 +373,6 @@ dns.t53.de
 adguard-dns.turker.info
 ueni.dyndns.org
 adguard-ironhide.ultima-thule.ru
-www.unasw.eu
 ines.zfn.uni-bremen.de
 galileo.math.unipd.it
 anycast.uncensoreddns.org
@@ -401,8 +386,6 @@ doh.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.warpnine.de
-dns.wevpn.com
-dns-weblock.wevpn.com
 doh.wewitro.net
 adguard.wirimij.nl
 iris.woozeno.eu
@@ -414,7 +397,6 @@ dns.youni.win
 your-dns.run
 dns.ypbind.de
 adguard.zachitect.com
-doh.zephyrus.id
 adguard-kartoffel.zernico.de
 dns.zfsystem.tech
 dns.7vpn.com

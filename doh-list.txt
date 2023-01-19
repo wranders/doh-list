@@ -1,4 +1,4 @@
-#776cf84d6c2ef4b90f8c1f1512d00f757500d1d0ad8ecff8d7e578342c68708c
+#555fbf4c7dc22921929c75d466c8a81404e61f8838ac8596c587a9bbe429b9ef
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -149,7 +149,8 @@ doh.dnscrypt.uk
 v.dnscrypt.uk
 dns-doh.dnsforfamily.com
 dnsforge.de
-secure-dns.dns-ga.de
+dns2.dns-ga.de
+dns3.dns-ga.de
 dns.dnshome.de
 doh.li
 nz01.dns4me.net
@@ -241,7 +242,6 @@ dns.kamilszczepanski.com
 dns.kawa.tf
 dns.kernel-error.de
 dns.kescher.at
-dns.k3nny.fr
 doh.killtw.im
 dns.kosan.moe
 adguard.k0rap.com
@@ -255,13 +255,14 @@ doh.libredns.gr
 doh.libredns.gr
 dns.lightmaster.pw
 sby-doh.limotelu.org
+lindung.pp.ua
+lindung.pp.ua
 masters-of-cloud.de
 br.servers.legat.ml
 dns.meeo.win
 chewbacca.meganerd.nl
 dns.melalandia.tk
 testaghome.meshkov.info
-doh.micronets.in
 dns.truong.fi
 dnstls.mobik.com
 dns.molinero.dev
@@ -274,8 +275,8 @@ blackhole.myon.lu
 doh.nala.ru
 dns.ndo.dev
 adguard.ender.fr
-nebula.tru.io
-nebula.tru.io
+nebula.sly.io
+nebula.sly.io
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -366,7 +367,6 @@ doh.tiarap.org
 timmes.nl
 dns.tls-data.de
 doh.totoro.pub
-nat64.tuxis.nl
 dns.twnic.tw
 dns.therifleman.name
 dns.t53.de
@@ -389,7 +389,6 @@ dns.warpnine.de
 doh.wewitro.net
 adguard.wirimij.nl
 iris.woozeno.eu
-1.xhr0no.my
 doh.xcom.pro
 yarp.lefolgoc.net
 wyx.cloud

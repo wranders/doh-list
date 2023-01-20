@@ -1,4 +1,4 @@
-#555fbf4c7dc22921929c75d466c8a81404e61f8838ac8596c587a9bbe429b9ef
+#ea20d14979dc68310f16c367e548381c59e416ce2c902404dbb320432a99a71a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -69,6 +69,7 @@ nsec.arnor.org
 dns.artikel10.org
 dns.b612.me
 adguardhome.atakorah.com
+secure.avastdns.com
 dns.infosec.xyz
 awan.ftp.sh
 awan.ftp.sh
@@ -330,6 +331,7 @@ sky.rethinkdns.com
 doh.rezhajul.io
 dns.rin.sh
 resolver.r0cket.net
+dns.rotunneling.net
 dns.rubyfish.cn
 dns1.ryan-palmer.com
 doh.safesurfer.io

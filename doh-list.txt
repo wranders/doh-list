@@ -1,4 +1,4 @@
-#5bae4870b9de42c71d6f39bcf578e8e7d527afd811903e65a67f841dbbfe8a80
+#fb9f66cfc9dd1026422d2c907102d5a8fd60fe8d94ff6d35bd95739ba0718531
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -220,7 +220,6 @@ adblock.borjalopez.eu
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
 dns.brahma.world
-brb.pp.ua
 dns.brian-hong.tech
 dns.brightesttv.com
 home3.brosena.xyz
@@ -297,13 +296,11 @@ ns.00dani.me
 adg.dankatapich.eu.org
 darkness.is.my.waifu.cz
 firewall.darknet.bg
-dns.darktraffic.cloud
 mail.data.haus
 doh.datacore.ch
 doh.datahata.by
 pihole.datamatter.co.za
 dns.davidruhmann.com
-dns.david888.com
 dns.decloudus.com
 dns.deekshith.in
 adguard.dekonix.ru
@@ -568,7 +565,6 @@ krtekvpn.duckdns.org
 kswro.web.id
 safe.kswro.web.id
 doh.lacontrevoie.fr
-ads-eu.landgame.net
 dns.lars-lehmann.net
 lastentarvike.fi
 adguard.laurenlaufman.com
@@ -603,7 +599,6 @@ adguard.meddy94.de
 dns.meeo.win
 chewbacca.meganerd.nl
 jp3.meidouling.com
-dns.melalandia.tk
 testaghome.meshkov.info
 dns.mgiptvpro.ml
 securenet.mhsystems.net
@@ -666,7 +661,6 @@ pi1.node15.com
 sink.nolo.ltd
 nongdanthanky.com
 dns.norgan.net
-home.norvrandt.co.uk
 notecore.me
 dns.novali.date
 dns.novg.net
@@ -695,7 +689,6 @@ bld.sys-adm.in
 ag.apollohct.com
 ns1.opennameserver.org
 ns2.opennameserver.org
-ns3.opennameserver.org
 ns4.opennameserver.org
 dns.opnsource.com.au
 osefcorp.duckdns.org
@@ -714,7 +707,6 @@ doh.port53.dk
 dns.porteii.com
 dns.privilab.net
 project-evoex.de
-dns.psociety.de
 punono.duckdns.org
 puredns.org
 doh.pyry.me
@@ -804,7 +796,6 @@ adblock.technovus.in
 agp01.tek411.com
 dns.telekom.de
 vpn-tw.teng.sh
-uk.teradns.org
 de.teradns.org
 ny.teradns.org
 tx.teradns.org
@@ -813,7 +804,6 @@ cloud.tezoi.com
 thecremeens.com
 dns.theres.one
 dns.therifleman.name
-dns.thiagoalmeida.ca
 doh.tiar.app
 doh.tiarap.org
 timmes.nl

@@ -1,4 +1,4 @@
-#fb9f66cfc9dd1026422d2c907102d5a8fd60fe8d94ff6d35bd95739ba0718531
+#93e4389bcd01c479d3c55ada5120d970be95bb3f477e3a17f2d761fc745758cc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -58,16 +58,13 @@
 #	jjm.asia
 #	jkdns.me
 #	karimdns.com
-#	kcolspacrm.ir
 #	kennethhuang.com
-#	keymiagar.ir
 #	korzhov.dev
 #	lastentarvike.fi
 #	leecurrylawfirm.com
 #	masters-of-cloud.de
 #	mrcapslock.ir
 #	msr177.com
-#	myadguardhome.com
 #	myhottiemama.de
 #	doh.lv
 #	nongdanthanky.com
@@ -112,7 +109,6 @@ aattwwss.duckdns.org
 adguard.aavesh.tech
 dns.aaytorr.com
 abel.waringer-atg.de
-vps.abgnetwork.es
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
@@ -136,7 +132,6 @@ dns1.adrianion.eu
 dns2.afastserver.com
 shield.afixer.app
 blackhole.aflr.io
-www.agafon.space
 blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com
@@ -216,7 +211,6 @@ bluemood.me
 dns.bluestarnc.com
 dns.bobstrecansky.com
 doh.boje8.me
-adblock.borjalopez.eu
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
 dns.brahma.world
@@ -225,7 +219,6 @@ dns.brightesttv.com
 home3.brosena.xyz
 home.bruckmoser.it
 doh.bt.com
-block.buck.ovh
 doh1.b-cdn.net
 dns.bw.i81.ru
 www.c-dns.com
@@ -504,7 +497,6 @@ doh.iucc.ac.il
 public.dns.iij.jp
 intertop.link
 dns.invisv.com
-ad.ipsecloud.ru
 dns.ipv6dns.com
 irre.li
 dns1.irumatech.com
@@ -517,7 +509,6 @@ jabber-germany.de
 jabber-server.de
 jackyes.ovh
 tj.jamesxue.xyz
-xyz2.jammerxd.dev
 doh.jeroenhd.nl
 adguard.jfchenier.ca
 dns.jimirobaer.be
@@ -541,14 +532,12 @@ adguard1.kapuyhome.hu
 karimdns.com
 dns.karl.one
 dns.kawa.tf
-kcolspacrm.ir
 keithchung.hopto.org
 kennethhuang.com
 adguard.kenzohost.de
 dns.kernel-error.de
 kudns.kescher.at
 dns.kescher.at
-keymiagar.ir
 doh.killtw.im
 adguard.avdkishore.dev
 adguard.kngnet.de
@@ -575,8 +564,6 @@ adguard.lege.despagne.net
 externalmobiel.lekdijk.online
 doh.libredns.gr
 doh.libredns.gr
-dns.lightmaster.pw
-dns.lightmaster.space
 sby-doh.limotelu.org
 lindung.pp.ua
 lindung.pp.ua
@@ -626,7 +613,6 @@ dns.murgi.de
 dns.muxinghe.cn
 www.muxyuji.ru
 lf-ns-001.my.to
-myadguardhome.com
 echoe1yidzu4ioo5.myfritz.net
 myhottiemama.de
 blackhole.myon.lu
@@ -745,7 +731,6 @@ dns.ronc.ru
 dns.rotunneling.net
 adguard-dns.rouga.ch
 dns.rubyfish.cn
-dns1.ryan-palmer.com
 adguard.ryanleek.com
 doh.safesurfer.io
 sagutxustech.com
@@ -830,7 +815,6 @@ anycast.censurfridns.dk
 unicast.uncensoreddns.org
 unicast.censurfridns.dk
 galileo.math.unipd.it
-doh.ubd.ac.id
 ines.zfn.uni-bremen.de
 unixfox.duckdns.org
 resolver.unstoppable.io

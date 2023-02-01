@@ -1,4 +1,4 @@
-#18f9a0a600c5a9c8d4921e3124bf075c51abceee2f4b3b6f5d65cb9e214508ab
+#80973ddee2fd72dc4e00120910e578a277d7e6d3321c2821fcf5b30003e84761
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -351,7 +351,7 @@ dns.dnswarden.com
 dns.dnswarden.com
 beacon.dog
 doh.li
-admin.dotls.org
+ns1.dotls.org
 douglaster.com
 dr-adguard.de
 dns.druta.me
@@ -711,6 +711,7 @@ ant.dns.qwer.pw
 dog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
+frog.dns.qwer.pw
 resolver.r0cket.net
 r1bnc.com
 adguard.rabmoor.cz

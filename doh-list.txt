@@ -1,4 +1,4 @@
-#80973ddee2fd72dc4e00120910e578a277d7e6d3321c2821fcf5b30003e84761
+#ce49ced774b4da232c1ace7f5c646b04611916d23339351182c60646932ec4c8
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -613,6 +613,7 @@ dns.murgi.de
 dns.muxinghe.cn
 www.muxyuji.ru
 lf-ns-001.my.to
+freedom.mydns.network
 echoe1yidzu4ioo5.myfritz.net
 myhottiemama.de
 blackhole.myon.lu

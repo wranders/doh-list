@@ -1,4 +1,4 @@
-#ce49ced774b4da232c1ace7f5c646b04611916d23339351182c60646932ec4c8
+#9973c74439742ecfd9b03e60080b98c25d2393f32edc9daf8a53271603d1a4a8
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -23,6 +23,7 @@
 #	cloudseriousshit.com
 #	cossxiu.ga
 #	dlcea.com
+#	dns0.eu
 #	doh.sb
 #	dnsenc.com
 #	dnsforge.de
@@ -81,6 +82,7 @@
 #	r1bnc.com
 #	rayneau.fr
 #	rjmva.com
+#	safeservedns.com
 #	sagutxustech.com
 #	shalenkov.dev
 #	sitdns.com
@@ -312,6 +314,10 @@ a11.diplo.es
 doh.disconnect.app
 dlcea.com
 dns.dmr.pw
+open.dns0.eu
+dns0.eu
+zero.dns0.eu
+kids.dns0.eu
 dns-doh.dnsforfamily.com
 dns2.dns-ga.de
 dns3.dns-ga.de
@@ -595,6 +601,7 @@ dns.mirandil.ru
 adguard.mjanson.de
 dnstls.mobik.com
 ps1.modr.club
+doh.moedns.dev
 adguard.mokocup.cf
 dns.molinero.dev
 zrh1-ns01.monzoon.net
@@ -725,6 +732,7 @@ kaitain.restena.lu
 basic.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
+resolver.rferee.dev
 adguard.richardapplegate.io
 dns.rin.sh
 rjmva.com
@@ -734,6 +742,7 @@ dns.rotunneling.net
 adguard-dns.rouga.ch
 dns.rubyfish.cn
 adguard.ryanleek.com
+safeservedns.com
 doh.safesurfer.io
 sagutxustech.com
 o.rsaikat.com

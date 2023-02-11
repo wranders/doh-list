@@ -1,4 +1,4 @@
-#96455c25e75eaf8656825efe1534e275d28bf7612a47dc8441ca3e98f4635a77
+#a0ebf6daa4f4dcb4d23c795786c95beaa0c359041800baf480da7f1582745dd1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -17,7 +17,6 @@
 #	bluemood.me
 #	chaos-system.de
 #	cintra.ml
-#	cirruscloud.it
 #	cloudflare-dns.com
 #	cloudseriousshit.com
 #	cossxiu.ga
@@ -225,11 +224,9 @@ cintra.ml
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
-cirruscloud.it
 doh.opendns.com
 doh.familyshield.opendns.com
 dns.clanless.ovh
-adguard.clawsucht.nrw
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
@@ -240,7 +237,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-dns.cloudlinz.de
 adguard.cloudmini.net
 dns-secondary.cloudnx.cloud
 cloudseriousshit.com
@@ -362,7 +358,6 @@ pdns.faelix.net
 dnsvps.familiamv.ml
 dns.familiamichels.com.br
 dns.fancyorg.at
-ociamd1.fatucloud.gosprout.org
 dns.faze.dev
 felipefalcao.me
 ag.ff0x.ca
@@ -382,7 +377,6 @@ dns.frank-ruan.com
 dns.frankslabs.org
 adguard.frece.de
 pcornet.freeboxos.fr
-doh.freegod.ml
 dns.freequensi.com
 dns.froth.zone
 fuchur.pentament.de
@@ -395,7 +389,6 @@ www.ggrbb.xyz
 dns.ghost.pm
 dns.ginovs.nl
 dns.gnb09.id
-doh-primary-pool.goodbyegambling.com
 dns.google
 dns64.dns.google
 8888.google
@@ -427,7 +420,6 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 home.dlinkddns.com
 home27.duckdns.org
-hooliganska.duckdns.org
 doh-dns.hoover.eu.org
 dns.hostux.net
 dns.hostux.net
@@ -520,7 +512,6 @@ sby-doh.limotelu.org
 lindung.pp.ua
 lindung.pp.ua
 adgaurd.lingmont.net
-dns.lrdnet.cf
 adguard.lspcr.space
 doh.lujiacai.top
 orau.lz0724.com
@@ -561,7 +552,6 @@ blockerads.multimediaconcept.fr
 dns.murgi.de
 dns.muxinghe.cn
 www.muxyuji.ru
-lf-ns-001.my.to
 freedom.mydns.network
 echoe1yidzu4ioo5.myfritz.net
 myhottiemama.de
@@ -584,7 +574,6 @@ levislondon-proxy.nerdpol.ovh
 dns.neubsi.at
 doh.luigi.nexific.it
 dns.nextdns.io
-dns-primary.giaan.org
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
@@ -622,8 +611,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 a-bld.sys-adm.in
 bld.sys-adm.in
-ns2.opennameserver.org
-ns4.opennameserver.org
 dns.opnsource.com.au
 osefcorp.duckdns.org
 1a.ns.ozer.im
@@ -632,8 +619,6 @@ dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 adguard.piekacz.pl
 pitnetdns.ga
-pluton.plan9-dns.com
-helios.plan9-dns.com
 thanos.pleumkungz.com
 pope.cnblw.me
 doh.port53.dk
@@ -724,7 +709,6 @@ dns1.tardishost.ru
 dns.techcpu.net
 agp01.tek411.com
 dns.telekom.de
-vpn-tw.teng.sh
 de.teradns.org
 ny.teradns.org
 tx.teradns.org

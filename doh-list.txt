@@ -1,4 +1,4 @@
-#a0ebf6daa4f4dcb4d23c795786c95beaa0c359041800baf480da7f1582745dd1
+#1bdfea05246ac828b14fab9d3e8547c3974dcd0d0de33fd0dc004b48999a5d53
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -26,7 +26,6 @@
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
-#	doh.li
 #	douglaster.com
 #	dr-adguard.de
 #	dukun.de
@@ -39,7 +38,6 @@
 #	dns.google
 #	8888.google
 #	groupy.ga
-#	gusald.com
 #	gztech.me
 #	hitian.me
 #	doh.buzz
@@ -48,18 +46,15 @@
 #	irre.li
 #	jackyes.ovh
 #	jjm.asia
-#	jkdns.me
 #	karimdns.com
 #	kennethhuang.com
 #	korzhov.dev
 #	lastentarvike.fi
 #	leecurrylawfirm.com
 #	masters-of-cloud.de
-#	mrcapslock.ir
 #	msr177.com
 #	myhottiemama.de
 #	doh.lv
-#	nongdanthanky.com
 #	notecore.me
 #	dns8.org
 #	n0.eu
@@ -92,7 +87,6 @@
 #	ychen.cf
 #	ychen.ga
 #	wyx.cloud
-#	your-dns.run
 #	yovbak.com
 #
 
@@ -152,13 +146,11 @@ dns.applewebkit.dev
 armorrush.eu.org
 dns2.art-nas.pp.ua
 dns.artikel10.org
-dns.asf1992labs.tk
 dns.b612.me
 dohtrial.att.net
 atlantic.dyn1.de
 dns.audet.cloud
 secure.avastdns.com
-dns.infosec.xyz
 dns.keweon.center
 awan.ftp.sh
 awan.ftp.sh
@@ -201,8 +193,6 @@ cloudns.bosco.ovh
 dns.brahma.world
 dns.brian-hong.tech
 dns.brightesttv.com
-home3.brosena.xyz
-home.bruckmoser.it
 doh.bt.com
 doh1.b-cdn.net
 dns.bw.i81.ru
@@ -241,7 +231,6 @@ adguard.cloudmini.net
 dns-secondary.cloudnx.cloud
 cloudseriousshit.com
 jpdns.cola16.app
-dns.colorfreedom.org
 doh.xfinity.com
 dns.comeonjames.club
 dns.circl.lu
@@ -276,7 +265,6 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.dessoi.cloud
 doh-primary-pool.detoxifypornblocker.com
-deus-server.duckdns.org
 mainframe.dewed.de
 dgca.myds.me
 dns.dgea.fr
@@ -324,7 +312,6 @@ bilidon.dnsuser.info
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
-doh.li
 ns1.dotls.org
 douglaster.com
 dr-adguard.de
@@ -346,7 +333,6 @@ dns.elemental.software
 dns.ellichua.com
 www.elshad-adgh-dns.ru
 dns.emiliyan.com
-hk.erw.cc
 dns.esegece.com
 dns-family.esegece.com
 opennic1.eth-services.de
@@ -373,11 +359,9 @@ dns.flymc.cc
 dns.mipauns.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
-dns.frank-ruan.com
 dns.frankslabs.org
 adguard.frece.de
 pcornet.freeboxos.fr
-dns.freequensi.com
 dns.froth.zone
 fuchur.pentament.de
 doh.funtopia.tv
@@ -396,8 +380,6 @@ groupy.ga
 dns.grqu.de
 doh2.gslb2.xfinity.com
 blackhole.gugainfo.com.br
-gunag.duckdns.org
-gusald.com
 gustamadh.dynv6.net
 cluster-0.gac.edu
 cluster-1.gac.edu
@@ -450,7 +432,6 @@ dns.invisv.com
 dns.ipv6dns.com
 irre.li
 dns1.irumatech.com
-dns.isteal.info
 dns.iamninja.ru
 dns.itdept.pro
 kr.pigs.eu.org
@@ -461,7 +442,6 @@ adguard.jfchenier.ca
 dns.jimirobaer.be
 srv5.jiripocta.cz
 jjm.asia
-jkdns.me
 adg.jnorton.us
 dns.joaofidelix.com.br
 dns.hahnjo.de
@@ -472,7 +452,6 @@ adguard.jpjb.net
 adguard1.jsanagustin.net
 dns.jucker.engineering
 jurre-home.duckdns.org
-adguard.k0rap.com
 dns.kamilszczepanski.com
 jp.kano.sh
 adguard1.kapuyhome.hu
@@ -492,7 +471,6 @@ adguard.korks.tk
 korzhov.dev
 dart.kpsn.org
 dns.kr.chavy.dev
-adns.kreonet.net
 xray.krnl.eu
 krtekvpn.duckdns.org
 kswro.web.id
@@ -506,8 +484,6 @@ adguard1.leadmon.net
 leecurrylawfirm.com
 adguard.lege.despagne.net
 externalmobiel.lekdijk.online
-doh.libredns.gr
-doh.libredns.gr
 sby-doh.limotelu.org
 lindung.pp.ua
 lindung.pp.ua
@@ -519,7 +495,6 @@ maddino.dedyn.io
 dnsserver.mailchan.eu
 dns.malwarelul.download
 dns.maolaohei.xyz
-dns.marcbond.uk
 masters-of-cloud.de
 br.servers.legat.ml
 doh.mcasviper.de
@@ -543,7 +518,6 @@ zrh1-ns01.monzoon.net
 dns.moog.sh
 dns.moonssif.com
 www.morbitzer.de
-mrcapslock.ir
 msr177.com
 dns.msxnet.ru
 doh.mullvad.net
@@ -560,9 +534,7 @@ vm.mytm.cc
 area51.mywire.org
 dns.mzrme.cn
 n-wan.dynv6.net
-dns.n23.io
 dns1.n3120.wang
-doh.nala.ru
 dns.nas-server.ru
 nas1403.duckdns.org
 dns.ndo.dev
@@ -584,7 +556,6 @@ dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
-nongdanthanky.com
 dns.norgan.net
 notecore.me
 dns.novali.date
@@ -621,7 +592,6 @@ adguard.piekacz.pl
 pitnetdns.ga
 thanos.pleumkungz.com
 pope.cnblw.me
-doh.port53.dk
 dns.porteii.com
 dns.privilab.net
 project-evoex.de
@@ -661,7 +631,6 @@ dns.rodovatech.com
 dns.ronc.ru
 dns.rotunneling.net
 adguard-dns.rouga.ch
-dns.rubyfish.cn
 safeservedns.com
 doh.safesurfer.io
 sagutxustech.com
@@ -693,7 +662,6 @@ doh.southam.family
 spacedns.org
 dns.spil.co.id
 dns.startupstack.tech
-dns.stevenz.net
 muli.stusta.mhn.de
 esel.stusta.mhn.de
 dns.stvsk.ml
@@ -727,7 +695,6 @@ toaster.lol
 doh.totoro.pub
 dns.apigw.online
 tuandns.duckdns.org
-dns.tuankhaiit.com
 tungdnsne.duckdns.org
 dns.twnic.tw
 dns-east.tylerwahl.com
@@ -744,10 +711,8 @@ unixfox.duckdns.org
 resolver.unstoppable.io
 adfree.usableprivacy.net
 tor.vasi.li
-doh.velyn.my.id
 securedns.vendorvista.xyz
 dns.vinnyp.xyz
-dns.vinokurov.tk
 dns.vmath.my.id
 awsdns.vpnrf.com
 vpservice.cf
@@ -770,15 +735,11 @@ ychen.cf
 ychen.ga
 wyx.cloud
 dns.youni.win
-your-dns.run
 adguard.youroute.ru
 yovbak.com
-adguard.zachitect.com
 dns.zfsystem.tech
 zxcvb.pp.ua
 dns.0ooo.icu
-1.0rz.space
-2.0rz.space
 1.11i.eu
 2.11i.eu
 3.11i.eu
@@ -788,7 +749,6 @@ dhold.2025up.xyz
 t2c.240130034.xyz
 doh003.280blocker.net
 dns.2poi.com
-dns.2t9.de
 n.3363.net
 dns.lunet.design
 dns.52306.org

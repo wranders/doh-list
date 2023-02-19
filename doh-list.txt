@@ -1,4 +1,4 @@
-#1bdfea05246ac828b14fab9d3e8547c3974dcd0d0de33fd0dc004b48999a5d53
+#2d1813918db2ca8eea4122378220f0577cf41845c2b9ca6be6c1ccd19b176fb8
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -27,7 +27,6 @@
 #	dnslow.me
 #	dns.pub
 #	douglaster.com
-#	dr-adguard.de
 #	dukun.de
 #	easyhandshake.com
 #	edgy-dns.com
@@ -45,7 +44,6 @@
 #	intertop.link
 #	irre.li
 #	jackyes.ovh
-#	jjm.asia
 #	karimdns.com
 #	kennethhuang.com
 #	korzhov.dev
@@ -53,7 +51,6 @@
 #	leecurrylawfirm.com
 #	masters-of-cloud.de
 #	msr177.com
-#	myhottiemama.de
 #	doh.lv
 #	notecore.me
 #	dns8.org
@@ -86,7 +83,6 @@
 #	xenergy.cc
 #	ychen.cf
 #	ychen.ga
-#	wyx.cloud
 #	yovbak.com
 #
 
@@ -101,7 +97,6 @@ resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
 block.abstergo.it
-dns.adblocker.eu.org
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -227,7 +222,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-adguard.cloudmini.net
 dns-secondary.cloudnx.cloud
 cloudseriousshit.com
 jpdns.cola16.app
@@ -273,7 +267,6 @@ dns.digitale-gesellschaft.ch
 v2.dionysus.beauty
 a11.diplo.es
 doh.disconnect.app
-dns.dmr.pw
 open.dns0.eu
 dns0.eu
 zero.dns0.eu
@@ -308,13 +301,11 @@ dnsforge.de
 dns.dnshome.de
 dnslow.me
 dns.pub
-bilidon.dnsuser.info
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
 ns1.dotls.org
 douglaster.com
-dr-adguard.de
 dns.druta.me
 doh.dscloud.me
 dukun.de
@@ -325,7 +316,6 @@ easyhandshake.com
 edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
-dns.ekipapi.com
 hole.elbschloss.xyz
 addns.jpr.space
 dns.unerror.network
@@ -410,7 +400,6 @@ dns1.luan.contact
 doth.huque.com
 ordns.he.net
 opennic.i2pd.xyz
-ibksturm.synology.me
 muc-ns01.ibytex.systems
 adguard.ihatemy.live
 dns.ihaveacloud.com
@@ -439,9 +428,7 @@ jackyes.ovh
 tj.jamesxue.xyz
 doh.jeroenhd.nl
 adguard.jfchenier.ca
-dns.jimirobaer.be
 srv5.jiripocta.cz
-jjm.asia
 adg.jnorton.us
 dns.joaofidelix.com.br
 dns.hahnjo.de
@@ -462,7 +449,6 @@ keithchung.hopto.org
 kennethhuang.com
 adguard.kenzohost.de
 dns.kernel-error.de
-kudns.kescher.at
 dns.kescher.at
 doh.killtw.im
 adguard.avdkishore.dev
@@ -498,11 +484,9 @@ dns.maolaohei.xyz
 masters-of-cloud.de
 br.servers.legat.ml
 doh.mcasviper.de
-dns.me7878.com
 adguard.meddy94.de
 dns.meeo.win
 chewbacca.meganerd.nl
-jp3.meidouling.com
 testaghome.meshkov.info
 dns.mgiptvpro.ml
 securenet.mhsystems.net
@@ -528,7 +512,6 @@ dns.muxinghe.cn
 www.muxyuji.ru
 freedom.mydns.network
 echoe1yidzu4ioo5.myfritz.net
-myhottiemama.de
 blackhole.myon.lu
 vm.mytm.cc
 area51.mywire.org
@@ -556,7 +539,6 @@ dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
-dns.norgan.net
 notecore.me
 dns.novali.date
 dns.novg.net
@@ -701,10 +683,6 @@ dns-east.tylerwahl.com
 dns.twtrs.com
 typaza.com
 ueni.dyndns.org
-anycast.uncensoreddns.org
-anycast.censurfridns.dk
-unicast.uncensoreddns.org
-unicast.censurfridns.dk
 galileo.math.unipd.it
 ines.zfn.uni-bremen.de
 unixfox.duckdns.org
@@ -733,7 +711,6 @@ yarp.lefolgoc.net
 lion.yazilimatolye.com
 ychen.cf
 ychen.ga
-wyx.cloud
 dns.youni.win
 adguard.youroute.ru
 yovbak.com
@@ -750,7 +727,6 @@ t2c.240130034.xyz
 doh003.280blocker.net
 dns.2poi.com
 n.3363.net
-dns.lunet.design
 dns.52306.org
 dns.5ososea.com
 family.5ososea.com

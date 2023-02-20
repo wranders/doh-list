@@ -1,4 +1,4 @@
-#2d1813918db2ca8eea4122378220f0577cf41845c2b9ca6be6c1ccd19b176fb8
+#7035d4eec4d29a6fd22f1994e89c6c63b3e944d7e3238fbf4d2e0279b4af0d30
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -33,7 +33,6 @@
 #	felipefalcao.me
 #	findmethedns.info
 #	gclouddns.com
-#	ggdns.club
 #	dns.google
 #	8888.google
 #	groupy.ga
@@ -69,7 +68,6 @@
 #	sagutxustech.com
 #	shalenkov.dev
 #	sitdns.com
-#	spacedns.org
 #	surt.ml
 #	timmes.nl
 #	tk31z.com
@@ -197,7 +195,6 @@ dns2.cbio.top
 doh.ccb-net.it
 cdzopi.duckdns.org
 dns.cearhome.top
-oracle.cepheus0.com
 chaos-system.de
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -351,14 +348,12 @@ gateway.fomichev.cloud
 doh.applied-privacy.net
 dns.frankslabs.org
 adguard.frece.de
-pcornet.freeboxos.fr
 dns.froth.zone
 fuchur.pentament.de
 doh.funtopia.tv
 doh.futa.gg
 adguard.gbrossi.com.br
 gclouddns.com
-ggdns.club
 www.ggrbb.xyz
 dns.ghost.pm
 dns.ginovs.nl
@@ -452,7 +447,6 @@ dns.kernel-error.de
 dns.kescher.at
 doh.killtw.im
 adguard.avdkishore.dev
-adguard.kngnet.de
 adguard.korks.tk
 korzhov.dev
 dart.kpsn.org
@@ -632,8 +626,6 @@ dns.lsho.top
 adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
-dot.sillundil.ovh
-dns.simulhost.com
 dns.siry.de
 sitdns.com
 dns.skrep.eu
@@ -641,7 +633,6 @@ dns.slinkyman.net
 adg.geili.me
 clientdns3.softcom.net
 doh.southam.family
-spacedns.org
 dns.spil.co.id
 dns.startupstack.tech
 muli.stusta.mhn.de
@@ -680,7 +671,6 @@ tuandns.duckdns.org
 tungdnsne.duckdns.org
 dns.twnic.tw
 dns-east.tylerwahl.com
-dns.twtrs.com
 typaza.com
 ueni.dyndns.org
 galileo.math.unipd.it
@@ -700,7 +690,6 @@ wantaquddin.com
 dns.warpnine.de
 doh.wewitro.net
 whax.eu.org
-adguard.wirimij.nl
 iris.woozeno.eu
 x-o-x.duckdns.org
 ads.x88.in
@@ -712,7 +701,6 @@ lion.yazilimatolye.com
 ychen.cf
 ychen.ga
 dns.youni.win
-adguard.youroute.ru
 yovbak.com
 dns.zfsystem.tech
 zxcvb.pp.ua

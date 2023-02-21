@@ -1,4 +1,4 @@
-#7035d4eec4d29a6fd22f1994e89c6c63b3e944d7e3238fbf4d2e0279b4af0d30
+#af5e2017c0896b0256ef85e5f1d6ed6c7252a96a238e86f1e0bf9fcb479e90f7
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -165,7 +165,6 @@ dns.ilker.se
 dns.benpro.fr
 adguard.betamax65.de
 mydns.bielperes.me
-dns.bin.st
 goga7777777.bissnes.org
 ns3.bit-trail.nl
 dns.bitdefender.net
@@ -471,7 +470,6 @@ adgaurd.lingmont.net
 adguard.lspcr.space
 doh.lujiacai.top
 orau.lz0724.com
-maddino.dedyn.io
 dnsserver.mailchan.eu
 dns.malwarelul.download
 dns.maolaohei.xyz
@@ -611,7 +609,6 @@ safeservedns.com
 doh.safesurfer.io
 sagutxustech.com
 o.rsaikat.com
-tuic.salome.my.id
 sbdns.co.in
 dns.sellan.fr
 pates.services.sfr.fr.casepp.sfr.fr
@@ -677,7 +674,6 @@ galileo.math.unipd.it
 ines.zfn.uni-bremen.de
 unixfox.duckdns.org
 resolver.unstoppable.io
-adfree.usableprivacy.net
 tor.vasi.li
 securedns.vendorvista.xyz
 dns.vinnyp.xyz
@@ -710,7 +706,6 @@ dns.0ooo.icu
 3.11i.eu
 ns1.1899.com.mx
 ns2.1899.com.mx
-dhold.2025up.xyz
 t2c.240130034.xyz
 doh003.280blocker.net
 dns.2poi.com

@@ -1,4 +1,4 @@
-#af5e2017c0896b0256ef85e5f1d6ed6c7252a96a238e86f1e0bf9fcb479e90f7
+#c7f8b0f3f779f8dd4367eafdea7dd9b894d1a534d299e301e8724fe8b8f642c0
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -58,7 +58,6 @@
 #	ns3.cx
 #	ns3.link
 #	o1.lt
-#	pitnetdns.ga
 #	project-evoex.de
 #	puredns.org
 #	r1bnc.com
@@ -109,7 +108,6 @@ dns.adrianlam.com
 dns1.adrianion.eu
 dns2.afastserver.com
 shield.afixer.app
-blackhole.aflr.io
 blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com
@@ -163,7 +161,6 @@ adguard.beliefanx.cn
 dns.belnet.be
 dns.ilker.se
 dns.benpro.fr
-adguard.betamax65.de
 mydns.bielperes.me
 goga7777777.bissnes.org
 ns3.bit-trail.nl
@@ -517,7 +514,6 @@ adguard.ender.fr
 nebula.sly.io
 nebula.sly.io
 dns.norvig.dk
-levislondon-proxy.nerdpol.ovh
 dns.neubsi.at
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -563,7 +559,6 @@ dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 adguard.piekacz.pl
-pitnetdns.ga
 thanos.pleumkungz.com
 pope.cnblw.me
 dns.porteii.com
@@ -601,7 +596,6 @@ resolver.rferee.dev
 adguard.richardapplegate.io
 dns.rin.sh
 rjmva.com
-dns.rodovatech.com
 dns.ronc.ru
 dns.rotunneling.net
 adguard-dns.rouga.ch
@@ -611,7 +605,6 @@ sagutxustech.com
 o.rsaikat.com
 sbdns.co.in
 dns.sellan.fr
-pates.services.sfr.fr.casepp.sfr.fr
 sgpcloud.duckdns.org
 shalenkov.dev
 free.shecan.ir
@@ -685,7 +678,6 @@ dns.wakgood.net
 wantaquddin.com
 dns.warpnine.de
 doh.wewitro.net
-whax.eu.org
 iris.woozeno.eu
 x-o-x.duckdns.org
 ads.x88.in

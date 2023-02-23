@@ -1,4 +1,4 @@
-#c7f8b0f3f779f8dd4367eafdea7dd9b894d1a534d299e301e8724fe8b8f642c0
+#e69bb18c23666208ac52afed00e121311c24d8d0de06c91316f62d8e3c491d49
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -122,8 +122,6 @@ dnsse-noads.alekberg.net
 dns.alidns.com
 dns.alloxr.info
 dns.almir1904.eu
-2.alpo.pp.ua
-dns.aman.ltd
 adguard.ambiya.net
 dns.amigo-mgn.ru
 mailer.amlegion.org
@@ -133,9 +131,7 @@ dot.anir0y.in
 anixlab.com
 dns.anoogohost.net
 d.apemlegit.my.id
-dns.applewebkit.dev
 armorrush.eu.org
-dns2.art-nas.pp.ua
 dns.artikel10.org
 dns.b612.me
 dohtrial.att.net
@@ -287,7 +283,6 @@ dns9999.duckdns.org
 www.dnsadguard.co.uk
 dns1.dnscrypt.ca
 doh.dnscrypt.uk
-v.dnscrypt.uk
 dnsenc.com
 gpchubjk.dnsfish.com
 dnsforge.de
@@ -386,7 +381,6 @@ home27.duckdns.org
 doh-dns.hoover.eu.org
 dns.hostux.net
 dns.hostux.net
-doh.hottis.de
 dns1.luan.contact
 doth.huque.com
 ordns.he.net
@@ -520,7 +514,6 @@ dns.nextdns.io
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
-adguard.nielsvoorn.nl
 ninny.duckdns.org
 doh.niyawe.de
 dns.njal.la
@@ -541,7 +534,6 @@ dns.nullgate.net
 dns.nullrecon.com
 o1.lt
 dns.ofdoom.net
-adguard.ondrejsramek.cz
 secure.onedns.cc
 doh.onedns.net
 jp2.ooroot.com
@@ -567,7 +559,6 @@ project-evoex.de
 punono.duckdns.org
 puredns.org
 doh.pyry.me
-q3i6k7j3.stackpathcdn.com
 doh.360.cn
 ns1.qquack.org
 dns.quad9.net

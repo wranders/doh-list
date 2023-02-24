@@ -1,4 +1,4 @@
-#e69bb18c23666208ac52afed00e121311c24d8d0de06c91316f62d8e3c491d49
+#c469f62eb29e5955e7d70fde7cf5a438026b01a120b5388bb00f9cc78aeece3c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -98,8 +98,6 @@ adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
 adguard-server.cf
-adguard.myddns.me
-adguard.myddns.org
 dns.adguard.com
 dns-family.adguard.com
 unfiltered.adguard-dns.com
@@ -254,7 +252,6 @@ dns.dgea.fr
 dns.hee.ink
 dns.digitale-gesellschaft.ch
 v2.dionysus.beauty
-a11.diplo.es
 doh.disconnect.app
 open.dns0.eu
 dns0.eu
@@ -282,7 +279,6 @@ ca02.dns4me.net
 dns9999.duckdns.org
 www.dnsadguard.co.uk
 dns1.dnscrypt.ca
-doh.dnscrypt.uk
 dnsenc.com
 gpchubjk.dnsfish.com
 dnsforge.de
@@ -332,7 +328,6 @@ adguard.firestrike-services.de
 dns01.flm9.net
 ns1.flodns.net
 ns2.flodns.net
-dns.harvester.fr
 dns.flymc.cc
 dns.mipauns.com
 gateway.fomichev.cloud
@@ -478,7 +473,6 @@ dns.truong.fi
 dns.mirandil.ru
 dnstls.mobik.com
 ps1.modr.club
-doh.moedns.dev
 adguard.mokocup.cf
 dns.molinero.dev
 zrh1-ns01.monzoon.net
@@ -565,7 +559,6 @@ dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
 dns11.quad9.net
-home.quentin-stoeckel.fr
 ant.dns.qwer.pw
 dog.dns.qwer.pw
 lion.dns.qwer.pw
@@ -613,7 +606,6 @@ dns.skrep.eu
 dns.slinkyman.net
 adg.geili.me
 clientdns3.softcom.net
-doh.southam.family
 dns.spil.co.id
 dns.startupstack.tech
 muli.stusta.mhn.de
@@ -667,7 +659,6 @@ vpservice.cf
 vvmm.me
 dns.wakgood.net
 wantaquddin.com
-dns.warpnine.de
 doh.wewitro.net
 iris.woozeno.eu
 x-o-x.duckdns.org

@@ -1,4 +1,4 @@
-#c469f62eb29e5955e7d70fde7cf5a438026b01a120b5388bb00f9cc78aeece3c
+#a6db29d87cc82fceff6b64ebde79c00fed4ae58348d470b76fb912838a5f1186
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	adguard-server.cf
 #	adguardh.ga
 #	aihe.app
 #	airmaxcloud.ml
@@ -97,7 +96,6 @@ block.abstergo.it
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
-adguard-server.cf
 dns.adguard.com
 dns-family.adguard.com
 unfiltered.adguard-dns.com
@@ -348,7 +346,6 @@ dns.google
 dns64.dns.google
 8888.google
 groupy.ga
-dns.grqu.de
 doh2.gslb2.xfinity.com
 blackhole.gugainfo.com.br
 gustamadh.dynv6.net
@@ -366,7 +363,6 @@ dns.herkhof.nl
 ad1.heronet.nl
 dns.hinet.net
 hitian.me
-jp.hm3.day
 pihole1.hoerli.net
 pihole2.hoerli.net
 pihole3.hoerli.net
@@ -382,7 +378,6 @@ ordns.he.net
 opennic.i2pd.xyz
 muc-ns01.ibytex.systems
 adguard.ihatemy.live
-dns.ihaveacloud.com
 ihctw.synology.me
 dns.ikataruto.com
 doh.buzz
@@ -621,7 +616,6 @@ dns.t53.de
 dns0.tardishost.ru
 dns1.tardishost.ru
 dns.techcpu.net
-agp01.tek411.com
 dns.telekom.de
 de.teradns.org
 ny.teradns.org
@@ -691,9 +685,7 @@ kids.5ososea.com
 jp.68360612.xyz
 dns.7vpn.com
 dns.886886886.xyz
-jpok.996333.xyz
 doh.crypto.sx
 home.marcrnt.de
 ibuki.cgnat.net
 doh-2.seby.io
-doh.seby.io

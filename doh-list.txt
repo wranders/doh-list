@@ -1,4 +1,4 @@
-#dfb149b50d316cfad8ab92e5879c32ad223ebe118fc2ff290923efb64bdc87a
+#049368fbfc535bc94dc4148d3f23bc0b0c0a63e8c82b009b3c4051f2cb90aca9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -70,7 +70,6 @@
 #	timmes.nl
 #	tk31z.com
 #	tlz.asia
-#	tmkis-dns.de
 #	toaster.lol
 #	typaza.com
 #	vpservice.cf
@@ -125,7 +124,6 @@ dns.andrewnw.xyz
 dns.aa.net.uk
 dot.anir0y.in
 anixlab.com
-dns.anoogohost.net
 d.apemlegit.my.id
 armorrush.eu.org
 dns.artikel10.org
@@ -151,7 +149,6 @@ bcandrade.ml
 dns.bebasid.com
 adguard.beliefanx.cn
 dns.belnet.be
-dns.ilker.se
 dns.benpro.fr
 mydns.bielperes.me
 goga7777777.bissnes.org
@@ -182,7 +179,6 @@ dns.carson-family.com
 dns2.cbio.top
 doh.ccb-net.it
 cdzopi.duckdns.org
-dns.cearhome.top
 chaos-system.de
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -249,7 +245,6 @@ dgca.myds.me
 dns.dgea.fr
 dns.hee.ink
 dns.digitale-gesellschaft.ch
-v2.dionysus.beauty
 doh.disconnect.app
 open.dns0.eu
 dns0.eu
@@ -385,7 +380,6 @@ doh.beauty
 dns.imaicool.com
 dns1.in-berlin.de
 dns.indust.me
-doh.infotek.net.id
 premiumtier-network.instadart.net
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
@@ -492,7 +486,6 @@ n-wan.dynv6.net
 dns1.n3120.wang
 dns.nas-server.ru
 nas1403.duckdns.org
-dns.ndo.dev
 adguard.ender.fr
 dns.norvig.dk
 dns.neubsi.at
@@ -516,7 +509,6 @@ n0.eu
 ns3.com
 ns3.cx
 ns3.link
-nsc.torgues.net
 dns.nullgate.net
 dns.nullrecon.com
 o1.lt
@@ -627,7 +619,6 @@ timmes.nl
 tk31z.com
 dns.tls-data.de
 tlz.asia
-tmkis-dns.de
 d.toairs.com
 toaster.lol
 doh.totoro.pub

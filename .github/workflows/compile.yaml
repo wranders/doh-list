@@ -19,7 +19,7 @@ jobs:
         SOURCE_HASH=$(sha256sum curl.wiki/DNS-over-HTTPS.md | cut -d' ' -f1)
         CUR_HASH=$(head -1 doh-list.txt | sed 's/#*//')
         if [[ $SOURCE_HASH != $CUR_HASH ]]; then
-          echo ::set-output name=should_compile::true
+          echo "should_compile=true" >> $GITHUB_OUTPUT
         fi
     - if: ${{ steps.check.outputs.should_compile == 'true' }}
       run: ./update-doh-list.sh

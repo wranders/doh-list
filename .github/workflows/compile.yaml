@@ -24,7 +24,7 @@ jobs:
     - if: ${{ steps.check.outputs.should_compile == 'true' }}
       run: ./update-doh-list.sh
     - if: ${{ steps.check.outputs.should_compile == 'true' }}
-      uses: wranders/get-ghapp-token@v1
+      uses: wranders/ghapp-token-action@v1
       id: get-token
       with:
         app_id: ${{ secrets.APP_ID }}

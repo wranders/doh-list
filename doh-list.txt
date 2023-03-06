@@ -1,4 +1,4 @@
-#049368fbfc535bc94dc4148d3f23bc0b0c0a63e8c82b009b3c4051f2cb90aca9
+#17794050f08766a608544240c3392c350572609ded7d2bfffc5b68100f61efa6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -50,7 +50,6 @@
 #	masters-of-cloud.de
 #	msr177.com
 #	doh.lv
-#	notecore.me
 #	dns8.org
 #	n0.eu
 #	ns3.com
@@ -218,7 +217,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 cossxiu.ga
-dns.privacy.cm
 dotdns.cryptroute.com
 dns.cwlys.com
 odvr.nic.cz
@@ -229,7 +227,6 @@ adguard.dtness.com
 dns.daw.dev
 ns.00dani.me
 darkness.is.my.waifu.cz
-firewall.darknet.bg
 mail.data.haus
 doh.datacore.ch
 doh.datahata.by
@@ -325,11 +322,9 @@ dns.flymc.cc
 dns.mipauns.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
-dns.frankslabs.org
 adguard.frece.de
 dns.froth.zone
 fuchur.pentament.de
-doh.funtopia.tv
 doh.futa.gg
 adguard.gbrossi.com.br
 gclouddns.com
@@ -367,7 +362,6 @@ home27.duckdns.org
 doh-dns.hoover.eu.org
 dns.hostux.net
 dns.hostux.net
-dns1.luan.contact
 doth.huque.com
 ordns.he.net
 opennic.i2pd.xyz
@@ -410,13 +404,11 @@ dns.jucker.engineering
 jurre-home.duckdns.org
 dns.kamilszczepanski.com
 jp.kano.sh
-adguard1.kapuyhome.hu
 karimdns.com
 dns.karl.one
 dns.kawa.tf
 keithchung.hopto.org
 kennethhuang.com
-adguard.kenzohost.de
 dns.kernel-error.de
 dns.kescher.at
 doh.killtw.im
@@ -424,7 +416,6 @@ adguard.avdkishore.dev
 adguard.korks.tk
 korzhov.dev
 dart.kpsn.org
-dns.kr.chavy.dev
 xray.krnl.eu
 krtekvpn.duckdns.org
 kswro.web.id
@@ -459,7 +450,6 @@ dns.mgiptvpro.ml
 securenet.mhsystems.net
 dns.mikeliu.org
 dns.truong.fi
-dns.mirandil.ru
 dnstls.mobik.com
 ps1.modr.club
 adguard.mokocup.cf
@@ -483,7 +473,6 @@ vm.mytm.cc
 area51.mywire.org
 dns.mzrme.cn
 n-wan.dynv6.net
-dns1.n3120.wang
 dns.nas-server.ru
 nas1403.duckdns.org
 adguard.ender.fr
@@ -500,7 +489,6 @@ dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
-notecore.me
 dns.novali.date
 dns.novg.net
 n5.lsasss.com
@@ -639,7 +627,6 @@ dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
 dns.vmath.my.id
-awsdns.vpnrf.com
 vpservice.cf
 vvmm.me
 dns.wakgood.net
@@ -660,9 +647,6 @@ yovbak.com
 dns.zfsystem.tech
 zxcvb.pp.ua
 dns.0ooo.icu
-1.11i.eu
-2.11i.eu
-3.11i.eu
 ns1.1899.com.mx
 ns2.1899.com.mx
 t2c.240130034.xyz

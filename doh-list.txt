@@ -1,4 +1,4 @@
-#17794050f08766a608544240c3392c350572609ded7d2bfffc5b68100f61efa6
+#e643f6a1f4a6f88e15b877ad220ee0410d85c2da3f319879722b59125a6b69fb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -17,7 +17,6 @@
 #	chaos-system.de
 #	cintra.ml
 #	cloudflare-dns.com
-#	cloudseriousshit.com
 #	cossxiu.ga
 #	dns0.eu
 #	doh.sb
@@ -25,7 +24,6 @@
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
-#	douglaster.com
 #	dukun.de
 #	easyhandshake.com
 #	edgy-dns.com
@@ -139,7 +137,6 @@ awan.ftp.sh
 pihole.aws.ketan.dev
 axaxa.fun
 dns.azcom.dev
-dns.azsopro.net
 dns.b33.space
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
@@ -169,7 +166,6 @@ doh.bortzmeyer.fr
 cloudns.bosco.ovh
 dns.brahma.world
 dns.brian-hong.tech
-dns.brightesttv.com
 doh.bt.com
 doh1.b-cdn.net
 dns.bw.i81.ru
@@ -203,7 +199,6 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns-secondary.cloudnx.cloud
-cloudseriousshit.com
 jpdns.cola16.app
 doh.xfinity.com
 dns.comeonjames.club
@@ -270,7 +265,14 @@ dns9999.duckdns.org
 www.dnsadguard.co.uk
 dns1.dnscrypt.ca
 dnsenc.com
-gpchubjk.dnsfish.com
+doh-lb-br.dnsflex.com
+doh-lb-gb.dnsflex.com
+doh-lb-ca-tor.dnsflex.com
+doh-lb-tr.dnsflex.com
+doh-lb-sg.dnsflex.com
+doh-lb-in.dnsflex.com
+doh-lb-atl.dnsflex.com
+doh-lb-de.dnsflex.com
 dnsforge.de
 dns.dnshome.de
 dnslow.me
@@ -279,13 +281,11 @@ dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
 ns1.dotls.org
-douglaster.com
 dns.druta.me
 doh.dscloud.me
 dukun.de
 dns.dutchwhite.nl
 dns.dyn1.de
-dnscache.e-utp.net
 easyhandshake.com
 edgy-dns.com
 dns.edison42.dev
@@ -359,7 +359,6 @@ pihole3.hoerli.net
 pihole4.hoerli.net
 home.dlinkddns.com
 home27.duckdns.org
-doh-dns.hoover.eu.org
 dns.hostux.net
 dns.hostux.net
 doth.huque.com
@@ -441,7 +440,6 @@ dns.malwarelul.download
 dns.maolaohei.xyz
 masters-of-cloud.de
 br.servers.legat.ml
-doh.mcasviper.de
 adguard.meddy94.de
 dns.meeo.win
 chewbacca.meganerd.nl

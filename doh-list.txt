@@ -1,4 +1,4 @@
-#e643f6a1f4a6f88e15b877ad220ee0410d85c2da3f319879722b59125a6b69fb
+#415a26c31b4cb3b7997ca2085356a78f9720dbec3f4efb0f518cc8c892f3b1bb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,7 +10,6 @@
 #	adguardh.ga
 #	aihe.app
 #	airmaxcloud.ml
-#	anixlab.com
 #	axaxa.fun
 #	bcandrade.ml
 #	bluemood.me
@@ -69,7 +68,6 @@
 #	tlz.asia
 #	toaster.lol
 #	typaza.com
-#	vpservice.cf
 #	vvmm.me
 #	wantaquddin.com
 #	xenergy.cc
@@ -119,15 +117,11 @@ dns.amigo-mgn.ru
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
-dot.anir0y.in
-anixlab.com
 d.apemlegit.my.id
 armorrush.eu.org
 dns.artikel10.org
 dns.b612.me
 dohtrial.att.net
-atlantic.dyn1.de
-dns.audet.cloud
 secure.avastdns.com
 dns.keweon.center
 awan.ftp.sh
@@ -136,7 +130,6 @@ awan.ftp.sh
 awan.ftp.sh
 pihole.aws.ketan.dev
 axaxa.fun
-dns.azcom.dev
 dns.b33.space
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
@@ -146,8 +139,6 @@ dns.bebasid.com
 adguard.beliefanx.cn
 dns.belnet.be
 dns.benpro.fr
-mydns.bielperes.me
-goga7777777.bissnes.org
 ns3.bit-trail.nl
 dns.bitdefender.net
 adguard.bitteeinbyte.de
@@ -281,11 +272,9 @@ dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
 ns1.dotls.org
-dns.druta.me
 doh.dscloud.me
 dukun.de
 dns.dutchwhite.nl
-dns.dyn1.de
 easyhandshake.com
 edgy-dns.com
 dns.edison42.dev
@@ -330,7 +319,6 @@ adguard.gbrossi.com.br
 gclouddns.com
 www.ggrbb.xyz
 dns.ghost.pm
-dns.ginovs.nl
 dns.gnb09.id
 dns.google
 dns64.dns.google
@@ -347,7 +335,6 @@ dns.hafidzradhival.my.id
 adguard.haneulo.com
 dns.hanmey.de
 dns.haoxuan.xyz
-hgns.harriganhome.ga
 us-ny-alula.heliumcloud.cc
 dns.herkhof.nl
 ad1.heronet.nl
@@ -436,10 +423,8 @@ adguard.lspcr.space
 doh.lujiacai.top
 orau.lz0724.com
 dnsserver.mailchan.eu
-dns.malwarelul.download
 dns.maolaohei.xyz
 masters-of-cloud.de
-br.servers.legat.ml
 adguard.meddy94.de
 dns.meeo.win
 chewbacca.meganerd.nl
@@ -625,17 +610,13 @@ dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
 dns.vmath.my.id
-vpservice.cf
 vvmm.me
 dns.wakgood.net
 wantaquddin.com
-doh.wewitro.net
 iris.woozeno.eu
 x-o-x.duckdns.org
-ads.x88.in
 doh.xcom.pro
 xenergy.cc
-xthwo.duckdns.org
 yarp.lefolgoc.net
 lion.yazilimatolye.com
 ychen.cf

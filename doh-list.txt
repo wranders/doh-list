@@ -1,4 +1,4 @@
-#415a26c31b4cb3b7997ca2085356a78f9720dbec3f4efb0f518cc8c892f3b1bb
+#fbc0d1bff7a7a0766965883301d9b4dde525133d1a9d9595d970194a7f0cddae
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -13,7 +13,6 @@
 #	axaxa.fun
 #	bcandrade.ml
 #	bluemood.me
-#	chaos-system.de
 #	cintra.ml
 #	cloudflare-dns.com
 #	cossxiu.ga
@@ -149,7 +148,6 @@ doh-jp.blahdns.com
 doh-de.blahdns.com
 us1.blissdns.net
 dns.blokada.org
-dns.bluemeda.cf
 bluemood.me
 dns.bobstrecansky.com
 doh.boje8.me
@@ -165,7 +163,6 @@ dns.carson-family.com
 dns2.cbio.top
 doh.ccb-net.it
 cdzopi.duckdns.org
-chaos-system.de
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
@@ -318,7 +315,6 @@ doh.futa.gg
 adguard.gbrossi.com.br
 gclouddns.com
 www.ggrbb.xyz
-dns.ghost.pm
 dns.gnb09.id
 dns.google
 dns64.dns.google
@@ -377,7 +373,6 @@ jackyes.ovh
 tj.jamesxue.xyz
 doh.jeroenhd.nl
 adguard.jfchenier.ca
-srv5.jiripocta.cz
 adg.jnorton.us
 dns.joaofidelix.com.br
 dns.hahnjo.de
@@ -614,7 +609,6 @@ vvmm.me
 dns.wakgood.net
 wantaquddin.com
 iris.woozeno.eu
-x-o-x.duckdns.org
 doh.xcom.pro
 xenergy.cc
 yarp.lefolgoc.net
@@ -630,7 +624,6 @@ ns1.1899.com.mx
 ns2.1899.com.mx
 t2c.240130034.xyz
 doh003.280blocker.net
-dns.2poi.com
 n.3363.net
 dns.52306.org
 dns.5ososea.com

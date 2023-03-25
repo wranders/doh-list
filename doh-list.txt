@@ -1,4 +1,4 @@
-#07bf74dba8b7435a45f9d56396963e93ddabe957bd1beaa4a2e9eafcdf07783d
+#55a3009aba092971489a45e9da0570415c4fc13b6537af4c3d4b144eda62a07e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki

@@ -1,4 +1,4 @@
-#55a3009aba092971489a45e9da0570415c4fc13b6537af4c3d4b144eda62a07e
+#f15360a6b0b7383d6e354ba4b304b4810baef0dc4c1aa9f95769ce6d6bfb9df9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -13,7 +13,6 @@
 #	axaxa.fun
 #	bcandrade.ml
 #	bluemood.me
-#	cintra.ml
 #	cloudflare-dns.com
 #	cossxiu.ga
 #	dns0.eu
@@ -23,9 +22,7 @@
 #	dnslow.me
 #	dns.pub
 #	dukun.de
-#	easyhandshake.com
 #	edgy-dns.com
-#	felipefalcao.me
 #	findmethedns.info
 #	gclouddns.com
 #	dns.google
@@ -64,7 +61,6 @@
 #	tlz.asia
 #	toaster.lol
 #	typaza.com
-#	vvmm.me
 #	wantaquddin.com
 #	xenergy.cc
 #	ychen.cf
@@ -91,8 +87,6 @@ dns-family.adguard.com
 unfiltered.adguard-dns.com
 adguardh.ga
 dns.adrianlam.com
-dns1.adrianion.eu
-dns2.afastserver.com
 shield.afixer.app
 blitz.ahadns.com
 blitz.ahadns.com
@@ -164,7 +158,6 @@ doh-02.spectrum.com
 dns.chenu.ch
 dns.chromeina.top
 oraclejp2.chungyu.com
-cintra.ml
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
@@ -194,7 +187,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 cossxiu.ga
-dotdns.cryptroute.com
 dns.cwlys.com
 odvr.nic.cz
 dns.d365.in
@@ -217,7 +209,6 @@ doh-primary-pool.detoxifypornblocker.com
 mainframe.dewed.de
 dgca.myds.me
 dns.dgea.fr
-dns.hee.ink
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 open.dns0.eu
@@ -242,18 +233,9 @@ us02.dns4me.net
 sa01.dns4me.net
 ca01.dns4me.net
 ca02.dns4me.net
-dns9999.duckdns.org
 www.dnsadguard.co.uk
 dns1.dnscrypt.ca
 dnsenc.com
-doh-lb-br.dnsflex.com
-doh-lb-gb.dnsflex.com
-doh-lb-ca-tor.dnsflex.com
-doh-lb-tr.dnsflex.com
-doh-lb-sg.dnsflex.com
-doh-lb-in.dnsflex.com
-doh-lb-atl.dnsflex.com
-doh-lb-de.dnsflex.com
 dnsforge.de
 dns.dnshome.de
 dnslow.me
@@ -265,7 +247,6 @@ ns1.dotls.org
 doh.dscloud.me
 dukun.de
 dns.dutchwhite.nl
-easyhandshake.com
 edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
@@ -279,7 +260,6 @@ dns.emiliyan.com
 dns.esegece.com
 dns-family.esegece.com
 opennic1.eth-services.de
-eweyo.duckdns.org
 dns.extrawdw.net
 fra1.eyecay.xyz
 rdns.faelix.net
@@ -287,7 +267,6 @@ pdns.faelix.net
 dnsvps.familiamv.ml
 dns.fancyorg.at
 dns.faze.dev
-felipefalcao.me
 ag.ff0x.ca
 doh.ffmuc.net
 dns.filipccz.eu
@@ -311,7 +290,6 @@ dns64.dns.google
 8888.google
 groupy.ga
 doh2.gslb2.xfinity.com
-blackhole.gugainfo.com.br
 gustamadh.dynv6.net
 cluster-0.gac.edu
 cluster-1.gac.edu
@@ -319,10 +297,8 @@ gztech.me
 dns.ha-dvin.pp.ua
 dns.hafidzradhival.my.id
 adguard.haneulo.com
-dns.hanmey.de
 dns.haoxuan.xyz
 us-ny-alula.heliumcloud.cc
-dns.herkhof.nl
 ad1.heronet.nl
 dns.hinet.net
 hitian.me
@@ -336,7 +312,6 @@ dns.hostux.net
 doth.huque.com
 ordns.he.net
 opennic.i2pd.xyz
-muc-ns01.ibytex.systems
 adguard.ihatemy.live
 ihctw.synology.me
 dns.ikataruto.com
@@ -347,7 +322,6 @@ dns1.in-berlin.de
 dns.indust.me
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
-doh.iucc.ac.il
 public.dns.iij.jp
 intertop.link
 dns.invisv.com
@@ -356,7 +330,6 @@ irre.li
 dns1.irumatech.com
 dns.iamninja.ru
 dns.itdept.pro
-kr.pigs.eu.org
 jackyes.ovh
 tj.jamesxue.xyz
 doh.jeroenhd.nl
@@ -364,10 +337,8 @@ adguard.jfchenier.ca
 adg.jnorton.us
 dns.joaofidelix.com.br
 dns.hahnjo.de
-adguard.josephyap.me
 jp.tiar.app
 jp.tiarap.org
-adguard.jpjb.net
 adguard1.jsanagustin.net
 dns.jucker.engineering
 jurre-home.duckdns.org
@@ -389,7 +360,6 @@ safe.kswro.web.id
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 lastentarvike.fi
-adguard.laurenlaufman.com
 eu1.dns.lavate.ch
 adguard1.leadmon.net
 leecurrylawfirm.com
@@ -398,17 +368,13 @@ externalmobiel.lekdijk.online
 sby-doh.limotelu.org
 lindung.pp.ua
 lindung.pp.ua
-adgaurd.lingmont.net
-adguard.lspcr.space
 orau.lz0724.com
-dnsserver.mailchan.eu
 dns.maolaohei.xyz
 masters-of-cloud.de
 adguard.meddy94.de
 dns.meeo.win
 chewbacca.meganerd.nl
 testaghome.meshkov.info
-dns.mgiptvpro.ml
 securenet.mhsystems.net
 dns.mikeliu.org
 dns.truong.fi
@@ -416,7 +382,6 @@ dnstls.mobik.com
 ps1.modr.club
 adguard.mokocup.cf
 dns.molinero.dev
-zrh1-ns01.monzoon.net
 dns.moog.sh
 dns.moonssif.com
 www.morbitzer.de
@@ -460,7 +425,6 @@ ns3.com
 ns3.cx
 ns3.link
 dns.nullgate.net
-dns.nullrecon.com
 o1.lt
 dns.ofdoom.net
 secure.onedns.cc
@@ -504,7 +468,6 @@ r1bnc.com
 adguard.rabmoor.cz
 dns.rafn.is
 ag.ssrahul96.xyz
-adguard.randomaizer.lentel.ru
 rayneau.fr
 dns.reckoningslug.name
 kaitain.restena.lu
@@ -553,7 +516,6 @@ doh.syshero.org
 dns.t53.de
 dns0.tardishost.ru
 dns1.tardishost.ru
-dns.techcpu.net
 dns.telekom.de
 de.teradns.org
 ny.teradns.org
@@ -587,7 +549,6 @@ dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
 dns.vmath.my.id
-vvmm.me
 dns.wakgood.net
 wantaquddin.com
 iris.woozeno.eu
@@ -614,6 +575,5 @@ jp.68360612.xyz
 dns.7vpn.com
 dns.886886886.xyz
 doh.crypto.sx
-home.marcrnt.de
 ibuki.cgnat.net
 doh-2.seby.io

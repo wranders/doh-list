@@ -1,4 +1,4 @@
-#f15360a6b0b7383d6e354ba4b304b4810baef0dc4c1aa9f95769ce6d6bfb9df9
+#d8124fc4ed242f71d6df09f150a465c556157a088fb2db35cb507263e211164e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -152,7 +152,6 @@ www.c-dns.com
 dns.carson-family.com
 dns2.cbio.top
 doh.ccb-net.it
-cdzopi.duckdns.org
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
@@ -201,7 +200,6 @@ doh.datacore.ch
 doh.datahata.by
 pihole.datamatter.co.za
 dns.decloudus.com
-dns.deekshith.in
 adguard.dekonix.ru
 adguard.depieri.net
 adguard.dessoi.cloud
@@ -257,8 +255,6 @@ dns.elemental.software
 dns.ellichua.com
 www.elshad-adgh-dns.ru
 dns.emiliyan.com
-dns.esegece.com
-dns-family.esegece.com
 opennic1.eth-services.de
 dns.extrawdw.net
 fra1.eyecay.xyz
@@ -271,7 +267,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns.filipccz.eu
 findmethedns.info
-adguard.firestrike-services.de
 dns01.flm9.net
 ns1.flodns.net
 ns2.flodns.net
@@ -380,7 +375,6 @@ dns.mikeliu.org
 dns.truong.fi
 dnstls.mobik.com
 ps1.modr.club
-adguard.mokocup.cf
 dns.molinero.dev
 dns.moog.sh
 dns.moonssif.com
@@ -401,7 +395,6 @@ area51.mywire.org
 dns.mzrme.cn
 n-wan.dynv6.net
 dns.nas-server.ru
-nas1403.duckdns.org
 adguard.ender.fr
 dns.norvig.dk
 dns.neubsi.at
@@ -410,7 +403,6 @@ dns.nextdns.io
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
-ninny.duckdns.org
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
@@ -475,7 +467,6 @@ basic.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
-adguard.richardapplegate.io
 dns.rin.sh
 dns.ronc.ru
 dns.rotunneling.net
@@ -514,8 +505,6 @@ dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org
 dns.t53.de
-dns0.tardishost.ru
-dns1.tardishost.ru
 dns.telekom.de
 de.teradns.org
 ny.teradns.org

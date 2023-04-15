@@ -1,4 +1,4 @@
-#d8124fc4ed242f71d6df09f150a465c556157a088fb2db35cb507263e211164e
+#4b2386b684a166e426e1a8e42cffd82d540c88a414d06d3526e223849f07bfe2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -52,7 +52,6 @@
 #	r1bnc.com
 #	rayneau.fr
 #	safeservedns.com
-#	sagutxustech.com
 #	shalenkov.dev
 #	sitdns.com
 #	surt.ml
@@ -255,7 +254,6 @@ dns.elemental.software
 dns.ellichua.com
 www.elshad-adgh-dns.ru
 dns.emiliyan.com
-opennic1.eth-services.de
 dns.extrawdw.net
 fra1.eyecay.xyz
 rdns.faelix.net
@@ -275,7 +273,6 @@ dns.mipauns.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
 dns.froth.zone
-fuchur.pentament.de
 doh.futa.gg
 adguard.gbrossi.com.br
 gclouddns.com
@@ -327,7 +324,6 @@ dns.iamninja.ru
 dns.itdept.pro
 jackyes.ovh
 tj.jamesxue.xyz
-doh.jeroenhd.nl
 adguard.jfchenier.ca
 adg.jnorton.us
 dns.joaofidelix.com.br
@@ -345,7 +341,6 @@ dns.kernel-error.de
 dns.kescher.at
 doh.killtw.im
 adguard.avdkishore.dev
-adguard.korks.tk
 korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
@@ -421,12 +416,6 @@ o1.lt
 dns.ofdoom.net
 secure.onedns.cc
 doh.onedns.net
-jp2.ooroot.com
-sg2.ooroot.com
-hk2.ooroot.com
-tw2.ooroot.com
-kr1.ooroot.com
-kr2.ooroot.com
 a-bld.sys-adm.in
 bld.sys-adm.in
 dns.opnsource.com.au
@@ -437,7 +426,6 @@ dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 adguard.piekacz.pl
 thanos.pleumkungz.com
-pope.cnblw.me
 dns.porteii.com
 dns.privilab.net
 project-evoex.de
@@ -473,7 +461,6 @@ dns.rotunneling.net
 adguard-dns.rouga.ch
 safeservedns.com
 doh.safesurfer.io
-sagutxustech.com
 o.rsaikat.com
 sbdns.co.in
 dns.sellan.fr
@@ -529,7 +516,6 @@ dns-east.tylerwahl.com
 typaza.com
 ueni.dyndns.org
 galileo.math.unipd.it
-ines.zfn.uni-bremen.de
 unixfox.duckdns.org
 resolver.unstoppable.io
 tor.vasi.li
@@ -540,7 +526,6 @@ virga.pp.ua
 dns.vmath.my.id
 dns.wakgood.net
 wantaquddin.com
-iris.woozeno.eu
 doh.xcom.pro
 xenergy.cc
 yarp.lefolgoc.net

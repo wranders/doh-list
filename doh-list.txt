@@ -1,4 +1,4 @@
-#4b2386b684a166e426e1a8e42cffd82d540c88a414d06d3526e223849f07bfe2
+#39d4e9317a4c1b8cd2b0ceaa246c30ef110bfe98451398c73b797df8dfcc2c41
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -100,6 +100,7 @@ dnsse-noads.alekberg.net
 dns.alidns.com
 dns.alloxr.info
 dns.almir1904.eu
+dns.alvosec.com
 adguard.ambiya.net
 dns.amigo-mgn.ru
 mailer.amlegion.org
@@ -546,6 +547,7 @@ dns.5ososea.com
 family.5ososea.com
 kids.5ososea.com
 jp.68360612.xyz
+dns.7sec.com.br
 dns.7vpn.com
 dns.886886886.xyz
 doh.crypto.sx

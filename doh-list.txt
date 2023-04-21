@@ -1,4 +1,4 @@
-#39d4e9317a4c1b8cd2b0ceaa246c30ef110bfe98451398c73b797df8dfcc2c41
+#740e431eae5cfe4e648924ab85d75fbd7f13b7aab5db2b1e22311839f9be7777
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -32,9 +32,9 @@
 #	hitian.me
 #	doh.buzz
 #	doh.beauty
-#	intertop.link
 #	irre.li
 #	jackyes.ovh
+#	kilabit.info
 #	korzhov.dev
 #	lastentarvike.fi
 #	leecurrylawfirm.com
@@ -72,10 +72,8 @@ aattwwss.duckdns.org
 dns.aaytorr.com
 abel.waringer-atg.de
 res-acst1.absolight.net
-res-acst2.absolight.net
 res-acst3.absolight.net
 resolver1.absolight.net
-resolver2.absolight.net
 resolver3.absolight.net
 block.abstergo.it
 adl.adfilter.net
@@ -144,7 +142,6 @@ doh.boje8.me
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
 dns.brahma.world
-dns.brian-hong.tech
 doh.bt.com
 doh1.b-cdn.net
 dns.bw.i81.ru
@@ -297,7 +294,6 @@ dns.hinet.net
 hitian.me
 pihole1.hoerli.net
 pihole2.hoerli.net
-pihole3.hoerli.net
 pihole4.hoerli.net
 home27.duckdns.org
 dns.hostux.net
@@ -316,7 +312,6 @@ dns.indust.me
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
-intertop.link
 dns.invisv.com
 dns.ipv6dns.com
 irre.li
@@ -340,6 +335,7 @@ dns.kawa.tf
 keithchung.hopto.org
 dns.kernel-error.de
 dns.kescher.at
+kilabit.info
 doh.killtw.im
 adguard.avdkishore.dev
 korzhov.dev
@@ -446,7 +442,6 @@ tiger.dns.qwer.pw
 frog.dns.qwer.pw
 resolver.r0cket.net
 r1bnc.com
-adguard.rabmoor.cz
 dns.rafn.is
 ag.ssrahul96.xyz
 rayneau.fr
@@ -496,8 +491,6 @@ dns.t53.de
 dns.telekom.de
 de.teradns.org
 ny.teradns.org
-tx.teradns.org
-sg.teradns.org
 cloud.tezoi.com
 dns.therifleman.name
 doh.tiar.app
@@ -517,7 +510,6 @@ dns-east.tylerwahl.com
 typaza.com
 ueni.dyndns.org
 galileo.math.unipd.it
-unixfox.duckdns.org
 resolver.unstoppable.io
 tor.vasi.li
 securedns.vendorvista.xyz
@@ -538,8 +530,6 @@ yovbak.com
 dns.zfsystem.tech
 zxcvb.pp.ua
 dns.0ooo.icu
-ns1.1899.com.mx
-ns2.1899.com.mx
 t2c.240130034.xyz
 doh003.280blocker.net
 dns.52306.org

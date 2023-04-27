@@ -1,4 +1,4 @@
-#740e431eae5cfe4e648924ab85d75fbd7f13b7aab5db2b1e22311839f9be7777
+#3ed8799b3941a8b05c9233059a5996cd2b05184724baad20f084ae6d3cd9dd69
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,7 +9,6 @@
 #
 #	adguardh.ga
 #	aihe.app
-#	airmaxcloud.ml
 #	axaxa.fun
 #	bcandrade.ml
 #	bluemood.me
@@ -23,7 +22,6 @@
 #	dns.pub
 #	dukun.de
 #	edgy-dns.com
-#	findmethedns.info
 #	gclouddns.com
 #	dns.google
 #	8888.google
@@ -37,7 +35,6 @@
 #	kilabit.info
 #	korzhov.dev
 #	lastentarvike.fi
-#	leecurrylawfirm.com
 #	masters-of-cloud.de
 #	msr177.com
 #	doh.lv
@@ -58,7 +55,6 @@
 #	timmes.nl
 #	tk31z.com
 #	tlz.asia
-#	toaster.lol
 #	typaza.com
 #	wantaquddin.com
 #	xenergy.cc
@@ -90,7 +86,6 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 aihe.app
-airmaxcloud.ml
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dnsnl-noads.alekberg.net
@@ -100,7 +95,6 @@ dns.alloxr.info
 dns.almir1904.eu
 dns.alvosec.com
 adguard.ambiya.net
-dns.amigo-mgn.ru
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
@@ -246,7 +240,6 @@ edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
 hole.elbschloss.xyz
-addns.jpr.space
 dns.unerror.network
 dns.elemental.software
 dns.ellichua.com
@@ -262,7 +255,6 @@ dns.faze.dev
 ag.ff0x.ca
 doh.ffmuc.net
 dns.filipccz.eu
-findmethedns.info
 dns01.flm9.net
 ns1.flodns.net
 ns2.flodns.net
@@ -342,14 +334,11 @@ korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
 krtekvpn.duckdns.org
-kswro.web.id
-safe.kswro.web.id
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 lastentarvike.fi
 eu1.dns.lavate.ch
 adguard1.leadmon.net
-leecurrylawfirm.com
 adguard.lege.despagne.net
 externalmobiel.lekdijk.online
 sby-doh.limotelu.org
@@ -385,9 +374,7 @@ blackhole.myon.lu
 vm.mytm.cc
 area51.mywire.org
 dns.mzrme.cn
-n-wan.dynv6.net
 dns.nas-server.ru
-adguard.ender.fr
 dns.norvig.dk
 dns.neubsi.at
 doh.luigi.nexific.it
@@ -428,7 +415,6 @@ dns.privilab.net
 project-evoex.de
 punono.duckdns.org
 puredns.org
-doh.pyry.me
 doh.360.cn
 ns1.qquack.org
 dns.quad9.net
@@ -474,7 +460,6 @@ dns.siry.de
 sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
-adg.geili.me
 clientdns3.softcom.net
 dns.spil.co.id
 dns.startupstack.tech
@@ -500,7 +485,6 @@ tk31z.com
 dns.tls-data.de
 tlz.asia
 d.toairs.com
-toaster.lol
 doh.totoro.pub
 dns.apigw.online
 tuandns.duckdns.org

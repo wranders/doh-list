@@ -1,4 +1,4 @@
-#3ed8799b3941a8b05c9233059a5996cd2b05184724baad20f084ae6d3cd9dd69
+#43d8d2977e29729139f93af7c5129b0461f942bc2bb0c062dd760c8ee654e894
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -252,6 +252,8 @@ pdns.faelix.net
 dnsvps.familiamv.ml
 dns.fancyorg.at
 dns.faze.dev
+ns0.fdn.fr
+ns1.fdn.fr
 ag.ff0x.ca
 doh.ffmuc.net
 dns.filipccz.eu

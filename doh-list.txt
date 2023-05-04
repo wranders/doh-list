@@ -1,4 +1,4 @@
-#43d8d2977e29729139f93af7c5129b0461f942bc2bb0c062dd760c8ee654e894
+#e63900d58cc2e43d83f58b61641c7d5d12a7acffff95860da14c81a8e9327fc0
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	adguardh.ga
 #	aihe.app
 #	axaxa.fun
 #	bcandrade.ml
@@ -25,7 +24,6 @@
 #	gclouddns.com
 #	dns.google
 #	8888.google
-#	groupy.ga
 #	gztech.me
 #	hitian.me
 #	doh.buzz
@@ -54,7 +52,6 @@
 #	surt.ml
 #	timmes.nl
 #	tk31z.com
-#	tlz.asia
 #	typaza.com
 #	wantaquddin.com
 #	xenergy.cc
@@ -65,7 +62,6 @@
 
 dns-nyc.aaflalo.me
 aattwwss.duckdns.org
-dns.aaytorr.com
 abel.waringer-atg.de
 res-acst1.absolight.net
 res-acst3.absolight.net
@@ -78,7 +74,6 @@ syd.adfilter.net
 dns.adguard.com
 dns-family.adguard.com
 unfiltered.adguard-dns.com
-adguardh.ga
 dns.adrianlam.com
 shield.afixer.app
 blitz.ahadns.com
@@ -164,6 +159,7 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns-secondary.cloudnx.cloud
+adguard.clroot.io
 jpdns.cola16.app
 doh.xfinity.com
 dns.comeonjames.club
@@ -182,7 +178,6 @@ odvr.nic.cz
 dns.d365.in
 dns.d94.xyz
 dns.d96.info
-adguard.dtness.com
 dns.daw.dev
 ns.00dani.me
 darkness.is.my.waifu.cz
@@ -190,6 +185,7 @@ mail.data.haus
 doh.datacore.ch
 doh.datahata.by
 pihole.datamatter.co.za
+adguard.ddns.network
 dns.decloudus.com
 adguard.dekonix.ru
 adguard.depieri.net
@@ -239,6 +235,7 @@ dns.dutchwhite.nl
 edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
+adguard.elashri.xyz
 hole.elbschloss.xyz
 dns.unerror.network
 dns.elemental.software
@@ -246,7 +243,6 @@ dns.ellichua.com
 www.elshad-adgh-dns.ru
 dns.emiliyan.com
 dns.extrawdw.net
-fra1.eyecay.xyz
 rdns.faelix.net
 pdns.faelix.net
 dnsvps.familiamv.ml
@@ -264,6 +260,7 @@ dns.flymc.cc
 dns.mipauns.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
+adguard.fresh-waffles.online
 dns.froth.zone
 doh.futa.gg
 adguard.gbrossi.com.br
@@ -272,7 +269,6 @@ dns.gnb09.id
 dns.google
 dns64.dns.google
 8888.google
-groupy.ga
 doh2.gslb2.xfinity.com
 gustamadh.dynv6.net
 cluster-0.gac.edu
@@ -325,7 +321,6 @@ dns.jucker.engineering
 jurre-home.duckdns.org
 dns.kamilszczepanski.com
 dns.karl.one
-dns.kawa.tf
 keithchung.hopto.org
 dns.kernel-error.de
 dns.kescher.at
@@ -336,6 +331,7 @@ korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
 krtekvpn.duckdns.org
+adguard.kss.ovh
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 lastentarvike.fi
@@ -353,13 +349,11 @@ adguard.meddy94.de
 dns.meeo.win
 chewbacca.meganerd.nl
 testaghome.meshkov.info
-securenet.mhsystems.net
 dns.mikeliu.org
 dns.truong.fi
 dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
-dns.moog.sh
 dns.moonssif.com
 www.morbitzer.de
 msr177.com
@@ -430,7 +424,6 @@ tiger.dns.qwer.pw
 frog.dns.qwer.pw
 resolver.r0cket.net
 r1bnc.com
-dns.rafn.is
 ag.ssrahul96.xyz
 rayneau.fr
 dns.reckoningslug.name
@@ -485,7 +478,6 @@ doh.tiarap.org
 timmes.nl
 tk31z.com
 dns.tls-data.de
-tlz.asia
 d.toairs.com
 doh.totoro.pub
 dns.apigw.online
@@ -525,7 +517,6 @@ kids.5ososea.com
 jp.68360612.xyz
 dns.7sec.com.br
 dns.7vpn.com
-dns.886886886.xyz
 doh.crypto.sx
 ibuki.cgnat.net
 doh-2.seby.io

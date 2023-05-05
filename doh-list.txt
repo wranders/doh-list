@@ -1,4 +1,4 @@
-#e63900d58cc2e43d83f58b61641c7d5d12a7acffff95860da14c81a8e9327fc0
+#ad16f20459e93f1ed1d7ac33e6f9d9a028b03c7bf0221fb2430213b4d2650f38
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -88,7 +88,6 @@ dnsse-noads.alekberg.net
 dns.alidns.com
 dns.alloxr.info
 dns.almir1904.eu
-dns.alvosec.com
 adguard.ambiya.net
 mailer.amlegion.org
 dns.andrewnw.xyz
@@ -121,7 +120,6 @@ adguard.bitteeinbyte.de
 doh-ch.blahdns.com
 doh-sg.blahdns.com
 doh-fi.blahdns.com
-doh-jp.blahdns.com
 doh-de.blahdns.com
 us1.blissdns.net
 dns.blokada.org
@@ -293,7 +291,6 @@ ordns.he.net
 opennic.i2pd.xyz
 adguard.ihatemy.live
 ihctw.synology.me
-dns.ikataruto.com
 doh.buzz
 doh.beauty
 dns.imaicool.com
@@ -305,7 +302,6 @@ public.dns.iij.jp
 dns.invisv.com
 dns.ipv6dns.com
 irre.li
-dns1.irumatech.com
 dns.iamninja.ru
 dns.itdept.pro
 jackyes.ovh
@@ -364,7 +360,6 @@ blockerads.multimediaconcept.fr
 dns.murgi.de
 dns.muxinghe.cn
 www.muxyuji.ru
-freedom.mydns.network
 echoe1yidzu4ioo5.myfritz.net
 blackhole.myon.lu
 vm.mytm.cc
@@ -479,7 +474,6 @@ timmes.nl
 tk31z.com
 dns.tls-data.de
 d.toairs.com
-doh.totoro.pub
 dns.apigw.online
 tuandns.duckdns.org
 tungdnsne.duckdns.org

@@ -1,4 +1,4 @@
-#ad16f20459e93f1ed1d7ac33e6f9d9a028b03c7bf0221fb2430213b4d2650f38
+#00fdd8eda501d1e271d86e6247bd87a3b52253e11de2e0827be53025a77b8b94
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -272,7 +272,6 @@ gustamadh.dynv6.net
 cluster-0.gac.edu
 cluster-1.gac.edu
 gztech.me
-dns.ha-dvin.pp.ua
 dns.hafidzradhival.my.id
 adguard.haneulo.com
 dns.haoxuan.xyz

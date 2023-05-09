@@ -1,4 +1,4 @@
-#00fdd8eda501d1e271d86e6247bd87a3b52253e11de2e0827be53025a77b8b94
+#3c8eb845ad229c8522c1c0176191efa3deb35080a0671a6b73f779b9508b40c2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -118,7 +118,6 @@ ns3.bit-trail.nl
 dns.bitdefender.net
 adguard.bitteeinbyte.de
 doh-ch.blahdns.com
-doh-sg.blahdns.com
 doh-fi.blahdns.com
 doh-de.blahdns.com
 us1.blissdns.net
@@ -163,7 +162,6 @@ doh.xfinity.com
 dns.comeonjames.club
 dns.circl.lu
 dns.comss.one
-dns.connect.fail
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -238,7 +236,6 @@ hole.elbschloss.xyz
 dns.unerror.network
 dns.elemental.software
 dns.ellichua.com
-www.elshad-adgh-dns.ru
 dns.emiliyan.com
 dns.extrawdw.net
 rdns.faelix.net
@@ -359,9 +356,7 @@ blockerads.multimediaconcept.fr
 dns.murgi.de
 dns.muxinghe.cn
 www.muxyuji.ru
-echoe1yidzu4ioo5.myfritz.net
 blackhole.myon.lu
-vm.mytm.cc
 area51.mywire.org
 dns.mzrme.cn
 dns.nas-server.ru
@@ -480,7 +475,6 @@ dns.twnic.tw
 dns-east.tylerwahl.com
 typaza.com
 ueni.dyndns.org
-galileo.math.unipd.it
 resolver.unstoppable.io
 tor.vasi.li
 securedns.vendorvista.xyz
@@ -498,7 +492,6 @@ ychen.cf
 ychen.ga
 dns.youni.win
 yovbak.com
-dns.zfsystem.tech
 zxcvb.pp.ua
 dns.0ooo.icu
 t2c.240130034.xyz

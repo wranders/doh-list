@@ -1,4 +1,4 @@
-#3c8eb845ad229c8522c1c0176191efa3deb35080a0671a6b73f779b9508b40c2
+#23f287504047b57bcb53f63748c6fa52548046bfc253fe5889f71c6743231d0a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -86,7 +86,6 @@ dnsse.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
-dns.alloxr.info
 dns.almir1904.eu
 adguard.ambiya.net
 mailer.amlegion.org
@@ -402,10 +401,6 @@ punono.duckdns.org
 puredns.org
 doh.360.cn
 ns1.qquack.org
-dns.quad9.net
-dns9.quad9.net
-dns10.quad9.net
-dns11.quad9.net
 ant.dns.qwer.pw
 dog.dns.qwer.pw
 lion.dns.qwer.pw

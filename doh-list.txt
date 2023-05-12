@@ -1,4 +1,4 @@
-#23f287504047b57bcb53f63748c6fa52548046bfc253fe5889f71c6743231d0a
+#d5c4f473abcf8d7c081fe5ef5d530c3b017d1596f1204f64afbaf120634e4267
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	aihe.app
 #	axaxa.fun
 #	bcandrade.ml
 #	bluemood.me
@@ -80,7 +79,6 @@ blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
-aihe.app
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dnsnl-noads.alekberg.net

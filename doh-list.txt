@@ -1,4 +1,4 @@
-#d5c4f473abcf8d7c081fe5ef5d530c3b017d1596f1204f64afbaf120634e4267
+#b29426de9e374f134ace9362fe22701f5c95e81787c5608f4900a6befdc89f11
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	axaxa.fun
 #	bcandrade.ml
 #	bluemood.me
 #	cloudflare-dns.com
@@ -74,7 +73,6 @@ dns.adguard.com
 dns-family.adguard.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
-shield.afixer.app
 blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com
@@ -93,7 +91,6 @@ d.apemlegit.my.id
 armorrush.eu.org
 dns.artikel10.org
 dns.b612.me
-dohtrial.att.net
 secure.avastdns.com
 dns.keweon.center
 awan.ftp.sh
@@ -101,8 +98,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 pihole.aws.ketan.dev
-axaxa.fun
-dns.b33.space
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 jp-dns1.bancuh.com
@@ -270,7 +265,6 @@ dns.hafidzradhival.my.id
 adguard.haneulo.com
 dns.haoxuan.xyz
 us-ny-alula.heliumcloud.cc
-ad1.heronet.nl
 dns.hinet.net
 hitian.me
 pihole1.hoerli.net
@@ -358,7 +352,6 @@ area51.mywire.org
 dns.mzrme.cn
 dns.nas-server.ru
 dns.norvig.dk
-dns.neubsi.at
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -370,7 +363,6 @@ resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
 dns.novali.date
-dns.novg.net
 n5.lsasss.com
 dns8.org
 n0.eu
@@ -395,7 +387,6 @@ thanos.pleumkungz.com
 dns.porteii.com
 dns.privilab.net
 project-evoex.de
-punono.duckdns.org
 puredns.org
 doh.360.cn
 ns1.qquack.org

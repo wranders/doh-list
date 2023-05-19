@@ -1,4 +1,4 @@
-#b29426de9e374f134ace9362fe22701f5c95e81787c5608f4900a6befdc89f11
+#a5f9798967d5c1319ab91f75e22830bf0742e80b96f5a2873f4d113ce05db24c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -56,6 +56,7 @@
 #	ychen.cf
 #	ychen.ga
 #	yovbak.com
+#	0ms.run
 #
 
 dns-nyc.aaflalo.me
@@ -69,8 +70,8 @@ block.abstergo.it
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
-dns.adguard.com
-dns-family.adguard.com
+dns.adguard-dns.com
+family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
 blitz.ahadns.com
@@ -149,6 +150,7 @@ family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns-secondary.cloudnx.cloud
 adguard.clroot.io
+dns.codepays.net
 jpdns.cola16.app
 doh.xfinity.com
 dns.comeonjames.club
@@ -160,6 +162,7 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
+dns.cooluc.com
 cossxiu.ga
 dns.cwlys.com
 odvr.nic.cz
@@ -310,6 +313,7 @@ dns.kescher.at
 kilabit.info
 doh.killtw.im
 adguard.avdkishore.dev
+adguard.konikoni428.com
 korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
@@ -374,8 +378,8 @@ o1.lt
 dns.ofdoom.net
 secure.onedns.cc
 doh.onedns.net
-a-bld.sys-adm.in
-bld.sys-adm.in
+ada.openbld.net
+ric.openbld.net
 dns.opnsource.com.au
 osefcorp.duckdns.org
 1a.ns.ozer.im
@@ -477,6 +481,7 @@ ychen.ga
 dns.youni.win
 yovbak.com
 zxcvb.pp.ua
+0ms.run
 dns.0ooo.icu
 t2c.240130034.xyz
 doh003.280blocker.net

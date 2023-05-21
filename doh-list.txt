@@ -1,4 +1,4 @@
-#a5f9798967d5c1319ab91f75e22830bf0742e80b96f5a2873f4d113ce05db24c
+#a6b43edc7373efe2e2f1ed20b025780fc9fbaa8e72408594c952fbcd89ea492e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -169,6 +169,7 @@ odvr.nic.cz
 dns.d365.in
 dns.d94.xyz
 dns.d96.info
+cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
 dns.daw.dev
 ns.00dani.me
 darkness.is.my.waifu.cz
@@ -265,6 +266,7 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 gztech.me
 dns.hafidzradhival.my.id
+dns.hanahira.dev
 adguard.haneulo.com
 dns.haoxuan.xyz
 us-ny-alula.heliumcloud.cc

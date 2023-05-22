@@ -1,4 +1,4 @@
-#a6b43edc7373efe2e2f1ed20b025780fc9fbaa8e72408594c952fbcd89ea492e
+#a474624cc27b8102c012543bbba2765ee48c051acc1c4e1efa2c31650b0b1c7c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -104,7 +104,6 @@ fr-dns1.bancuh.com
 jp-dns1.bancuh.com
 bcandrade.ml
 dns.bebasid.com
-adguard.beliefanx.cn
 dns.belnet.be
 dns.benpro.fr
 ns3.bit-trail.nl
@@ -149,8 +148,6 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns-secondary.cloudnx.cloud
-adguard.clroot.io
-dns.codepays.net
 jpdns.cola16.app
 doh.xfinity.com
 dns.comeonjames.club
@@ -220,7 +217,6 @@ dns.pub
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
-ns1.dotls.org
 doh.dscloud.me
 dukun.de
 dns.dutchwhite.nl
@@ -247,7 +243,6 @@ dns.filipccz.eu
 dns01.flm9.net
 ns1.flodns.net
 ns2.flodns.net
-dns.flymc.cc
 dns.mipauns.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
@@ -328,7 +323,6 @@ eu1.dns.lavate.ch
 adguard1.leadmon.net
 adguard.lege.despagne.net
 externalmobiel.lekdijk.online
-sby-doh.limotelu.org
 lindung.pp.ua
 lindung.pp.ua
 orau.lz0724.com
@@ -357,7 +351,6 @@ blackhole.myon.lu
 area51.mywire.org
 dns.mzrme.cn
 dns.nas-server.ru
-dns.norvig.dk
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -449,7 +442,6 @@ doh.syshero.org
 dns.t53.de
 dns.telekom.de
 de.teradns.org
-ny.teradns.org
 cloud.tezoi.com
 dns.therifleman.name
 doh.tiar.app

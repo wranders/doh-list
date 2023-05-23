@@ -1,4 +1,4 @@
-#a474624cc27b8102c012543bbba2765ee48c051acc1c4e1efa2c31650b0b1c7c
+#8b36b453531dbf9d8112f1f59bbdb66a182ee38d9e08157ef1c8458c0cbc728c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -217,6 +217,7 @@ dns.pub
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
+dns.doh.best
 doh.dscloud.me
 dukun.de
 dns.dutchwhite.nl
@@ -317,7 +318,6 @@ xray.krnl.eu
 krtekvpn.duckdns.org
 adguard.kss.ovh
 doh.lacontrevoie.fr
-dns.lars-lehmann.net
 lastentarvike.fi
 eu1.dns.lavate.ch
 adguard1.leadmon.net
@@ -325,6 +325,7 @@ adguard.lege.despagne.net
 externalmobiel.lekdijk.online
 lindung.pp.ua
 lindung.pp.ua
+doh.dns1.lonet.org
 orau.lz0724.com
 dns.maolaohei.xyz
 masters-of-cloud.de
@@ -433,6 +434,7 @@ dns.startupstack.tech
 muli.stusta.mhn.de
 esel.stusta.mhn.de
 dns.stvsk.ml
+doh.sungai.stream
 guard.sntrk.ru
 dns.surfshark.com
 surt.ml
@@ -464,6 +466,7 @@ dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
 dns.vmath.my.id
+doh.rdns.vond.net
 dns.wakgood.net
 wantaquddin.com
 doh.xcom.pro

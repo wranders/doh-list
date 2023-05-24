@@ -1,4 +1,4 @@
-#8b36b453531dbf9d8112f1f59bbdb66a182ee38d9e08157ef1c8458c0cbc728c
+#4ed81e82b9782f4e4c3100a8542e6dcaf321fb9a4be45bced97f072ab889859b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	bcandrade.ml
 #	bluemood.me
 #	cloudflare-dns.com
 #	cossxiu.ga
@@ -102,7 +101,6 @@ pihole.aws.ketan.dev
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 jp-dns1.bancuh.com
-bcandrade.ml
 dns.bebasid.com
 dns.belnet.be
 dns.benpro.fr

@@ -1,4 +1,4 @@
-#4ed81e82b9782f4e4c3100a8542e6dcaf321fb9a4be45bced97f072ab889859b
+#3f5732b0ca02219cd5d1f25180f2ddde289123cef2f48cccc5cf93cdf4226989
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -73,6 +73,7 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
+ams.nl.agh-dns.net
 blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com

@@ -1,4 +1,4 @@
-#3f5732b0ca02219cd5d1f25180f2ddde289123cef2f48cccc5cf93cdf4226989
+#a112e195490ba97b87e02195afca1fb7a3241e995a3b7a6355025278e7b8da74
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,7 +39,6 @@
 #	ns3.cx
 #	ns3.link
 #	o1.lt
-#	project-evoex.de
 #	puredns.org
 #	r1bnc.com
 #	rayneau.fr
@@ -130,7 +129,6 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
 dns.chromeina.top
-oraclejp2.chungyu.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
@@ -165,7 +163,6 @@ odvr.nic.cz
 dns.d365.in
 dns.d94.xyz
 dns.d96.info
-cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
 dns.daw.dev
 ns.00dani.me
 darkness.is.my.waifu.cz
@@ -223,7 +220,6 @@ dns.dutchwhite.nl
 edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
-adguard.elashri.xyz
 hole.elbschloss.xyz
 dns.unerror.network
 dns.elemental.software
@@ -275,7 +271,6 @@ dns.hostux.net
 dns.hostux.net
 doth.huque.com
 ordns.he.net
-opennic.i2pd.xyz
 adguard.ihatemy.live
 ihctw.synology.me
 doh.buzz
@@ -383,9 +378,7 @@ dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 adguard.piekacz.pl
 thanos.pleumkungz.com
-dns.porteii.com
 dns.privilab.net
-project-evoex.de
 puredns.org
 doh.360.cn
 ns1.qquack.org
@@ -452,7 +445,6 @@ tk31z.com
 dns.tls-data.de
 d.toairs.com
 dns.apigw.online
-tuandns.duckdns.org
 tungdnsne.duckdns.org
 dns.twnic.tw
 dns-east.tylerwahl.com
@@ -465,7 +457,6 @@ dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
 dns.vmath.my.id
-doh.rdns.vond.net
 dns.wakgood.net
 wantaquddin.com
 doh.xcom.pro

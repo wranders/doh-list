@@ -1,4 +1,4 @@
-#a112e195490ba97b87e02195afca1fb7a3241e995a3b7a6355025278e7b8da74
+#b79042bafd803c05d9c323e81a3d1c615edaa18c6c7e949547e8a80f2c9bb64a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -291,6 +291,7 @@ tj.jamesxue.xyz
 adguard.jfchenier.ca
 adg.jnorton.us
 dns.joaofidelix.com.br
+vpn.jogjacloud.com
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
@@ -470,8 +471,8 @@ yovbak.com
 zxcvb.pp.ua
 0ms.run
 dns.0ooo.icu
-t2c.240130034.xyz
 doh003.280blocker.net
+140.238.202.136.sslip.io
 dns.52306.org
 dns.5ososea.com
 family.5ososea.com

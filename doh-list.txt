@@ -1,4 +1,4 @@
-#b79042bafd803c05d9c323e81a3d1c615edaa18c6c7e949547e8a80f2c9bb64a
+#fa2db7f93778aa705278cf6b4dec5356901ef7d87e40c7d993a533befaa5d367
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -23,9 +23,11 @@
 #	8888.google
 #	gztech.me
 #	hitian.me
+#	hoofoo.icu
 #	doh.buzz
 #	doh.beauty
 #	irre.li
+#	ivnkn.xyz
 #	jackyes.ovh
 #	kilabit.info
 #	korzhov.dev
@@ -58,6 +60,7 @@
 #
 
 dns-nyc.aaflalo.me
+dns.aaronplayzgaming.com
 aattwwss.duckdns.org
 abel.waringer-atg.de
 res-acst1.absolight.net
@@ -65,6 +68,7 @@ res-acst3.absolight.net
 resolver1.absolight.net
 resolver3.absolight.net
 block.abstergo.it
+adguard.acrobyte.org
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -72,22 +76,26 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
+adguard.agadez.net
 ams.nl.agh-dns.net
 blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
+adtec.aidentec.top
+www.aizi.app
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
 dns.almir1904.eu
-adguard.ambiya.net
+link.altapo.ru
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
 d.apemlegit.my.id
+arashi.eu.org
 armorrush.eu.org
 dns.artikel10.org
 dns.b612.me
@@ -106,7 +114,6 @@ dns.belnet.be
 dns.benpro.fr
 ns3.bit-trail.nl
 dns.bitdefender.net
-adguard.bitteeinbyte.de
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-de.blahdns.com
@@ -158,9 +165,12 @@ freedns.controld.com
 freedns.controld.com
 dns.cooluc.com
 cossxiu.ga
+dns.cretu.xyz
+dns.crownor.com
+dns.cryptomize.com
 dns.cwlys.com
+dns.cynthialabs.net
 odvr.nic.cz
-dns.d365.in
 dns.d94.xyz
 dns.d96.info
 dns.daw.dev
@@ -171,6 +181,7 @@ doh.datacore.ch
 doh.datahata.by
 pihole.datamatter.co.za
 adguard.ddns.network
+dns.decisivedevops.com
 dns.decloudus.com
 adguard.dekonix.ru
 adguard.depieri.net
@@ -217,6 +228,8 @@ dns.doh.best
 doh.dscloud.me
 dukun.de
 dns.dutchwhite.nl
+doh.apad.pro
+dns.ebner.tech
 edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
@@ -239,18 +252,26 @@ dns.filipccz.eu
 dns01.flm9.net
 ns1.flodns.net
 ns2.flodns.net
+dns.flwagners.com
 dns.mipauns.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
+dns.foximao.cn
 adguard.fresh-waffles.online
 dns.froth.zone
 doh.futa.gg
+dns2.gms.net.id
 adguard.gbrossi.com.br
 gclouddns.com
+bvo.giize.com
+dns.glorydns.com
 dns.gnb09.id
+dns.goldplate.org
 dns.google
 dns64.dns.google
 8888.google
+vpn.gosami.xyz
+addguard.greenet.id
 doh2.gslb2.xfinity.com
 gustamadh.dynv6.net
 cluster-0.gac.edu
@@ -267,17 +288,21 @@ pihole1.hoerli.net
 pihole2.hoerli.net
 pihole4.hoerli.net
 home27.duckdns.org
+hoofoo.icu
 dns.hostux.net
 dns.hostux.net
 doth.huque.com
 ordns.he.net
+dns-public.ibakerserver.pt
 adguard.ihatemy.live
 ihctw.synology.me
 doh.buzz
 doh.beauty
 dns.imaicool.com
+noads.imbuffering.com
 dns1.in-berlin.de
 dns.indust.me
+dns.inforlogia.com
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
@@ -286,9 +311,12 @@ dns.ipv6dns.com
 irre.li
 dns.iamninja.ru
 dns.itdept.pro
+ivnkn.xyz
+dns.jstockley.com
 jackyes.ovh
 tj.jamesxue.xyz
 adguard.jfchenier.ca
+dns.jinwoo.dev
 adg.jnorton.us
 dns.joaofidelix.com.br
 vpn.jogjacloud.com
@@ -305,6 +333,7 @@ dns.kernel-error.de
 dns.kescher.at
 kilabit.info
 doh.killtw.im
+storydoh.kinergetica.com
 adguard.avdkishore.dev
 adguard.konikoni428.com
 korzhov.dev
@@ -349,9 +378,14 @@ dns.mzrme.cn
 dns.nas-server.ru
 doh.luigi.nexific.it
 dns.nextdns.io
+dns.ngc7331.top
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
+dns.nguyendn.com
+dns1.nielsdb.be
+www.nilanjan.rocks
+dns1.niub.one
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
@@ -367,6 +401,7 @@ ns3.link
 dns.nullgate.net
 o1.lt
 dns.ofdoom.net
+hermes.ohai.ca
 secure.onedns.cc
 doh.onedns.net
 ada.openbld.net
@@ -377,9 +412,13 @@ osefcorp.duckdns.org
 dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
+darya.persiannit.net
 adguard.piekacz.pl
 thanos.pleumkungz.com
+privacy.plumedns.com
+dns.privado.ovh
 dns.privilab.net
+dns.purbalinggakab.go.id
 puredns.org
 doh.360.cn
 ns1.qquack.org
@@ -391,22 +430,30 @@ frog.dns.qwer.pw
 resolver.r0cket.net
 r1bnc.com
 ag.ssrahul96.xyz
+dns.worthmind.net
 rayneau.fr
 dns.reckoningslug.name
+chaos.altendorfme.com
 kaitain.restena.lu
 basic.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
+dns.rkjha.com.np
+adg.rokh.biz
 dns.ronc.ru
 dns.rotunneling.net
 adguard-dns.rouga.ch
+adguard.rowdyengeesje.nl
+dns.safeith.com
 safeservedns.com
 doh.safesurfer.io
 o.rsaikat.com
+cloud.samutz.com
 sbdns.co.in
 dns.sellan.fr
+dns.sev.monster
 shalenkov.dev
 free.shecan.ir
 dns.shecan.ir
@@ -422,19 +469,23 @@ sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
 clientdns3.softcom.net
+adguard.spaceindex.net
 dns.spil.co.id
+adguard.spyrisk.fr
 dns.startupstack.tech
 muli.stusta.mhn.de
 esel.stusta.mhn.de
 dns.stvsk.ml
 doh.sungai.stream
 guard.sntrk.ru
+dns.supercluster.io
 dns.surfshark.com
 surt.ml
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org
 dns.t53.de
+dns1.techeasy.org
 dns.telekom.de
 de.teradns.org
 cloud.tezoi.com
@@ -442,37 +493,66 @@ dns.therifleman.name
 doh.tiar.app
 doh.tiarap.org
 timmes.nl
+dns.timochan.cn
+dns.tipsy.coffee
 tk31z.com
 dns.tls-data.de
 d.toairs.com
 dns.apigw.online
+dns.tracker.ink
 tungdnsne.duckdns.org
 dns.twnic.tw
 dns-east.tylerwahl.com
 typaza.com
 ueni.dyndns.org
+open-resolver1.unima.ac.id
 resolver.unstoppable.io
+dns.uplenk.com
 tor.vasi.li
 securedns.vendorvista.xyz
 dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
+dns.vishalk.com
 dns.vmath.my.id
+vpn.vokuev.org
+killads.vpms.xyz
+doh.vpnglobal.my.id
 dns.wakgood.net
 wantaquddin.com
+dns.webstor.net
+adb-home.xaoimoon.fr
 doh.xcom.pro
 xenergy.cc
+agh.xinfeng16m.top
+v2.xm706v.com
+adguard.yamamoto.ren
+dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com
 ychen.cf
 ychen.ga
+doh.moeyk.com
+ora.yingroad.top
+appart.yoannchappaz.best
 dns.youni.win
 yovbak.com
+dns.yunmoc.top
+dns140.zhhz.cc
+dns168.zhhz.cc
 zxcvb.pp.ua
+dns.zxi7.cn
 0ms.run
 dns.0ooo.icu
-doh003.280blocker.net
+dns.1.bsh4.com
 140.238.202.136.sslip.io
+dns.209.wf
+dns.23-4.cn
+dns.240527.xyz
+doh003.280blocker.net
+doh.30x.me
+dns.4-the.win
+dns.5ive.net
 dns.52306.org
 dns.5ososea.com
 family.5ososea.com
@@ -480,6 +560,7 @@ kids.5ososea.com
 jp.68360612.xyz
 dns.7sec.com.br
 dns.7vpn.com
+www.91557.cn
 doh.crypto.sx
 ibuki.cgnat.net
 doh-2.seby.io

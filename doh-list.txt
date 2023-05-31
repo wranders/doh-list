@@ -1,4 +1,4 @@
-#fa2db7f93778aa705278cf6b4dec5356901ef7d87e40c7d993a533befaa5d367
+#fcdf33f1d3bcd63ab74d2b31e8cb492984ebdcf2b1b323d72c5fb67e42fb80c3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -18,7 +18,6 @@
 #	dns.pub
 #	dukun.de
 #	edgy-dns.com
-#	gclouddns.com
 #	dns.google
 #	8888.google
 #	gztech.me
@@ -234,7 +233,6 @@ edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
 hole.elbschloss.xyz
-dns.unerror.network
 dns.elemental.software
 dns.ellichua.com
 dns.emiliyan.com
@@ -262,7 +260,6 @@ dns.froth.zone
 doh.futa.gg
 dns2.gms.net.id
 adguard.gbrossi.com.br
-gclouddns.com
 bvo.giize.com
 dns.glorydns.com
 dns.gnb09.id
@@ -317,7 +314,6 @@ jackyes.ovh
 tj.jamesxue.xyz
 adguard.jfchenier.ca
 dns.jinwoo.dev
-adg.jnorton.us
 dns.joaofidelix.com.br
 vpn.jogjacloud.com
 dns.hahnjo.de
@@ -413,7 +409,6 @@ dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 darya.persiannit.net
-adguard.piekacz.pl
 thanos.pleumkungz.com
 privacy.plumedns.com
 dns.privado.ovh
@@ -459,7 +454,6 @@ free.shecan.ir
 dns.shecan.ir
 pro.shecan.ir
 do.shimul.me
-dns.shimul.me
 dns.lsho.top
 adguard.shuting.idv.tw
 dns.silen.org
@@ -534,7 +528,6 @@ ychen.cf
 ychen.ga
 doh.moeyk.com
 ora.yingroad.top
-appart.yoannchappaz.best
 dns.youni.win
 yovbak.com
 dns.yunmoc.top
@@ -543,7 +536,6 @@ dns168.zhhz.cc
 zxcvb.pp.ua
 dns.zxi7.cn
 0ms.run
-dns.0ooo.icu
 dns.1.bsh4.com
 140.238.202.136.sslip.io
 dns.209.wf

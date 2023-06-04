@@ -1,4 +1,4 @@
-#fcdf33f1d3bcd63ab74d2b31e8cb492984ebdcf2b1b323d72c5fb67e42fb80c3
+#070bb60f4f996049420426432bc734d70ae1fa0dc261675b0d10907e83131510
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -67,7 +67,6 @@ res-acst3.absolight.net
 resolver1.absolight.net
 resolver3.absolight.net
 block.abstergo.it
-adguard.acrobyte.org
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -151,7 +150,6 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns-secondary.cloudnx.cloud
-jpdns.cola16.app
 doh.xfinity.com
 dns.comeonjames.club
 dns.circl.lu
@@ -162,7 +160,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-dns.cooluc.com
 cossxiu.ga
 dns.cretu.xyz
 dns.crownor.com
@@ -270,7 +267,6 @@ dns64.dns.google
 vpn.gosami.xyz
 addguard.greenet.id
 doh2.gslb2.xfinity.com
-gustamadh.dynv6.net
 cluster-0.gac.edu
 cluster-1.gac.edu
 gztech.me
@@ -299,7 +295,6 @@ dns.imaicool.com
 noads.imbuffering.com
 dns1.in-berlin.de
 dns.indust.me
-dns.inforlogia.com
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
@@ -315,7 +310,6 @@ tj.jamesxue.xyz
 adguard.jfchenier.ca
 dns.jinwoo.dev
 dns.joaofidelix.com.br
-vpn.jogjacloud.com
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
@@ -381,7 +375,6 @@ doh.nic.lv
 dns.nguyendn.com
 dns1.nielsdb.be
 www.nilanjan.rocks
-dns1.niub.one
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
@@ -544,7 +537,6 @@ dns.240527.xyz
 doh003.280blocker.net
 doh.30x.me
 dns.4-the.win
-dns.5ive.net
 dns.52306.org
 dns.5ososea.com
 family.5ososea.com
@@ -552,7 +544,6 @@ kids.5ososea.com
 jp.68360612.xyz
 dns.7sec.com.br
 dns.7vpn.com
-www.91557.cn
 doh.crypto.sx
 ibuki.cgnat.net
 doh-2.seby.io

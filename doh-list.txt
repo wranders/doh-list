@@ -1,4 +1,4 @@
-#070bb60f4f996049420426432bc734d70ae1fa0dc261675b0d10907e83131510
+#f4291b04a262d3d79aa0794541cc2d33103837f4c079488402c931ba6009c907
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,7 +9,6 @@
 #
 #	bluemood.me
 #	cloudflare-dns.com
-#	cossxiu.ga
 #	dns0.eu
 #	doh.sb
 #	dnsenc.com
@@ -53,13 +52,11 @@
 #	wantaquddin.com
 #	xenergy.cc
 #	ychen.cf
-#	ychen.ga
 #	yovbak.com
 #	0ms.run
 #
 
 dns-nyc.aaflalo.me
-dns.aaronplayzgaming.com
 aattwwss.duckdns.org
 abel.waringer-atg.de
 res-acst1.absolight.net
@@ -81,7 +78,6 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 adtec.aidentec.top
-www.aizi.app
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dnsnl-noads.alekberg.net
@@ -160,9 +156,7 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-cossxiu.ga
 dns.cretu.xyz
-dns.crownor.com
 dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
@@ -229,7 +223,6 @@ dns.ebner.tech
 edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
-hole.elbschloss.xyz
 dns.elemental.software
 dns.ellichua.com
 dns.emiliyan.com
@@ -256,7 +249,6 @@ adguard.fresh-waffles.online
 dns.froth.zone
 doh.futa.gg
 dns2.gms.net.id
-adguard.gbrossi.com.br
 bvo.giize.com
 dns.glorydns.com
 dns.gnb09.id
@@ -266,7 +258,6 @@ dns64.dns.google
 8888.google
 vpn.gosami.xyz
 addguard.greenet.id
-doh2.gslb2.xfinity.com
 cluster-0.gac.edu
 cluster-1.gac.edu
 gztech.me
@@ -487,7 +478,6 @@ dns.tls-data.de
 d.toairs.com
 dns.apigw.online
 dns.tracker.ink
-tungdnsne.duckdns.org
 dns.twnic.tw
 dns-east.tylerwahl.com
 typaza.com
@@ -513,12 +503,10 @@ doh.xcom.pro
 xenergy.cc
 agh.xinfeng16m.top
 v2.xm706v.com
-adguard.yamamoto.ren
 dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com
 ychen.cf
-ychen.ga
 doh.moeyk.com
 ora.yingroad.top
 dns.youni.win

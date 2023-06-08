@@ -1,4 +1,4 @@
-#f4291b04a262d3d79aa0794541cc2d33103837f4c079488402c931ba6009c907
+#c023178e4fcf4ec805feba633bff151b5e7b1c3d0b3a8cc889e49a187e1aef3d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -27,7 +27,6 @@
 #	irre.li
 #	ivnkn.xyz
 #	jackyes.ovh
-#	kilabit.info
 #	korzhov.dev
 #	lastentarvike.fi
 #	masters-of-cloud.de
@@ -72,6 +71,7 @@ family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
 adguard.agadez.net
+dns.aganin.org
 ams.nl.agh-dns.net
 blitz.ahadns.com
 blitz.ahadns.com
@@ -93,6 +93,7 @@ arashi.eu.org
 armorrush.eu.org
 dns.artikel10.org
 dns.b612.me
+adguard.nocnik.org
 secure.avastdns.com
 dns.keweon.center
 awan.ftp.sh
@@ -156,6 +157,19 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
+freedns.controld.com
 dns.cretu.xyz
 dns.cryptomize.com
 dns.cwlys.com
@@ -192,7 +206,6 @@ dns.linkr.ninja
 ttag.dns.nomu.pw
 doh.dns.sb
 doh.sb
-apne1.dns.terumi.club
 doh.dns4all.eu
 nz01.dns4me.net
 au01.dns4me.net
@@ -249,6 +262,7 @@ adguard.fresh-waffles.online
 dns.froth.zone
 doh.futa.gg
 dns2.gms.net.id
+dns.freyja.pw
 bvo.giize.com
 dns.glorydns.com
 dns.gnb09.id
@@ -267,6 +281,7 @@ adguard.haneulo.com
 dns.haoxuan.xyz
 us-ny-alula.heliumcloud.cc
 dns.hinet.net
+dns.hinytz.com
 hitian.me
 pihole1.hoerli.net
 pihole2.hoerli.net
@@ -289,7 +304,6 @@ dns.indust.me
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
-dns.invisv.com
 dns.ipv6dns.com
 irre.li
 dns.iamninja.ru
@@ -301,6 +315,7 @@ tj.jamesxue.xyz
 adguard.jfchenier.ca
 dns.jinwoo.dev
 dns.joaofidelix.com.br
+dns.joey01245.nl
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
@@ -312,7 +327,6 @@ dns.karl.one
 keithchung.hopto.org
 dns.kernel-error.de
 dns.kescher.at
-kilabit.info
 doh.killtw.im
 storydoh.kinergetica.com
 adguard.avdkishore.dev
@@ -360,11 +374,12 @@ dns.nas-server.ru
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.ngc7331.top
+dns.nguyendn.com
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
-dns.nguyendn.com
 dns1.nielsdb.be
+dns.nikolagjorgjijoski.com
 www.nilanjan.rocks
 doh.niyawe.de
 dns.njal.la
@@ -397,6 +412,7 @@ thanos.pleumkungz.com
 privacy.plumedns.com
 dns.privado.ovh
 dns.privilab.net
+dns.pumpkinvrar.com
 dns.purbalinggakab.go.id
 puredns.org
 doh.360.cn
@@ -420,6 +436,7 @@ doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
 dns.rkjha.com.np
+dns.rohanjain.in
 adg.rokh.biz
 dns.ronc.ru
 dns.rotunneling.net
@@ -447,7 +464,6 @@ sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
 clientdns3.softcom.net
-adguard.spaceindex.net
 dns.spil.co.id
 adguard.spyrisk.fr
 dns.startupstack.tech
@@ -464,6 +480,7 @@ dns.syaifullah.com
 doh.syshero.org
 dns.t53.de
 dns1.techeasy.org
+doh.technochat.in
 dns.telekom.de
 de.teradns.org
 cloud.tezoi.com
@@ -481,7 +498,6 @@ dns.tracker.ink
 dns.twnic.tw
 dns-east.tylerwahl.com
 typaza.com
-ueni.dyndns.org
 open-resolver1.unima.ac.id
 resolver.unstoppable.io
 dns.uplenk.com
@@ -512,12 +528,9 @@ ora.yingroad.top
 dns.youni.win
 yovbak.com
 dns.yunmoc.top
-dns140.zhhz.cc
-dns168.zhhz.cc
 zxcvb.pp.ua
 dns.zxi7.cn
 0ms.run
-dns.1.bsh4.com
 140.238.202.136.sslip.io
 dns.209.wf
 dns.23-4.cn

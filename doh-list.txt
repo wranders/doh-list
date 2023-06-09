@@ -1,4 +1,4 @@
-#c023178e4fcf4ec805feba633bff151b5e7b1c3d0b3a8cc889e49a187e1aef3d
+#004c7ffa6399d2b37527ce83781d3cea7193d43291b43c88c9ce04a0bbba24f6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -288,6 +288,7 @@ pihole2.hoerli.net
 pihole4.hoerli.net
 home27.duckdns.org
 hoofoo.icu
+dns.hostingim.com
 dns.hostux.net
 dns.hostux.net
 doth.huque.com

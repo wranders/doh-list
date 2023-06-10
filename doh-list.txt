@@ -1,4 +1,4 @@
-#004c7ffa6399d2b37527ce83781d3cea7193d43291b43c88c9ce04a0bbba24f6
+#88ca4ef37694a19043801f2415b7c931983b4434fb546ebf1f0ef8c4386dd3e8
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -21,7 +21,6 @@
 #	8888.google
 #	gztech.me
 #	hitian.me
-#	hoofoo.icu
 #	doh.buzz
 #	doh.beauty
 #	irre.li
@@ -148,7 +147,6 @@ family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns-secondary.cloudnx.cloud
 doh.xfinity.com
-dns.comeonjames.club
 dns.circl.lu
 dns.comss.one
 freedns.controld.com
@@ -261,7 +259,6 @@ dns.foximao.cn
 adguard.fresh-waffles.online
 dns.froth.zone
 doh.futa.gg
-dns2.gms.net.id
 dns.freyja.pw
 bvo.giize.com
 dns.glorydns.com
@@ -281,18 +278,15 @@ adguard.haneulo.com
 dns.haoxuan.xyz
 us-ny-alula.heliumcloud.cc
 dns.hinet.net
-dns.hinytz.com
 hitian.me
 pihole1.hoerli.net
 pihole2.hoerli.net
 pihole4.hoerli.net
 home27.duckdns.org
-hoofoo.icu
 dns.hostingim.com
 dns.hostux.net
 dns.hostux.net
 doth.huque.com
-ordns.he.net
 dns-public.ibakerserver.pt
 adguard.ihatemy.live
 ihctw.synology.me

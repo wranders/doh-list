@@ -1,4 +1,4 @@
-#88ca4ef37694a19043801f2415b7c931983b4434fb546ebf1f0ef8c4386dd3e8
+#0b81c82c732d3a1d0c3e572950409e62ea0d85637d85c9c702741577fd0a42ab
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -69,7 +69,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
-adguard.agadez.net
 dns.aganin.org
 ams.nl.agh-dns.net
 blitz.ahadns.com
@@ -309,7 +308,6 @@ jackyes.ovh
 tj.jamesxue.xyz
 adguard.jfchenier.ca
 dns.jinwoo.dev
-dns.joaofidelix.com.br
 dns.joey01245.nl
 dns.hahnjo.de
 jp.tiar.app
@@ -341,7 +339,6 @@ lindung.pp.ua
 lindung.pp.ua
 doh.dns1.lonet.org
 orau.lz0724.com
-dns.maolaohei.xyz
 masters-of-cloud.de
 adguard.meddy94.de
 dns.meeo.win
@@ -363,7 +360,6 @@ dns.murgi.de
 dns.muxinghe.cn
 www.muxyuji.ru
 blackhole.myon.lu
-area51.mywire.org
 dns.mzrme.cn
 dns.nas-server.ru
 doh.luigi.nexific.it
@@ -460,7 +456,6 @@ dns.skrep.eu
 dns.slinkyman.net
 clientdns3.softcom.net
 dns.spil.co.id
-adguard.spyrisk.fr
 dns.startupstack.tech
 muli.stusta.mhn.de
 esel.stusta.mhn.de

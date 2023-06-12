@@ -1,4 +1,4 @@
-#0b81c82c732d3a1d0c3e572950409e62ea0d85637d85c9c702741577fd0a42ab
+#dede01b2ef7f66d82738068eea931707c6cb2985b0100e893107f4ca827abc31
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -110,6 +110,7 @@ dns.bitdefender.net
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-de.blahdns.com
+dns.blindtechs.com
 us1.blissdns.net
 dns.blokada.org
 bluemood.me

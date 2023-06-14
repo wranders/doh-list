@@ -1,4 +1,4 @@
-#dede01b2ef7f66d82738068eea931707c6cb2985b0100e893107f4ca827abc31
+#5644d0b5614cc23ff4a2ae056d74cecacac1cda8a2f508fc5d5bf425756c0b72
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -70,7 +70,6 @@ family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
 dns.aganin.org
-ams.nl.agh-dns.net
 blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com
@@ -256,7 +255,6 @@ dns.mipauns.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
 dns.foximao.cn
-adguard.fresh-waffles.online
 dns.froth.zone
 doh.futa.gg
 dns.freyja.pw
@@ -402,8 +400,8 @@ doh.gcp.pathofgrace.com
 darya.persiannit.net
 thanos.pleumkungz.com
 privacy.plumedns.com
+agh.printk.info
 dns.privado.ovh
-dns.privilab.net
 dns.pumpkinvrar.com
 dns.purbalinggakab.go.id
 puredns.org

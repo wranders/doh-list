@@ -1,4 +1,4 @@
-#5644d0b5614cc23ff4a2ae056d74cecacac1cda8a2f508fc5d5bf425756c0b72
+#2da2415d6850f88ab9b25687f605198bbdc2b544084957efef7cfcf8d8d9eeaf
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -54,7 +54,6 @@
 #	0ms.run
 #
 
-dns-nyc.aaflalo.me
 aattwwss.duckdns.org
 abel.waringer-atg.de
 res-acst1.absolight.net
@@ -69,8 +68,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
-dns.aganin.org
-blitz.ahadns.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
@@ -87,7 +84,6 @@ dns.andrewnw.xyz
 dns.aa.net.uk
 d.apemlegit.my.id
 arashi.eu.org
-armorrush.eu.org
 dns.artikel10.org
 dns.b612.me
 adguard.nocnik.org
@@ -138,13 +134,11 @@ dns.clanless.ovh
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
-cvt-ic-us-adns-001.clearviewtechnology.net
 cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-dns-secondary.cloudnx.cloud
 doh.xfinity.com
 dns.circl.lu
 dns.comss.one
@@ -167,6 +161,7 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
+doh.cornes.me
 dns.cretu.xyz
 dns.cryptomize.com
 dns.cwlys.com
@@ -181,11 +176,9 @@ mail.data.haus
 doh.datacore.ch
 doh.datahata.by
 pihole.datamatter.co.za
-adguard.ddns.network
 dns.decisivedevops.com
 dns.decloudus.com
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.dessoi.cloud
 doh-primary-pool.detoxifypornblocker.com
 mainframe.dewed.de
@@ -209,8 +202,6 @@ au01.dns4me.net
 au02.dns4me.net
 sg01.dns4me.net
 uk01.dns4me.net
-us01.dns4me.net
-us02.dns4me.net
 sa01.dns4me.net
 ca01.dns4me.net
 ca02.dns4me.net
@@ -278,7 +269,6 @@ us-ny-alula.heliumcloud.cc
 dns.hinet.net
 hitian.me
 pihole1.hoerli.net
-pihole2.hoerli.net
 pihole4.hoerli.net
 home27.duckdns.org
 dns.hostingim.com
@@ -345,6 +335,7 @@ chewbacca.meganerd.nl
 testaghome.meshkov.info
 dns.mikeliu.org
 dns.truong.fi
+doh.mmmalia.com
 dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
@@ -369,7 +360,6 @@ dns.nhtsky.com
 doh.lv
 doh.nic.lv
 dns1.nielsdb.be
-dns.nikolagjorgjijoski.com
 www.nilanjan.rocks
 doh.niyawe.de
 dns.njal.la
@@ -377,7 +367,6 @@ resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
 dns.novali.date
-n5.lsasss.com
 dns8.org
 n0.eu
 ns3.com
@@ -425,7 +414,6 @@ sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
-dns.rkjha.com.np
 dns.rohanjain.in
 adg.rokh.biz
 dns.ronc.ru
@@ -473,6 +461,7 @@ doh.technochat.in
 dns.telekom.de
 de.teradns.org
 cloud.tezoi.com
+doh.tvk.rwth-aachen.de
 dns.therifleman.name
 doh.tiar.app
 doh.tiarap.org
@@ -528,12 +517,10 @@ doh003.280blocker.net
 doh.30x.me
 dns.4-the.win
 dns.52306.org
-dns.5ososea.com
 family.5ososea.com
 kids.5ososea.com
 jp.68360612.xyz
 dns.7sec.com.br
-dns.7vpn.com
 doh.crypto.sx
 ibuki.cgnat.net
 doh-2.seby.io

@@ -1,4 +1,4 @@
-#2da2415d6850f88ab9b25687f605198bbdc2b544084957efef7cfcf8d8d9eeaf
+#b0e6fd2784cfb2e02ad2f9953fcc03a5e81ede359ca4f76aed59dfe911127839
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -140,7 +140,6 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 doh.xfinity.com
-dns.circl.lu
 dns.comss.one
 freedns.controld.com
 freedns.controld.com
@@ -205,7 +204,6 @@ uk01.dns4me.net
 sa01.dns4me.net
 ca01.dns4me.net
 ca02.dns4me.net
-www.dnsadguard.co.uk
 dns1.dnscrypt.ca
 dnsenc.com
 dnsforge.de
@@ -496,7 +494,6 @@ adb-home.xaoimoon.fr
 doh.xcom.pro
 xenergy.cc
 agh.xinfeng16m.top
-v2.xm706v.com
 dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com
@@ -507,7 +504,6 @@ dns.youni.win
 yovbak.com
 dns.yunmoc.top
 zxcvb.pp.ua
-dns.zxi7.cn
 0ms.run
 140.238.202.136.sslip.io
 dns.209.wf
@@ -520,7 +516,6 @@ dns.52306.org
 family.5ososea.com
 kids.5ososea.com
 jp.68360612.xyz
-dns.7sec.com.br
 doh.crypto.sx
 ibuki.cgnat.net
 doh-2.seby.io

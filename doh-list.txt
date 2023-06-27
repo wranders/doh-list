@@ -1,4 +1,4 @@
-#b0e6fd2784cfb2e02ad2f9953fcc03a5e81ede359ca4f76aed59dfe911127839
+#0337949f00d07080c65459301665e8698e327c43392c39a75ce3e65985a9965e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -77,8 +77,6 @@ dnsse.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
-dns.almir1904.eu
-link.altapo.ru
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
@@ -86,7 +84,6 @@ d.apemlegit.my.id
 arashi.eu.org
 dns.artikel10.org
 dns.b612.me
-adguard.nocnik.org
 secure.avastdns.com
 dns.keweon.center
 awan.ftp.sh
@@ -119,7 +116,6 @@ doh1.b-cdn.net
 dns.bw.i81.ru
 www.c-dns.com
 dns.carson-family.com
-dns2.cbio.top
 doh.ccb-net.it
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -240,7 +236,6 @@ dns01.flm9.net
 ns1.flodns.net
 ns2.flodns.net
 dns.flwagners.com
-dns.mipauns.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
 dns.foximao.cn
@@ -255,7 +250,6 @@ dns.google
 dns64.dns.google
 8888.google
 vpn.gosami.xyz
-addguard.greenet.id
 cluster-0.gac.edu
 cluster-1.gac.edu
 gztech.me
@@ -376,8 +370,6 @@ dns.ofdoom.net
 hermes.ohai.ca
 secure.onedns.cc
 doh.onedns.net
-ada.openbld.net
-ric.openbld.net
 dns.opnsource.com.au
 osefcorp.duckdns.org
 1a.ns.ozer.im
@@ -418,12 +410,10 @@ dns.ronc.ru
 dns.rotunneling.net
 adguard-dns.rouga.ch
 adguard.rowdyengeesje.nl
-dns.safeith.com
 safeservedns.com
 doh.safesurfer.io
 o.rsaikat.com
 cloud.samutz.com
-sbdns.co.in
 dns.sellan.fr
 dns.sev.monster
 shalenkov.dev
@@ -465,7 +455,6 @@ doh.tiar.app
 doh.tiarap.org
 timmes.nl
 dns.timochan.cn
-dns.tipsy.coffee
 tk31z.com
 dns.tls-data.de
 d.toairs.com
@@ -487,9 +476,7 @@ dns.vmath.my.id
 vpn.vokuev.org
 killads.vpms.xyz
 doh.vpnglobal.my.id
-dns.wakgood.net
 wantaquddin.com
-dns.webstor.net
 adb-home.xaoimoon.fr
 doh.xcom.pro
 xenergy.cc

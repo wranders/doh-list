@@ -1,4 +1,4 @@
-#0337949f00d07080c65459301665e8698e327c43392c39a75ce3e65985a9965e
+#f9a6d90535106718beb392a9cce644ac8663b9276846bf816d11c88f1f79cbd4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -48,7 +48,6 @@
 #	tk31z.com
 #	typaza.com
 #	wantaquddin.com
-#	xenergy.cc
 #	ychen.cf
 #	yovbak.com
 #	0ms.run
@@ -226,7 +225,6 @@ rdns.faelix.net
 pdns.faelix.net
 dnsvps.familiamv.ml
 dns.fancyorg.at
-dns.faze.dev
 ns0.fdn.fr
 ns1.fdn.fr
 ag.ff0x.ca
@@ -479,7 +477,6 @@ doh.vpnglobal.my.id
 wantaquddin.com
 adb-home.xaoimoon.fr
 doh.xcom.pro
-xenergy.cc
 agh.xinfeng16m.top
 dns.yameenassotally.com
 yarp.lefolgoc.net

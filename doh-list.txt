@@ -1,4 +1,4 @@
-#f9a6d90535106718beb392a9cce644ac8663b9276846bf816d11c88f1f79cbd4
+#86a2aced92bb205684297c878c40b1dd1308fe8a30e69104aec3f31b08e46436
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -344,7 +344,6 @@ dns.mzrme.cn
 dns.nas-server.ru
 doh.luigi.nexific.it
 dns.nextdns.io
-dns.ngc7331.top
 dns.nguyendn.com
 dns.nhtsky.com
 doh.lv
@@ -407,7 +406,6 @@ adg.rokh.biz
 dns.ronc.ru
 dns.rotunneling.net
 adguard-dns.rouga.ch
-adguard.rowdyengeesje.nl
 safeservedns.com
 doh.safesurfer.io
 o.rsaikat.com

@@ -1,4 +1,4 @@
-#86a2aced92bb205684297c878c40b1dd1308fe8a30e69104aec3f31b08e46436
+#8600f9906593466f1d65025ee63b0a56dea2829d3ec4c8cb4780e6f1bd4c0ade
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -421,6 +421,7 @@ dns.lsho.top
 adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
+dns.sips.my.id
 dns.siry.de
 sitdns.com
 dns.skrep.eu

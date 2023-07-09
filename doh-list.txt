@@ -1,4 +1,4 @@
-#8600f9906593466f1d65025ee63b0a56dea2829d3ec4c8cb4780e6f1bd4c0ade
+#0f5cebefe461cde6ef7dafb6567d424fa57a0012123dd0d260d944ae945f0390
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -155,7 +155,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-doh.cornes.me
 dns.cretu.xyz
 dns.cryptomize.com
 dns.cwlys.com
@@ -403,7 +402,6 @@ resolver.rferee.dev
 dns.rin.sh
 dns.rohanjain.in
 adg.rokh.biz
-dns.ronc.ru
 dns.rotunneling.net
 adguard-dns.rouga.ch
 safeservedns.com

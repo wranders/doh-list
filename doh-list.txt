@@ -1,4 +1,4 @@
-#0f5cebefe461cde6ef7dafb6567d424fa57a0012123dd0d260d944ae945f0390
+#3ba9ac069c67737bdc42f39328122b10aeeca7c05b8758f5f5b33dcd10a897c8
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -114,6 +114,8 @@ doh.bt.com
 doh1.b-cdn.net
 dns.bw.i81.ru
 www.c-dns.com
+doh.aaaab3n.moe
+asia-east2-pfrmxgnk.cloudfunctions.net
 dns.carson-family.com
 doh.ccb-net.it
 doh-01.spectrum.com
@@ -226,6 +228,7 @@ dnsvps.familiamv.ml
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
+dns.feldy.my.id
 ag.ff0x.ca
 doh.ffmuc.net
 dns.filipccz.eu
@@ -327,6 +330,7 @@ dns.truong.fi
 doh.mmmalia.com
 dnstls.mobik.com
 ps1.modr.club
+blog.kimiblock.top
 dns.molinero.dev
 dns.moonssif.com
 www.morbitzer.de
@@ -354,6 +358,8 @@ dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
+1.dns.noridev.moe
+2.dns.noridev.moe
 dns.novali.date
 dns8.org
 n0.eu
@@ -362,6 +368,7 @@ ns3.cx
 ns3.link
 dns.nullgate.net
 o1.lt
+dot.occ.top
 dns.ofdoom.net
 hermes.ohai.ca
 secure.onedns.cc

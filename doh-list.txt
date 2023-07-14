@@ -1,4 +1,4 @@
-#3ba9ac069c67737bdc42f39328122b10aeeca7c05b8758f5f5b33dcd10a897c8
+#5956cf2009f859c779c1832547483b1c17377b236f93245f4a6ba99f7650b5d1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -8,6 +8,7 @@
 #   !!! may block regular web access to these services.
 #
 #	bluemood.me
+#	chandr1000.net
 #	cloudflare-dns.com
 #	dns0.eu
 #	doh.sb
@@ -17,6 +18,7 @@
 #	dns.pub
 #	dukun.de
 #	edgy-dns.com
+#	eth.link
 #	dns.google
 #	8888.google
 #	gztech.me
@@ -118,6 +120,7 @@ doh.aaaab3n.moe
 asia-east2-pfrmxgnk.cloudfunctions.net
 dns.carson-family.com
 doh.ccb-net.it
+chandr1000.net
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
@@ -221,6 +224,7 @@ adguard.ef67daisuki.club
 dns.elemental.software
 dns.ellichua.com
 dns.emiliyan.com
+eth.link
 dns.extrawdw.net
 rdns.faelix.net
 pdns.faelix.net
@@ -295,6 +299,7 @@ jp.tiar.app
 jp.tiarap.org
 adguard1.jsanagustin.net
 dns.jucker.engineering
+dns.jupitrdns.net
 jurre-home.duckdns.org
 dns.kamilszczepanski.com
 dns.karl.one

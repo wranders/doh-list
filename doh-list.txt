@@ -1,4 +1,4 @@
-#5956cf2009f859c779c1832547483b1c17377b236f93245f4a6ba99f7650b5d1
+#12e305be93ceef9c6f77fe2ffc2cc96bd19a8d25a4c7bde2a6fb6332f0146634
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -11,6 +11,8 @@
 #	chandr1000.net
 #	cloudflare-dns.com
 #	dns0.eu
+#	dns-free.link
+#	dns-free.link
 #	doh.sb
 #	dnsenc.com
 #	dnsforge.de
@@ -81,6 +83,7 @@ dns.alidns.com
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
+secure.anudeep.me
 d.apemlegit.my.id
 arashi.eu.org
 dns.artikel10.org
@@ -188,6 +191,8 @@ open.dns0.eu
 dns0.eu
 zero.dns0.eu
 kids.dns0.eu
+dns-free.link
+dns-free.link
 dns-doh.dnsforfamily.com
 dns.digitalsize.net
 dns.linkr.ninja
@@ -420,6 +425,7 @@ safeservedns.com
 doh.safesurfer.io
 o.rsaikat.com
 cloud.samutz.com
+dns.sarak.as
 dns.sellan.fr
 dns.sev.monster
 shalenkov.dev

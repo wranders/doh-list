@@ -1,4 +1,4 @@
-#12e305be93ceef9c6f77fe2ffc2cc96bd19a8d25a4c7bde2a6fb6332f0146634
+#48af047446fcd3310d3353225501849c6f825e4df59ec01d9644396bc7f9c7ca
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -106,7 +106,6 @@ dns.bitdefender.net
 doh-ch.blahdns.com
 doh-fi.blahdns.com
 doh-de.blahdns.com
-dns.blindtechs.com
 us1.blissdns.net
 dns.blokada.org
 bluemood.me
@@ -168,7 +167,6 @@ dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
 odvr.nic.cz
-dns.d94.xyz
 dns.d96.info
 dns.daw.dev
 ns.00dani.me
@@ -226,6 +224,7 @@ dns.ebner.tech
 edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
+dns.electrotm.org
 dns.elemental.software
 dns.ellichua.com
 dns.emiliyan.com
@@ -270,7 +269,6 @@ us-ny-alula.heliumcloud.cc
 dns.hinet.net
 hitian.me
 pihole1.hoerli.net
-pihole4.hoerli.net
 home27.duckdns.org
 dns.hostingim.com
 dns.hostux.net
@@ -302,8 +300,6 @@ dns.joey01245.nl
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
-adguard1.jsanagustin.net
-dns.jucker.engineering
 dns.jupitrdns.net
 jurre-home.duckdns.org
 dns.kamilszczepanski.com
@@ -395,7 +391,6 @@ privacy.plumedns.com
 agh.printk.info
 dns.privado.ovh
 dns.pumpkinvrar.com
-dns.purbalinggakab.go.id
 puredns.org
 doh.360.cn
 ns1.qquack.org
@@ -407,7 +402,6 @@ frog.dns.qwer.pw
 resolver.r0cket.net
 r1bnc.com
 ag.ssrahul96.xyz
-dns.worthmind.net
 rayneau.fr
 dns.reckoningslug.name
 chaos.altendorfme.com
@@ -437,7 +431,6 @@ dns.lsho.top
 adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
-dns.sips.my.id
 dns.siry.de
 sitdns.com
 dns.skrep.eu
@@ -450,7 +443,6 @@ esel.stusta.mhn.de
 dns.stvsk.ml
 doh.sungai.stream
 guard.sntrk.ru
-dns.supercluster.io
 dns.surfshark.com
 surt.ml
 dns.switch.ch
@@ -461,7 +453,6 @@ dns1.techeasy.org
 doh.technochat.in
 dns.telekom.de
 de.teradns.org
-cloud.tezoi.com
 doh.tvk.rwth-aachen.de
 dns.therifleman.name
 doh.tiar.app
@@ -486,7 +477,6 @@ virga.pp.ua
 virga.pp.ua
 dns.vishalk.com
 dns.vmath.my.id
-vpn.vokuev.org
 killads.vpms.xyz
 doh.vpnglobal.my.id
 wantaquddin.com
@@ -497,15 +487,12 @@ dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com
 ychen.cf
-doh.moeyk.com
 ora.yingroad.top
 dns.youni.win
 yovbak.com
-dns.yunmoc.top
 zxcvb.pp.ua
 0ms.run
 140.238.202.136.sslip.io
-dns.209.wf
 dns.23-4.cn
 dns.240527.xyz
 doh003.280blocker.net
@@ -514,7 +501,6 @@ dns.4-the.win
 dns.52306.org
 family.5ososea.com
 kids.5ososea.com
-jp.68360612.xyz
 doh.crypto.sx
 ibuki.cgnat.net
 doh-2.seby.io

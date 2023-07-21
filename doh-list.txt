@@ -1,4 +1,4 @@
-#6544f30f7507e3f03e324bd5cc3093db05033e08891b4fb651056cdd59201780
+#7f2da77e9701f0f507b0338ca9265239664aa5bb8c9e8505a4864551b77a9dc3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -47,7 +47,6 @@
 #	safeservedns.com
 #	shalenkov.dev
 #	sitdns.com
-#	surt.ml
 #	timmes.nl
 #	tk31z.com
 #	typaza.com
@@ -142,7 +141,6 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 doh.xfinity.com
-dns.comss.one
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -180,7 +178,6 @@ dns.decloudus.com
 adguard.dekonix.ru
 adguard.dessoi.cloud
 doh-primary-pool.detoxifypornblocker.com
-mainframe.dewed.de
 dgca.myds.me
 dns.dgea.fr
 dns.digitale-gesellschaft.ch
@@ -232,7 +229,6 @@ eth.link
 dns.extrawdw.net
 rdns.faelix.net
 pdns.faelix.net
-dnsvps.familiamv.ml
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
@@ -241,7 +237,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns.filipccz.eu
 dns01.flm9.net
-ns1.flodns.net
 ns2.flodns.net
 dns.flwagners.com
 gateway.fomichev.cloud
@@ -300,7 +295,6 @@ dns.joey01245.nl
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
-dns.jupitrdns.net
 jurre-home.duckdns.org
 dns.kamilszczepanski.com
 dns.karl.one
@@ -444,7 +438,6 @@ dns.stvsk.ml
 doh.sungai.stream
 guard.sntrk.ru
 dns.surfshark.com
-surt.ml
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org
@@ -465,7 +458,6 @@ d.toairs.com
 dns.apigw.online
 dns.tracker.ink
 dns.twnic.tw
-dns-east.tylerwahl.com
 typaza.com
 open-resolver1.unima.ac.id
 resolver.unstoppable.io

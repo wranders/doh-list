@@ -1,4 +1,4 @@
-#7f2da77e9701f0f507b0338ca9265239664aa5bb8c9e8505a4864551b77a9dc3
+#0df5cd4563c0a2e2a4372ddad2ad84556a1dda9c810bca62bf6a973fc31ccee6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -85,6 +85,7 @@ dns.aa.net.uk
 secure.anudeep.me
 d.apemlegit.my.id
 arashi.eu.org
+dns.arroudlohgpg.site
 dns.artikel10.org
 dns.b612.me
 secure.avastdns.com

@@ -1,4 +1,4 @@
-#0df5cd4563c0a2e2a4372ddad2ad84556a1dda9c810bca62bf6a973fc31ccee6
+#23a6d4a8e5caaa1676e6671eac39d78e261f4cc7c136a21bbb7ae46065373f7b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -174,7 +174,6 @@ mail.data.haus
 doh.datacore.ch
 doh.datahata.by
 pihole.datamatter.co.za
-dns.decisivedevops.com
 dns.decloudus.com
 adguard.dekonix.ru
 adguard.dessoi.cloud
@@ -238,7 +237,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns.filipccz.eu
 dns01.flm9.net
-ns2.flodns.net
 dns.flwagners.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
@@ -348,7 +346,6 @@ dns.mzrme.cn
 dns.nas-server.ru
 doh.luigi.nexific.it
 dns.nextdns.io
-dns.nguyendn.com
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
@@ -460,7 +457,6 @@ dns.apigw.online
 dns.tracker.ink
 dns.twnic.tw
 typaza.com
-open-resolver1.unima.ac.id
 resolver.unstoppable.io
 dns.uplenk.com
 tor.vasi.li
@@ -480,7 +476,6 @@ dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com
 ychen.cf
-ora.yingroad.top
 dns.youni.win
 yovbak.com
 zxcvb.pp.ua

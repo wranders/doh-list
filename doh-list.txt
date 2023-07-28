@@ -1,4 +1,4 @@
-#23a6d4a8e5caaa1676e6671eac39d78e261f4cc7c136a21bbb7ae46065373f7b
+#ce1ba24415e7876d2627ad3c4b372558fbabbb7c884896db8cbf594eb968d796
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -46,7 +46,6 @@
 #	rayneau.fr
 #	safeservedns.com
 #	shalenkov.dev
-#	sitdns.com
 #	timmes.nl
 #	tk31z.com
 #	typaza.com
@@ -85,7 +84,6 @@ dns.aa.net.uk
 secure.anudeep.me
 d.apemlegit.my.id
 arashi.eu.org
-dns.arroudlohgpg.site
 dns.artikel10.org
 dns.b612.me
 secure.avastdns.com
@@ -332,7 +330,6 @@ ps1.modr.club
 blog.kimiblock.top
 dns.molinero.dev
 dns.moonssif.com
-www.morbitzer.de
 msr177.com
 dns.msxnet.ru
 doh.mullvad.net
@@ -368,7 +365,6 @@ dns.nullgate.net
 o1.lt
 dot.occ.top
 dns.ofdoom.net
-hermes.ohai.ca
 secure.onedns.cc
 doh.onedns.net
 dns.opnsource.com.au
@@ -424,7 +420,7 @@ adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
 dns.siry.de
-sitdns.com
+dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
 clientdns3.softcom.net

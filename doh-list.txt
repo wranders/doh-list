@@ -1,4 +1,4 @@
-#ce1ba24415e7876d2627ad3c4b372558fbabbb7c884896db8cbf594eb968d796
+#8938f79f4612619068726a03896b5b1b7617f4a3d1be0625b2386edc96206450
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -124,7 +124,6 @@ chandr1000.net
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
-dns.chromeina.top
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
@@ -159,7 +158,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-dns.cretu.xyz
 dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
@@ -220,7 +218,6 @@ edgy-dns.com
 dns.edison42.dev
 adguard.ef67daisuki.club
 dns.electrotm.org
-dns.elemental.software
 dns.ellichua.com
 dns.emiliyan.com
 eth.link
@@ -431,7 +428,6 @@ esel.stusta.mhn.de
 dns.stvsk.ml
 doh.sungai.stream
 guard.sntrk.ru
-dns.surfshark.com
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org

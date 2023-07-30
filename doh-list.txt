@@ -1,4 +1,4 @@
-#8938f79f4612619068726a03896b5b1b7617f4a3d1be0625b2386edc96206450
+#d026a624e5c8901034fc3d17b913a5266d81c1864dc68a8032d9424944b47a68
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -460,6 +460,7 @@ dns.vishalk.com
 dns.vmath.my.id
 killads.vpms.xyz
 doh.vpnglobal.my.id
+dns.wang.art
 wantaquddin.com
 adb-home.xaoimoon.fr
 doh.xcom.pro

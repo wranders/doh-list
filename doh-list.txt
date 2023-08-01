@@ -1,4 +1,4 @@
-#d026a624e5c8901034fc3d17b913a5266d81c1864dc68a8032d9424944b47a68
+#aeaee968b94ffc3c6e703a561da26b52c262a2b4a306c1a1e2d81626406b2caf
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -95,7 +95,6 @@ awan.ftp.sh
 pihole.aws.ketan.dev
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
-jp-dns1.bancuh.com
 dns.bebasid.com
 dns.belnet.be
 dns.benpro.fr
@@ -171,7 +170,6 @@ doh.datacore.ch
 doh.datahata.by
 pihole.datamatter.co.za
 dns.decloudus.com
-adguard.dekonix.ru
 adguard.dessoi.cloud
 doh-primary-pool.detoxifypornblocker.com
 dgca.myds.me
@@ -307,7 +305,6 @@ adguard.kss.ovh
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
-adguard1.leadmon.net
 adguard.lege.despagne.net
 externalmobiel.lekdijk.online
 lindung.pp.ua
@@ -331,7 +328,6 @@ msr177.com
 dns.msxnet.ru
 doh.mullvad.net
 adblock.doh.mullvad.net
-blockerads.multimediaconcept.fr
 dns.murgi.de
 dns.muxinghe.cn
 www.muxyuji.ru

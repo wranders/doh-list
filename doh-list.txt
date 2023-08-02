@@ -1,4 +1,4 @@
-#aeaee968b94ffc3c6e703a561da26b52c262a2b4a306c1a1e2d81626406b2caf
+#7469ce8f9f98fcb0af5b7d7c4d2536ec32a1b9bd856068ca6f7e561e94c0d966
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -303,6 +303,7 @@ xray.krnl.eu
 krtekvpn.duckdns.org
 adguard.kss.ovh
 doh.lacontrevoie.fr
+dns.laison.ltd
 lastentarvike.fi
 eu1.dns.lavate.ch
 adguard.lege.despagne.net

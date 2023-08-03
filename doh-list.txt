@@ -1,4 +1,4 @@
-#7469ce8f9f98fcb0af5b7d7c4d2536ec32a1b9bd856068ca6f7e561e94c0d966
+#a3d76e162467f720a565d86aaadfd895ae39873b3882db35fffffd8eaf9d3378
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -21,6 +21,7 @@
 #	dukun.de
 #	edgy-dns.com
 #	eth.link
+#	everovpn.co
 #	dns.google
 #	8888.google
 #	gztech.me
@@ -32,6 +33,7 @@
 #	jackyes.ovh
 #	korzhov.dev
 #	lastentarvike.fi
+#	mailkyb.co
 #	masters-of-cloud.de
 #	msr177.com
 #	doh.lv
@@ -92,10 +94,12 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
+adb.aadityakushwaha.com
 pihole.aws.ketan.dev
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 dns.bebasid.com
+justhost.bedro.cloud
 dns.belnet.be
 dns.benpro.fr
 ns3.bit-trail.nl
@@ -132,6 +136,7 @@ dns.clanless.ovh
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
+cloud.198.games
 cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
@@ -219,6 +224,7 @@ dns.electrotm.org
 dns.ellichua.com
 dns.emiliyan.com
 eth.link
+everovpn.co
 dns.extrawdw.net
 rdns.faelix.net
 pdns.faelix.net
@@ -312,6 +318,7 @@ lindung.pp.ua
 lindung.pp.ua
 doh.dns1.lonet.org
 orau.lz0724.com
+mailkyb.co
 masters-of-cloud.de
 adguard.meddy94.de
 dns.meeo.win
@@ -425,6 +432,7 @@ esel.stusta.mhn.de
 dns.stvsk.ml
 doh.sungai.stream
 guard.sntrk.ru
+adguard.streamlas.fr
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org
@@ -459,6 +467,7 @@ killads.vpms.xyz
 doh.vpnglobal.my.id
 dns.wang.art
 wantaquddin.com
+dns.wibenson.cloud
 adb-home.xaoimoon.fr
 doh.xcom.pro
 agh.xinfeng16m.top
@@ -468,6 +477,7 @@ lion.yazilimatolye.com
 ychen.cf
 dns.youni.win
 yovbak.com
+adg.yybyy.wiki
 zxcvb.pp.ua
 0ms.run
 140.238.202.136.sslip.io

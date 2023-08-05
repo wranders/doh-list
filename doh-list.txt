@@ -1,4 +1,4 @@
-#a3d76e162467f720a565d86aaadfd895ae39873b3882db35fffffd8eaf9d3378
+#e316d2b26c36d8df931f1f58edf89caabff1ae593d8bc170e1e9d3306f024f10
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -20,7 +20,6 @@
 #	dns.pub
 #	dukun.de
 #	edgy-dns.com
-#	eth.link
 #	everovpn.co
 #	dns.google
 #	8888.google
@@ -120,7 +119,6 @@ doh1.b-cdn.net
 dns.bw.i81.ru
 www.c-dns.com
 doh.aaaab3n.moe
-asia-east2-pfrmxgnk.cloudfunctions.net
 dns.carson-family.com
 doh.ccb-net.it
 chandr1000.net
@@ -223,7 +221,6 @@ adguard.ef67daisuki.club
 dns.electrotm.org
 dns.ellichua.com
 dns.emiliyan.com
-eth.link
 everovpn.co
 dns.extrawdw.net
 rdns.faelix.net
@@ -368,7 +365,6 @@ dot.occ.top
 dns.ofdoom.net
 secure.onedns.cc
 doh.onedns.net
-dns.opnsource.com.au
 osefcorp.duckdns.org
 1a.ns.ozer.im
 dns.paesa.es
@@ -416,7 +412,6 @@ free.shecan.ir
 dns.shecan.ir
 pro.shecan.ir
 do.shimul.me
-dns.lsho.top
 adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com

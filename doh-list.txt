@@ -1,4 +1,4 @@
-#e316d2b26c36d8df931f1f58edf89caabff1ae593d8bc170e1e9d3306f024f10
+#38ce91b15029f2d232216a6a157faa9e98337883ea53cadce7fdccebead1c071
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -51,7 +51,6 @@
 #	tk31z.com
 #	typaza.com
 #	wantaquddin.com
-#	ychen.cf
 #	yovbak.com
 #	0ms.run
 #
@@ -436,7 +435,6 @@ dns1.techeasy.org
 doh.technochat.in
 dns.telekom.de
 de.teradns.org
-doh.tvk.rwth-aachen.de
 dns.therifleman.name
 doh.tiar.app
 doh.tiarap.org
@@ -469,7 +467,6 @@ agh.xinfeng16m.top
 dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com
-ychen.cf
 dns.youni.win
 yovbak.com
 adg.yybyy.wiki

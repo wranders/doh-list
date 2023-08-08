@@ -1,4 +1,4 @@
-#38ce91b15029f2d232216a6a157faa9e98337883ea53cadce7fdccebead1c071
+#2449b763751630425f30aa719f96b2bfa6200311f02d4bea8dc365ce01c609e4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -49,7 +49,6 @@
 #	shalenkov.dev
 #	timmes.nl
 #	tk31z.com
-#	typaza.com
 #	wantaquddin.com
 #	yovbak.com
 #	0ms.run
@@ -259,7 +258,6 @@ dns.hinet.net
 hitian.me
 pihole1.hoerli.net
 home27.duckdns.org
-dns.hostingim.com
 dns.hostux.net
 dns.hostux.net
 doth.huque.com
@@ -446,7 +444,6 @@ d.toairs.com
 dns.apigw.online
 dns.tracker.ink
 dns.twnic.tw
-typaza.com
 resolver.unstoppable.io
 dns.uplenk.com
 tor.vasi.li

@@ -1,4 +1,4 @@
-#2449b763751630425f30aa719f96b2bfa6200311f02d4bea8dc365ce01c609e4
+#cfeec8fc488f1ce9909bd744792d549db016ff6920be7feaa1bf5daff007a798
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -43,7 +43,6 @@
 #	ns3.link
 #	o1.lt
 #	puredns.org
-#	r1bnc.com
 #	rayneau.fr
 #	safeservedns.com
 #	shalenkov.dev
@@ -82,7 +81,6 @@ dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
 d.apemlegit.my.id
-arashi.eu.org
 dns.artikel10.org
 dns.b612.me
 secure.avastdns.com
@@ -174,7 +172,6 @@ dns.decloudus.com
 adguard.dessoi.cloud
 doh-primary-pool.detoxifypornblocker.com
 dgca.myds.me
-dns.dgea.fr
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 open.dns0.eu
@@ -212,10 +209,8 @@ doh.dscloud.me
 dukun.de
 dns.dutchwhite.nl
 doh.apad.pro
-dns.ebner.tech
 edgy-dns.com
 dns.edison42.dev
-adguard.ef67daisuki.club
 dns.electrotm.org
 dns.ellichua.com
 dns.emiliyan.com
@@ -256,7 +251,6 @@ dns.haoxuan.xyz
 us-ny-alula.heliumcloud.cc
 dns.hinet.net
 hitian.me
-pihole1.hoerli.net
 home27.duckdns.org
 dns.hostux.net
 dns.hostux.net
@@ -303,7 +297,6 @@ xray.krnl.eu
 krtekvpn.duckdns.org
 adguard.kss.ovh
 doh.lacontrevoie.fr
-dns.laison.ltd
 lastentarvike.fi
 eu1.dns.lavate.ch
 adguard.lege.despagne.net
@@ -342,7 +335,6 @@ dns.nhtsky.com
 doh.lv
 doh.nic.lv
 dns1.nielsdb.be
-www.nilanjan.rocks
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
@@ -368,7 +360,6 @@ dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 darya.persiannit.net
-thanos.pleumkungz.com
 privacy.plumedns.com
 agh.printk.info
 dns.privado.ovh
@@ -382,7 +373,6 @@ lion.dns.qwer.pw
 tiger.dns.qwer.pw
 frog.dns.qwer.pw
 resolver.r0cket.net
-r1bnc.com
 ag.ssrahul96.xyz
 rayneau.fr
 dns.reckoningslug.name
@@ -393,7 +383,6 @@ sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
-dns.rohanjain.in
 adg.rokh.biz
 dns.rotunneling.net
 adguard-dns.rouga.ch
@@ -437,7 +426,6 @@ dns.therifleman.name
 doh.tiar.app
 doh.tiarap.org
 timmes.nl
-dns.timochan.cn
 tk31z.com
 dns.tls-data.de
 d.toairs.com
@@ -446,7 +434,6 @@ dns.tracker.ink
 dns.twnic.tw
 resolver.unstoppable.io
 dns.uplenk.com
-tor.vasi.li
 securedns.vendorvista.xyz
 dns.vinnyp.xyz
 virga.pp.ua
@@ -469,7 +456,6 @@ yovbak.com
 adg.yybyy.wiki
 zxcvb.pp.ua
 0ms.run
-140.238.202.136.sslip.io
 dns.23-4.cn
 dns.240527.xyz
 doh003.280blocker.net

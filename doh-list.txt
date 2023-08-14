@@ -1,4 +1,4 @@
-#cfeec8fc488f1ce9909bd744792d549db016ff6920be7feaa1bf5daff007a798
+#f3c64509777afd551dd668e64ddbc863bc647c54f76a5716d35120fe3f144c2b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,7 +41,6 @@
 #	ns3.com
 #	ns3.cx
 #	ns3.link
-#	o1.lt
 #	puredns.org
 #	rayneau.fr
 #	safeservedns.com
@@ -349,7 +348,6 @@ ns3.com
 ns3.cx
 ns3.link
 dns.nullgate.net
-o1.lt
 dot.occ.top
 dns.ofdoom.net
 secure.onedns.cc

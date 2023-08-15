@@ -1,4 +1,4 @@
-#f3c64509777afd551dd668e64ddbc863bc647c54f76a5716d35120fe3f144c2b
+#42ac6a58a2854535c51d97bf16b6cb7a8482d489ead51418b20631aea66bd472
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -318,6 +318,7 @@ ps1.modr.club
 blog.kimiblock.top
 dns.molinero.dev
 dns.moonssif.com
+doh.morizt.id
 msr177.com
 dns.msxnet.ru
 doh.mullvad.net
@@ -334,6 +335,8 @@ dns.nhtsky.com
 doh.lv
 doh.nic.lv
 dns1.nielsdb.be
+dns.ningkelle.id
+family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
@@ -372,6 +375,7 @@ tiger.dns.qwer.pw
 frog.dns.qwer.pw
 resolver.r0cket.net
 ag.ssrahul96.xyz
+dns.rayanbab.com
 rayneau.fr
 dns.reckoningslug.name
 chaos.altendorfme.com

@@ -1,4 +1,4 @@
-#42ac6a58a2854535c51d97bf16b6cb7a8482d489ead51418b20631aea66bd472
+#e4223df92e3c52b8309404280a87192993c39690869eaaf1e4298c2722b0703b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -270,6 +270,7 @@ dns.ipv6dns.com
 irre.li
 dns.iamninja.ru
 dns.itdept.pro
+pdns.itxe.net
 ivnkn.xyz
 dns.jstockley.com
 jackyes.ovh
@@ -287,6 +288,7 @@ keithchung.hopto.org
 dns.kernel-error.de
 dns.kescher.at
 doh.killtw.im
+blog.kimiblock.top
 storydoh.kinergetica.com
 adguard.avdkishore.dev
 adguard.konikoni428.com
@@ -315,7 +317,6 @@ dns.truong.fi
 doh.mmmalia.com
 dnstls.mobik.com
 ps1.modr.club
-blog.kimiblock.top
 dns.molinero.dev
 dns.moonssif.com
 doh.morizt.id

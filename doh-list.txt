@@ -1,4 +1,4 @@
-#e4223df92e3c52b8309404280a87192993c39690869eaaf1e4298c2722b0703b
+#907b0299a3077386d07f5c48a5c93bb9329c2570a221f992baf6fce9fad67976
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -189,7 +189,6 @@ doh.dns4all.eu
 nz01.dns4me.net
 au01.dns4me.net
 au02.dns4me.net
-sg01.dns4me.net
 uk01.dns4me.net
 sa01.dns4me.net
 ca01.dns4me.net
@@ -239,7 +238,6 @@ dns.goldplate.org
 dns.google
 dns64.dns.google
 8888.google
-vpn.gosami.xyz
 cluster-0.gac.edu
 cluster-1.gac.edu
 gztech.me
@@ -259,7 +257,6 @@ adguard.ihatemy.live
 ihctw.synology.me
 doh.buzz
 doh.beauty
-dns.imaicool.com
 noads.imbuffering.com
 dns1.in-berlin.de
 dns.indust.me
@@ -416,7 +413,6 @@ esel.stusta.mhn.de
 dns.stvsk.ml
 doh.sungai.stream
 guard.sntrk.ru
-adguard.streamlas.fr
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org

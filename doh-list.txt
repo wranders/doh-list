@@ -1,4 +1,4 @@
-#907b0299a3077386d07f5c48a5c93bb9329c2570a221f992baf6fce9fad67976
+#4de32e61d0188be68e484250417b761d2d824075dac37f22cc6436bbcbacc48e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -14,7 +14,6 @@
 #	dns-free.link
 #	dns-free.link
 #	doh.sb
-#	dnsenc.com
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
@@ -93,6 +92,8 @@ pihole.aws.ketan.dev
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 dns.bebasid.com
+antivirus.bebasid.com
+internetsehat.bebasid.com
 justhost.bedro.cloud
 dns.belnet.be
 dns.benpro.fr
@@ -109,6 +110,7 @@ doh.boje8.me
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
 dns.brahma.world
+ag.brianlee.fun
 doh.bt.com
 doh1.b-cdn.net
 dns.bw.i81.ru
@@ -194,7 +196,6 @@ sa01.dns4me.net
 ca01.dns4me.net
 ca02.dns4me.net
 dns1.dnscrypt.ca
-dnsenc.com
 dnsforge.de
 dns.dnshome.de
 dnslow.me
@@ -310,7 +311,6 @@ dns.meeo.win
 chewbacca.meganerd.nl
 testaghome.meshkov.info
 dns.mikeliu.org
-dns.truong.fi
 doh.mmmalia.com
 dnstls.mobik.com
 ps1.modr.club
@@ -364,6 +364,7 @@ agh.printk.info
 dns.privado.ovh
 dns.pumpkinvrar.com
 puredns.org
+family.puredns.org
 doh.360.cn
 ns1.qquack.org
 ant.dns.qwer.pw
@@ -373,6 +374,7 @@ tiger.dns.qwer.pw
 frog.dns.qwer.pw
 resolver.r0cket.net
 ag.ssrahul96.xyz
+dns.ramansarda.com
 dns.rayanbab.com
 rayneau.fr
 dns.reckoningslug.name
@@ -391,6 +393,8 @@ doh.safesurfer.io
 o.rsaikat.com
 cloud.samutz.com
 dns.sarak.as
+dns.s3cure.us
+www.secforads3.ch
 dns.sellan.fr
 dns.sev.monster
 shalenkov.dev

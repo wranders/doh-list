@@ -1,4 +1,4 @@
-#4de32e61d0188be68e484250417b761d2d824075dac37f22cc6436bbcbacc48e
+#8f4f511c8fb73fd98b3965f31c397f74aea2ee1a8c0f634694dea315e25676db
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -232,7 +232,6 @@ dns.foximao.cn
 dns.froth.zone
 doh.futa.gg
 dns.freyja.pw
-bvo.giize.com
 dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org

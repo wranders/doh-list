@@ -1,4 +1,4 @@
-#8f4f511c8fb73fd98b3965f31c397f74aea2ee1a8c0f634694dea315e25676db
+#f7feb318a7f49736442d3960a74239a72c8397330c161228f30faca3f8d64b59
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -172,7 +172,6 @@ pihole.datamatter.co.za
 dns.decloudus.com
 adguard.dessoi.cloud
 doh-primary-pool.detoxifypornblocker.com
-dgca.myds.me
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 open.dns0.eu

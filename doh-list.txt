@@ -1,4 +1,4 @@
-#f7feb318a7f49736442d3960a74239a72c8397330c161228f30faca3f8d64b59
+#92245433a8a45dc4c5655f63abf55ee2df240af5f45f5fc22205fd75ae64846d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -250,6 +250,7 @@ hitian.me
 home27.duckdns.org
 dns.hostux.net
 dns.hostux.net
+dns.hubservices.vn
 doth.huque.com
 dns-public.ibakerserver.pt
 adguard.ihatemy.live
@@ -377,6 +378,7 @@ dns.rayanbab.com
 rayneau.fr
 dns.reckoningslug.name
 chaos.altendorfme.com
+dns.repressoh.it
 kaitain.restena.lu
 basic.rethinkdns.com
 sky.rethinkdns.com
@@ -452,6 +454,7 @@ agh.xinfeng16m.top
 dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com
+dns.yingroad.top
 dns.youni.win
 yovbak.com
 adg.yybyy.wiki

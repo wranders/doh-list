@@ -1,4 +1,4 @@
-#92245433a8a45dc4c5655f63abf55ee2df240af5f45f5fc22205fd75ae64846d
+#18421b3b5d65e572918758abf4e40267ff444a6837ec352781bd6551df7fe1c2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -48,14 +48,11 @@
 #	tk31z.com
 #	wantaquddin.com
 #	yovbak.com
-#	0ms.run
 #
 
 aattwwss.duckdns.org
 abel.waringer-atg.de
-res-acst1.absolight.net
 res-acst3.absolight.net
-resolver1.absolight.net
 resolver3.absolight.net
 block.abstergo.it
 adl.adfilter.net
@@ -324,7 +321,6 @@ dns.murgi.de
 dns.muxinghe.cn
 www.muxyuji.ru
 blackhole.myon.lu
-dns.mzrme.cn
 dns.nas-server.ru
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -366,6 +362,7 @@ puredns.org
 family.puredns.org
 doh.360.cn
 ns1.qquack.org
+doh.qis.io
 ant.dns.qwer.pw
 dog.dns.qwer.pw
 lion.dns.qwer.pw
@@ -424,7 +421,6 @@ dns.t53.de
 dns1.techeasy.org
 doh.technochat.in
 dns.telekom.de
-de.teradns.org
 dns.therifleman.name
 doh.tiar.app
 doh.tiarap.org
@@ -459,7 +455,6 @@ dns.youni.win
 yovbak.com
 adg.yybyy.wiki
 zxcvb.pp.ua
-0ms.run
 dns.23-4.cn
 dns.240527.xyz
 doh003.280blocker.net

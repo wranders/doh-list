@@ -1,4 +1,4 @@
-#18421b3b5d65e572918758abf4e40267ff444a6837ec352781bd6551df7fe1c2
+#161eced1a2b131bd45c82ac78249ed8b45e691f828613040af9b82da67deced3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -44,6 +44,7 @@
 #	rayneau.fr
 #	safeservedns.com
 #	shalenkov.dev
+#	spacedns.org
 #	timmes.nl
 #	tk31z.com
 #	wantaquddin.com
@@ -122,6 +123,7 @@ dns.chenu.ch
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
+dns.circl.lu
 doh.opendns.com
 doh.familyshield.opendns.com
 dns.clanless.ovh
@@ -241,6 +243,7 @@ dns.hafidzradhival.my.id
 dns.hanahira.dev
 adguard.haneulo.com
 dns.haoxuan.xyz
+query.hdns.io
 us-ny-alula.heliumcloud.cc
 dns.hinet.net
 hitian.me
@@ -248,6 +251,7 @@ home27.duckdns.org
 dns.hostux.net
 dns.hostux.net
 dns.hubservices.vn
+ordns.he.net
 doth.huque.com
 dns-public.ibakerserver.pt
 adguard.ihatemy.live
@@ -296,6 +300,8 @@ lastentarvike.fi
 eu1.dns.lavate.ch
 adguard.lege.despagne.net
 externalmobiel.lekdijk.online
+doh.libredns.gr
+doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
 doh.dns1.lonet.org
@@ -322,6 +328,7 @@ dns.muxinghe.cn
 www.muxyuji.ru
 blackhole.myon.lu
 dns.nas-server.ru
+dns.ndo.dev
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -348,6 +355,8 @@ dot.occ.top
 dns.ofdoom.net
 secure.onedns.cc
 doh.onedns.net
+ada.openbld.net
+ric.openbld.net
 osefcorp.duckdns.org
 1a.ns.ozer.im
 dns.paesa.es
@@ -407,6 +416,7 @@ dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
 clientdns3.softcom.net
+spacedns.org
 dns.spil.co.id
 dns.startupstack.tech
 muli.stusta.mhn.de

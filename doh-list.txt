@@ -1,4 +1,4 @@
-#161eced1a2b131bd45c82ac78249ed8b45e691f828613040af9b82da67deced3
+#b7887413ca6b9e4725f0d9505143f67e3c4792d30b39dd264bf26f9524617fb9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -111,7 +111,6 @@ dns.brahma.world
 ag.brianlee.fun
 doh.bt.com
 doh1.b-cdn.net
-dns.bw.i81.ru
 www.c-dns.com
 doh.aaaab3n.moe
 dns.carson-family.com
@@ -449,7 +448,6 @@ virga.pp.ua
 virga.pp.ua
 dns.vishalk.com
 dns.vmath.my.id
-killads.vpms.xyz
 doh.vpnglobal.my.id
 dns.wang.art
 wantaquddin.com
@@ -461,7 +459,6 @@ dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com
 dns.yingroad.top
-dns.youni.win
 yovbak.com
 adg.yybyy.wiki
 zxcvb.pp.ua

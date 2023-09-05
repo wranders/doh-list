@@ -1,4 +1,4 @@
-#b7887413ca6b9e4725f0d9505143f67e3c4792d30b39dd264bf26f9524617fb9
+#3df80f2850bcd3d6edc919464893d6519a7ef1a1dff4b408ab8862f34436cb50
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -240,7 +240,6 @@ cluster-1.gac.edu
 gztech.me
 dns.hafidzradhival.my.id
 dns.hanahira.dev
-adguard.haneulo.com
 dns.haoxuan.xyz
 query.hdns.io
 us-ny-alula.heliumcloud.cc
@@ -249,7 +248,6 @@ hitian.me
 home27.duckdns.org
 dns.hostux.net
 dns.hostux.net
-dns.hubservices.vn
 ordns.he.net
 doth.huque.com
 dns-public.ibakerserver.pt
@@ -342,7 +340,6 @@ resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
 1.dns.noridev.moe
-2.dns.noridev.moe
 dns.novali.date
 dns8.org
 n0.eu
@@ -378,7 +375,6 @@ tiger.dns.qwer.pw
 frog.dns.qwer.pw
 resolver.r0cket.net
 ag.ssrahul96.xyz
-dns.ramansarda.com
 dns.rayanbab.com
 rayneau.fr
 dns.reckoningslug.name
@@ -398,15 +394,12 @@ doh.safesurfer.io
 o.rsaikat.com
 cloud.samutz.com
 dns.sarak.as
-dns.s3cure.us
-www.secforads3.ch
 dns.sellan.fr
 dns.sev.monster
 shalenkov.dev
 free.shecan.ir
 dns.shecan.ir
 pro.shecan.ir
-do.shimul.me
 adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com

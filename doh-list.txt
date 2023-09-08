@@ -1,4 +1,4 @@
-#3df80f2850bcd3d6edc919464893d6519a7ef1a1dff4b408ab8862f34436cb50
+#2f975672cfd97991738a7ae156f8006d26ea3be3d64215afa869c396943e62ce
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -92,6 +92,14 @@ fr-dns1.bancuh.com
 dns.bebasid.com
 antivirus.bebasid.com
 internetsehat.bebasid.com
+internetsehat.bebasid.com
+dns.bebasid.com
+dns.bebasid.com
+dns.bebasid.com
+dns.bebasid.com
+dns.bebasid.com
+dns.bebasid.com
+dns.bebasid.com
 justhost.bedro.cloud
 dns.belnet.be
 dns.benpro.fr
@@ -284,7 +292,6 @@ dns.kernel-error.de
 dns.kescher.at
 doh.killtw.im
 blog.kimiblock.top
-storydoh.kinergetica.com
 adguard.avdkishore.dev
 adguard.konikoni428.com
 korzhov.dev

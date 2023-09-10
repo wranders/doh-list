@@ -1,4 +1,4 @@
-#2f975672cfd97991738a7ae156f8006d26ea3be3d64215afa869c396943e62ce
+#c688fd750ed2253a6fa93f6d3cafeb1a1716e48107ec808688047861e3317d40
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -422,7 +422,6 @@ muli.stusta.mhn.de
 esel.stusta.mhn.de
 dns.stvsk.ml
 doh.sungai.stream
-guard.sntrk.ru
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org
@@ -448,7 +447,6 @@ virga.pp.ua
 virga.pp.ua
 dns.vishalk.com
 dns.vmath.my.id
-doh.vpnglobal.my.id
 dns.wang.art
 wantaquddin.com
 dns.wibenson.cloud
@@ -458,7 +456,6 @@ agh.xinfeng16m.top
 dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com
-dns.yingroad.top
 yovbak.com
 adg.yybyy.wiki
 zxcvb.pp.ua

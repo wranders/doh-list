@@ -1,4 +1,4 @@
-#c688fd750ed2253a6fa93f6d3cafeb1a1716e48107ec808688047861e3317d40
+#d44b2630c63b626b1473c93f5676d7332f1038d8959e5c13719a74ebbfdeccda
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -48,6 +48,7 @@
 #	timmes.nl
 #	tk31z.com
 #	wantaquddin.com
+#	wikimedia-dns.org
 #	yovbak.com
 #
 
@@ -55,7 +56,6 @@ aattwwss.duckdns.org
 abel.waringer-atg.de
 res-acst3.absolight.net
 resolver3.absolight.net
-block.abstergo.it
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -176,7 +176,6 @@ doh.datacore.ch
 doh.datahata.by
 pihole.datamatter.co.za
 dns.decloudus.com
-adguard.dessoi.cloud
 doh-primary-pool.detoxifypornblocker.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
@@ -246,7 +245,6 @@ dns64.dns.google
 cluster-0.gac.edu
 cluster-1.gac.edu
 gztech.me
-dns.hafidzradhival.my.id
 dns.hanahira.dev
 dns.haoxuan.xyz
 query.hdns.io
@@ -286,6 +284,7 @@ jp.tiar.app
 jp.tiarap.org
 jurre-home.duckdns.org
 dns.kamilszczepanski.com
+adguard.kantinyoyok.xyz
 dns.karl.one
 keithchung.hopto.org
 dns.kernel-error.de
@@ -321,8 +320,8 @@ doh.mmmalia.com
 dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
-dns.moonssif.com
 doh.morizt.id
+adguard.mrmartian.co
 msr177.com
 dns.msxnet.ru
 doh.mullvad.net
@@ -450,6 +449,7 @@ dns.vmath.my.id
 dns.wang.art
 wantaquddin.com
 dns.wibenson.cloud
+wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro
 agh.xinfeng16m.top

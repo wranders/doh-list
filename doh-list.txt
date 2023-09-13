@@ -1,4 +1,4 @@
-#d44b2630c63b626b1473c93f5676d7332f1038d8959e5c13719a74ebbfdeccda
+#2a72371cad6e2178f8a460ad67a7d78b4dbe1a8b1962302203e070fcc00f6e4c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -214,7 +214,6 @@ dns.dutchwhite.nl
 doh.apad.pro
 edgy-dns.com
 dns.edison42.dev
-dns.electrotm.org
 dns.ellichua.com
 dns.emiliyan.com
 everovpn.co
@@ -420,7 +419,6 @@ dns.startupstack.tech
 muli.stusta.mhn.de
 esel.stusta.mhn.de
 dns.stvsk.ml
-doh.sungai.stream
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org

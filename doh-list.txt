@@ -1,4 +1,4 @@
-#8a05b7668edd78e8b56eef717ab81791d5669882de18def3f96ad020c791de75
+#716314ae131c70630a8f43e9a06011bdeb6f9daf8386f3390126663db523dbcd
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -33,7 +33,6 @@
 #	lastentarvike.fi
 #	mailkyb.co
 #	masters-of-cloud.de
-#	msr177.com
 #	doh.lv
 #	dns8.org
 #	n0.eu
@@ -281,7 +280,6 @@ dns.joey01245.nl
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
-jurre-home.duckdns.org
 dns.kamilszczepanski.com
 adguard.kantinyoyok.xyz
 dns.karl.one
@@ -312,7 +310,7 @@ mailkyb.co
 masters-of-cloud.de
 adguard.meddy94.de
 dns.meeo.win
-chewbacca.meganerd.nl
+snoke.meganerd.nl
 testaghome.meshkov.info
 dns.mikeliu.org
 doh.mmmalia.com
@@ -321,12 +319,10 @@ ps1.modr.club
 dns.molinero.dev
 doh.morizt.id
 adguard.mrmartian.co
-msr177.com
 dns.msxnet.ru
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.murgi.de
-dns.muxinghe.cn
 www.muxyuji.ru
 blackhole.myon.lu
 dns.nas-server.ru
@@ -457,6 +453,7 @@ lion.yazilimatolye.com
 yovbak.com
 adg.yybyy.wiki
 zxcvb.pp.ua
+cdn.0ms.dev
 dns.23-4.cn
 dns.240527.xyz
 doh003.280blocker.net

@@ -1,4 +1,4 @@
-#716314ae131c70630a8f43e9a06011bdeb6f9daf8386f3390126663db523dbcd
+#f5c2589b976dd8cf0311c0c2007f0269756ba52c6ab1af505023d5bdfe31c4fe
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -65,7 +65,6 @@ dns.adrianlam.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
-adtec.aidentec.top
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dnsnl-noads.alekberg.net
@@ -434,7 +433,6 @@ dns.tracker.ink
 dns.twnic.tw
 resolver.unstoppable.io
 dns.uplenk.com
-securedns.vendorvista.xyz
 dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua

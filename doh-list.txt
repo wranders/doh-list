@@ -1,4 +1,4 @@
-#bf652dad7005d51fd3027d361c0cb788619e750704e8980b6d3687e9810a0826
+#40d48769101a4dbb31d4af5704f2e96625e74edce99d3b2f0762fe969f482446
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -245,7 +245,6 @@ gztech.me
 dns.hanahira.dev
 dns.haoxuan.xyz
 query.hdns.io
-us-ny-alula.heliumcloud.cc
 dns.hinet.net
 hitian.me
 home27.duckdns.org
@@ -282,7 +281,6 @@ jp.tiarap.org
 dns.kamilszczepanski.com
 adguard.kantinyoyok.xyz
 dns.karl.one
-keithchung.hopto.org
 dns.kernel-error.de
 dns.kescher.at
 doh.killtw.im
@@ -359,8 +357,6 @@ dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 darya.persiannit.net
-privacy.plumedns.com
-agh.printk.info
 dns.privado.ovh
 dns.pumpkinvrar.com
 puredns.org
@@ -455,7 +451,6 @@ cdn.0ms.dev
 dns.23-4.cn
 dns.240527.xyz
 doh003.280blocker.net
-doh.30x.me
 dns.4-the.win
 dns.52306.org
 family.5ososea.com

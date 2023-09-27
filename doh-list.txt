@@ -1,4 +1,4 @@
-#07ccd3862fc7698881f0db1dc4b95c6b1b0879a9504d1666415882708423176e
+#b24c3c4568ae8b6f491614bb0032ea0aad29e09a1151cdd7164b05eed6f88969
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -23,7 +23,6 @@
 #	dns.google
 #	8888.google
 #	gztech.me
-#	hitian.me
 #	doh.buzz
 #	doh.beauty
 #	irre.li
@@ -51,7 +50,6 @@
 #	yovbak.com
 #
 
-aattwwss.duckdns.org
 abel.waringer-atg.de
 res-acst3.absolight.net
 resolver3.absolight.net
@@ -83,7 +81,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
-adb.aadityakushwaha.com
 pihole.aws.ketan.dev
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
@@ -211,7 +208,6 @@ dukun.de
 dns.dutchwhite.nl
 doh.apad.pro
 edgy-dns.com
-dns.edison42.dev
 dns.ellichua.com
 dns.emiliyan.com
 everovpn.co
@@ -235,7 +231,6 @@ doh.futa.gg
 dns.freyja.pw
 dns.glorydns.com
 dns.gnb09.id
-dns.goldplate.org
 dns.google
 dns64.dns.google
 8888.google
@@ -246,7 +241,6 @@ dns.hanahira.dev
 dns.haoxuan.xyz
 query.hdns.io
 dns.hinet.net
-hitian.me
 home27.duckdns.org
 dns.hostux.net
 dns.hostux.net
@@ -273,7 +267,6 @@ dns.jstockley.com
 jackyes.ovh
 tj.jamesxue.xyz
 adguard.jfchenier.ca
-dns.jinwoo.dev
 dns.joey01245.nl
 dns.hahnjo.de
 jp.tiar.app
@@ -296,7 +289,6 @@ doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
 adguard.lege.despagne.net
-externalmobiel.lekdijk.online
 doh.libredns.gr
 doh.libredns.gr
 lindung.pp.ua
@@ -309,16 +301,17 @@ adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
 testaghome.meshkov.info
-dns.mikeliu.org
 doh.mmmalia.com
 dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
-doh.morizt.id
 adguard.mrmartian.co
 dns.msxnet.ru
-doh.mullvad.net
-adblock.doh.mullvad.net
+dns.mullvad.net
+adblock.dns.mullvad.net
+base.dns.mullvad.net
+extended.dns.mullvad.net
+all.dns.mullvad.net
 dns.murgi.de
 www.muxyuji.ru
 blackhole.myon.lu
@@ -423,7 +416,6 @@ doh.tiarap.org
 timmes.nl
 tk31z.com
 dns.tls-data.de
-d.toairs.com
 dns.apigw.online
 dns.tracker.ink
 dns.twnic.tw

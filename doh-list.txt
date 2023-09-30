@@ -1,4 +1,4 @@
-#b24c3c4568ae8b6f491614bb0032ea0aad29e09a1151cdd7164b05eed6f88969
+#df6081f4943720211ba565d56abc9d770af55d78b54a14c05f9c76d2f3ef87e5
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -222,7 +222,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns.filipccz.eu
 dns01.flm9.net
-dns.flwagners.com
 gateway.fomichev.cloud
 doh.applied-privacy.net
 dns.foximao.cn
@@ -240,7 +239,6 @@ gztech.me
 dns.hanahira.dev
 dns.haoxuan.xyz
 query.hdns.io
-dns.hinet.net
 home27.duckdns.org
 dns.hostux.net
 dns.hostux.net
@@ -253,7 +251,6 @@ doh.buzz
 doh.beauty
 noads.imbuffering.com
 dns1.in-berlin.de
-dns.indust.me
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
@@ -293,7 +290,11 @@ doh.libredns.gr
 doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
-doh.dns1.lonet.org
+doh.phdns1.lonet.org
+doh.phdns2.lonet.org
+doh.phdns3.lonet.org
+doh.phdns4.lonet.org
+doh.phdns5.lonet.org
 orau.lz0724.com
 mailkyb.co
 masters-of-cloud.de
@@ -344,13 +345,11 @@ secure.onedns.cc
 doh.onedns.net
 ada.openbld.net
 ric.openbld.net
-osefcorp.duckdns.org
 1a.ns.ozer.im
 dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 darya.persiannit.net
-dns.privado.ovh
 dns.pumpkinvrar.com
 puredns.org
 family.puredns.org
@@ -381,7 +380,6 @@ adguard-dns.rouga.ch
 safeservedns.com
 doh.safesurfer.io
 o.rsaikat.com
-cloud.samutz.com
 dns.sarak.as
 dns.sellan.fr
 dns.sev.monster
@@ -442,7 +440,6 @@ zxcvb.pp.ua
 cdn.0ms.dev
 dns.23-4.cn
 dns.240527.xyz
-doh003.280blocker.net
 dns.4-the.win
 dns.52306.org
 family.5ososea.com

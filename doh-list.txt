@@ -1,4 +1,4 @@
-#df6081f4943720211ba565d56abc9d770af55d78b54a14c05f9c76d2f3ef87e5
+#672ec11e2377c1fe57d61673f66e26d675bcc47cc930bc513b6b2cd5fadc2071
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -220,7 +220,6 @@ ns1.fdn.fr
 dns.feldy.my.id
 ag.ff0x.ca
 doh.ffmuc.net
-dns.filipccz.eu
 dns01.flm9.net
 gateway.fomichev.cloud
 doh.applied-privacy.net
@@ -256,7 +255,6 @@ doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
 dns.ipv6dns.com
 irre.li
-dns.iamninja.ru
 dns.itdept.pro
 pdns.itxe.net
 ivnkn.xyz

@@ -1,4 +1,4 @@
-#eb3a6932eee1a8ad79b44e37e2c276a148f11868c0aa083f3008d831a9c16818
+#2a548cfb49f938a5efda8cc12041c02455fd5d15497c78ecbf7f75a2c84cb0fc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -95,7 +95,6 @@ dns.bebasid.com
 dns.bebasid.com
 dns.bebasid.com
 dns.bebasid.com
-justhost.bedro.cloud
 dns.belnet.be
 dns.benpro.fr
 ns3.bit-trail.nl
@@ -253,7 +252,6 @@ dns1.in-berlin.de
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
-dns.ipv6dns.com
 irre.li
 dns.itdept.pro
 pdns.itxe.net
@@ -322,8 +320,6 @@ dns.nhtsky.com
 doh.lv
 doh.nic.lv
 dns1.nielsdb.be
-dns.ningkelle.id
-family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
@@ -336,7 +332,6 @@ n0.eu
 ns3.com
 ns3.cx
 ns3.link
-dns.nullgate.net
 dot.occ.top
 dns.ofdoom.net
 secure.onedns.cc
@@ -348,7 +343,6 @@ dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 darya.persiannit.net
-dns.pumpkinvrar.com
 puredns.org
 family.puredns.org
 doh.360.cn
@@ -413,7 +407,6 @@ timmes.nl
 tk31z.com
 dns.tls-data.de
 dns.apigw.online
-dns.tracker.ink
 dns.twnic.tw
 resolver.unstoppable.io
 dns.uplenk.com

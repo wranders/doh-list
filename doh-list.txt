@@ -1,4 +1,4 @@
-#2a548cfb49f938a5efda8cc12041c02455fd5d15497c78ecbf7f75a2c84cb0fc
+#b9401f7c9b43d0222c4aa9a331ce7fc93a7ab1d05c0b61938e83a3c96a14ef5a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,7 +41,6 @@
 #	puredns.org
 #	rayneau.fr
 #	safeservedns.com
-#	shalenkov.dev
 #	spacedns.org
 #	timmes.nl
 #	tk31z.com
@@ -375,7 +374,6 @@ o.rsaikat.com
 dns.sarak.as
 dns.sellan.fr
 dns.sev.monster
-shalenkov.dev
 free.shecan.ir
 dns.shecan.ir
 pro.shecan.ir
@@ -406,7 +404,6 @@ doh.tiarap.org
 timmes.nl
 tk31z.com
 dns.tls-data.de
-dns.apigw.online
 dns.twnic.tw
 resolver.unstoppable.io
 dns.uplenk.com

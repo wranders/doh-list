@@ -1,4 +1,4 @@
-#b9401f7c9b43d0222c4aa9a331ce7fc93a7ab1d05c0b61938e83a3c96a14ef5a
+#bbbd26571ac8a1719b890b022caed3f783a4bdbae2375874173467e5b74ea55d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -219,9 +219,7 @@ dns.feldy.my.id
 ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
-gateway.fomichev.cloud
 doh.applied-privacy.net
-dns.foximao.cn
 dns.froth.zone
 doh.futa.gg
 dns.freyja.pw
@@ -357,7 +355,6 @@ ag.ssrahul96.xyz
 dns.rayanbab.com
 rayneau.fr
 dns.reckoningslug.name
-chaos.altendorfme.com
 dns.repressoh.it
 kaitain.restena.lu
 basic.rethinkdns.com

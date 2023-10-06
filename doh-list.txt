@@ -1,4 +1,4 @@
-#bbbd26571ac8a1719b890b022caed3f783a4bdbae2375874173467e5b74ea55d
+#f9dba8279f7087dafe8f1aca739849ceaa1edcbe4e0084ae9e98caefaad0cef3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -95,7 +95,6 @@ dns.bebasid.com
 dns.bebasid.com
 dns.bebasid.com
 dns.belnet.be
-dns.benpro.fr
 ns3.bit-trail.nl
 dns.bitdefender.net
 doh-ch.blahdns.com
@@ -109,7 +108,6 @@ doh.boje8.me
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
 dns.brahma.world
-ag.brianlee.fun
 doh.bt.com
 doh1.b-cdn.net
 www.c-dns.com

@@ -1,4 +1,4 @@
-#f9dba8279f7087dafe8f1aca739849ceaa1edcbe4e0084ae9e98caefaad0cef3
+#e3f82d7822450ab7c1f652a46c25d3b0cec071a4dfb4b4f1f5d81ab560afac52
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -19,7 +19,6 @@
 #	dns.pub
 #	dukun.de
 #	edgy-dns.com
-#	everovpn.co
 #	dns.google
 #	8888.google
 #	gztech.me
@@ -206,7 +205,6 @@ doh.apad.pro
 edgy-dns.com
 dns.ellichua.com
 dns.emiliyan.com
-everovpn.co
 dns.extrawdw.net
 rdns.faelix.net
 pdns.faelix.net
@@ -260,7 +258,6 @@ dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
 dns.kamilszczepanski.com
-adguard.kantinyoyok.xyz
 dns.karl.one
 dns.kernel-error.de
 dns.kescher.at
@@ -298,13 +295,11 @@ dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
 adguard.mrmartian.co
-dns.msxnet.ru
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
 extended.dns.mullvad.net
 all.dns.mullvad.net
-dns.murgi.de
 www.muxyuji.ru
 blackhole.myon.lu
 dns.nas-server.ru
@@ -413,7 +408,6 @@ dns.wibenson.cloud
 wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro
-agh.xinfeng16m.top
 dns.yameenassotally.com
 yarp.lefolgoc.net
 lion.yazilimatolye.com

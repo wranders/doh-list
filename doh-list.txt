@@ -1,4 +1,4 @@
-#e3f82d7822450ab7c1f652a46c25d3b0cec071a4dfb4b4f1f5d81ab560afac52
+#21b9365df4029efdf6bed38c58308b16e5eb1e2e5897db4e62a20d709b093a4a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -70,7 +70,6 @@ mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
-d.apemlegit.my.id
 dns.artikel10.org
 dns.b612.me
 secure.avastdns.com
@@ -289,7 +288,6 @@ masters-of-cloud.de
 adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
-testaghome.meshkov.info
 doh.mmmalia.com
 dnstls.mobik.com
 ps1.modr.club

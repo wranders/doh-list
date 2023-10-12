@@ -1,4 +1,4 @@
-#21b9365df4029efdf6bed38c58308b16e5eb1e2e5897db4e62a20d709b093a4a
+#36198e15cef5e934a066319fb8481259c3bb03a80b7ced4a7f37aa231ce1e03e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -13,6 +13,7 @@
 #	dns0.eu
 #	dns-free.link
 #	dns-free.link
+#	dns.expert
 #	doh.sb
 #	dnsforge.de
 #	dnslow.me
@@ -22,8 +23,6 @@
 #	dns.google
 #	8888.google
 #	gztech.me
-#	doh.buzz
-#	doh.beauty
 #	irre.li
 #	ivnkn.xyz
 #	jackyes.ovh
@@ -101,7 +100,6 @@ doh-de.blahdns.com
 us1.blissdns.net
 dns.blokada.org
 bluemood.me
-dns.bobstrecansky.com
 doh.boje8.me
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
@@ -176,6 +174,7 @@ dns-free.link
 dns-free.link
 dns-doh.dnsforfamily.com
 dns.digitalsize.net
+dns.expert
 dns.linkr.ninja
 ttag.dns.nomu.pw
 doh.dns.sb
@@ -235,10 +234,7 @@ dns.hostux.net
 ordns.he.net
 doth.huque.com
 dns-public.ibakerserver.pt
-adguard.ihatemy.live
 ihctw.synology.me
-doh.buzz
-doh.beauty
 noads.imbuffering.com
 dns1.in-berlin.de
 qlf-doh.inria.fr
@@ -328,7 +324,6 @@ ada.openbld.net
 ric.openbld.net
 1a.ns.ozer.im
 dns.paesa.es
-dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 darya.persiannit.net
 puredns.org
@@ -346,7 +341,6 @@ ag.ssrahul96.xyz
 dns.rayanbab.com
 rayneau.fr
 dns.reckoningslug.name
-dns.repressoh.it
 kaitain.restena.lu
 basic.rethinkdns.com
 sky.rethinkdns.com
@@ -368,7 +362,6 @@ pro.shecan.ir
 adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
-dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net

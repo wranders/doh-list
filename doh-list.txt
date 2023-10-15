@@ -1,4 +1,4 @@
-#268c3bfb9cf3431f4a004d0a5254fa11704fd4358bfe9beeec3d0daaaff04897
+#3509167c2467df459a9c05e031d9342143edbee2da40da38789e2cd69c3d3f4d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -36,7 +36,6 @@
 #	ns3.com
 #	ns3.cx
 #	ns3.link
-#	puredns.org
 #	rayneau.fr
 #	safeservedns.com
 #	spacedns.org
@@ -217,7 +216,6 @@ doh.applied-privacy.net
 dns.froth.zone
 doh.futa.gg
 dns.freyja.pw
-dns.glorydns.com
 dns.gnb09.id
 dns.google
 dns64.dns.google
@@ -227,7 +225,6 @@ cluster-1.gac.edu
 gztech.me
 dns.hanahira.dev
 dns.haoxuan.xyz
-query.hdns.io
 home27.duckdns.org
 dns.hostux.net
 dns.hostux.net
@@ -326,7 +323,6 @@ ric.openbld.net
 dns.paesa.es
 doh.gcp.pathofgrace.com
 darya.persiannit.net
-puredns.org
 family.puredns.org
 doh.360.cn
 ns1.qquack.org

@@ -1,4 +1,4 @@
-#3509167c2467df459a9c05e031d9342143edbee2da40da38789e2cd69c3d3f4d
+#98e9e0154d00a02699b7ca3fd050911dbb90f41d7c6baca8d661ce4d09af9dc3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -343,7 +343,6 @@ sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
-adg.rokh.biz
 dns.rotunneling.net
 adguard-dns.rouga.ch
 safeservedns.com

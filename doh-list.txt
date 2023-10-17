@@ -1,4 +1,4 @@
-#98e9e0154d00a02699b7ca3fd050911dbb90f41d7c6baca8d661ce4d09af9dc3
+#c14763b2d459ec2c8d9c6b15154330eb65b4471743ffa82615c87d3d7f271b68
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -243,9 +243,7 @@ pdns.itxe.net
 ivnkn.xyz
 dns.jstockley.com
 jackyes.ovh
-tj.jamesxue.xyz
 adguard.jfchenier.ca
-dns.joey01245.nl
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
@@ -349,7 +347,6 @@ safeservedns.com
 doh.safesurfer.io
 o.rsaikat.com
 dns.sarak.as
-dns.sellan.fr
 dns.sev.monster
 free.shecan.ir
 dns.shecan.ir
@@ -364,8 +361,6 @@ clientdns3.softcom.net
 spacedns.org
 dns.spil.co.id
 dns.startupstack.tech
-muli.stusta.mhn.de
-esel.stusta.mhn.de
 dns.stvsk.ml
 dns.switch.ch
 dns.syaifullah.com
@@ -396,7 +391,6 @@ adb-home.xaoimoon.fr
 doh.xcom.pro
 dns.yameenassotally.com
 yarp.lefolgoc.net
-lion.yazilimatolye.com
 yovbak.com
 adg.yybyy.wiki
 zxcvb.pp.ua

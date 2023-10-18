@@ -1,4 +1,4 @@
-#c14763b2d459ec2c8d9c6b15154330eb65b4471743ffa82615c87d3d7f271b68
+#f550a439e3aeafd3045a5db623347fc2f3941e1713d60962ed61ae4a94dbe4bb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -258,7 +258,6 @@ adguard.konikoni428.com
 korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
-krtekvpn.duckdns.org
 adguard.kss.ovh
 doh.lacontrevoie.fr
 lastentarvike.fi

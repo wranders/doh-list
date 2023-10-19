@@ -1,4 +1,4 @@
-#f550a439e3aeafd3045a5db623347fc2f3941e1713d60962ed61ae4a94dbe4bb
+#42e8129482a49b1e6ab8087d2bbe19a30e256ab04ee7f4915e783d64bab1c14c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -160,7 +160,6 @@ darkness.is.my.waifu.cz
 mail.data.haus
 doh.datacore.ch
 doh.datahata.by
-pihole.datamatter.co.za
 dns.decloudus.com
 doh-primary-pool.detoxifypornblocker.com
 dns.digitale-gesellschaft.ch

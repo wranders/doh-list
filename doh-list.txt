@@ -1,4 +1,4 @@
-#42e8129482a49b1e6ab8087d2bbe19a30e256ab04ee7f4915e783d64bab1c14c
+#c9affe43bc457f494dfdc77c8f7f0978f068d17b000ab7e7bafd5b0672810ddc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -199,7 +199,6 @@ dukun.de
 dns.dutchwhite.nl
 doh.apad.pro
 edgy-dns.com
-dns.ellichua.com
 dns.emiliyan.com
 dns.extrawdw.net
 rdns.faelix.net
@@ -390,7 +389,6 @@ doh.xcom.pro
 dns.yameenassotally.com
 yarp.lefolgoc.net
 yovbak.com
-adg.yybyy.wiki
 zxcvb.pp.ua
 cdn.0ms.dev
 dns.23-4.cn

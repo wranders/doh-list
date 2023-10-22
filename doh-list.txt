@@ -1,4 +1,4 @@
-#c9affe43bc457f494dfdc77c8f7f0978f068d17b000ab7e7bafd5b0672810ddc
+#1092e76d105804b16304dc36ed28781c9bb1c8624cfae45e59986562fc44609c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -23,7 +23,6 @@
 #	dns.google
 #	8888.google
 #	gztech.me
-#	irre.li
 #	ivnkn.xyz
 #	jackyes.ovh
 #	korzhov.dev
@@ -40,7 +39,6 @@
 #	safeservedns.com
 #	spacedns.org
 #	timmes.nl
-#	tk31z.com
 #	wantaquddin.com
 #	wikimedia-dns.org
 #	yovbak.com
@@ -94,8 +92,9 @@ dns.belnet.be
 ns3.bit-trail.nl
 dns.bitdefender.net
 doh-ch.blahdns.com
-doh-fi.blahdns.com
+doh-jp.blahdns.com
 doh-de.blahdns.com
+doh-sg.blahdns.com
 us1.blissdns.net
 dns.blokada.org
 bluemood.me
@@ -235,7 +234,6 @@ dns1.in-berlin.de
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
-irre.li
 dns.itdept.pro
 pdns.itxe.net
 ivnkn.xyz
@@ -364,13 +362,11 @@ dns.syaifullah.com
 doh.syshero.org
 dns.t53.de
 dns1.techeasy.org
-doh.technochat.in
 dns.telekom.de
 dns.therifleman.name
 doh.tiar.app
 doh.tiarap.org
 timmes.nl
-tk31z.com
 dns.tls-data.de
 dns.twnic.tw
 resolver.unstoppable.io
@@ -389,7 +385,6 @@ doh.xcom.pro
 dns.yameenassotally.com
 yarp.lefolgoc.net
 yovbak.com
-zxcvb.pp.ua
 cdn.0ms.dev
 dns.23-4.cn
 dns.240527.xyz

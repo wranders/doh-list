@@ -1,4 +1,4 @@
-#1092e76d105804b16304dc36ed28781c9bb1c8624cfae45e59986562fc44609c
+#33a4a6a2bf12cd5d1c2c3f1f14c943c8735afda1a09ecd335c917b293f0cd637
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,7 +39,6 @@
 #	safeservedns.com
 #	spacedns.org
 #	timmes.nl
-#	wantaquddin.com
 #	wikimedia-dns.org
 #	yovbak.com
 #
@@ -69,7 +68,6 @@ secure.anudeep.me
 dns.artikel10.org
 dns.b612.me
 secure.avastdns.com
-dns.keweon.center
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
@@ -195,7 +193,6 @@ dns.dnswarden.com
 dns.doh.best
 doh.dscloud.me
 dukun.de
-dns.dutchwhite.nl
 doh.apad.pro
 edgy-dns.com
 dns.emiliyan.com
@@ -229,7 +226,6 @@ ordns.he.net
 doth.huque.com
 dns-public.ibakerserver.pt
 ihctw.synology.me
-noads.imbuffering.com
 dns1.in-berlin.de
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
@@ -377,7 +373,6 @@ virga.pp.ua
 dns.vishalk.com
 dns.vmath.my.id
 dns.wang.art
-wantaquddin.com
 dns.wibenson.cloud
 wikimedia-dns.org
 adb-home.xaoimoon.fr

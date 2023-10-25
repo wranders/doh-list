@@ -1,4 +1,4 @@
-#33a4a6a2bf12cd5d1c2c3f1f14c943c8735afda1a09ecd335c917b293f0cd637
+#ae0b8a2a97f8d7b1005d870aa13f86e8da5528eb0b29b9fc019bb0f5f63f0c47
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -367,7 +367,6 @@ dns.tls-data.de
 dns.twnic.tw
 resolver.unstoppable.io
 dns.uplenk.com
-dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
 dns.vishalk.com
@@ -377,7 +376,6 @@ dns.wibenson.cloud
 wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro
-dns.yameenassotally.com
 yarp.lefolgoc.net
 yovbak.com
 cdn.0ms.dev

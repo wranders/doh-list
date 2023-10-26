@@ -1,4 +1,4 @@
-#ae0b8a2a97f8d7b1005d870aa13f86e8da5528eb0b29b9fc019bb0f5f63f0c47
+#31de45cd6621250306026c326942372c90983ae22d0a65016c8b1da4f38536cc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -22,7 +22,6 @@
 #	edgy-dns.com
 #	dns.google
 #	8888.google
-#	gztech.me
 #	ivnkn.xyz
 #	jackyes.ovh
 #	korzhov.dev
@@ -146,7 +145,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
 odvr.nic.cz
@@ -216,7 +214,6 @@ dns64.dns.google
 8888.google
 cluster-0.gac.edu
 cluster-1.gac.edu
-gztech.me
 dns.hanahira.dev
 dns.haoxuan.xyz
 home27.duckdns.org
@@ -274,7 +271,6 @@ doh.mmmalia.com
 dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
-adguard.mrmartian.co
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net

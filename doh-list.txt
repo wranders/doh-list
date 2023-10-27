@@ -1,4 +1,4 @@
-#31de45cd6621250306026c326942372c90983ae22d0a65016c8b1da4f38536cc
+#04c87c9b7646e7e484fe5fece47aa2880b48797b4775d6d54edf6c871da53f9a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -311,6 +311,7 @@ darya.persiannit.net
 family.puredns.org
 doh.360.cn
 ns1.qquack.org
+dns.quad9.net
 doh.qis.io
 ant.dns.qwer.pw
 dog.dns.qwer.pw

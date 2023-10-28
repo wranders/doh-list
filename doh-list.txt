@@ -1,4 +1,4 @@
-#04c87c9b7646e7e484fe5fece47aa2880b48797b4775d6d54edf6c871da53f9a
+#ad50b13481f85593f453df87910c3c21aa46e05b4537aabbb906f3d15a5bc94f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -148,7 +148,6 @@ freedns.controld.com
 dns.cwlys.com
 dns.cynthialabs.net
 odvr.nic.cz
-dns.d96.info
 dns.daw.dev
 ns.00dani.me
 darkness.is.my.waifu.cz

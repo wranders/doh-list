@@ -1,4 +1,4 @@
-#ad50b13481f85593f453df87910c3c21aa46e05b4537aabbb906f3d15a5bc94f
+#8d3e7bf9a73fff4b119e16c411aac0b6442be1d716cb1f6942a0e70bc2074ac4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -226,7 +226,6 @@ dns1.in-berlin.de
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
-dns.itdept.pro
 pdns.itxe.net
 ivnkn.xyz
 dns.jstockley.com
@@ -246,7 +245,6 @@ adguard.konikoni428.com
 korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
-adguard.kss.ovh
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
@@ -349,11 +347,12 @@ spacedns.org
 dns.spil.co.id
 dns.startupstack.tech
 dns.stvsk.ml
+sundalandia.pp.ua
+sundalandia.pp.ua
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org
 dns.t53.de
-dns1.techeasy.org
 dns.telekom.de
 dns.therifleman.name
 doh.tiar.app

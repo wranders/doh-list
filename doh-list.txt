@@ -1,4 +1,4 @@
-#8d3e7bf9a73fff4b119e16c411aac0b6442be1d716cb1f6942a0e70bc2074ac4
+#71b096f4f7ec452e4390299ff6ec6271cd2ecb47069b84eebd630a933b406879
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -347,8 +347,6 @@ spacedns.org
 dns.spil.co.id
 dns.startupstack.tech
 dns.stvsk.ml
-sundalandia.pp.ua
-sundalandia.pp.ua
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org

@@ -30,11 +30,9 @@ jobs:
         app_id: ${{ secrets.APP_ID }}
         app_key_pem: ${{ secrets.APP_PRIVATE_KEY }}
     - if: ${{ steps.check.outputs.should_compile == 'true' }}
-      uses: swinton/commit@v2.x
-      env:
-        GH_TOKEN: ${{ steps.get-token.outputs.token }}
+      uses: wranders/commit-action@v0
       with:
+        token: ${{ steps.get-token.outputs.token }}
+        message: Updated doh-list.txt
         files: |
           doh-list.txt
-        commit-message: Updated doh-list.txt
-        ref: refs/heads/master

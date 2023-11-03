@@ -1,4 +1,4 @@
-#71b096f4f7ec452e4390299ff6ec6271cd2ecb47069b84eebd630a933b406879
+#5bb991fe49fd4a359d41ee480dd9f87faab0d706f5c331528d83d15dc098a0f1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -363,9 +363,7 @@ dns.uplenk.com
 virga.pp.ua
 virga.pp.ua
 dns.vishalk.com
-dns.vmath.my.id
 dns.wang.art
-dns.wibenson.cloud
 wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro

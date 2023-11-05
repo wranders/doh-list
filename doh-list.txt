@@ -1,4 +1,4 @@
-#5bb991fe49fd4a359d41ee480dd9f87faab0d706f5c331528d83d15dc098a0f1
+#89ca4b1d01970803aa3ddbcad0c9065548185d12c0719a59d0dfd445093e8ab1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -90,7 +90,6 @@ ns3.bit-trail.nl
 dns.bitdefender.net
 doh-ch.blahdns.com
 doh-jp.blahdns.com
-doh-de.blahdns.com
 doh-sg.blahdns.com
 us1.blissdns.net
 dns.blokada.org
@@ -215,7 +214,6 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 dns.hanahira.dev
 dns.haoxuan.xyz
-home27.duckdns.org
 dns.hostux.net
 dns.hostux.net
 ordns.he.net
@@ -273,7 +271,6 @@ adblock.dns.mullvad.net
 base.dns.mullvad.net
 extended.dns.mullvad.net
 all.dns.mullvad.net
-www.muxyuji.ru
 blackhole.myon.lu
 dns.nas-server.ru
 dns.ndo.dev

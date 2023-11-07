@@ -1,4 +1,4 @@
-#89ca4b1d01970803aa3ddbcad0c9065548185d12c0719a59d0dfd445093e8ab1
+#f9023ab0fc925055c81cce01fa6aa514d2d52cbc0991adbd7d1403c2451e0938
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -263,6 +263,7 @@ adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
 doh.mmmalia.com
+dns.mni.li
 dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
@@ -354,6 +355,7 @@ doh.tiar.app
 doh.tiarap.org
 timmes.nl
 dns.tls-data.de
+adg.tshost.no
 dns.twnic.tw
 resolver.unstoppable.io
 dns.uplenk.com
@@ -366,6 +368,7 @@ adb-home.xaoimoon.fr
 doh.xcom.pro
 yarp.lefolgoc.net
 yovbak.com
+doh.zln.wtf
 cdn.0ms.dev
 dns.23-4.cn
 dns.240527.xyz

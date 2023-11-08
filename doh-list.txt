@@ -1,4 +1,4 @@
-#f9023ab0fc925055c81cce01fa6aa514d2d52cbc0991adbd7d1403c2451e0938
+#3514a2079fd76bd56dc2a4401f13bfdbb5fa909d60ab30678f7322a911dc9d46
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -124,7 +124,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-doh.xfinity.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -144,7 +143,8 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-dns.cwlys.com
+freedns.controld.com
+freedns.controld.com
 dns.cynthialabs.net
 odvr.nic.cz
 dns.daw.dev
@@ -264,7 +264,6 @@ dns.meeo.win
 snoke.meganerd.nl
 doh.mmmalia.com
 dns.mni.li
-dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
 dns.mullvad.net
@@ -314,8 +313,6 @@ lion.dns.qwer.pw
 tiger.dns.qwer.pw
 frog.dns.qwer.pw
 resolver.r0cket.net
-ag.ssrahul96.xyz
-dns.rayanbab.com
 rayneau.fr
 dns.reckoningslug.name
 kaitain.restena.lu
@@ -325,7 +322,6 @@ doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
 dns.rotunneling.net
-adguard-dns.rouga.ch
 safeservedns.com
 doh.safesurfer.io
 o.rsaikat.com

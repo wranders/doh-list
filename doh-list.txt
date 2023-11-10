@@ -1,4 +1,4 @@
-#3514a2079fd76bd56dc2a4401f13bfdbb5fa909d60ab30678f7322a911dc9d46
+#d24cd829469809ebbb17b39ff14c52384d6ec326a1498b9da0f49dd008633914
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -167,7 +167,6 @@ dns-doh.dnsforfamily.com
 dns.digitalsize.net
 dns.expert
 dns.linkr.ninja
-ttag.dns.nomu.pw
 doh.dns.sb
 doh.sb
 doh.dns4all.eu
@@ -218,7 +217,6 @@ dns.hostux.net
 dns.hostux.net
 ordns.he.net
 doth.huque.com
-dns-public.ibakerserver.pt
 ihctw.synology.me
 dns1.in-berlin.de
 qlf-doh.inria.fr
@@ -340,7 +338,6 @@ clientdns3.softcom.net
 spacedns.org
 dns.spil.co.id
 dns.startupstack.tech
-dns.stvsk.ml
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org

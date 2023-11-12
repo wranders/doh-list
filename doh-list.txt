@@ -1,4 +1,4 @@
-#71cf16a86885ba75ac51e9308fad5538c61b80251143a7ae7fc34c33e379cb9e
+#a85fc5c11417093bf34935daaa3f621f857bd7476ea40afaef7c5dacc8eb6f7e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -165,7 +165,6 @@ dns-free.link
 dns-doh.dnsforfamily.com
 dns.digitalsize.net
 dns.expert
-dns.linkr.ninja
 doh.dns.sb
 doh.sb
 doh.dns4all.eu
@@ -351,7 +350,6 @@ resolver.unstoppable.io
 dns.uplenk.com
 virga.pp.ua
 virga.pp.ua
-dns.vishalk.com
 dns.wang.art
 wikimedia-dns.org
 adb-home.xaoimoon.fr

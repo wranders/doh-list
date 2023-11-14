@@ -1,4 +1,4 @@
-#a85fc5c11417093bf34935daaa3f621f857bd7476ea40afaef7c5dacc8eb6f7e
+#7c7719239dd934f8992532be121d8128a0096cb20794842669eef6ffa175f016
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -332,7 +332,6 @@ dns.skrep.eu
 dns.slinkyman.net
 clientdns3.softcom.net
 spacedns.org
-dns.spil.co.id
 dns.startupstack.tech
 dns.switch.ch
 dns.syaifullah.com

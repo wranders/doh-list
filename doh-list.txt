@@ -1,4 +1,4 @@
-#7c7719239dd934f8992532be121d8128a0096cb20794842669eef6ffa175f016
+#438e8ac5f317052663387cc044d408bace6820b1a70455b5911c3540418613cd
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -209,7 +209,6 @@ dns64.dns.google
 8888.google
 cluster-0.gac.edu
 cluster-1.gac.edu
-dns.haoxuan.xyz
 dns.hostux.net
 dns.hostux.net
 ordns.he.net

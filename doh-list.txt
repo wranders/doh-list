@@ -1,4 +1,4 @@
-#473b1de87a079063a1911d6d0b9069d6089e8f6c4f6f8abf919c5ccc2b8f47db
+#2f58a4997ceb5015efa49accfb7d545cf68b7918cb8ccf1800b50131e187bf83
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	bluemood.me
 #	chandr1000.net
 #	cloudflare-dns.com
 #	dns0.eu
@@ -92,7 +91,6 @@ doh-ch.blahdns.com
 doh-jp.blahdns.com
 doh-sg.blahdns.com
 dns.blokada.org
-bluemood.me
 doh.boje8.me
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
@@ -160,6 +158,54 @@ open.dns0.eu
 dns0.eu
 zero.dns0.eu
 kids.dns0.eu
+abe01.dnscry.pt
+ams01.dnscry.pt
+ams02.dnscry.pt
+atl01.dnscry.pt
+ycg01.dnscry.pt
+ord01.dnscry.pt
+kiv01.dnscry.pt
+coe01.dnscry.pt
+cvt01.dnscry.pt
+dfw01.dnscry.pt
+dub01.dnscry.pt
+dtw01.dnscry.pt
+rdu01.dnscry.pt
+dus01.dnscry.pt
+fra01.dnscry.pt
+hkg01.dnscry.pt
+ist01.dnscry.pt
+jnb01.dnscry.pt
+las01.dnscry.pt
+llk01.dnscry.pt
+lon01.dnscry.pt
+lax01.dnscry.pt
+lax02.dnscry.pt
+mad01.dnscry.pt
+mia01.dnscry.pt
+yul01.dnscry.pt
+bom01.dnscry.pt
+muc01.dnscry.pt
+naw01.dnscry.pt
+nyc01.dnscry.pt
+phl01.dnscry.pt
+phx01.dnscry.pt
+pdx01.dnscry.pt
+slc01.dnscry.pt
+trf01.dnscry.pt
+sin01.dnscry.pt
+sof01.dnscry.pt
+geg01.dnscry.pt
+sto01.dnscry.pt
+syd01.dnscry.pt
+tpe01.dnscry.pt
+tll01.dnscry.pt
+tpa01.dnscry.pt
+tyo01.dnscry.pt
+zal01.dnscry.pt
+vie01.dnscry.pt
+waw01.dnscry.pt
+waw02.dnscry.pt
 dns-free.link
 dns-free.link
 dns-doh.dnsforfamily.com
@@ -203,13 +249,11 @@ doh.applied-privacy.net
 dns.froth.zone
 doh.futa.gg
 dns.freyja.pw
-dns.gnb09.id
 dns.google
 dns64.dns.google
 8888.google
 cluster-0.gac.edu
 cluster-1.gac.edu
-dns.hostux.net
 dns.hostux.net
 ordns.he.net
 doth.huque.com
@@ -309,7 +353,7 @@ resolver.r0cket.net
 rayneau.fr
 dns.reckoningslug.name
 kaitain.restena.lu
-basic.rethinkdns.com
+sky.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev

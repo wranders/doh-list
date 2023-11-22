@@ -1,4 +1,4 @@
-#2f58a4997ceb5015efa49accfb7d545cf68b7918cb8ccf1800b50131e187bf83
+#199ee17c7209dbedede5c34a58b0661f8c42c73ca852ca01bb09f1ca7ee7b5c7
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -25,7 +25,6 @@
 #	jackyes.ovh
 #	korzhov.dev
 #	lastentarvike.fi
-#	mailkyb.co
 #	masters-of-cloud.de
 #	doh.lv
 #	dns8.org
@@ -205,7 +204,6 @@ tyo01.dnscry.pt
 zal01.dnscry.pt
 vie01.dnscry.pt
 waw01.dnscry.pt
-waw02.dnscry.pt
 dns-free.link
 dns-free.link
 dns-doh.dnsforfamily.com
@@ -295,7 +293,6 @@ doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 orau.lz0724.com
-mailkyb.co
 masters-of-cloud.de
 adguard.meddy94.de
 dns.meeo.win
@@ -386,7 +383,6 @@ doh.tiar.app
 doh.tiarap.org
 timmes.nl
 dns.tls-data.de
-adg.tshost.no
 dns.twnic.tw
 resolver.unstoppable.io
 dns.uplenk.com

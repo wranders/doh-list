@@ -1,4 +1,4 @@
-#199ee17c7209dbedede5c34a58b0661f8c42c73ca852ca01bb09f1ca7ee7b5c7
+#cb478cd2496cc5607e21ff226be1ffbd1b94e0bb739c25d3ed9d2ecc6e42eb20
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -75,7 +75,6 @@ fr-dns1.bancuh.com
 dns.bebasid.com
 antivirus.bebasid.com
 internetsehat.bebasid.com
-internetsehat.bebasid.com
 dns.bebasid.com
 dns.bebasid.com
 dns.bebasid.com
@@ -83,7 +82,6 @@ dns.bebasid.com
 dns.bebasid.com
 dns.bebasid.com
 dns.bebasid.com
-dns.belnet.be
 ns3.bit-trail.nl
 dns.bitdefender.net
 doh-ch.blahdns.com
@@ -173,7 +171,6 @@ rdu01.dnscry.pt
 dus01.dnscry.pt
 fra01.dnscry.pt
 hkg01.dnscry.pt
-ist01.dnscry.pt
 jnb01.dnscry.pt
 las01.dnscry.pt
 llk01.dnscry.pt
@@ -292,13 +289,11 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-orau.lz0724.com
 masters-of-cloud.de
 adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
 doh.mmmalia.com
-dns.mni.li
 ps1.modr.club
 dns.molinero.dev
 dns.mullvad.net

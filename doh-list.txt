@@ -1,4 +1,4 @@
-#cb478cd2496cc5607e21ff226be1ffbd1b94e0bb739c25d3ed9d2ecc6e42eb20
+#4c267d722e1f03b0fa9a7a1638feeb2a0c5fd4ee06953314c8b37e9d889669cd
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -147,8 +147,6 @@ darkness.is.my.waifu.cz
 mail.data.haus
 doh.datacore.ch
 doh.datahata.by
-dns.decloudus.com
-doh-primary-pool.detoxifypornblocker.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 open.dns0.eu
@@ -216,7 +214,6 @@ uk01.dns4me.net
 sa01.dns4me.net
 ca01.dns4me.net
 ca02.dns4me.net
-dns1.dnscrypt.ca
 dnsforge.de
 dns.dnshome.de
 dnslow.me
@@ -301,6 +298,8 @@ adblock.dns.mullvad.net
 base.dns.mullvad.net
 extended.dns.mullvad.net
 all.dns.mullvad.net
+freedom.mydns.network
+paranoia.mydns.network
 blackhole.myon.lu
 dns.nas-server.ru
 dns.ndo.dev
@@ -322,10 +321,8 @@ n0.eu
 ns3.com
 ns3.cx
 ns3.link
-dot.occ.top
 dns.ofdoom.net
 secure.onedns.cc
-doh.onedns.net
 ada.openbld.net
 ric.openbld.net
 1a.ns.ozer.im
@@ -358,7 +355,6 @@ dns.sarak.as
 dns.sev.monster
 free.shecan.ir
 dns.shecan.ir
-pro.shecan.ir
 adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
@@ -391,12 +387,10 @@ yarp.lefolgoc.net
 yovbak.com
 doh.zln.wtf
 cdn.0ms.dev
-dns.23-4.cn
 dns.240527.xyz
 dns.4-the.win
 dns.52306.org
 family.5ososea.com
 kids.5ososea.com
-doh.crypto.sx
 ibuki.cgnat.net
 doh-2.seby.io

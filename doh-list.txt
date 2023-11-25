@@ -1,4 +1,4 @@
-#4c267d722e1f03b0fa9a7a1638feeb2a0c5fd4ee06953314c8b37e9d889669cd
+#299de3821d2abda0ffece7bbe27118b121b2d3f2f2a71828f2ccb0798415072a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -73,7 +73,6 @@ pihole.aws.ketan.dev
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 dns.bebasid.com
-antivirus.bebasid.com
 internetsehat.bebasid.com
 dns.bebasid.com
 dns.bebasid.com

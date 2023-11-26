@@ -1,4 +1,4 @@
-#299de3821d2abda0ffece7bbe27118b121b2d3f2f2a71828f2ccb0798415072a
+#d2f3b7e5bf7e5c8ba5ac16e4cc2ae31fca6eba488dd58824c31f013019bb81da
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -299,6 +299,7 @@ extended.dns.mullvad.net
 all.dns.mullvad.net
 freedom.mydns.network
 paranoia.mydns.network
+adblock.mydns.network
 blackhole.myon.lu
 dns.nas-server.ru
 dns.ndo.dev

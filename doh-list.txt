@@ -1,4 +1,4 @@
-#d2f3b7e5bf7e5c8ba5ac16e4cc2ae31fca6eba488dd58824c31f013019bb81da
+#e408e2ffbac1de6ec4a1edfaf2f5abde57c2b6cf4c098db6eac515f2edb3cd65
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -37,7 +37,6 @@
 #	spacedns.org
 #	timmes.nl
 #	wikimedia-dns.org
-#	yovbak.com
 #
 
 abel.waringer-atg.de
@@ -300,6 +299,7 @@ all.dns.mullvad.net
 freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network
+family.mydns.network
 blackhole.myon.lu
 dns.nas-server.ru
 dns.ndo.dev
@@ -384,8 +384,6 @@ wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro
 yarp.lefolgoc.net
-yovbak.com
-doh.zln.wtf
 cdn.0ms.dev
 dns.240527.xyz
 dns.4-the.win

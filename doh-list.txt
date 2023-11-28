@@ -1,4 +1,4 @@
-#e408e2ffbac1de6ec4a1edfaf2f5abde57c2b6cf4c098db6eac515f2edb3cd65
+#c87ec7c59a31fddcd747719e74c6fd41511b0a241c820a4552807b168bb2ec54
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -176,7 +176,6 @@ lax02.dnscry.pt
 mad01.dnscry.pt
 mia01.dnscry.pt
 yul01.dnscry.pt
-bom01.dnscry.pt
 muc01.dnscry.pt
 naw01.dnscry.pt
 nyc01.dnscry.pt
@@ -264,7 +263,6 @@ dns.kamilszczepanski.com
 dns.karl.one
 dns.kernel-error.de
 dns.kescher.at
-doh.killtw.im
 blog.kimiblock.top
 adguard.avdkishore.dev
 adguard.konikoni428.com
@@ -364,6 +362,8 @@ dns.slinkyman.net
 clientdns3.softcom.net
 spacedns.org
 dns.startupstack.tech
+sundalandia.pp.ua
+sundalandia.pp.ua
 dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org

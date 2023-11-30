@@ -1,4 +1,4 @@
-#c87ec7c59a31fddcd747719e74c6fd41511b0a241c820a4552807b168bb2ec54
+#d7659098d5f07fdd464898fca44447675d31f97be42ef0f6ab22db5f9b08bfc4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -192,7 +192,6 @@ syd01.dnscry.pt
 tpe01.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
-tyo01.dnscry.pt
 zal01.dnscry.pt
 vie01.dnscry.pt
 waw01.dnscry.pt
@@ -284,7 +283,6 @@ doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 masters-of-cloud.de
 adguard.meddy94.de
-dns.meeo.win
 snoke.meganerd.nl
 doh.mmmalia.com
 ps1.modr.club

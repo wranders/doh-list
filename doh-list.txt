@@ -1,4 +1,4 @@
-#d7659098d5f07fdd464898fca44447675d31f97be42ef0f6ab22db5f9b08bfc4
+#aa23afa1e5871ad95e1cc2ed427e4c82a0d7966b91bcb44b0cf87822c0ffc082
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -157,7 +157,6 @@ ams02.dnscry.pt
 atl01.dnscry.pt
 ycg01.dnscry.pt
 ord01.dnscry.pt
-kiv01.dnscry.pt
 coe01.dnscry.pt
 cvt01.dnscry.pt
 dfw01.dnscry.pt
@@ -374,7 +373,6 @@ timmes.nl
 dns.tls-data.de
 dns.twnic.tw
 resolver.unstoppable.io
-dns.uplenk.com
 virga.pp.ua
 virga.pp.ua
 dns.wang.art

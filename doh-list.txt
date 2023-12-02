@@ -1,4 +1,4 @@
-#aa23afa1e5871ad95e1cc2ed427e4c82a0d7966b91bcb44b0cf87822c0ffc082
+#11e509362921bba7c2a69f0b85d9ab51f03f664cfaf8b99e81a6f21fa568136a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	chandr1000.net
 #	cloudflare-dns.com
 #	dns0.eu
 #	dns-free.link
@@ -27,11 +26,6 @@
 #	lastentarvike.fi
 #	masters-of-cloud.de
 #	doh.lv
-#	dns8.org
-#	n0.eu
-#	ns3.com
-#	ns3.cx
-#	ns3.link
 #	rayneau.fr
 #	safeservedns.com
 #	spacedns.org
@@ -96,7 +90,6 @@ www.c-dns.com
 doh.aaaab3n.moe
 dns.carson-family.com
 doh.ccb-net.it
-chandr1000.net
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
@@ -311,11 +304,6 @@ pi1.node15.com
 sink.nolo.ltd
 1.dns.noridev.moe
 dns.novali.date
-dns8.org
-n0.eu
-ns3.com
-ns3.cx
-ns3.link
 dns.ofdoom.net
 secure.onedns.cc
 ada.openbld.net

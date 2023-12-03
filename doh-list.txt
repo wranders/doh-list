@@ -1,4 +1,4 @@
-#11e509362921bba7c2a69f0b85d9ab51f03f664cfaf8b99e81a6f21fa568136a
+#d26ce4bd5394450bc900a4c77dfd53e067bd727561e3b6c65eb997734361b3b7
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -22,7 +22,6 @@
 #	8888.google
 #	ivnkn.xyz
 #	jackyes.ovh
-#	korzhov.dev
 #	lastentarvike.fi
 #	masters-of-cloud.de
 #	doh.lv
@@ -34,6 +33,7 @@
 #
 
 abel.waringer-atg.de
+vn.dns.abpvn.com
 res-acst3.absolight.net
 resolver3.absolight.net
 adl.adfilter.net
@@ -257,9 +257,9 @@ dns.kescher.at
 blog.kimiblock.top
 adguard.avdkishore.dev
 adguard.konikoni428.com
-korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
+agh.kul-lippek.de
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
@@ -274,6 +274,7 @@ doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 masters-of-cloud.de
+doh.max.net.id
 adguard.meddy94.de
 snoke.meganerd.nl
 doh.mmmalia.com
@@ -365,8 +366,12 @@ virga.pp.ua
 virga.pp.ua
 dns.wang.art
 wikimedia-dns.org
+agh.workfordemo.co.in
 adb-home.xaoimoon.fr
 doh.xcom.pro
+common.dot.dns.yandex.net
+safe.dot.dns.yandex.net
+family.dot.dns.yandex.net
 yarp.lefolgoc.net
 cdn.0ms.dev
 dns.240527.xyz

@@ -1,4 +1,4 @@
-#d26ce4bd5394450bc900a4c77dfd53e067bd727561e3b6c65eb997734361b3b7
+#4d16d1896b09ad392b65703ba75da47175a0ecbdf2274d051f9e39ad3fe9dad4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -187,6 +187,7 @@ tpa01.dnscry.pt
 zal01.dnscry.pt
 vie01.dnscry.pt
 waw01.dnscry.pt
+waw02.dnscry.pt
 dns-free.link
 dns-free.link
 dns-doh.dnsforfamily.com

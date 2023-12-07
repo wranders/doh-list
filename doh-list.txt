@@ -1,4 +1,4 @@
-#4d16d1896b09ad392b65703ba75da47175a0ecbdf2274d051f9e39ad3fe9dad4
+#01065fa610a011f267ff42368fe16cfc2a2386526f32f7a1a6fca78e18830c05
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -25,7 +25,6 @@
 #	lastentarvike.fi
 #	masters-of-cloud.de
 #	doh.lv
-#	rayneau.fr
 #	safeservedns.com
 #	spacedns.org
 #	timmes.nl
@@ -260,7 +259,6 @@ adguard.avdkishore.dev
 adguard.konikoni428.com
 dart.kpsn.org
 xray.krnl.eu
-agh.kul-lippek.de
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
@@ -324,7 +322,6 @@ lion.dns.qwer.pw
 tiger.dns.qwer.pw
 frog.dns.qwer.pw
 resolver.r0cket.net
-rayneau.fr
 dns.reckoningslug.name
 kaitain.restena.lu
 sky.rethinkdns.com

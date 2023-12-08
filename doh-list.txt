@@ -1,4 +1,4 @@
-#01065fa610a011f267ff42368fe16cfc2a2386526f32f7a1a6fca78e18830c05
+#f66a6cbad76a807ba6ff82f1cb7f8cd6d77d6ce4f1b184d083b7d3c6148d396c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -81,7 +81,6 @@ doh-sg.blahdns.com
 dns.blokada.org
 doh.boje8.me
 doh.bortzmeyer.fr
-cloudns.bosco.ovh
 dns.brahma.world
 doh.bt.com
 doh1.b-cdn.net

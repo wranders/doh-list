@@ -1,4 +1,4 @@
-#f66a6cbad76a807ba6ff82f1cb7f8cd6d77d6ce4f1b184d083b7d3c6148d396c
+#122764cf75478e068a6fa0d8be3cf55409aafb14ef0929e823c5c2358ead7e04
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -163,7 +163,6 @@ llk01.dnscry.pt
 lon01.dnscry.pt
 lax01.dnscry.pt
 lax02.dnscry.pt
-mad01.dnscry.pt
 mia01.dnscry.pt
 yul01.dnscry.pt
 muc01.dnscry.pt
@@ -179,7 +178,6 @@ sof01.dnscry.pt
 geg01.dnscry.pt
 sto01.dnscry.pt
 syd01.dnscry.pt
-tpe01.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
 zal01.dnscry.pt
@@ -220,7 +218,6 @@ pdns.faelix.net
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
-dns.feldy.my.id
 ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
@@ -256,7 +253,6 @@ dns.kescher.at
 blog.kimiblock.top
 adguard.avdkishore.dev
 adguard.konikoni428.com
-dart.kpsn.org
 xray.krnl.eu
 doh.lacontrevoie.fr
 lastentarvike.fi

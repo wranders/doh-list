@@ -1,4 +1,4 @@
-#af4bf162237a27abb74f174947449b97ac65aedc7ad34d735eb25b8821f3f918
+#7b307497fc2051bcb386af355cf0a7fe3715624f9af2d049859f899151baddef
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -135,7 +135,6 @@ dns.daw.dev
 ns.00dani.me
 darkness.is.my.waifu.cz
 mail.data.haus
-doh.datacore.ch
 doh.datahata.by
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
@@ -152,7 +151,6 @@ ord01.dnscry.pt
 coe01.dnscry.pt
 cvt01.dnscry.pt
 dfw01.dnscry.pt
-dub01.dnscry.pt
 dtw01.dnscry.pt
 rdu01.dnscry.pt
 dus01.dnscry.pt
@@ -193,13 +191,6 @@ dns.expert
 doh.dns.sb
 doh.sb
 doh.dns4all.eu
-nz01.dns4me.net
-au01.dns4me.net
-au02.dns4me.net
-uk01.dns4me.net
-sa01.dns4me.net
-ca01.dns4me.net
-ca02.dns4me.net
 dnsforge.de
 dns.dnshome.de
 dnslow.me

@@ -1,4 +1,4 @@
-#0a3a90ef27f053000fc81d403b95d3f1c61e165004bfc69b656754fa6fff0b04
+#d99e9de849069cb866ffa0192f758f069a5cdf636029068fd7593c22f8f2c112
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -326,7 +326,6 @@ dns.shecan.ir
 adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
-dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
 clientdns3.softcom.net

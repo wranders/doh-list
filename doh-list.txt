@@ -1,4 +1,4 @@
-#d99e9de849069cb866ffa0192f758f069a5cdf636029068fd7593c22f8f2c112
+#b0c7a21b4d1bbf1c87ed684169dbe10bfb3abfb7876a6c12847aaeebe399a8e2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -77,7 +77,8 @@ dns.bebasid.com
 ns3.bit-trail.nl
 dns.bitdefender.net
 doh-ch.blahdns.com
-doh-jp.blahdns.com
+doh-de.blahdns.com
+doh-fi.blahdns.com
 doh-sg.blahdns.com
 dns.blokada.org
 doh.bortzmeyer.fr
@@ -301,7 +302,6 @@ darya.persiannit.net
 doh.360.cn
 ns1.qquack.org
 dns.quad9.net
-doh.qis.io
 ant.dns.qwer.pw
 dog.dns.qwer.pw
 lion.dns.qwer.pw

@@ -1,4 +1,4 @@
-#b0c7a21b4d1bbf1c87ed684169dbe10bfb3abfb7876a6c12847aaeebe399a8e2
+#ba8f397930dbb5dc15effc2d3825834c0347c071fe75fdb5646f17b219b99723
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -33,8 +33,6 @@
 
 abel.waringer-atg.de
 vn.dns.abpvn.com
-res-acst3.absolight.net
-resolver3.absolight.net
 dns.aquilenet.fr
 adl.adfilter.net
 per.adfilter.net

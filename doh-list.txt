@@ -1,4 +1,4 @@
-#ba8f397930dbb5dc15effc2d3825834c0347c071fe75fdb5646f17b219b99723
+#af262a411021277fbfcb8aa81d832c636308904f8c72bcafb259315b0c25dd37
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -161,7 +161,6 @@ lon01.dnscry.pt
 lax01.dnscry.pt
 lax02.dnscry.pt
 mia01.dnscry.pt
-yul01.dnscry.pt
 muc01.dnscry.pt
 naw01.dnscry.pt
 nyc01.dnscry.pt
@@ -179,7 +178,6 @@ tll01.dnscry.pt
 tpa01.dnscry.pt
 zal01.dnscry.pt
 vie01.dnscry.pt
-waw01.dnscry.pt
 waw02.dnscry.pt
 dns-free.link
 dns-free.link
@@ -355,7 +353,6 @@ safe.dot.dns.yandex.net
 family.dot.dns.yandex.net
 yarp.lefolgoc.net
 cdn.0ms.dev
-dns.240527.xyz
 dns.4-the.win
 dns.52306.org
 family.5ososea.com

@@ -1,4 +1,4 @@
-#af262a411021277fbfcb8aa81d832c636308904f8c72bcafb259315b0c25dd37
+#d92d55f2ae2cc8b3163cc3d9f34dfdcaede9266148ed409e19b4cffb77d2a88f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -334,7 +334,6 @@ dns.syaifullah.com
 doh.syshero.org
 dns.t53.de
 dns.telekom.de
-dns.therifleman.name
 doh.tiar.app
 doh.tiarap.org
 timmes.nl
@@ -346,7 +345,6 @@ virga.pp.ua
 dns.wang.art
 wikimedia-dns.org
 agh.workfordemo.co.in
-adb-home.xaoimoon.fr
 doh.xcom.pro
 common.dot.dns.yandex.net
 safe.dot.dns.yandex.net

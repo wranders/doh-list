@@ -1,4 +1,4 @@
-#d92d55f2ae2cc8b3163cc3d9f34dfdcaede9266148ed409e19b4cffb77d2a88f
+#51d5773fc38e1301d0d02bcfe0c7bef32a47778821d03ff4eb07eb6dabb74f7f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -65,7 +65,6 @@ sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 dns.bebasid.com
 internetsehat.bebasid.com
-dns.bebasid.com
 dns.bebasid.com
 dns.bebasid.com
 dns.bebasid.com

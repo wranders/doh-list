@@ -1,4 +1,4 @@
-#51d5773fc38e1301d0d02bcfe0c7bef32a47778821d03ff4eb07eb6dabb74f7f
+#d885cfa60cb9209b778cf15de1f356d339b9e9231d60bb6f4d1cf2b3dd8f202b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -63,14 +63,6 @@ awan.ftp.sh
 pihole.aws.ketan.dev
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
-dns.bebasid.com
-internetsehat.bebasid.com
-dns.bebasid.com
-dns.bebasid.com
-dns.bebasid.com
-dns.bebasid.com
-dns.bebasid.com
-dns.bebasid.com
 ns3.bit-trail.nl
 dns.bitdefender.net
 doh-ch.blahdns.com
@@ -95,7 +87,6 @@ family.canadianshield.cira.ca
 dns.circl.lu
 doh.opendns.com
 doh.familyshield.opendns.com
-dns.clanless.ovh
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
@@ -176,7 +167,6 @@ syd01.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
 zal01.dnscry.pt
-vie01.dnscry.pt
 waw02.dnscry.pt
 dns-free.link
 dns-free.link
@@ -290,7 +280,6 @@ dns.ofdoom.net
 secure.onedns.cc
 ada.openbld.net
 ric.openbld.net
-1a.ns.ozer.im
 dns.paesa.es
 doh.gcp.pathofgrace.com
 darya.persiannit.net
@@ -343,7 +332,6 @@ virga.pp.ua
 virga.pp.ua
 dns.wang.art
 wikimedia-dns.org
-agh.workfordemo.co.in
 doh.xcom.pro
 common.dot.dns.yandex.net
 safe.dot.dns.yandex.net

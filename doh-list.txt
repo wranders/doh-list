@@ -1,4 +1,4 @@
-#d885cfa60cb9209b778cf15de1f356d339b9e9231d60bb6f4d1cf2b3dd8f202b
+#0e59486c82e8267b9bb9c2da688702a2022c23c2ebe2c26064c801655cbb8a79
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -63,7 +63,7 @@ awan.ftp.sh
 pihole.aws.ketan.dev
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
-ns3.bit-trail.nl
+be2aja.my.id
 dns.bitdefender.net
 doh-ch.blahdns.com
 doh-de.blahdns.com
@@ -72,6 +72,7 @@ doh-sg.blahdns.com
 dns.blokada.org
 doh.bortzmeyer.fr
 dns.brahma.world
+blast.broadband.ink
 doh.bt.com
 doh1.b-cdn.net
 www.c-dns.com
@@ -87,10 +88,12 @@ family.canadianshield.cira.ca
 dns.circl.lu
 doh.opendns.com
 doh.familyshield.opendns.com
+doh.umbrella.com
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 cloud.198.games
+dns.cloud88.com.au
 cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
@@ -180,6 +183,7 @@ dnsforge.de
 dns.dnshome.de
 dnslow.me
 dns.pub
+dns.dnssilo.top
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
@@ -239,6 +243,10 @@ doh.libredns.gr
 doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
+dns.lista.my.id
+adguard.lista.my.id
+onic-doh.lista.my.id
+adguard.lista.my.id
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
 doh.phdns3.lonet.org
@@ -313,6 +321,7 @@ dns.silentlybren.com
 dns.skrep.eu
 dns.slinkyman.net
 clientdns3.softcom.net
+dns.solonodes.net
 spacedns.org
 dns.startupstack.tech
 sundalandia.pp.ua
@@ -328,6 +337,7 @@ timmes.nl
 dns.tls-data.de
 dns.twnic.tw
 resolver.unstoppable.io
+doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
 dns.wang.art

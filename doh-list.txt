@@ -1,4 +1,4 @@
-#93b60f4300ba9efbf9fd891284e63e659f13be1ac564803f2147036484862d53
+#ae244d631ed8113d601235fb2640f2db9b18bb675495564d6798ff0a6f3f9963
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -25,7 +25,6 @@
 #	dukun.de
 #	edgy-dns.com
 #	eliatofani.ovh
-#	faradns.net
 #	fezgate.ovh
 #	dns.google
 #	8888.google
@@ -38,7 +37,6 @@
 #	minilla.store
 #	netcat.one
 #	doh.lv
-#	nickcan.xyz
 #	nilanjan.me
 #	outdoorchair.us
 #	quic.lol
@@ -97,7 +95,6 @@ doh.azoris.ovh
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 dns2.bartoszturek.online
-be2aja.my.id
 dns.bir.ru
 dns.bitdefender.net
 doh-ch.blahdns.com
@@ -190,7 +187,6 @@ adguard.darrenhizon.com
 mail.data.haus
 doh.datahata.by
 de.deghy.ir
-socolov.home.ro
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns-doh.dnsforfamily.com
@@ -266,7 +262,6 @@ eliatofani.ovh
 dns.emiliyan.com
 dns01.enginyring.com
 home.enjoymylife.net
-adguard.eoghan-net.com
 shield1.eranext.net
 dns.extrawdw.net
 jp1.f7b6h9.tk
@@ -274,8 +269,6 @@ dns.f97.xyz
 rdns.faelix.net
 pdns.faelix.net
 dns.fancyorg.at
-faradns.net
-doh.fatucloud.gosprout.org
 ns0.fdn.fr
 ns1.fdn.fr
 fezgate.ovh
@@ -337,7 +330,6 @@ aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.354688.xyz
-dns.ithg.ru
 pdns.itxe.net
 ivnkn.xyz
 dns.jstockley.com
@@ -346,7 +338,6 @@ jambi.undo.it
 dns.rhscz.eu
 dns.jcdn.site
 adguard.jfchenier.ca
-dns.jhangy.us
 adguardo.jimtay.uk
 dns.hahnjo.de
 jp.tiar.app
@@ -387,7 +378,6 @@ dns.lista.my.id
 adguard.lista.my.id
 onic-doh.lista.my.id
 adguard.lista.my.id
-id.local.v.ua
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -447,7 +437,6 @@ dns2.nhgnet.de
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
-nickcan.xyz
 dns1.nielsdb.be
 nilanjan.me
 doh.niyaru.online
@@ -511,10 +500,8 @@ doh.safesurfer.io
 dns2.saferbfc.org
 safeservedns.com
 o.rsaikat.com
-dns.sainternet.xyz
 dns.sarak.as
 ns.sblnetwork.co.id
-dns.sbstructure.ir
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
@@ -572,8 +559,6 @@ dns.timvo.net
 dns.tls-data.de
 dot.tooli.ca
 dns.trifanov-online.ru
-dns-1.trust2it.ch
-dns-2.trust2it.ch
 dns.trust404.win
 dns.tryk.app
 dns.twnic.tw
@@ -596,7 +581,6 @@ zuhause.webteufel.net
 resov.wehao.net
 wikimedia-dns.org
 clearweb.woodbridge.club
-dns.wryhf.net
 doh.xcom.pro
 v2.xx3210766.live
 common.dot.dns.yandex.net

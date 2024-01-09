@@ -1,4 +1,4 @@
-#ae244d631ed8113d601235fb2640f2db9b18bb675495564d6798ff0a6f3f9963
+#eb8fe01ac6c6fe11a8e7e779b55773de0157ce1fe7fa0947a58c86bc6e45fa6b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -37,7 +37,6 @@
 #	minilla.store
 #	netcat.one
 #	doh.lv
-#	nilanjan.me
 #	outdoorchair.us
 #	quic.lol
 #	safeservedns.com
@@ -48,7 +47,6 @@
 #	timmes.nl
 #	uradoori.org
 #	urology.wiki
-#	web-rated.ie
 #	wikimedia-dns.org
 #	ychen.gq
 #
@@ -274,7 +272,6 @@ ns1.fdn.fr
 fezgate.ovh
 ag.ff0x.ca
 doh.ffmuc.net
-adguard.fija-web.net
 dns01.flm9.net
 agh.fltn.us
 dash.flylcc.cc
@@ -291,8 +288,6 @@ sdns22.gkonuralp.com
 dns.google
 dns64.dns.google
 8888.google
-blitzd.gotdns.ch
-raffoz-pve.gotdns.ch
 cluster-0.gac.edu
 cluster-1.gac.edu
 dns.haboy.top
@@ -310,7 +305,6 @@ ordns.he.net
 dns.huseynov.work
 dns.huyhoangit.net
 ad.huyct.net
-dns.hva.li
 vd.i81.ru
 portal.iddqd.uk
 ihctw.synology.me
@@ -438,7 +432,6 @@ dns.nhtsky.com
 doh.lv
 doh.nic.lv
 dns1.nielsdb.be
-nilanjan.me
 doh.niyaru.online
 doh.niyawe.de
 dns.njal.la
@@ -527,7 +520,6 @@ dns.slinkyman.net
 clientdns3.softcom.net
 dns.solonodes.net
 tokyodns.songnguyen.name.vn
-free.sootoon.xyz
 spacedns.org
 adguard.sparshbajaj.me
 adguard.sscw.win
@@ -545,7 +537,6 @@ doh.syshero.org
 vanced.sytes.net
 dns.t53.de
 filter.das.sch.id
-dns.tb4.me
 dns.telekom.de
 dns.thebuckners.org
 blocker.thethorsens.org
@@ -576,7 +567,6 @@ geshido.vpn.geshido.ru
 dns.wahr.top
 dns.wang.art
 dns.wargan.io
-web-rated.ie
 zuhause.webteufel.net
 resov.wehao.net
 wikimedia-dns.org
@@ -590,7 +580,6 @@ yarp.lefolgoc.net
 ychen.gq
 dns.yyaan.com
 res.zijji.com
-cdn.0ms.dev
 ad.257053.xyz
 dns.4-the.win
 dns.52306.org

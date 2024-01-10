@@ -1,4 +1,4 @@
-#eb8fe01ac6c6fe11a8e7e779b55773de0157ce1fe7fa0947a58c86bc6e45fa6b
+#51012c427b8d0ae7e2a39acebc05d8c356197a8f0ba47fb07025d97822a4527b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -95,10 +95,6 @@ fr-dns1.bancuh.com
 dns2.bartoszturek.online
 dns.bir.ru
 dns.bitdefender.net
-doh-ch.blahdns.com
-doh-de.blahdns.com
-doh-fi.blahdns.com
-doh-sg.blahdns.com
 dns.blaze-sk.ru
 dns.blokada.org
 adguard.bonis.de
@@ -258,7 +254,6 @@ edgy-dns.com
 dns.henek.ovh
 eliatofani.ovh
 dns.emiliyan.com
-dns01.enginyring.com
 home.enjoymylife.net
 shield1.eranext.net
 dns.extrawdw.net
@@ -311,7 +306,6 @@ ihctw.synology.me
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
-dns.influa-dev.fr
 doh.infracell.net
 www.inpssh.online
 inpssh.online
@@ -432,14 +426,12 @@ dns.nhtsky.com
 doh.lv
 doh.nic.lv
 dns1.nielsdb.be
-doh.niyaru.online
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
 1.dns.noridev.moe
 dns.novali.date
-irgrdns.nullapp.xyz
 agh.odvpn.ru
 dns.ofdoom.net
 adguard.oms-ctr.ru
@@ -477,7 +469,6 @@ emby.rasp.tv
 jp.ray0512.win
 la.ray0512.win
 dns.reckoningslug.name
-adguard.rennes.despagne.net
 kaitain.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -518,7 +509,6 @@ dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 clientdns3.softcom.net
-dns.solonodes.net
 tokyodns.songnguyen.name.vn
 spacedns.org
 adguard.sparshbajaj.me

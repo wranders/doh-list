@@ -1,4 +1,4 @@
-#51012c427b8d0ae7e2a39acebc05d8c356197a8f0ba47fb07025d97822a4527b
+#39ff3921452cefad8433eac7105ae2adea3fd7928995a22ee8b9641d13f4ef72
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -61,7 +61,6 @@ syd.adfilter.net
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-dns.adguard0808.cloudns.ph
 dns.adrianlam.com
 dns.aerro.in
 blitz.ahadns.com
@@ -93,7 +92,6 @@ doh.azoris.ovh
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 dns2.bartoszturek.online
-dns.bir.ru
 dns.bitdefender.net
 dns.blaze-sk.ru
 dns.blokada.org
@@ -132,7 +130,6 @@ dns.clanto.cloud
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
-ys.cloud-sekeng.com
 cloud.198.games
 dns.cloud.ionutl.ro
 dns.cloud88.com.au
@@ -145,8 +142,6 @@ dns.cloudseriousshit.com
 dns-fr-psv1.cloudsides.com
 block.coconut.id
 dns.codarbyte.de
-jp.conana.info
-los.conana.info
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -343,7 +338,6 @@ blog.kimiblock.top
 adguard.avdkishore.dev
 dns1.klcd.eu
 dns2.klcd.eu
-dns.knightlsy.asia
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 xray.krnl.eu

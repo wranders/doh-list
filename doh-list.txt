@@ -1,4 +1,4 @@
-#39ff3921452cefad8433eac7105ae2adea3fd7928995a22ee8b9641d13f4ef72
+#b10b11e8b28f4512d18e99d10e536f65fccaef3325e6acf3e140f7c6baca1f63
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -43,7 +43,6 @@
 #	shijiu.asia
 #	spacedns.org
 #	surt.ovh
-#	timedns.org
 #	timmes.nl
 #	uradoori.org
 #	urology.wiki
@@ -528,7 +527,6 @@ doh.tiar.app
 doh.tiarap.org
 pwjbrhie.chicagocomputers.com.ar
 tienpham.id.vn
-timedns.org
 timmes.nl
 dns.timvo.net
 dns.tls-data.de

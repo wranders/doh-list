@@ -1,4 +1,4 @@
-#b10b11e8b28f4512d18e99d10e536f65fccaef3325e6acf3e140f7c6baca1f63
+#4090bd3e112177753749cae2ad9158e719e56b1b6e9b37cbcf7ef0507515d344
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -53,7 +53,6 @@
 adguard.abd.ong
 dns.abdullahabas.de
 abel.waringer-atg.de
-vn.dns.abpvn.com
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -90,7 +89,6 @@ pihole.aws.ketan.dev
 doh.azoris.ovh
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
-dns2.bartoszturek.online
 dns.bitdefender.net
 dns.blaze-sk.ru
 dns.blokada.org
@@ -140,7 +138,6 @@ dns64.cloudflare-dns.com
 dns.cloudseriousshit.com
 dns-fr-psv1.cloudsides.com
 block.coconut.id
-dns.codarbyte.de
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -174,7 +171,6 @@ darkness.is.my.waifu.cz
 adguard.darrenhizon.com
 mail.data.haus
 doh.datahata.by
-de.deghy.ir
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns-doh.dnsforfamily.com
@@ -331,9 +327,7 @@ dns.kamilszczepanski.com
 dns.karl.one
 dns.kernel-error.de
 dns.kescher.at
-dns.keskonet.com
 adguard.kiboko.it
-blog.kimiblock.top
 adguard.avdkishore.dev
 dns1.klcd.eu
 dns2.klcd.eu
@@ -549,7 +543,6 @@ geshido.vpn.geshido.ru
 dns.wahr.top
 dns.wang.art
 dns.wargan.io
-zuhause.webteufel.net
 resov.wehao.net
 wikimedia-dns.org
 clearweb.woodbridge.club

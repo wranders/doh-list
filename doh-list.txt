@@ -1,4 +1,4 @@
-#4090bd3e112177753749cae2ad9158e719e56b1b6e9b37cbcf7ef0507515d344
+#5c1213c1e90214c239c056e753f4dfff6cbe5056a9831b02b315e331ab781724
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -108,7 +108,6 @@ dns.carson-family.com
 dns.carter.me
 sriedmueadguard.casa
 catdns.org
-doh.ccb-net.it
 dns.chadeyron.fr
 dns.charraud.eu
 doh-01.spectrum.com
@@ -404,7 +403,6 @@ family.mydns.network
 blackhole.myon.lu
 dns.narl.app
 dns.ndo.dev
-dns.netraptor.com.au
 netcat.one
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -477,7 +475,6 @@ dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
 privatnas.servebeer.com
-adguard-home.server-on.net
 dns.sev.monster
 d2.shabi.icu
 free.shecan.ir

@@ -1,4 +1,4 @@
-#5c1213c1e90214c239c056e753f4dfff6cbe5056a9831b02b315e331ab781724
+#2bfe89967635a76f94be634b3ec51ef14d08eafb48061197aec21a9e25d6a02d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -76,7 +76,6 @@ secure.anudeep.me
 noads.api.org.pl
 dns.aquilenet.fr
 dns.ares-taiwan.com
-www.aridia.ru
 dns.artikel10.org
 dns.b612.me
 dns.atsilva.link
@@ -261,7 +260,6 @@ agh.fltn.us
 dash.flylcc.cc
 doh.applied-privacy.net
 hkname.freecdn.one
-dns.frguthrie.app
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
@@ -277,7 +275,6 @@ cluster-1.gac.edu
 dns.haboy.top
 resolver-eu.haringstad.com
 adguard.helpdesk38.ru
-admin.homedns.uk
 ag.hostme.co.il
 dns.hostux.net
 dns.hugo0.moe
@@ -313,14 +310,12 @@ dns.jstockley.com
 jackyes.ovh
 jambi.undo.it
 dns.rhscz.eu
-dns.jcdn.site
 adguard.jfchenier.ca
 adguardo.jimtay.uk
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
 dns.jundev.org
-dns.just-hosting.net
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karl.one

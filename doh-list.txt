@@ -1,4 +1,4 @@
-#2bfe89967635a76f94be634b3ec51ef14d08eafb48061197aec21a9e25d6a02d
+#be1553d160cabee4d3fa98e82212d0ffc754297b1a02e4f138011d119763b339
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -166,7 +166,6 @@ odvr.nic.cz
 dns.daw.dev
 ns.00dani.me
 darkness.is.my.waifu.cz
-adguard.darrenhizon.com
 mail.data.haus
 doh.datahata.by
 dns.digitale-gesellschaft.ch
@@ -378,8 +377,6 @@ minilla.store
 netcup.mismat.ch
 addns1.m-it.ro
 5g.o0o.re
-doh.mmmalia.com
-doh.mn-bonn.de
 dns.mo0on15.com
 query.mobyds.com
 nue2.moderateinfra.net
@@ -401,7 +398,6 @@ dns.ndo.dev
 netcat.one
 doh.luigi.nexific.it
 dns.nextdns.io
-dns2.nhgnet.de
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
@@ -517,7 +513,6 @@ timmes.nl
 dns.timvo.net
 dns.tls-data.de
 dot.tooli.ca
-dns.trifanov-online.ru
 dns.trust404.win
 dns.tryk.app
 dns.twnic.tw

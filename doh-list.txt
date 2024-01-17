@@ -1,4 +1,4 @@
-#be1553d160cabee4d3fa98e82212d0ffc754297b1a02e4f138011d119763b339
+#3d557811c5df2ffb2ecb24e100157d9e00760610ade91e55b15a41c46924dd1c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -21,7 +21,6 @@
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
-#	dnsvs.ovh
 #	dukun.de
 #	edgy-dns.com
 #	eliatofani.ovh
@@ -42,7 +41,6 @@
 #	safeservedns.com
 #	shijiu.asia
 #	spacedns.org
-#	surt.ovh
 #	timmes.nl
 #	uradoori.org
 #	urology.wiki
@@ -100,7 +98,6 @@ doh.bt.com
 stratus.bugz.fr
 doh1.b-cdn.net
 www.c-dns.com
-dns.c0ntroller.de
 callies-online.site
 doh.aaaab3n.moe
 dns.carson-family.com
@@ -216,7 +213,6 @@ sin01.dnscry.pt
 sof01.dnscry.pt
 geg01.dnscry.pt
 sto01.dnscry.pt
-syd01.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
 zal01.dnscry.pt
@@ -226,14 +222,11 @@ dns.dnshome.de
 dnslow.me
 dns.pub
 dns.dnssilo.top
-dnsvs.ovh
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
 dns.doh.best
 takhtakh.domyah.net
-server01.dr-adguard.de
-server03.dr-adguard.de
 doh.dscloud.me
 dukun.de
 doh.apad.pro
@@ -262,9 +255,7 @@ hkname.freecdn.one
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-doh.futa.gg
 dns.freyja.pw
-adguard.gewete.cloud
 sdns22.gkonuralp.com
 dns.google
 dns64.dns.google
@@ -287,7 +278,6 @@ dns.huyhoangit.net
 ad.huyct.net
 vd.i81.ru
 portal.iddqd.uk
-ihctw.synology.me
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
@@ -316,7 +306,6 @@ jp.tiar.app
 jp.tiarap.org
 dns.jundev.org
 ad.justincounts.com
-dns.kamilszczepanski.com
 dns.karl.one
 dns.kernel-error.de
 dns.kescher.at
@@ -352,7 +341,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-lv.long-nguyen.info
 dns1.lothuscorp.com.br
 ns.lov.host
 dns.lvolland.fr
@@ -444,7 +432,6 @@ ns.ral9005.org
 emby.rasp.tv
 jp.ray0512.win
 la.ray0512.win
-dns.reckoningslug.name
 kaitain.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -461,7 +448,6 @@ dns2.saferbfc.org
 safeservedns.com
 o.rsaikat.com
 dns.sarak.as
-ns.sblnetwork.co.id
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
@@ -494,7 +480,6 @@ local.sufly.top
 sundalandia.pp.ua
 sundalandia.pp.ua
 dns.superstefan.win
-surt.ovh
 dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com

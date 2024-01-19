@@ -1,4 +1,4 @@
-#3d557811c5df2ffb2ecb24e100157d9e00760610ade91e55b15a41c46924dd1c
+#8de69841a5920ec374ffaf3833c4e6b4a114cf1ce3d62ae50fc5cec068f90c41
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -29,7 +29,6 @@
 #	8888.google
 #	ikarosalpha.xyz
 #	inpssh.online
-#	ivnkn.xyz
 #	jackyes.ovh
 #	lastentarvike.fi
 #	masters-of-cloud.de
@@ -249,7 +248,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
 agh.fltn.us
-dash.flylcc.cc
 doh.applied-privacy.net
 hkname.freecdn.one
 dns.froth.zone
@@ -264,7 +262,6 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 dns.haboy.top
 resolver-eu.haringstad.com
-adguard.helpdesk38.ru
 ag.hostme.co.il
 dns.hostux.net
 dns.hugo0.moe
@@ -294,7 +291,6 @@ megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.354688.xyz
 pdns.itxe.net
-ivnkn.xyz
 dns.jstockley.com
 jackyes.ovh
 jambi.undo.it
@@ -345,7 +341,6 @@ dns1.lothuscorp.com.br
 ns.lov.host
 dns.lvolland.fr
 adhome.maige.fun
-locaweb.moleniuk.com
 adguard.marto.si
 masters-of-cloud.de
 dns.mathewakhil.online
@@ -396,7 +391,6 @@ resolver.noaddns.com
 pi1.node15.com
 1.dns.noridev.moe
 dns.novali.date
-agh.odvpn.ru
 dns.ofdoom.net
 adguard.oms-ctr.ru
 secure.onedns.cc
@@ -525,7 +519,6 @@ safe.dot.dns.yandex.net
 family.dot.dns.yandex.net
 yarp.lefolgoc.net
 ychen.gq
-dns.yyaan.com
 res.zijji.com
 ad.257053.xyz
 dns.4-the.win

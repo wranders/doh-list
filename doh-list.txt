@@ -1,4 +1,4 @@
-#8de69841a5920ec374ffaf3833c4e6b4a114cf1ce3d62ae50fc5cec068f90c41
+#812f23a62bc9ab1d9985098255558420eaa395477d8e8f2f33e23ba562853d44
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -38,7 +38,6 @@
 #	outdoorchair.us
 #	quic.lol
 #	safeservedns.com
-#	shijiu.asia
 #	spacedns.org
 #	timmes.nl
 #	uradoori.org
@@ -393,7 +392,6 @@ pi1.node15.com
 dns.novali.date
 dns.ofdoom.net
 adguard.oms-ctr.ru
-secure.onedns.cc
 ada.openbld.net
 ric.openbld.net
 fwgw.orangepipc.mywire.org
@@ -450,7 +448,6 @@ dns.sev.monster
 d2.shabi.icu
 free.shecan.ir
 dns.shecan.ir
-shijiu.asia
 ymjx.shimmerl.top
 adguard.shoupperuser.com
 dns.albony.xyz

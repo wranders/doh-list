@@ -1,4 +1,4 @@
-#812f23a62bc9ab1d9985098255558420eaa395477d8e8f2f33e23ba562853d44
+#94f862a0e316bc35577899f9b5d94af0485fd230e232b78b211667071dc2bc64
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -259,7 +259,6 @@ dns64.dns.google
 8888.google
 cluster-0.gac.edu
 cluster-1.gac.edu
-dns.haboy.top
 resolver-eu.haringstad.com
 ag.hostme.co.il
 dns.hostux.net
@@ -486,7 +485,6 @@ doh.tiarap.org
 pwjbrhie.chicagocomputers.com.ar
 tienpham.id.vn
 timmes.nl
-dns.timvo.net
 dns.tls-data.de
 dot.tooli.ca
 dns.trust404.win

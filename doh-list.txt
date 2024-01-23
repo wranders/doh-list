@@ -1,4 +1,4 @@
-#94f862a0e316bc35577899f9b5d94af0485fd230e232b78b211667071dc2bc64
+#fb37e7b0b397cbc8be070dbfb4cb16a295567a31d6c415343a1498ab120f14dc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -292,9 +292,7 @@ pdns.itxe.net
 dns.jstockley.com
 jackyes.ovh
 jambi.undo.it
-dns.rhscz.eu
 adguard.jfchenier.ca
-adguardo.jimtay.uk
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
@@ -325,10 +323,10 @@ doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
 dns2.linzefeng.top
+id-dns.lista.my.id
+sg-dns.lista.my.id
+hk-dns.lista.my.id
 dns.lista.my.id
-adguard.lista.my.id
-onic-doh.lista.my.id
-adguard.lista.my.id
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -363,7 +361,6 @@ query.mobyds.com
 nue2.moderateinfra.net
 ps1.modr.club
 dns.molinero.dev
-naganohara-yoimiya.momokko.moe
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -445,8 +442,6 @@ dns.scuola.org
 privatnas.servebeer.com
 dns.sev.monster
 d2.shabi.icu
-free.shecan.ir
-dns.shecan.ir
 ymjx.shimmerl.top
 adguard.shoupperuser.com
 dns.albony.xyz
@@ -515,10 +510,8 @@ family.dot.dns.yandex.net
 yarp.lefolgoc.net
 ychen.gq
 res.zijji.com
-ad.257053.xyz
 dns.4-the.win
 dns.52306.org
-dns.58jdl.com
 family.5ososea.com
 kids.5ososea.com
 dns.888654.xyz

@@ -1,4 +1,4 @@
-#fb37e7b0b397cbc8be070dbfb4cb16a295567a31d6c415343a1498ab120f14dc
+#299ba46798f492f1944cd90e310ca9a1dc36359b849d6e48a4ec3ec589dfca67
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -325,7 +325,6 @@ lindung.pp.ua
 dns2.linzefeng.top
 id-dns.lista.my.id
 sg-dns.lista.my.id
-hk-dns.lista.my.id
 dns.lista.my.id
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
@@ -336,7 +335,6 @@ doh.phdns5.lonet.org
 dns1.lothuscorp.com.br
 ns.lov.host
 dns.lvolland.fr
-adhome.maige.fun
 adguard.marto.si
 masters-of-cloud.de
 dns.mathewakhil.online
@@ -350,7 +348,6 @@ www.memorialus.eu.org
 ns.mtsoln.com
 dns.mestdag.fr
 dns.mikrotikrumahan.my.id
-dns.milangeorge.com
 dns.milkpie.one
 minilla.store
 netcup.mismat.ch
@@ -404,7 +401,6 @@ dns.pragmasec.nl
 orpi.privado.ovh
 www.pukanuragan.ru
 dns-privacy.puregeni.us
-ad.pyio.top
 doh.360.cn
 ns1.qquack.org
 dns.quad9.net
@@ -499,7 +495,6 @@ geshido.vpn.geshido.ru
 dns.wahr.top
 dns.wang.art
 dns.wargan.io
-resov.wehao.net
 wikimedia-dns.org
 clearweb.woodbridge.club
 doh.xcom.pro

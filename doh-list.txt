@@ -1,4 +1,4 @@
-#299ba46798f492f1944cd90e310ca9a1dc36359b849d6e48a4ec3ec589dfca67
+#eba495a6eefa3980c6e8a17cbbf5cd3d33ef04e9ccb578f0f442f288f3957808
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -69,7 +69,6 @@ mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
-noads.api.org.pl
 dns.aquilenet.fr
 dns.ares-taiwan.com
 dns.artikel10.org
@@ -121,7 +120,6 @@ doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 cloud.198.games
-dns.cloud.ionutl.ro
 dns.cloud88.com.au
 cloudflare-dns.com
 mozilla.cloudflare-dns.com

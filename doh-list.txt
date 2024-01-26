@@ -1,4 +1,4 @@
-#eba495a6eefa3980c6e8a17cbbf5cd3d33ef04e9ccb578f0f442f288f3957808
+#1296c808f83fcd766ad8034172a82b61cfd3a0b12aa3cfbc5f8c2b3b8cdde591
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -23,7 +23,6 @@
 #	dns.pub
 #	dukun.de
 #	edgy-dns.com
-#	eliatofani.ovh
 #	fezgate.ovh
 #	dns.google
 #	8888.google
@@ -228,7 +227,6 @@ dukun.de
 doh.apad.pro
 edgy-dns.com
 dns.henek.ovh
-eliatofani.ovh
 dns.emiliyan.com
 home.enjoymylife.net
 shield1.eranext.net
@@ -321,9 +319,8 @@ doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
 dns2.linzefeng.top
-id-dns.lista.my.id
-sg-dns.lista.my.id
 dns.lista.my.id
+adguard.lista.my.id
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -355,7 +352,6 @@ dns.mo0on15.com
 query.mobyds.com
 nue2.moderateinfra.net
 ps1.modr.club
-dns.molinero.dev
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -444,7 +440,6 @@ adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
-adg.siudzinski.net
 dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net

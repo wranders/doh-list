@@ -1,4 +1,4 @@
-#1296c808f83fcd766ad8034172a82b61cfd3a0b12aa3cfbc5f8c2b3b8cdde591
+#b5ce4294c047683eff67d14ca7d496a4ab304fd465f3aa680b907b0f7be8d3af
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -32,7 +32,6 @@
 #	lastentarvike.fi
 #	masters-of-cloud.de
 #	minilla.store
-#	netcat.one
 #	doh.lv
 #	outdoorchair.us
 #	quic.lol
@@ -72,7 +71,6 @@ dns.aquilenet.fr
 dns.ares-taiwan.com
 dns.artikel10.org
 dns.b612.me
-dns.atsilva.link
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -90,7 +88,6 @@ adguard.bonsirven.eu
 doh.bortzmeyer.fr
 dns.brahma.world
 blast.broadband.ink
-doh.bt.com
 stratus.bugz.fr
 doh1.b-cdn.net
 www.c-dns.com
@@ -127,7 +124,6 @@ family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns.cloudseriousshit.com
 dns-fr-psv1.cloudsides.com
-block.coconut.id
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -364,7 +360,6 @@ family.mydns.network
 blackhole.myon.lu
 dns.narl.app
 dns.ndo.dev
-netcat.one
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -420,7 +415,6 @@ h.gjrick.tw
 dns.rin.sh
 dns.rotunneling.net
 agh-yz.russel053.com
-dns.sac.rebl.eu.org
 doh.safesurfer.io
 dns2.saferbfc.org
 safeservedns.com
@@ -466,7 +460,6 @@ dns.thebuckners.org
 blocker.thethorsens.org
 doh.tiar.app
 doh.tiarap.org
-pwjbrhie.chicagocomputers.com.ar
 tienpham.id.vn
 timmes.nl
 dns.tls-data.de
@@ -483,7 +476,6 @@ urology.wiki
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
-dns.vlo.cc
 geshido.vpn.geshido.ru
 dns.wahr.top
 dns.wang.art

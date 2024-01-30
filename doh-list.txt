@@ -1,4 +1,4 @@
-#b5ce4294c047683eff67d14ca7d496a4ab304fd465f3aa680b907b0f7be8d3af
+#89586b3e3112fa476c8fb1dd505fb001ecd443b33a335ee294de29c8e96d5d8a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -87,7 +87,6 @@ adguard.bonis.de
 adguard.bonsirven.eu
 doh.bortzmeyer.fr
 dns.brahma.world
-blast.broadband.ink
 stratus.bugz.fr
 doh1.b-cdn.net
 www.c-dns.com
@@ -154,14 +153,14 @@ odvr.nic.cz
 dns.daw.dev
 ns.00dani.me
 darkness.is.my.waifu.cz
-mail.data.haus
+ns.data.haus
 doh.datahata.by
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns-doh.dnsforfamily.com
 dns-free.link
 dns-free.link
-dot.dns-ga.de
+doh.dns-ga.de
 dns.digitalsize.net
 dns.expert
 doh.dns.sb
@@ -175,7 +174,6 @@ abe01.dnscry.pt
 ams01.dnscry.pt
 ams02.dnscry.pt
 atl01.dnscry.pt
-ycg01.dnscry.pt
 ord01.dnscry.pt
 coe01.dnscry.pt
 cvt01.dnscry.pt
@@ -209,6 +207,7 @@ tpa01.dnscry.pt
 zal01.dnscry.pt
 waw02.dnscry.pt
 dnsforge.de
+clean.dnsforge.de
 dns.dnshome.de
 dnslow.me
 dns.pub
@@ -438,7 +437,6 @@ dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 clientdns3.softcom.net
-tokyodns.songnguyen.name.vn
 spacedns.org
 adguard.sparshbajaj.me
 adguard.sscw.win
@@ -489,7 +487,6 @@ safe.dot.dns.yandex.net
 family.dot.dns.yandex.net
 yarp.lefolgoc.net
 ychen.gq
-res.zijji.com
 dns.4-the.win
 dns.52306.org
 family.5ososea.com

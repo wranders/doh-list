@@ -1,4 +1,4 @@
-#89586b3e3112fa476c8fb1dd505fb001ecd443b33a335ee294de29c8e96d5d8a
+#4adbbc3cb4f388ce35fb9f7cf2e186f3ea519001de256d097000c0d0040ee740
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -114,7 +114,6 @@ dns.clanto.cloud
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
-cloud.198.games
 dns.cloud88.com.au
 cloudflare-dns.com
 mozilla.cloudflare-dns.com
@@ -234,7 +233,6 @@ dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
 fezgate.ovh
-ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
 agh.fltn.us
@@ -299,7 +297,6 @@ dns2.klcd.eu
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 xray.krnl.eu
-dns.skrzypiec.pl
 dns4.imkvq.com
 dns.l337.site
 doh.lacontrevoie.fr
@@ -340,11 +337,9 @@ dns.mestdag.fr
 dns.mikrotikrumahan.my.id
 dns.milkpie.one
 minilla.store
-netcup.mismat.ch
 addns1.m-it.ro
 5g.o0o.re
 dns.mo0on15.com
-query.mobyds.com
 nue2.moderateinfra.net
 ps1.modr.club
 dns.mullvad.net
@@ -452,7 +447,6 @@ dns.syaifullah.com
 doh.syshero.org
 vanced.sytes.net
 dns.t53.de
-filter.das.sch.id
 dns.telekom.de
 dns.thebuckners.org
 blocker.thethorsens.org

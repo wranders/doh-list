@@ -1,4 +1,4 @@
-#4adbbc3cb4f388ce35fb9f7cf2e186f3ea519001de256d097000c0d0040ee740
+#39f4c0b74415530004587ca7f1f05a00045a50ccc7bfcff7bbd0825f5b661438
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -151,7 +151,6 @@ dns.cynthialabs.net
 odvr.nic.cz
 dns.daw.dev
 ns.00dani.me
-darkness.is.my.waifu.cz
 ns.data.haus
 doh.datahata.by
 dns.digitale-gesellschaft.ch
@@ -261,7 +260,6 @@ dns.huseynov.work
 dns.huyhoangit.net
 ad.huyct.net
 vd.i81.ru
-portal.iddqd.uk
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
@@ -276,8 +274,8 @@ public.dns.iij.jp
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
+darkness.is.my.waifu.cz
 dns.354688.xyz
-pdns.itxe.net
 dns.jstockley.com
 jackyes.ovh
 jambi.undo.it
@@ -420,7 +418,6 @@ dns.scuola.org
 privatnas.servebeer.com
 dns.sev.monster
 d2.shabi.icu
-ymjx.shimmerl.top
 adguard.shoupperuser.com
 dns.albony.xyz
 adguard.shutgaming.net

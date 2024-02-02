@@ -1,4 +1,4 @@
-#39f4c0b74415530004587ca7f1f05a00045a50ccc7bfcff7bbd0825f5b661438
+#e601ea00fc72df1c41030f0b696e6985eedd0b1d3ef7b0bf7e361c7bc1dbefae
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -202,7 +202,6 @@ geg01.dnscry.pt
 sto01.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
-zal01.dnscry.pt
 waw02.dnscry.pt
 dnsforge.de
 clean.dnsforge.de
@@ -251,7 +250,6 @@ resolver-eu.haringstad.com
 ag.hostme.co.il
 dns.hostux.net
 dns.hugo0.moe
-dns.huizegunsing.nl
 dns.hujiayucc.cn
 ads.hunga1k47.com
 doth.huque.com

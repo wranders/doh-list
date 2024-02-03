@@ -1,4 +1,4 @@
-#e601ea00fc72df1c41030f0b696e6985eedd0b1d3ef7b0bf7e361c7bc1dbefae
+#c9dc1a52904d31fe0c7c5f5510f00da5ba59bb799128d3d38f902b9e3bbf6daf
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -12,7 +12,6 @@
 #	catdns.org
 #	cloudflare-dns.com
 #	cubedns.com
-#	cynntex.fun
 #	dns-free.link
 #	dns-free.link
 #	dns.expert
@@ -70,7 +69,6 @@ secure.anudeep.me
 dns.aquilenet.fr
 dns.ares-taiwan.com
 dns.artikel10.org
-dns.b612.me
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -146,7 +144,6 @@ freedns.controld.com
 cubedns.com
 qual.cuprum.ru
 nanopi.cybergroove.net
-cynntex.fun
 dns.cynthialabs.net
 odvr.nic.cz
 dns.daw.dev
@@ -261,7 +258,6 @@ vd.i81.ru
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
-doh.infracell.net
 www.inpssh.online
 inpssh.online
 qlf-doh.inria.fr
@@ -307,6 +303,7 @@ doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
 dns2.linzefeng.top
+uf-dns.lista.my.id
 dns.lista.my.id
 adguard.lista.my.id
 adguard.londonwebnerd.cloud

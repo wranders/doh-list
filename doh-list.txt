@@ -1,4 +1,4 @@
-#c9dc1a52904d31fe0c7c5f5510f00da5ba59bb799128d3d38f902b9e3bbf6daf
+#cb8880e8a81f7ba982e91287823ae0f24e3995c9fda2c2f62e31f846b4f3ed1a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -46,6 +46,7 @@
 adguard.abd.ong
 dns.abdullahabas.de
 abel.waringer-atg.de
+dns.abppro.ru
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -150,6 +151,7 @@ dns.daw.dev
 ns.00dani.me
 ns.data.haus
 doh.datahata.by
+dns.digitaladapt.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns-doh.dnsforfamily.com
@@ -274,6 +276,7 @@ dns.jstockley.com
 jackyes.ovh
 jambi.undo.it
 adguard.jfchenier.ca
+green2.jnraptor.net
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
@@ -438,6 +441,7 @@ dns.switch.ch
 dns.syaifullah.com
 doh.syshero.org
 vanced.sytes.net
+ad.systemfall.ru
 dns.t53.de
 dns.telekom.de
 dns.thebuckners.org
@@ -464,6 +468,7 @@ geshido.vpn.geshido.ru
 dns.wahr.top
 dns.wang.art
 dns.wargan.io
+dns.wellstsai.com
 wikimedia-dns.org
 clearweb.woodbridge.club
 doh.xcom.pro

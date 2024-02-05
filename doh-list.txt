@@ -1,4 +1,4 @@
-#cb8880e8a81f7ba982e91287823ae0f24e3995c9fda2c2f62e31f846b4f3ed1a
+#26d8818c46b60d79371ee724ffc0e3d534a6952934a0a64a58031f568da18b44
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -37,7 +37,6 @@
 #	safeservedns.com
 #	spacedns.org
 #	timmes.nl
-#	uradoori.org
 #	urology.wiki
 #	wikimedia-dns.org
 #	ychen.gq
@@ -54,7 +53,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
-dns.aerro.in
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
@@ -327,7 +325,6 @@ www.maxfong.cc
 doh.max.net.id
 adguard.meddy94.de
 snoke.meganerd.nl
-www.memorialus.eu.org
 ns.mtsoln.com
 dns.mestdag.fr
 dns.mikrotikrumahan.my.id
@@ -445,7 +442,6 @@ ad.systemfall.ru
 dns.t53.de
 dns.telekom.de
 dns.thebuckners.org
-blocker.thethorsens.org
 doh.tiar.app
 doh.tiarap.org
 tienpham.id.vn
@@ -459,7 +455,6 @@ dns.txq.life
 ad.tzockt.beer
 resolver.unstoppable.io
 dns.unx.io
-uradoori.org
 urology.wiki
 doh.viatech.com.tw
 virga.pp.ua

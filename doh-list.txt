@@ -1,4 +1,4 @@
-#26d8818c46b60d79371ee724ffc0e3d534a6952934a0a64a58031f568da18b44
+#11d6b0bc7f6576fe107c7988744b0f4288866f3a805af2cf3ca958290e4ff6f2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -62,6 +62,7 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
 mailer.amlegion.org
+dns.andersfarms.ltd
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
@@ -98,7 +99,6 @@ dns.charraud.eu
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
-dns.chocolatezz.xyz
 www.chungocoai.name.vn
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -306,7 +306,6 @@ lindung.pp.ua
 dns2.linzefeng.top
 uf-dns.lista.my.id
 dns.lista.my.id
-adguard.lista.my.id
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -411,7 +410,6 @@ dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
 privatnas.servebeer.com
-dns.sev.monster
 d2.shabi.icu
 adguard.shoupperuser.com
 dns.albony.xyz

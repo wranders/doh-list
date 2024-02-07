@@ -1,4 +1,4 @@
-#11d6b0bc7f6576fe107c7988744b0f4288866f3a805af2cf3ca958290e4ff6f2
+#7d3cdce6eb226e1415b6a0f917af68eecbe50805720a480aa6e94d8a4d876080
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -296,7 +296,6 @@ doh.lacontrevoie.fr
 dns.lashes-brow.ru
 lastentarvike.fi
 eu1.dns.lavate.ch
-adblock.leenit.kr
 adguard.lege.despagne.net
 dns.lgprk.com
 doh.libredns.gr

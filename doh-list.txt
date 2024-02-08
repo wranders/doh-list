@@ -1,4 +1,4 @@
-#7d3cdce6eb226e1415b6a0f917af68eecbe50805720a480aa6e94d8a4d876080
+#b87018d51124c33c24582a55a84c5f2e78d132222fa0f87224d1050fde146514
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,7 +39,6 @@
 #	timmes.nl
 #	urology.wiki
 #	wikimedia-dns.org
-#	ychen.gq
 #
 
 adguard.abd.ong
@@ -220,7 +219,6 @@ dns.emiliyan.com
 home.enjoymylife.net
 shield1.eranext.net
 dns.extrawdw.net
-jp1.f7b6h9.tk
 dns.f97.xyz
 rdns.faelix.net
 pdns.faelix.net
@@ -253,7 +251,6 @@ doth.huque.com
 ordns.he.net
 dns.huseynov.work
 dns.huyhoangit.net
-ad.huyct.net
 vd.i81.ru
 ikarosalpha.xyz
 dns1.in-berlin.de
@@ -316,7 +313,6 @@ ns.lov.host
 dns.lvolland.fr
 adguard.marto.si
 masters-of-cloud.de
-dns.mathewakhil.online
 adguard.mattiafenzi.uk
 home.wriedts.de
 www.maxfong.cc
@@ -469,7 +465,6 @@ common.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 family.dot.dns.yandex.net
 yarp.lefolgoc.net
-ychen.gq
 dns.4-the.win
 dns.52306.org
 family.5ososea.com

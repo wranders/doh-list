@@ -1,4 +1,4 @@
-#b87018d51124c33c24582a55a84c5f2e78d132222fa0f87224d1050fde146514
+#4e0016aeb992dbffe34ac4d492137be0877aa4ada86ec0404e6f4810fa4763ae
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -235,7 +235,6 @@ dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
 dns.freyja.pw
-sdns22.gkonuralp.com
 dns.google
 dns64.dns.google
 8888.google
@@ -300,7 +299,6 @@ doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
 dns2.linzefeng.top
-uf-dns.lista.my.id
 dns.lista.my.id
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
@@ -308,7 +306,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-dns1.lothuscorp.com.br
 ns.lov.host
 dns.lvolland.fr
 adguard.marto.si
@@ -321,6 +318,7 @@ adguard.meddy94.de
 snoke.meganerd.nl
 ns.mtsoln.com
 dns.mestdag.fr
+dns.midping.ir
 dns.mikrotikrumahan.my.id
 dns.milkpie.one
 minilla.store
@@ -384,8 +382,6 @@ resolver.r0cket.net
 inde.ragnvindr.org
 ns.ral9005.org
 emby.rasp.tv
-jp.ray0512.win
-la.ray0512.win
 kaitain.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -405,7 +401,6 @@ dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
 privatnas.servebeer.com
-d2.shabi.icu
 adguard.shoupperuser.com
 dns.albony.xyz
 adguard.shutgaming.net

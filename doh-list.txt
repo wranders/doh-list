@@ -1,4 +1,4 @@
-#4e0016aeb992dbffe34ac4d492137be0877aa4ada86ec0404e6f4810fa4763ae
+#0305850230692bd652c93119a0a69d99b9b001b53055db31c5e1a17a6d5848ea
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -30,7 +30,6 @@
 #	jackyes.ovh
 #	lastentarvike.fi
 #	masters-of-cloud.de
-#	minilla.store
 #	doh.lv
 #	outdoorchair.us
 #	quic.lol
@@ -84,6 +83,7 @@ adguard.bonis.de
 adguard.bonsirven.eu
 doh.bortzmeyer.fr
 dns.brahma.world
+dns.bravoc.one
 stratus.bugz.fr
 doh1.b-cdn.net
 www.c-dns.com
@@ -94,7 +94,6 @@ dns.carter.me
 sriedmueadguard.casa
 catdns.org
 dns.chadeyron.fr
-dns.charraud.eu
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
@@ -259,7 +258,6 @@ inpssh.online
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 dns.interhub.cc
-dns.internal.hosmatic.com
 public.dns.iij.jp
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
@@ -321,7 +319,6 @@ dns.mestdag.fr
 dns.midping.ir
 dns.mikrotikrumahan.my.id
 dns.milkpie.one
-minilla.store
 addns1.m-it.ro
 5g.o0o.re
 dns.mo0on15.com
@@ -428,6 +425,7 @@ doh.syshero.org
 vanced.sytes.net
 ad.systemfall.ru
 dns.t53.de
+family.dns.teknoholistik.com
 dns.telekom.de
 dns.thebuckners.org
 doh.tiar.app

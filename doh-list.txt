@@ -1,4 +1,4 @@
-#0305850230692bd652c93119a0a69d99b9b001b53055db31c5e1a17a6d5848ea
+#d999f6bf34e6b583909fd62e637a9794c3b9e778ef7c8aff5821cbad9c6b57b1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -22,7 +22,6 @@
 #	dns.pub
 #	dukun.de
 #	edgy-dns.com
-#	fezgate.ovh
 #	dns.google
 #	8888.google
 #	ikarosalpha.xyz
@@ -224,7 +223,6 @@ pdns.faelix.net
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
-fezgate.ovh
 doh.ffmuc.net
 dns01.flm9.net
 agh.fltn.us
@@ -349,7 +347,6 @@ pi1.node15.com
 1.dns.noridev.moe
 dns.novali.date
 dns.ofdoom.net
-adguard.oms-ctr.ru
 ada.openbld.net
 ric.openbld.net
 fwgw.orangepipc.mywire.org
@@ -412,7 +409,6 @@ clientdns3.softcom.net
 spacedns.org
 adguard.sparshbajaj.me
 adguard.sscw.win
-dns.sstomp.nl
 dns.startupstack.tech
 local.sufly.top
 sundalandia.pp.ua

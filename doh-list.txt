@@ -1,4 +1,4 @@
-#d999f6bf34e6b583909fd62e637a9794c3b9e778ef7c8aff5821cbad9c6b57b1
+#6c07ef65cbe56ec59430bfbfcf46e24bf0e5edbc23d402200dde35e11a1eabee
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -202,7 +202,6 @@ clean.dnsforge.de
 dns.dnshome.de
 dnslow.me
 dns.pub
-dns.dnssilo.top
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
@@ -255,7 +254,6 @@ www.inpssh.online
 inpssh.online
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
-dns.interhub.cc
 public.dns.iij.jp
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
@@ -416,7 +414,6 @@ sundalandia.pp.ua
 dns.superstefan.win
 dns.swin.pro
 dns.switch.ch
-dns.syaifullah.com
 doh.syshero.org
 vanced.sytes.net
 ad.systemfall.ru

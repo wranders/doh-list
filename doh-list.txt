@@ -1,4 +1,4 @@
-#6c07ef65cbe56ec59430bfbfcf46e24bf0e5edbc23d402200dde35e11a1eabee
+#ec170b9087f5fdf463b2cd89a5d93f3bb1fdb3c8ed2baeccb5ec1a357eb8e10b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -246,7 +246,6 @@ doth.huque.com
 ordns.he.net
 dns.huseynov.work
 dns.huyhoangit.net
-vd.i81.ru
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
@@ -325,6 +324,7 @@ adblock.dns.mullvad.net
 base.dns.mullvad.net
 extended.dns.mullvad.net
 all.dns.mullvad.net
+family.dns.mullvad.net
 freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network
@@ -442,7 +442,6 @@ geshido.vpn.geshido.ru
 dns.wahr.top
 dns.wang.art
 dns.wargan.io
-dns.wellstsai.com
 wikimedia-dns.org
 clearweb.woodbridge.club
 doh.xcom.pro

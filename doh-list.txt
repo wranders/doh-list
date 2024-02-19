@@ -1,4 +1,4 @@
-#f0aa93e106f8613c2ca64cd0300d1d1ee4b7b2840202e5deab91bd92bafd7c56
+#6ffd3e98b2551cf0a3bbc2375922cb74611e2f9d15bcb2b0f902dc1e36ee20a2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,7 +41,6 @@
 
 adguard.abd.ong
 dns.abdullahabas.de
-abel.waringer-atg.de
 dns.abppro.ru
 adl.adfilter.net
 per.adfilter.net
@@ -164,7 +163,6 @@ doh.dns4all.eu
 abe01.dnscry.pt
 ams01.dnscry.pt
 ams02.dnscry.pt
-atl01.dnscry.pt
 ord01.dnscry.pt
 coe01.dnscry.pt
 cvt01.dnscry.pt
@@ -302,7 +300,6 @@ dns.lvolland.fr
 adguard.marto.si
 masters-of-cloud.de
 adguard.mattiafenzi.uk
-home.wriedts.de
 www.maxfong.cc
 doh.max.net.id
 adguard.meddy94.de
@@ -311,10 +308,8 @@ ns.mtsoln.com
 dns.mestdag.fr
 dns.midping.ir
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 addns1.m-it.ro
 5g.o0o.re
-dns.mo0on15.com
 nue2.moderateinfra.net
 ps1.modr.club
 dns.mullvad.net

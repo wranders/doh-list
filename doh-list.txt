@@ -1,4 +1,4 @@
-#6ffd3e98b2551cf0a3bbc2375922cb74611e2f9d15bcb2b0f902dc1e36ee20a2
+#d11a9e77e6448f8fdc2cfa0aeeaa9787927aa2c2680b38fb2790121f6cc59ee1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -144,6 +144,7 @@ dns.daw.dev
 ns.00dani.me
 ns.data.haus
 doh.datahata.by
+dns.dekedin.me
 dns.digitaladapt.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
@@ -271,8 +272,6 @@ dns.kernel-error.de
 dns.kescher.at
 adguard.kiboko.it
 adguard.avdkishore.dev
-dns1.klcd.eu
-dns2.klcd.eu
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 xray.krnl.eu
@@ -295,7 +294,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-ns.lov.host
 dns.lvolland.fr
 adguard.marto.si
 masters-of-cloud.de

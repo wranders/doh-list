@@ -1,4 +1,4 @@
-#4b3f666fd3512b05f9fa444875f60b0969533226c2fe12d0bf5e7bd785d02033
+#df106e5cd18ca20f206d5c2be5ba3963590fe3112d1c1b5c5eeefd46b04fc6f3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	abluehope.com
 #	adbl-tslagter.nl
 #	albertocognetti.com
 #	axistechsupport.com
@@ -53,7 +52,6 @@
 
 adguard.abd.ong
 dns.abdullahabas.de
-abluehope.com
 dns.abppro.ru
 adbl-tslagter.nl
 adl.adfilter.net
@@ -259,7 +257,6 @@ dns.fullaccesstointernet.jp.eu.org
 kekv.fun
 dns.furrydns.de
 dns.freyja.pw
-eu.ghost.pm
 dns.gmserv.cc
 dns.google
 dns64.dns.google
@@ -357,8 +354,6 @@ snoke.meganerd.nl
 ns.mtsoln.com
 dns.mestdag.fr
 dns.midping.ir
-dns-frankfurt.mii-xms.com
-dns-singapore.mii-xms.com
 dns.mikrotikrumahan.my.id
 adguard.minetown.eu.org
 addns1.m-it.ro
@@ -406,7 +401,6 @@ dns.ovpn.bond
 dns.pacificmonster.com
 dns.paesa.es
 dns-ovh.panszelescik.pl
-v3.passby.eu.org
 doh.gcp.pathofgrace.com
 dns.paxavemedia.com
 dns.pernika.net

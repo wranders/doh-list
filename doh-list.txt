@@ -1,4 +1,4 @@
-#df106e5cd18ca20f206d5c2be5ba3963590fe3112d1c1b5c5eeefd46b04fc6f3
+#837b8fb5a1518b9d02a711285d838e58e694c1ddeb4df881861e3da482e6552d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -292,7 +292,6 @@ dns.itya.xyz
 dns.jstockley.com
 jackyes.ovh
 jambi.undo.it
-adguard.jaye.sh
 vps.jmarkin.ru
 green2.jnraptor.net
 adguard.johndave.me

@@ -1,4 +1,4 @@
-#837b8fb5a1518b9d02a711285d838e58e694c1ddeb4df881861e3da482e6552d
+#bd6c926fa6ba8e4e81cad741bd1d74451d188295279045d7188683eb07860d50
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -235,7 +235,6 @@ edgy-dns.com
 dns.henek.ovh
 dns.emiliyan.com
 home.enjoymylife.net
-shield1.eranext.net
 dns.eumera.de
 dns.extrawdw.net
 dns.f97.xyz
@@ -265,7 +264,6 @@ dns.guard.io
 cluster-0.gac.edu
 cluster-1.gac.edu
 resolver-eu.haringstad.com
-dns.hempfoundation.net
 ag.hostme.co.il
 dns.hostux.net
 dns.hugo0.moe
@@ -315,7 +313,6 @@ dns.korzhyk.pp.ua
 dns.kriswerry.nl
 xray.krnl.eu
 dns4.imkvq.com
-dns.l337.site
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
@@ -370,7 +367,6 @@ freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
-blackhole.myon.lu
 dns.narl.app
 dns.ndo.dev
 doh.luigi.nexific.it

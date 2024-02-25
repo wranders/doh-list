@@ -1,4 +1,4 @@
-#bd6c926fa6ba8e4e81cad741bd1d74451d188295279045d7188683eb07860d50
+#bf39004ab04e889d901889b5a9a85ad6218713a54a0e67dbf05fd588fcba1949
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -42,7 +42,6 @@
 #	safeservedns.com
 #	scottdylewski.com
 #	spacedns.org
-#	sriedmueadguard.casa
 #	sunnygyl.com
 #	szyrzyk.pl
 #	timmes.nl
@@ -93,7 +92,6 @@ dns.bitdefender.net
 dns.blaze-sk.ru
 dns.blokada.org
 adguard.bonis.de
-adguard.bonsirven.eu
 borisov.page
 doh.bortzmeyer.fr
 dns.brahma.world
@@ -203,7 +201,6 @@ lax01.dnscry.pt
 lax02.dnscry.pt
 mia01.dnscry.pt
 muc01.dnscry.pt
-naw01.dnscry.pt
 nyc01.dnscry.pt
 phl01.dnscry.pt
 phx01.dnscry.pt
@@ -459,7 +456,6 @@ dns.slinkyman.net
 clientdns3.softcom.net
 spacedns.org
 adguard.sparshbajaj.me
-sriedmueadguard.casa
 adguard.sscw.win
 dns.startupstack.tech
 dns.strassmair.org

@@ -1,4 +1,4 @@
-#bf39004ab04e889d901889b5a9a85ad6218713a54a0e67dbf05fd588fcba1949
+#1273bf87b974251b31fcf4d27cea71b22bd83c4b6a4b6f9770c3a7eee7011f3b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -76,7 +76,6 @@ dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
 dns.aquilenet.fr
-dns.ares-taiwan.com
 dns.artikel10.org
 secure.avastdns.com
 awan.ftp.sh
@@ -155,7 +154,6 @@ freedns.controld.com
 doh.corpa.me
 cubedns.com
 qual.cuprum.ru
-dns-jp0.cyhsu.xyz
 dns.cynthialabs.net
 odvr.nic.cz
 dns.danamas.net
@@ -289,7 +287,6 @@ jackyes.ovh
 jambi.undo.it
 vps.jmarkin.ru
 green2.jnraptor.net
-adguard.johndave.me
 ad.johnwick.me
 dns.hahnjo.de
 agh.josephyap.me
@@ -327,7 +324,6 @@ dns.lmir.info
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
-doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 dns.loony-tech.de
@@ -394,6 +390,7 @@ dns.pacificmonster.com
 dns.paesa.es
 dns-ovh.panszelescik.pl
 doh.gcp.pathofgrace.com
+paulo.nom.za
 dns.paxavemedia.com
 dns.pernika.net
 darya.persiannit.net

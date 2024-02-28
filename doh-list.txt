@@ -1,4 +1,4 @@
-#1273bf87b974251b31fcf4d27cea71b22bd83c4b6a4b6f9770c3a7eee7011f3b
+#408ab846250c354eb99d9d007b82eae224b5643f6a731914f976f01e2a5b9a44
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -156,7 +156,6 @@ cubedns.com
 qual.cuprum.ru
 dns.cynthialabs.net
 odvr.nic.cz
-dns.danamas.net
 dns.danayasastore.my.id
 dns.daw.dev
 ns.00dani.me
@@ -242,7 +241,6 @@ ns1.fdn.fr
 felipefalcao.ninja
 doh.ffmuc.net
 dns01.flm9.net
-agh.fltn.us
 life.flylcc.cc
 doh.applied-privacy.net
 hkname.freecdn.one
@@ -287,7 +285,6 @@ jackyes.ovh
 jambi.undo.it
 vps.jmarkin.ru
 green2.jnraptor.net
-ad.johnwick.me
 dns.hahnjo.de
 agh.josephyap.me
 jp.tiar.app
@@ -344,9 +341,7 @@ ns.mtsoln.com
 dns.mestdag.fr
 dns.midping.ir
 dns.mikrotikrumahan.my.id
-adguard.minetown.eu.org
 addns1.m-it.ro
-5g.o0o.re
 nue2.moderateinfra.net
 ps1.modr.club
 dns.moesite.top
@@ -405,11 +400,6 @@ doh.360.cn
 ns1.qquack.org
 dns.quad9.net
 quic.lol
-ant.dns.qwer.pw
-dog.dns.qwer.pw
-lion.dns.qwer.pw
-tiger.dns.qwer.pw
-frog.dns.qwer.pw
 resolver.r0cket.net
 ns.rabot.fi
 inde.ragnvindr.org
@@ -497,7 +487,6 @@ dns.wargan.io
 wikimedia-dns.org
 clearweb.woodbridge.club
 doh.xcom.pro
-v2.xx3210766.live
 common.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 family.dot.dns.yandex.net

@@ -1,4 +1,4 @@
-#408ab846250c354eb99d9d007b82eae224b5643f6a731914f976f01e2a5b9a44
+#c56f80a823e36234ea0d2cd21cbed4ac0879419b30cba1a37b69077227ae33aa
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -229,7 +229,6 @@ edgy-dns.com
 dns.henek.ovh
 dns.emiliyan.com
 home.enjoymylife.net
-dns.eumera.de
 dns.extrawdw.net
 dns.f97.xyz
 rdns.faelix.net
@@ -296,7 +295,6 @@ dns.kernel-error.de
 dns.kescher.at
 dns.keskinnetwork.com
 adguard.k-likhachev.ru
-adguard.kiboko.it
 adguard.avdkishore.dev
 dns.kloiber.co.at
 adguard.konikoni428.com

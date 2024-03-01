@@ -1,4 +1,4 @@
-#c56f80a823e36234ea0d2cd21cbed4ac0879419b30cba1a37b69077227ae33aa
+#8ff77fd91c646654d0482411245c45024246b79486e65380892828b5ed847432
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -71,7 +71,6 @@ dnsse-noads.alekberg.net
 dns.alidns.com
 allain.com.br
 mailer.amlegion.org
-dns.andersfarms.ltd
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
@@ -231,8 +230,6 @@ dns.emiliyan.com
 home.enjoymylife.net
 dns.extrawdw.net
 dns.f97.xyz
-rdns.faelix.net
-pdns.faelix.net
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
@@ -292,11 +289,9 @@ dns.jundev.org
 ad.justincounts.com
 dns.karl.one
 dns.kernel-error.de
-dns.kescher.at
 dns.keskinnetwork.com
 adguard.k-likhachev.ru
 adguard.avdkishore.dev
-dns.kloiber.co.at
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 dns.kriswerry.nl

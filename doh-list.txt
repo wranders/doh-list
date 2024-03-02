@@ -1,4 +1,4 @@
-#8ff77fd91c646654d0482411245c45024246b79486e65380892828b5ed847432
+#48fdcacc34a1b507e14d38122893cfff494f5da9e640b147199dbc15368b7eec
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -479,7 +479,6 @@ dns.wang.art
 dns.wargan.io
 wikimedia-dns.org
 clearweb.woodbridge.club
-doh.xcom.pro
 common.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 family.dot.dns.yandex.net

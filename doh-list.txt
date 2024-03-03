@@ -1,4 +1,4 @@
-#48fdcacc34a1b507e14d38122893cfff494f5da9e640b147199dbc15368b7eec
+#685b813f4a53e62a1c487c37b52b36e8f41ea678d12f7957e5ca13c8190d3b0c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -45,7 +45,6 @@
 #	sunnygyl.com
 #	szyrzyk.pl
 #	timmes.nl
-#	urology.wiki
 #	wikimedia-dns.org
 #
 
@@ -449,7 +448,6 @@ dns.swin.pro
 dns.switch.ch
 doh.syshero.org
 ad.systemfall.ru
-vanced.sytes.net
 szyrzyk.pl
 dns.t53.de
 family.dns.teknoholistik.com
@@ -457,7 +455,6 @@ dns.telekom.de
 dns.thebuckners.org
 doh.tiar.app
 doh.tiarap.org
-tienpham.id.vn
 timmes.nl
 dns.tls-data.de
 dot.tooli.ca
@@ -468,7 +465,6 @@ dns.txq.life
 ad.tzockt.beer
 resolver.unstoppable.io
 dns.unx.io
-urology.wiki
 noads.venovedo.ro
 doh.viatech.com.tw
 virga.pp.ua

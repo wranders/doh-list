@@ -1,4 +1,4 @@
-#959bb13a31c6e3773161d76a8101fc04d7aa091dcc30dae45e1702c653aa773b
+#84c6ee67b15277a920d35fd3a1f67df3089053f7342b17a0a8e2529d97258ceb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -425,7 +425,6 @@ privatnas.servebeer.com
 adguard.shoupperuser.com
 dns.albony.xyz
 adguard.shutgaming.net
-adguard.shuting.idv.tw
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch

@@ -1,4 +1,4 @@
-#2531d859e98e2460c852c17d225de056ff3a102fbe337629ed2a89599b4a944b
+#979d1889beaab6b845318e575e38a20e0e2910aaad459e7399f67443386c8a1b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -226,7 +226,6 @@ doh.apad.pro
 edgy-dns.com
 dns.henek.ovh
 dns.emiliyan.com
-home.enjoymylife.net
 dns.extrawdw.net
 dns.f97.xyz
 dnsvps.familiamv.net
@@ -479,7 +478,6 @@ safe.dot.dns.yandex.net
 family.dot.dns.yandex.net
 yarp.lefolgoc.net
 dns.yumenashyi.com
-dns.zeinima.com
 dns.111311.xyz
 doh.2kil.com
 dns.4-the.win

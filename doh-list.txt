@@ -1,4 +1,4 @@
-#979d1889beaab6b845318e575e38a20e0e2910aaad459e7399f67443386c8a1b
+#05cb198d6b895414810d7260b0f587d9b22426ceebec3f2e413a8089198fa9d3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -326,7 +326,6 @@ www.maxfong.cc
 doh.max.net.id
 adguard.meddy94.de
 testguard.meexx.de
-dns.mega-marimo.net
 snoke.meganerd.nl
 ns.mtsoln.com
 dns.mestdag.fr
@@ -426,7 +425,6 @@ dns.albony.xyz
 adguard.shutgaming.net
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
@@ -472,7 +470,6 @@ dns.wahr.top
 dns.wang.art
 dns.wargan.io
 wikimedia-dns.org
-clearweb.woodbridge.club
 common.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 family.dot.dns.yandex.net

@@ -1,4 +1,4 @@
-#05cb198d6b895414810d7260b0f587d9b22426ceebec3f2e413a8089198fa9d3
+#923d1139f9fa541aeff375e143e81a923923f629b889b4ae7572603744cc2279
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -188,7 +188,6 @@ rdu01.dnscry.pt
 dus01.dnscry.pt
 fra01.dnscry.pt
 hkg01.dnscry.pt
-jnb01.dnscry.pt
 las01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
@@ -475,7 +474,6 @@ safe.dot.dns.yandex.net
 family.dot.dns.yandex.net
 yarp.lefolgoc.net
 dns.yumenashyi.com
-dns.111311.xyz
 doh.2kil.com
 dns.4-the.win
 dns.52306.org

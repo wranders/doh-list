@@ -1,4 +1,4 @@
-#923d1139f9fa541aeff375e143e81a923923f629b889b4ae7572603744cc2279
+#9168722fd1f9c780ed6a910f0433773449a6a6beac2ed7fad9998ba7f679c897
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -38,7 +38,6 @@
 #	doh.lv
 #	ortudns.com
 #	outdoorchair.us
-#	quic.lol
 #	safeservedns.com
 #	scottdylewski.com
 #	spacedns.org
@@ -149,7 +148,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-doh.corpa.me
 cubedns.com
 qual.cuprum.ru
 dns.cynthialabs.net
@@ -236,7 +234,6 @@ doh.ffmuc.net
 dns01.flm9.net
 life.flylcc.cc
 doh.applied-privacy.net
-hkname.freecdn.one
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 kekv.fun
@@ -249,12 +246,10 @@ dns64.dns.google
 dns.guard.io
 cluster-0.gac.edu
 cluster-1.gac.edu
-resolver-eu.haringstad.com
 ag.hostme.co.il
 dns.hostux.net
 dns.hugo0.moe
 dns.hujiayucc.cn
-ads.hunga1k47.com
 doth.huque.com
 ordns.he.net
 dns.huseynov.work
@@ -291,7 +286,6 @@ adguard.k-likhachev.ru
 adguard.avdkishore.dev
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
-dns.kriswerry.nl
 xray.krnl.eu
 dns4.imkvq.com
 doh.lacontrevoie.fr
@@ -345,7 +339,6 @@ paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
 dns.narl.app
-dns.ndo.dev
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -388,14 +381,12 @@ dns-privacy.puregeni.us
 doh.360.cn
 ns1.qquack.org
 dns.quad9.net
-quic.lol
 resolver.r0cket.net
 ns.rabot.fi
 inde.ragnvindr.org
 int.ragnvindr.org
 ns.ral9005.org
 emby.rasp.tv
-dns.rbs.my.id
 kaitain.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com

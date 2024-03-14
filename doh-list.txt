@@ -1,4 +1,4 @@
-#9168722fd1f9c780ed6a910f0433773449a6a6beac2ed7fad9998ba7f679c897
+#c0c98f4800d74477314da1d8bd208523d2db5a089c121eebbab858af0f7fba05
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,11 +39,9 @@
 #	ortudns.com
 #	outdoorchair.us
 #	safeservedns.com
-#	scottdylewski.com
 #	spacedns.org
 #	sunnygyl.com
 #	szyrzyk.pl
-#	timmes.nl
 #	wikimedia-dns.org
 #
 
@@ -67,7 +65,6 @@ dnsse.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
-allain.com.br
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
@@ -105,7 +102,6 @@ dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
-dns.chillstice.com
 dns.dooks.uk
 www.chungocoai.name.vn
 private.canadianshield.cira.ca
@@ -239,7 +235,6 @@ dns.fullaccesstointernet.jp.eu.org
 kekv.fun
 dns.furrydns.de
 dns.freyja.pw
-dns.gmserv.cc
 dns.google
 dns64.dns.google
 8888.google
@@ -248,7 +243,6 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 ag.hostme.co.il
 dns.hostux.net
-dns.hugo0.moe
 dns.hujiayucc.cn
 doth.huque.com
 ordns.he.net
@@ -266,7 +260,6 @@ aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
-dns.354688.xyz
 dns.itya.xyz
 dns.jstockley.com
 jackyes.ovh
@@ -323,7 +316,6 @@ snoke.meganerd.nl
 ns.mtsoln.com
 dns.mestdag.fr
 dns.midping.ir
-dns.mikrotikrumahan.my.id
 addns1.m-it.ro
 nue2.moderateinfra.net
 ps1.modr.club
@@ -406,7 +398,6 @@ dns.sarak.as
 dns.sarilouis.com
 dns.scarx.net
 dns.schlagheck.berlin
-scottdylewski.com
 dns.scuola.org
 dns.serdcebolit.ru
 privatnas.servebeer.com
@@ -441,7 +432,6 @@ dns.telekom.de
 dns.thebuckners.org
 doh.tiar.app
 doh.tiarap.org
-timmes.nl
 dns.tls-data.de
 dot.tooli.ca
 dns.trust404.win
@@ -458,7 +448,6 @@ virga.pp.ua
 geshido.vpn.geshido.ru
 dns.wahr.top
 dns.wang.art
-dns.wargan.io
 wikimedia-dns.org
 common.dot.dns.yandex.net
 safe.dot.dns.yandex.net

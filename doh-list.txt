@@ -1,4 +1,4 @@
-#c0c98f4800d74477314da1d8bd208523d2db5a089c121eebbab858af0f7fba05
+#01083e16da7af36db6bad69d0aaf0461e240832ab3fc2a7ebff91b974e2a5018
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -303,7 +303,6 @@ doh.phdns5.lonet.org
 dns.loony-tech.de
 dns.ltse.cloud
 dns.lupine.solutions
-dns.lvolland.fr
 dns.mandre.dev
 adguard.marto.si
 masters-of-cloud.de
@@ -361,7 +360,6 @@ dns-ovh.panszelescik.pl
 doh.gcp.pathofgrace.com
 paulo.nom.za
 dns.paxavemedia.com
-dns.pernika.net
 darya.persiannit.net
 dns1.pietjacobs.be
 secure-dns.pleumkungz.com

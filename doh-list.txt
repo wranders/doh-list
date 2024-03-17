@@ -1,4 +1,4 @@
-#01083e16da7af36db6bad69d0aaf0461e240832ab3fc2a7ebff91b974e2a5018
+#f2977df18c0d60369a3cd2e58ef51dea0f3e190e7bd60671ce2828137c6595a0
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -177,7 +177,6 @@ ord01.dnscry.pt
 coe01.dnscry.pt
 cvt01.dnscry.pt
 dfw01.dnscry.pt
-dtw01.dnscry.pt
 rdu01.dnscry.pt
 dus01.dnscry.pt
 fra01.dnscry.pt
@@ -261,7 +260,6 @@ megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
 dns.itya.xyz
-dns.jstockley.com
 jackyes.ovh
 jambi.undo.it
 vps.jmarkin.ru
@@ -275,7 +273,6 @@ ad.justincounts.com
 dns.karl.one
 dns.kernel-error.de
 dns.keskinnetwork.com
-adguard.k-likhachev.ru
 adguard.avdkishore.dev
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
@@ -301,14 +298,12 @@ doh.phdns2.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 dns.loony-tech.de
-dns.ltse.cloud
 dns.lupine.solutions
 dns.mandre.dev
 adguard.marto.si
 masters-of-cloud.de
 adguard.mattiafenzi.uk
 www.maxfong.cc
-doh.max.net.id
 adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
@@ -391,7 +386,6 @@ doh.safesurfer.io
 dns2.saferbfc.org
 safeservedns.com
 o.rsaikat.com
-dns.sainte-foie.com
 dns.sarak.as
 dns.sarilouis.com
 dns.scarx.net
@@ -400,7 +394,6 @@ dns.scuola.org
 dns.serdcebolit.ru
 privatnas.servebeer.com
 adguard.shoupperuser.com
-dns.albony.xyz
 adguard.shutgaming.net
 dns.silen.org
 dns.silentlybren.com

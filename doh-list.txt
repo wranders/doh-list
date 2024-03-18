@@ -1,4 +1,4 @@
-#f2977df18c0d60369a3cd2e58ef51dea0f3e190e7bd60671ce2828137c6595a0
+#3b12eb58acf6df3672476471b61cf8838b086eefc1e9cb9a1ed1b0389dce148b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -102,7 +102,6 @@ dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
-dns.dooks.uk
 www.chungocoai.name.vn
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -272,7 +271,6 @@ dns.jundev.org
 ad.justincounts.com
 dns.karl.one
 dns.kernel-error.de
-dns.keskinnetwork.com
 adguard.avdkishore.dev
 adguard.konikoni428.com
 dns.korzhyk.pp.ua

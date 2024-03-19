@@ -1,4 +1,4 @@
-#3b12eb58acf6df3672476471b61cf8838b086eefc1e9cb9a1ed1b0389dce148b
+#b3bb07f1a838964c3b511fe8be061597203cc6f81c3b5eacbeb929cce0e352f5
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -144,7 +144,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 cubedns.com
-qual.cuprum.ru
 dns.cynthialabs.net
 odvr.nic.cz
 dns.danayasastore.my.id
@@ -190,7 +189,6 @@ muc01.dnscry.pt
 nyc01.dnscry.pt
 phl01.dnscry.pt
 phx01.dnscry.pt
-pdx01.dnscry.pt
 slc01.dnscry.pt
 trf01.dnscry.pt
 sin01.dnscry.pt
@@ -306,7 +304,6 @@ adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
-dns.mestdag.fr
 dns.midping.ir
 addns1.m-it.ro
 nue2.moderateinfra.net
@@ -359,7 +356,6 @@ secure-dns.pleumkungz.com
 dns.pointless.chat
 pooblet.co.za
 dns.pragmasec.nl
-orpi.privado.ovh
 dns-privacy.puregeni.us
 doh.360.cn
 ns1.qquack.org
@@ -377,7 +373,6 @@ sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
-dns.rjls.me
 dns.rotunneling.net
 agh-yz.russel053.com
 doh.safesurfer.io
@@ -443,7 +438,6 @@ safe.dot.dns.yandex.net
 family.dot.dns.yandex.net
 yarp.lefolgoc.net
 dns.yumenashyi.com
-doh.2kil.com
 dns.4-the.win
 dns.52306.org
 adguard2.546413.xyz

@@ -1,4 +1,4 @@
-#b3bb07f1a838964c3b511fe8be061597203cc6f81c3b5eacbeb929cce0e352f5
+#800e3f130add155ec79ef9519db57cd27050e86363d12147ab99c5e8a92a1715
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -365,7 +365,6 @@ ns.rabot.fi
 inde.ragnvindr.org
 int.ragnvindr.org
 ns.ral9005.org
-emby.rasp.tv
 kaitain.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com

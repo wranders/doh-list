@@ -1,4 +1,4 @@
-#800e3f130add155ec79ef9519db57cd27050e86363d12147ab99c5e8a92a1715
+#64fbb94abb906dfa45e2d4f1901ebdd37be4bfb1ced650a63f32b14caecc74a1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,7 +9,6 @@
 #
 #	adbl-tslagter.nl
 #	albertocognetti.com
-#	axistechsupport.com
 #	borisov.page
 #	callies-online.site
 #	catdns.org
@@ -27,7 +26,6 @@
 #	dukun.de
 #	edgy-dns.com
 #	felipefalcao.ninja
-#	kekv.fun
 #	dns.google
 #	8888.google
 #	ikarosalpha.xyz
@@ -77,7 +75,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 pihole.aws.ketan.dev
-axistechsupport.com
 doh.azoris.ovh
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
@@ -228,7 +225,6 @@ life.flylcc.cc
 doh.applied-privacy.net
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
-kekv.fun
 dns.furrydns.de
 dns.freyja.pw
 dns.google
@@ -377,7 +373,6 @@ agh-yz.russel053.com
 doh.safesurfer.io
 dns2.saferbfc.org
 safeservedns.com
-o.rsaikat.com
 dns.sarak.as
 dns.sarilouis.com
 dns.scarx.net

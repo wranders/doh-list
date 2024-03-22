@@ -1,4 +1,4 @@
-#64fbb94abb906dfa45e2d4f1901ebdd37be4bfb1ced650a63f32b14caecc74a1
+#893a513c43233eb00edce87526c727999734b9593a766fb7a0f63edd88aa4439
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -99,7 +99,6 @@ dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
-www.chungocoai.name.vn
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
@@ -248,6 +247,7 @@ inpssh.online
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
+dns.ipty.de
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
@@ -356,7 +356,6 @@ dns-privacy.puregeni.us
 doh.360.cn
 ns1.qquack.org
 dns.quad9.net
-resolver.r0cket.net
 ns.rabot.fi
 inde.ragnvindr.org
 int.ragnvindr.org
@@ -438,6 +437,5 @@ adguard2.546413.xyz
 family.5ososea.com
 kids.5ososea.com
 dns.888654.xyz
-sk.9727158.xyz
 ibuki.cgnat.net
 doh-2.seby.io

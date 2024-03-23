@@ -1,4 +1,4 @@
-#893a513c43233eb00edce87526c727999734b9593a766fb7a0f63edd88aa4439
+#381cabc43750859d4d6c9e706680170b5e5123d54dd9112303c0d0b7c552292d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -8,12 +8,16 @@
 #   !!! may block regular web access to these services.
 #
 #	adbl-tslagter.nl
+#	adghs.de
 #	albertocognetti.com
+#	bigart.su
 #	borisov.page
 #	callies-online.site
 #	catdns.org
+#	circumitor.de
 #	cloudflare-dns.com
 #	cubedns.com
+#	yeralin.net
 #	dns-free.link
 #	dns-free.link
 #	dns.expert
@@ -23,33 +27,50 @@
 #	dnslow.me
 #	dns.pub
 #	dnswebvsn.com
+#	doh.xyz
 #	dukun.de
 #	edgy-dns.com
 #	felipefalcao.ninja
+#	fffly.xyz
 #	dns.google
 #	8888.google
+#	hanniel.tech
+#	i-puppy.ru
 #	ikarosalpha.xyz
 #	inpssh.online
+#	isakula.space
 #	jackyes.ovh
+#	ksedns.ru
 #	lastentarvike.fi
 #	masters-of-cloud.de
+#	mikatos.de
+#	myv2ray.cn
+#	nenam.eu
 #	doh.lv
 #	ortudns.com
 #	outdoorchair.us
 #	safeservedns.com
+#	secure-4ud.de
+#	shalenkov.cc
 #	spacedns.org
 #	sunnygyl.com
 #	szyrzyk.pl
+#	tigrons.ru
+#	trovs.ru
+#	vtcuong.site
 #	wikimedia-dns.org
 #
 
 adguard.abd.ong
 dns.abdullahabas.de
 dns.abppro.ru
+doh.abraservice.xyz
 adbl-tslagter.nl
+pi.adblocker.eu.org
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
+adghs.de
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
@@ -57,11 +78,14 @@ dns.adrianlam.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
+dns.ahmgam.com
+hk.ahua.ltd
 albertocognetti.com
 dnsnl.alekberg.net
 dnsse.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
+agh.alematho.de
 dns.alidns.com
 mailer.amlegion.org
 dns.andrewnw.xyz
@@ -69,6 +93,7 @@ dns.aa.net.uk
 secure.anudeep.me
 dns.aquilenet.fr
 dns.artikel10.org
+doh.artsvr.my.id
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -76,8 +101,10 @@ awan.ftp.sh
 awan.ftp.sh
 pihole.aws.ketan.dev
 doh.azoris.ovh
+dns.baishiyuan.cn
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
+bigart.su
 dns.bitdefender.net
 dns.blaze-sk.ru
 dns.blokada.org
@@ -85,10 +112,10 @@ adguard.bonis.de
 borisov.page
 doh.bortzmeyer.fr
 dns.brahma.world
-dns.bravoc.one
 stratus.bugz.fr
 doh1.b-cdn.net
 www.c-dns.com
+dns.doserver.top
 callies-online.site
 doh.aaaab3n.moe
 console.carestyle.org
@@ -96,6 +123,8 @@ dns.carson-family.com
 dns.carter.me
 catdns.org
 dns.chadeyron.fr
+dns.chalkychalk.com
+cloudsrv.charitosnet.de
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
@@ -103,6 +132,7 @@ private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
 dns.circl.lu
+circumitor.de
 doh.opendns.com
 doh.familyshield.opendns.com
 doh.umbrella.com
@@ -116,8 +146,10 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
+voyage-s01.cloudku.technology
 dns.cloudseriousshit.com
 dns-fr-psv1.cloudsides.com
+addns.clubbase.club
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -140,11 +172,15 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 cubedns.com
+dns.cxl.moe
+dns2.cybrespace.net
 dns.cynthialabs.net
 odvr.nic.cz
+dns.daemon.za.net
 dns.danayasastore.my.id
 dns.daw.dev
 ns.00dani.me
+yeralin.net
 ns.data.haus
 doh.datahata.by
 dns.dekedin.me
@@ -174,7 +210,10 @@ dfw01.dnscry.pt
 rdu01.dnscry.pt
 dus01.dnscry.pt
 fra01.dnscry.pt
+fjr01.dnscry.pt
 hkg01.dnscry.pt
+jkt01.dnscry.pt
+los01.dnscry.pt
 las01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
@@ -204,24 +243,34 @@ dns.dnswarden.com
 dns.dnswarden.com
 dnswebvsn.com
 dns.doh.best
+doh.xyz
+dnsfilter.domotik.us
 takhtakh.domyah.net
+dns.dotnet.win
 doh.dscloud.me
+ad.dsh.lol
 dukun.de
 doh.apad.pro
 edgy-dns.com
 dns.henek.ovh
 dns.emiliyan.com
+dns.esnube.es
 dns.extrawdw.net
+dns.ezyss.id
 dns.f97.xyz
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
 felipefalcao.ninja
+fffly.xyz
 doh.ffmuc.net
+adguard.fihch.ru
+resolve.fknw.de
 dns01.flm9.net
 life.flylcc.cc
 doh.applied-privacy.net
+agent.frankutils.xyz
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
@@ -230,15 +279,20 @@ dns.google
 dns64.dns.google
 8888.google
 dns.guard.io
+dns2.guidocioni.it
 cluster-0.gac.edu
 cluster-1.gac.edu
+hanniel.tech
+jpdns.hker.me
 ag.hostme.co.il
 dns.hostux.net
+dns.huas.me
 dns.hujiayucc.cn
 doth.huque.com
 ordns.he.net
 dns.huseynov.work
 dns.huyhoangit.net
+i-puppy.ru
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
@@ -248,12 +302,15 @@ qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
 dns.ipty.de
+doh.iranet.cam
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
+isakula.space
 dns.itya.xyz
 jackyes.ovh
+adguard.jakinet.id
 jambi.undo.it
 vps.jmarkin.ru
 green2.jnraptor.net
@@ -262,6 +319,7 @@ agh.josephyap.me
 jp.tiar.app
 jp.tiarap.org
 dns.jundev.org
+dns.jungle-im.ir
 ad.justincounts.com
 dns.karl.one
 dns.kernel-error.de
@@ -269,12 +327,15 @@ adguard.avdkishore.dev
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 xray.krnl.eu
+ksedns.ru
 dns4.imkvq.com
 doh.lacontrevoie.fr
+ddns.itsnooblk.xyz
 lastentarvike.fi
 eu1.dns.lavate.ch
 adguard.leadseason.eu
 adguard.lege.despagne.net
+dns2.lezainski.com
 dns.lgprk.com
 doh.libredns.gr
 doh.libredns.gr
@@ -292,6 +353,7 @@ doh.phdns5.lonet.org
 dns.loony-tech.de
 dns.lupine.solutions
 dns.mandre.dev
+ag.marschi.de
 adguard.marto.si
 masters-of-cloud.de
 adguard.mattiafenzi.uk
@@ -300,7 +362,10 @@ adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
+dns.mesterdodh.cloud
 dns.midping.ir
+mikatos.de
+ukns.milangas2.top
 addns1.m-it.ro
 nue2.moderateinfra.net
 ps1.modr.club
@@ -315,9 +380,14 @@ freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
+myv2ray.cn
 dns.narl.app
+nenam.eu
+dns.nerdytechgeeks.co.za
+math.netlab.my.id
 doh.luigi.nexific.it
 dns.nextdns.io
+adhome.nvtai.id.vn
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
@@ -330,8 +400,12 @@ resolver.noaddns.com
 pi1.node15.com
 1.dns.noridev.moe
 dns.novali.date
+dns.npsolution.it
+x.ns1net.com
+dns.nzxti5.co.uk
 dns.oasg.xyz
 dns.ofdoom.net
+nydns.omada.cafe
 ada.openbld.net
 ric.openbld.net
 fwgw.orangepipc.mywire.org
@@ -343,23 +417,34 @@ dns.ovpn.bond
 dns.pacificmonster.com
 dns.paesa.es
 dns-ovh.panszelescik.pl
+by.paskam.xyz
 doh.gcp.pathofgrace.com
 paulo.nom.za
+dns.decky.eu
 dns.paxavemedia.com
+dns.pbs.gentility.org
+dns.pccoach.nl
 darya.persiannit.net
 dns1.pietjacobs.be
+doh.plaawan.uk
+dns.ple91.uk
 secure-dns.pleumkungz.com
-dns.pointless.chat
+adguard.pmoebi.xyz
 pooblet.co.za
 dns.pragmasec.nl
 dns-privacy.puregeni.us
+v.qdev.cc
 doh.360.cn
 ns1.qquack.org
 dns.quad9.net
+adguard.quydang.name.vn
+home.r01.fr
+dns.r9x.cc
 ns.rabot.fi
 inde.ragnvindr.org
 int.ragnvindr.org
 ns.ral9005.org
+dns.renardyre.com
 kaitain.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -367,18 +452,26 @@ sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
+dns.rootlab.top
 dns.rotunneling.net
 agh-yz.russel053.com
+pns2.sadraidc.com
 doh.safesurfer.io
+dns1.saferbfc.org
 dns2.saferbfc.org
 safeservedns.com
 dns.sarak.as
 dns.sarilouis.com
+ns1.sc-lezhi.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
+secure-4ud.de
 dns.serdcebolit.ru
 privatnas.servebeer.com
+agh2.server.my.id
+d3.shabi.icu
+shalenkov.cc
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
@@ -391,12 +484,18 @@ spacedns.org
 adguard.sparshbajaj.me
 adguard.sscw.win
 dns.startupstack.tech
+adguard.stealbit.com
+adguard.stevenfamy.me
 dns.strassmair.org
+dns.streamvine.app
 local.sufly.top
+remote.sufly.top
 sukidayo.eu.org
+www.sukidayo.eu.org
 sundalandia.pp.ua
 sundalandia.pp.ua
 sunnygyl.com
+adguard.superstefan.win
 dns.superstefan.win
 dns.swin.pro
 dns.switch.ch
@@ -404,38 +503,47 @@ doh.syshero.org
 ad.systemfall.ru
 szyrzyk.pl
 dns.t53.de
+vpn.technicule.info
 family.dns.teknoholistik.com
 dns.telekom.de
 dns.thebuckners.org
+guard.thefather.cloud
+cdn.thetcs.eu.org
 doh.tiar.app
 doh.tiarap.org
+tigrons.ru
 dns.tls-data.de
 dot.tooli.ca
+trovs.ru
+www.trovs.ru
 dns.trust404.win
 dns.tryk.app
 dns.twnic.tw
+dns.twopudding.icu
 dns.txq.life
 ad.tzockt.beer
 resolver.unstoppable.io
 dns.unx.io
+adguard.vape.ong
 noads.venovedo.ro
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
 geshido.vpn.geshido.ru
+vtcuong.site
 dns.wahr.top
 dns.wang.art
 wikimedia-dns.org
+dns.xcn.li
 common.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 family.dot.dns.yandex.net
 yarp.lefolgoc.net
+dns.yatima.tv
 dns.yumenashyi.com
 dns.4-the.win
 dns.52306.org
 adguard2.546413.xyz
-family.5ososea.com
-kids.5ososea.com
 dns.888654.xyz
 ibuki.cgnat.net
 doh-2.seby.io

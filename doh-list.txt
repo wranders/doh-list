@@ -1,4 +1,4 @@
-#381cabc43750859d4d6c9e706680170b5e5123d54dd9112303c0d0b7c552292d
+#da8078fe21ba26c31c814c63c439ff4d9faf2a82b5ec99727c553f3aaccf827d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -8,7 +8,6 @@
 #   !!! may block regular web access to these services.
 #
 #	adbl-tslagter.nl
-#	adghs.de
 #	albertocognetti.com
 #	bigart.su
 #	borisov.page
@@ -43,7 +42,6 @@
 #	ksedns.ru
 #	lastentarvike.fi
 #	masters-of-cloud.de
-#	mikatos.de
 #	myv2ray.cn
 #	nenam.eu
 #	doh.lv
@@ -70,7 +68,6 @@ pi.adblocker.eu.org
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
-adghs.de
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
@@ -85,7 +82,6 @@ dnsnl.alekberg.net
 dnsse.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
-agh.alematho.de
 dns.alidns.com
 mailer.amlegion.org
 dns.andrewnw.xyz
@@ -124,7 +120,6 @@ dns.carter.me
 catdns.org
 dns.chadeyron.fr
 dns.chalkychalk.com
-cloudsrv.charitosnet.de
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
@@ -328,7 +323,6 @@ adguard.konikoni428.com
 dns.korzhyk.pp.ua
 xray.krnl.eu
 ksedns.ru
-dns4.imkvq.com
 doh.lacontrevoie.fr
 ddns.itsnooblk.xyz
 lastentarvike.fi
@@ -364,7 +358,6 @@ snoke.meganerd.nl
 ns.mtsoln.com
 dns.mesterdodh.cloud
 dns.midping.ir
-mikatos.de
 ukns.milangas2.top
 addns1.m-it.ro
 nue2.moderateinfra.net

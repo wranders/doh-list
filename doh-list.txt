@@ -1,4 +1,4 @@
-#da8078fe21ba26c31c814c63c439ff4d9faf2a82b5ec99727c553f3aaccf827d
+#4d80d20493e0573be86f15f1e80bcdab31ddd480591c4bfe6a7f2348c27f5e04
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	adbl-tslagter.nl
 #	albertocognetti.com
 #	bigart.su
 #	borisov.page
@@ -36,7 +35,6 @@
 #	hanniel.tech
 #	i-puppy.ru
 #	ikarosalpha.xyz
-#	inpssh.online
 #	isakula.space
 #	jackyes.ovh
 #	ksedns.ru
@@ -63,7 +61,6 @@ adguard.abd.ong
 dns.abdullahabas.de
 dns.abppro.ru
 doh.abraservice.xyz
-adbl-tslagter.nl
 pi.adblocker.eu.org
 adl.adfilter.net
 per.adfilter.net
@@ -291,8 +288,6 @@ i-puppy.ru
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
-www.inpssh.online
-inpssh.online
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
@@ -324,7 +319,6 @@ dns.korzhyk.pp.ua
 xray.krnl.eu
 ksedns.ru
 doh.lacontrevoie.fr
-ddns.itsnooblk.xyz
 lastentarvike.fi
 eu1.dns.lavate.ch
 adguard.leadseason.eu
@@ -357,7 +351,6 @@ testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
 dns.mesterdodh.cloud
-dns.midping.ir
 ukns.milangas2.top
 addns1.m-it.ro
 nue2.moderateinfra.net
@@ -387,7 +380,6 @@ doh.nic.lv
 dns1.nielsdb.be
 dns.ninhs.org
 doh.niyawe.de
-dns.nj0.de
 dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
@@ -478,17 +470,12 @@ adguard.sparshbajaj.me
 adguard.sscw.win
 dns.startupstack.tech
 adguard.stealbit.com
-adguard.stevenfamy.me
 dns.strassmair.org
 dns.streamvine.app
-local.sufly.top
-remote.sufly.top
 sukidayo.eu.org
-www.sukidayo.eu.org
 sundalandia.pp.ua
 sundalandia.pp.ua
 sunnygyl.com
-adguard.superstefan.win
 dns.superstefan.win
 dns.swin.pro
 dns.switch.ch
@@ -508,8 +495,6 @@ tigrons.ru
 dns.tls-data.de
 dot.tooli.ca
 trovs.ru
-www.trovs.ru
-dns.trust404.win
 dns.tryk.app
 dns.twnic.tw
 dns.twopudding.icu
@@ -527,7 +512,6 @@ vtcuong.site
 dns.wahr.top
 dns.wang.art
 wikimedia-dns.org
-dns.xcn.li
 common.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 family.dot.dns.yandex.net

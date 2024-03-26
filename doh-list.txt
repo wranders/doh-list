@@ -1,4 +1,4 @@
-#4d80d20493e0573be86f15f1e80bcdab31ddd480591c4bfe6a7f2348c27f5e04
+#56f2c413f00eafcece1d04aab35bdfe62789258645d69079908fb2cddb6d717d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,7 +15,6 @@
 #	circumitor.de
 #	cloudflare-dns.com
 #	cubedns.com
-#	yeralin.net
 #	dns-free.link
 #	dns-free.link
 #	dns.expert
@@ -37,14 +36,12 @@
 #	ikarosalpha.xyz
 #	isakula.space
 #	jackyes.ovh
-#	ksedns.ru
 #	lastentarvike.fi
 #	masters-of-cloud.de
 #	myv2ray.cn
 #	nenam.eu
 #	doh.lv
 #	ortudns.com
-#	outdoorchair.us
 #	safeservedns.com
 #	secure-4ud.de
 #	shalenkov.cc
@@ -108,7 +105,6 @@ dns.brahma.world
 stratus.bugz.fr
 doh1.b-cdn.net
 www.c-dns.com
-dns.doserver.top
 callies-online.site
 doh.aaaab3n.moe
 console.carestyle.org
@@ -141,7 +137,6 @@ dns64.cloudflare-dns.com
 voyage-s01.cloudku.technology
 dns.cloudseriousshit.com
 dns-fr-psv1.cloudsides.com
-addns.clubbase.club
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -170,9 +165,7 @@ dns.cynthialabs.net
 odvr.nic.cz
 dns.daemon.za.net
 dns.danayasastore.my.id
-dns.daw.dev
 ns.00dani.me
-yeralin.net
 ns.data.haus
 doh.datahata.by
 dns.dekedin.me
@@ -249,7 +242,6 @@ dns.emiliyan.com
 dns.esnube.es
 dns.extrawdw.net
 dns.ezyss.id
-dns.f97.xyz
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
@@ -317,7 +309,6 @@ adguard.avdkishore.dev
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 xray.krnl.eu
-ksedns.ru
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
@@ -331,7 +322,6 @@ lindung.pp.ua
 lindung.pp.ua
 dns2.linzefeng.top
 dns.lista.my.id
-to.llzz.top
 dns.lmir.info
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
@@ -344,7 +334,6 @@ dns.mandre.dev
 ag.marschi.de
 adguard.marto.si
 masters-of-cloud.de
-adguard.mattiafenzi.uk
 www.maxfong.cc
 adguard.meddy94.de
 testguard.meexx.de
@@ -369,7 +358,6 @@ family.mydns.network
 myv2ray.cn
 dns.narl.app
 nenam.eu
-dns.nerdytechgeeks.co.za
 math.netlab.my.id
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -387,7 +375,6 @@ pi1.node15.com
 dns.novali.date
 dns.npsolution.it
 x.ns1net.com
-dns.nzxti5.co.uk
 dns.oasg.xyz
 dns.ofdoom.net
 nydns.omada.cafe
@@ -397,7 +384,6 @@ fwgw.orangepipc.mywire.org
 ortudns.com
 dns.oszx.co
 dns.ours.luxe
-outdoorchair.us
 dns.ovpn.bond
 dns.pacificmonster.com
 dns.paesa.es
@@ -419,14 +405,12 @@ pooblet.co.za
 dns.pragmasec.nl
 dns-privacy.puregeni.us
 v.qdev.cc
-doh.360.cn
 ns1.qquack.org
 dns.quad9.net
 adguard.quydang.name.vn
 home.r01.fr
 dns.r9x.cc
 ns.rabot.fi
-inde.ragnvindr.org
 int.ragnvindr.org
 ns.ral9005.org
 dns.renardyre.com
@@ -440,7 +424,6 @@ dns.rin.sh
 dns.rootlab.top
 dns.rotunneling.net
 agh-yz.russel053.com
-pns2.sadraidc.com
 doh.safesurfer.io
 dns1.saferbfc.org
 dns2.saferbfc.org
@@ -493,17 +476,14 @@ doh.tiar.app
 doh.tiarap.org
 tigrons.ru
 dns.tls-data.de
-dot.tooli.ca
 trovs.ru
 dns.tryk.app
 dns.twnic.tw
-dns.twopudding.icu
 dns.txq.life
 ad.tzockt.beer
 resolver.unstoppable.io
 dns.unx.io
 adguard.vape.ong
-noads.venovedo.ro
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
@@ -512,9 +492,6 @@ vtcuong.site
 dns.wahr.top
 dns.wang.art
 wikimedia-dns.org
-common.dot.dns.yandex.net
-safe.dot.dns.yandex.net
-family.dot.dns.yandex.net
 yarp.lefolgoc.net
 dns.yatima.tv
 dns.yumenashyi.com

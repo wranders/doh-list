@@ -1,4 +1,4 @@
-#9f5a4394c4ccd45e07af991f8c30d7edc0eda6f652f6229275c7f75ef0d4b9f1
+#e492db0267b212014f7268f6654f7159caf5cc7782a9975a61b807534354701f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,7 +9,6 @@
 #
 #	albertocognetti.com
 #	bigart.su
-#	borisov.page
 #	callies-online.site
 #	catdns.org
 #	circumitor.de
@@ -28,11 +27,9 @@
 #	dukun.de
 #	edgy-dns.com
 #	felipefalcao.ninja
-#	fffly.xyz
 #	dns.google
 #	8888.google
 #	hanniel.tech
-#	i-puppy.ru
 #	ikarosalpha.xyz
 #	isakula.space
 #	jackyes.ovh
@@ -55,10 +52,8 @@
 
 adguard.abd.ong
 dns.abdullahabas.de
-dns.abppro.ru
 doh.abraservice.xyz
 pi.adblocker.eu.org
-adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
 dns.adguard-dns.com
@@ -71,14 +66,11 @@ doh.nl.ahadns.net
 dns.ahmgam.com
 hk.ahua.ltd
 albertocognetti.com
-dnsnl.alekberg.net
-dnsse.alekberg.net
 dns.alidns.com
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
-dns.aquilenet.fr
 dns.artikel10.org
 doh.artsvr.my.id
 secure.avastdns.com
@@ -96,7 +88,6 @@ dns.bitdefender.net
 dns.blaze-sk.ru
 dns.blokada.org
 adguard.bonis.de
-borisov.page
 dns.brahma.world
 stratus.bugz.fr
 doh1.b-cdn.net
@@ -120,7 +111,6 @@ circumitor.de
 doh.opendns.com
 doh.familyshield.opendns.com
 doh.umbrella.com
-dns.clanto.cloud
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
@@ -160,7 +150,6 @@ dns2.cybrespace.net
 dns.cynthialabs.net
 odvr.nic.cz
 dns.daemon.za.net
-dns.danayasastore.my.id
 ns.00dani.me
 ns.data.haus
 doh.datahata.by
@@ -241,7 +230,6 @@ dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
 felipefalcao.ninja
-fffly.xyz
 doh.ffmuc.net
 dns01.flm9.net
 life.flylcc.cc
@@ -261,18 +249,15 @@ hanniel.tech
 jpdns.hker.me
 ag.hostme.co.il
 dns.hostux.net
-dns.huas.me
 doth.huque.com
 dns.huseynov.work
 dns.huyhoangit.net
-i-puppy.ru
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
-dns.ipty.de
 doh.iranet.cam
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
@@ -282,16 +267,13 @@ isakula.space
 jackyes.ovh
 adguard.jakinet.id
 jambi.undo.it
-vps.jmarkin.ru
 green2.jnraptor.net
 dns.hahnjo.de
 agh.josephyap.me
 jp.tiar.app
 jp.tiarap.org
 dns.jundev.org
-dns.jungle-im.ir
 ad.justincounts.com
-dns.karl.one
 dns.kernel-error.de
 adguard.avdkishore.dev
 adguard.konikoni428.com
@@ -308,7 +290,6 @@ lindung.pp.ua
 lindung.pp.ua
 dns2.linzefeng.top
 dns.lista.my.id
-dns.lmir.info
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -324,7 +305,6 @@ adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
-dns.mesterdodh.cloud
 ukns.milangas2.top
 addns1.m-it.ro
 nue2.moderateinfra.net
@@ -346,8 +326,6 @@ nenam.eu
 math.netlab.my.id
 doh.luigi.nexific.it
 dns.nextdns.io
-adhome.nvtai.id.vn
-dns.nhtsky.com
 doh.lv
 doh.nic.lv
 dns1.nielsdb.be
@@ -357,7 +335,6 @@ dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
 1.dns.noridev.moe
-dns.novali.date
 dns.npsolution.it
 x.ns1net.com
 dns.oasg.xyz
@@ -386,7 +363,6 @@ adguard.pmoebi.xyz
 pooblet.co.za
 dns.pragmasec.nl
 dns-privacy.puregeni.us
-v.qdev.cc
 ns1.qquack.org
 dns.quad9.net
 adguard.quydang.name.vn
@@ -394,6 +370,7 @@ ns.rabot.fi
 int.ragnvindr.org
 ns.ral9005.org
 dns.renardyre.com
+dns.repinger.my.id
 kaitain.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -403,7 +380,13 @@ resolver.rferee.dev
 dns.rin.sh
 dns.rootlab.top
 dns.rotunneling.net
-agh-yz.russel053.com
+us.rslvr.eu
+nl.rslvr.eu
+bg.rslvr.eu
+jp.rslvr.eu
+hk.rslvr.eu
+sg.rslvr.eu
+au.rslvr.eu
 doh.safesurfer.io
 dns1.saferbfc.org
 dns2.saferbfc.org
@@ -416,7 +399,6 @@ dns.schlagheck.berlin
 dns.scuola.org
 secure-4ud.de
 dns.serdcebolit.ru
-privatnas.servebeer.com
 agh2.server.my.id
 d3.shabi.icu
 shalenkov.cc
@@ -425,7 +407,6 @@ adguard.shutgaming.net
 dns.silen.org
 dns.silentlybren.com
 dns.skrep.eu
-dns.skrep.in
 dns.slinkyman.net
 clientdns3.softcom.net
 spacedns.org
@@ -440,7 +421,6 @@ sundalandia.pp.ua
 resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
-dns.swin.pro
 doh.syshero.org
 ad.systemfall.ru
 szyrzyk.pl
@@ -459,7 +439,6 @@ trovs.ru
 dns.tryk.app
 dns.twnic.tw
 dns.txq.life
-ad.tzockt.beer
 resolver.unstoppable.io
 dns.unx.io
 adguard.vape.ong

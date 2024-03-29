@@ -1,4 +1,4 @@
-#e492db0267b212014f7268f6654f7159caf5cc7782a9975a61b807534354701f
+#4d055826079702d359ee2b82bec1ad92ae4d9b4b43b0ed434605d6708db66252
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,7 +39,6 @@
 #	nenam.eu
 #	doh.lv
 #	safeservedns.com
-#	secure-4ud.de
 #	shalenkov.cc
 #	spacedns.org
 #	sunnygyl.com
@@ -51,7 +50,6 @@
 #
 
 adguard.abd.ong
-dns.abdullahabas.de
 doh.abraservice.xyz
 pi.adblocker.eu.org
 per.adfilter.net
@@ -79,7 +77,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 pihole.aws.ketan.dev
-doh.azoris.ovh
 dns.baishiyuan.cn
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
@@ -99,7 +96,6 @@ dns.carson-family.com
 dns.carter.me
 catdns.org
 dns.chadeyron.fr
-dns.chalkychalk.com
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
@@ -121,8 +117,6 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 voyage-s01.cloudku.technology
-dns.cloudseriousshit.com
-dns-fr-psv1.cloudsides.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -216,7 +210,6 @@ dnsfilter.domotik.us
 takhtakh.domyah.net
 dns.dotnet.win
 doh.dscloud.me
-ad.dsh.lol
 dukun.de
 doh.apad.pro
 edgy-dns.com
@@ -272,7 +265,6 @@ dns.hahnjo.de
 agh.josephyap.me
 jp.tiar.app
 jp.tiarap.org
-dns.jundev.org
 ad.justincounts.com
 dns.kernel-error.de
 adguard.avdkishore.dev
@@ -288,18 +280,15 @@ doh.libredns.gr
 doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
-dns2.linzefeng.top
 dns.lista.my.id
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-dns.loony-tech.de
 dns.lupine.solutions
 dns.mandre.dev
 ag.marschi.de
-adguard.marto.si
 masters-of-cloud.de
 adguard.meddy94.de
 testguard.meexx.de
@@ -329,7 +318,6 @@ dns.nextdns.io
 doh.lv
 doh.nic.lv
 dns1.nielsdb.be
-dns.ninhs.org
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
@@ -337,7 +325,6 @@ pi1.node15.com
 1.dns.noridev.moe
 dns.npsolution.it
 x.ns1net.com
-dns.oasg.xyz
 dns.ofdoom.net
 nydns.omada.cafe
 ada.openbld.net
@@ -345,20 +332,17 @@ ric.openbld.net
 fwgw.orangepipc.mywire.org
 dns.oszx.co
 dns.ours.luxe
-dns.ovpn.bond
 dns.pacificmonster.com
 dns.paesa.es
 dns-ovh.panszelescik.pl
 doh.gcp.pathofgrace.com
 paulo.nom.za
-dns.decky.eu
 dns.paxavemedia.com
 dns.pbs.gentility.org
 dns.pccoach.nl
 darya.persiannit.net
 dns1.pietjacobs.be
 doh.plaawan.uk
-secure-dns.pleumkungz.com
 adguard.pmoebi.xyz
 pooblet.co.za
 dns.pragmasec.nl
@@ -366,7 +350,6 @@ dns-privacy.puregeni.us
 ns1.qquack.org
 dns.quad9.net
 adguard.quydang.name.vn
-ns.rabot.fi
 int.ragnvindr.org
 ns.ral9005.org
 dns.renardyre.com
@@ -397,10 +380,8 @@ ns1.sc-lezhi.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
-secure-4ud.de
 dns.serdcebolit.ru
 agh2.server.my.id
-d3.shabi.icu
 shalenkov.cc
 adguard.shoupperuser.com
 adguard.shutgaming.net
@@ -408,7 +389,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.skrep.eu
 dns.slinkyman.net
-clientdns3.softcom.net
 spacedns.org
 adguard.sparshbajaj.me
 adguard.sscw.win
@@ -426,10 +406,8 @@ ad.systemfall.ru
 szyrzyk.pl
 dns.t53.de
 vpn.technicule.info
-family.dns.teknoholistik.com
 dns.telekom.de
 dns.thebuckners.org
-guard.thefather.cloud
 cdn.thetcs.eu.org
 doh.tiar.app
 doh.tiarap.org

@@ -1,4 +1,4 @@
-#4d055826079702d359ee2b82bec1ad92ae4d9b4b43b0ed434605d6708db66252
+#09897f89f8a1f7ea294fd359d22d9725dad781423114b12d8a4ed76c4ab869d1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	albertocognetti.com
 #	bigart.su
 #	callies-online.site
 #	catdns.org
@@ -35,7 +34,6 @@
 #	jackyes.ovh
 #	lastentarvike.fi
 #	masters-of-cloud.de
-#	myv2ray.cn
 #	nenam.eu
 #	doh.lv
 #	safeservedns.com
@@ -63,14 +61,12 @@ blitz.ahadns.com
 doh.nl.ahadns.net
 dns.ahmgam.com
 hk.ahua.ltd
-albertocognetti.com
 dns.alidns.com
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
 dns.artikel10.org
-doh.artsvr.my.id
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -171,7 +167,6 @@ coe01.dnscry.pt
 cvt01.dnscry.pt
 dfw01.dnscry.pt
 rdu01.dnscry.pt
-dus01.dnscry.pt
 fra01.dnscry.pt
 fjr01.dnscry.pt
 hkg01.dnscry.pt
@@ -262,7 +257,6 @@ adguard.jakinet.id
 jambi.undo.it
 green2.jnraptor.net
 dns.hahnjo.de
-agh.josephyap.me
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
@@ -305,11 +299,6 @@ base.dns.mullvad.net
 extended.dns.mullvad.net
 all.dns.mullvad.net
 family.dns.mullvad.net
-freedom.mydns.network
-paranoia.mydns.network
-adblock.mydns.network
-family.mydns.network
-myv2ray.cn
 dns.narl.app
 nenam.eu
 math.netlab.my.id

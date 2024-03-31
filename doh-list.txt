@@ -1,4 +1,4 @@
-#09897f89f8a1f7ea294fd359d22d9725dad781423114b12d8a4ed76c4ab869d1
+#26cc5a4f383eb038a825bf3f3969ed1d15d410194e33aaaa3f6c2ead479dbb36
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	bigart.su
 #	callies-online.site
 #	catdns.org
 #	circumitor.de
@@ -43,6 +42,7 @@
 #	szyrzyk.pl
 #	tigrons.ru
 #	trovs.ru
+#	truta.org
 #	vtcuong.site
 #	wikimedia-dns.org
 #
@@ -60,8 +60,6 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 dns.ahmgam.com
-hk.ahua.ltd
-dns.alidns.com
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
@@ -76,7 +74,6 @@ pihole.aws.ketan.dev
 dns.baishiyuan.cn
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
-bigart.su
 dns.bitdefender.net
 dns.blaze-sk.ru
 dns.blokada.org
@@ -84,7 +81,6 @@ adguard.bonis.de
 dns.brahma.world
 stratus.bugz.fr
 doh1.b-cdn.net
-www.c-dns.com
 callies-online.site
 doh.aaaab3n.moe
 console.carestyle.org
@@ -136,13 +132,11 @@ freedns.controld.com
 freedns.controld.com
 cubedns.com
 dns.cxl.moe
-dns2.cybrespace.net
 dns.cynthialabs.net
 odvr.nic.cz
 dns.daemon.za.net
 ns.00dani.me
 ns.data.haus
-doh.datahata.by
 dns.dekedin.me
 dns.digitaladapt.com
 dns.digitale-gesellschaft.ch
@@ -222,7 +216,6 @@ doh.ffmuc.net
 dns01.flm9.net
 life.flylcc.cc
 doh.applied-privacy.net
-agent.frankutils.xyz
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.freyja.pw
@@ -246,7 +239,6 @@ dns.indybanipal.com
 qlf-doh.inria.fr
 doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
-doh.iranet.cam
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
@@ -321,7 +313,6 @@ ric.openbld.net
 fwgw.orangepipc.mywire.org
 dns.oszx.co
 dns.ours.luxe
-dns.pacificmonster.com
 dns.paesa.es
 dns-ovh.panszelescik.pl
 doh.gcp.pathofgrace.com
@@ -380,6 +371,7 @@ dns.skrep.eu
 dns.slinkyman.net
 spacedns.org
 adguard.sparshbajaj.me
+dns.spirio.fr
 adguard.sscw.win
 adguard.stealbit.com
 dns.strassmair.org
@@ -403,6 +395,7 @@ doh.tiarap.org
 tigrons.ru
 dns.tls-data.de
 trovs.ru
+truta.org
 dns.tryk.app
 dns.twnic.tw
 dns.txq.life

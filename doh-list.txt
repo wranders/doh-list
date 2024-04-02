@@ -1,4 +1,4 @@
-#eef7b42b67f4dfe52f44a31e4242587fd14733add4732b113c7f25db73a475b7
+#2a3181f2a22b38387af70f6e69eefaf025c2f9aede19261b5c95348fa58f5302
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -130,14 +130,12 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 cubedns.com
-dns.cxl.moe
 dns.cynthialabs.net
 odvr.nic.cz
 dns.daemon.za.net
 ns.00dani.me
 ns.data.haus
 dns.dekedin.me
-dns.digitaladapt.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns-free.link
@@ -238,7 +236,6 @@ yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
 isakula.space
 jackyes.ovh
-adguard.jakinet.id
 jambi.undo.it
 green2.jnraptor.net
 dns.hahnjo.de
@@ -389,7 +386,6 @@ adguard.vape.ong
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
-geshido.vpn.geshido.ru
 vtcuong.site
 dns.wahr.top
 dns.wang.art

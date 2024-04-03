@@ -1,4 +1,4 @@
-#2a3181f2a22b38387af70f6e69eefaf025c2f9aede19261b5c95348fa58f5302
+#550cbacbd999ef57b1f798e49e234e16d9ae75f6002d1d0293ac090b689c4b38
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -79,7 +79,6 @@ dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
 stratus.bugz.fr
-doh1.b-cdn.net
 callies-online.site
 doh.aaaab3n.moe
 console.carestyle.org
@@ -236,7 +235,6 @@ yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
 isakula.space
 jackyes.ovh
-jambi.undo.it
 green2.jnraptor.net
 dns.hahnjo.de
 jp.tiar.app
@@ -267,7 +265,6 @@ adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
-ukns.milangas2.top
 nue2.moderateinfra.net
 ps1.modr.club
 dns.moesite.top
@@ -277,6 +274,10 @@ base.dns.mullvad.net
 extended.dns.mullvad.net
 all.dns.mullvad.net
 family.dns.mullvad.net
+freedom.mydns.network
+paranoia.mydns.network
+adblock.mydns.network
+family.mydns.network
 dns.narl.app
 nenam.eu
 doh.luigi.nexific.it
@@ -383,7 +384,6 @@ dns.txq.life
 resolver.unstoppable.io
 dns.unx.io
 adguard.vape.ong
-doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
 vtcuong.site

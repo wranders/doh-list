@@ -1,4 +1,4 @@
-#550cbacbd999ef57b1f798e49e234e16d9ae75f6002d1d0293ac090b689c4b38
+#2dc0eb0326da4b443459a47307481878df03f51f383967eee00601493196401b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -222,7 +222,6 @@ ag.hostme.co.il
 dns.hostux.net
 doth.huque.com
 dns.huseynov.work
-dns.huyhoangit.net
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
@@ -307,7 +306,6 @@ dns.paxavemedia.com
 dns.pccoach.nl
 darya.persiannit.net
 dns1.pietjacobs.be
-doh.plaawan.uk
 adguard.pmoebi.xyz
 pooblet.co.za
 dns.pragmasec.nl
@@ -352,7 +350,6 @@ dns.silentlybren.com
 dns.skrep.eu
 dns.slinkyman.net
 spacedns.org
-adguard.sparshbajaj.me
 dns.spirio.fr
 adguard.sscw.win
 adguard.stealbit.com

@@ -1,4 +1,4 @@
-#2dc0eb0326da4b443459a47307481878df03f51f383967eee00601493196401b
+#f08b2967fbe3d2f6b1553e0fb9ddf6076911205b1e445b25ae0cf8935035edc5
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -48,7 +48,6 @@
 
 adguard.abd.ong
 doh.abraservice.xyz
-pi.adblocker.eu.org
 per.adfilter.net
 syd.adfilter.net
 dns.adguard-dns.com
@@ -352,7 +351,6 @@ dns.slinkyman.net
 spacedns.org
 dns.spirio.fr
 adguard.sscw.win
-adguard.stealbit.com
 dns.strassmair.org
 dns.streamvine.app
 sukidayo.eu.org

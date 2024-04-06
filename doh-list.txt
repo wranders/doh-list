@@ -1,4 +1,4 @@
-#f08b2967fbe3d2f6b1553e0fb9ddf6076911205b1e445b25ae0cf8935035edc5
+#dbf368c18627cba46c90728af752510f7d484c20acb76397fabe41e94bf7a38b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -35,12 +35,9 @@
 #	nenam.eu
 #	doh.lv
 #	safeservedns.com
-#	shalenkov.cc
 #	spacedns.org
 #	sunnygyl.com
-#	szyrzyk.pl
 #	tigrons.ru
-#	trovs.ru
 #	truta.org
 #	vtcuong.site
 #	wikimedia-dns.org
@@ -57,8 +54,6 @@ dns.adrianlam.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
-dns.ahmgam.com
-mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
@@ -157,7 +152,6 @@ dfw01.dnscry.pt
 rdu01.dnscry.pt
 fra01.dnscry.pt
 fjr01.dnscry.pt
-hkg01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
 lax01.dnscry.pt
@@ -289,23 +283,19 @@ resolver.noaddns.com
 pi1.node15.com
 1.dns.noridev.moe
 dns.npsolution.it
-x.ns1net.com
 dns.ofdoom.net
 nydns.omada.cafe
 ada.openbld.net
 ric.openbld.net
 fwgw.orangepipc.mywire.org
 dns.oszx.co
-dns.ours.luxe
 dns.paesa.es
 dns-ovh.panszelescik.pl
 doh.gcp.pathofgrace.com
 paulo.nom.za
-dns.paxavemedia.com
 dns.pccoach.nl
 darya.persiannit.net
 dns1.pietjacobs.be
-adguard.pmoebi.xyz
 pooblet.co.za
 dns.pragmasec.nl
 dns-privacy.puregeni.us
@@ -338,10 +328,8 @@ dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.schlagheck.berlin
-dns.scuola.org
 dns.serdcebolit.ru
 agh2.server.my.id
-shalenkov.cc
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
@@ -360,25 +348,20 @@ resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
 doh.syshero.org
-ad.systemfall.ru
-szyrzyk.pl
 dns.t53.de
 vpn.technicule.info
 dns.telekom.de
 dns.thebuckners.org
-cdn.thetcs.eu.org
 doh.tiar.app
 doh.tiarap.org
 tigrons.ru
 dns.tls-data.de
-trovs.ru
 truta.org
 dns.tryk.app
 dns.twnic.tw
 dns.txq.life
 resolver.unstoppable.io
 dns.unx.io
-adguard.vape.ong
 virga.pp.ua
 virga.pp.ua
 vtcuong.site

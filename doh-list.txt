@@ -1,4 +1,4 @@
-#dbf368c18627cba46c90728af752510f7d484c20acb76397fabe41e94bf7a38b
+#f0848bbff5d55006e483122f03ca8a80dd56bab16ecc879e1023888e40080941
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -182,7 +182,6 @@ doh.xyz
 dnsfilter.domotik.us
 takhtakh.domyah.net
 dns.dotnet.win
-doh.dscloud.me
 dukun.de
 doh.apad.pro
 edgy-dns.com
@@ -329,7 +328,6 @@ dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.schlagheck.berlin
 dns.serdcebolit.ru
-agh2.server.my.id
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org

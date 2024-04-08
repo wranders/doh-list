@@ -1,4 +1,4 @@
-#f0848bbff5d55006e483122f03ca8a80dd56bab16ecc879e1023888e40080941
+#53a5ba2202df8591019338e178ec99c5eb4ff78cb4da126a84f13683918eb762
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -24,12 +24,10 @@
 #	doh.xyz
 #	dukun.de
 #	edgy-dns.com
-#	felipefalcao.ninja
 #	dns.google
 #	8888.google
 #	hanniel.tech
 #	ikarosalpha.xyz
-#	isakula.space
 #	jackyes.ovh
 #	masters-of-cloud.de
 #	nenam.eu
@@ -194,7 +192,6 @@ dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
-felipefalcao.ninja
 doh.ffmuc.net
 dns01.flm9.net
 life.flylcc.cc
@@ -224,7 +221,6 @@ aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
-isakula.space
 jackyes.ovh
 green2.jnraptor.net
 dns.hahnjo.de
@@ -283,7 +279,6 @@ pi1.node15.com
 1.dns.noridev.moe
 dns.npsolution.it
 dns.ofdoom.net
-nydns.omada.cafe
 ada.openbld.net
 ric.openbld.net
 fwgw.orangepipc.mywire.org

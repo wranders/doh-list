@@ -1,4 +1,4 @@
-#53a5ba2202df8591019338e178ec99c5eb4ff78cb4da126a84f13683918eb762
+#464056e5945b7f762698c6f94d8909bf256ef67a661524433a9a89ce3a2d48dc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -78,8 +78,6 @@ dns.carson-family.com
 dns.carter.me
 catdns.org
 dns.chadeyron.fr
-doh-01.spectrum.com
-doh-02.spectrum.com
 dns.chenu.ch
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -194,7 +192,6 @@ ns0.fdn.fr
 ns1.fdn.fr
 doh.ffmuc.net
 dns01.flm9.net
-life.flylcc.cc
 doh.applied-privacy.net
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
@@ -234,6 +231,7 @@ xray.krnl.eu
 doh.lacontrevoie.fr
 eu1.dns.lavate.ch
 adguard.leadseason.eu
+dns.levonet.sk
 dns2.lezainski.com
 doh.libredns.gr
 doh.libredns.gr
@@ -254,7 +252,6 @@ snoke.meganerd.nl
 ns.mtsoln.com
 nue2.moderateinfra.net
 ps1.modr.club
-dns.moesite.top
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -333,7 +330,6 @@ spacedns.org
 dns.spirio.fr
 adguard.sscw.win
 dns.strassmair.org
-dns.streamvine.app
 sukidayo.eu.org
 sundalandia.pp.ua
 sundalandia.pp.ua

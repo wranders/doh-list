@@ -1,4 +1,4 @@
-#464056e5945b7f762698c6f94d8909bf256ef67a661524433a9a89ce3a2d48dc
+#76e218957d35e1f50bce7d0d92ba94bc5fee41e8da6a18e195fd7a3c3f2a8a4f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	callies-online.site
 #	catdns.org
 #	circumitor.de
 #	cloudflare-dns.com
@@ -52,6 +51,7 @@ dns.adrianlam.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
+doh.kel.pe
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
@@ -71,7 +71,7 @@ dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
 stratus.bugz.fr
-callies-online.site
+dns.caksono.com
 doh.aaaab3n.moe
 console.carestyle.org
 dns.carson-family.com
@@ -125,6 +125,7 @@ dns.daemon.za.net
 ns.00dani.me
 ns.data.haus
 dns.dekedin.me
+dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns-free.link
@@ -195,6 +196,7 @@ dns01.flm9.net
 doh.applied-privacy.net
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
+dns.gamban.com
 dns.freyja.pw
 dns.google
 dns64.dns.google
@@ -212,7 +214,6 @@ ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
 qlf-doh.inria.fr
-doh.ibr.cs.tu-bs.de
 public.dns.iij.jp
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
@@ -224,8 +225,11 @@ dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
+dns.keke125.com
 dns.kernel-error.de
 adguard.avdkishore.dev
+dns.koala.us.to
+doh.kooman.org
 adguard.konikoni428.com
 xray.krnl.eu
 doh.lacontrevoie.fr
@@ -238,6 +242,7 @@ doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
 dns.lista.my.id
+dns.lobbygod.com
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -245,11 +250,13 @@ doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 dns.mandre.dev
 ag.marschi.de
+doh.maskab.com
 masters-of-cloud.de
 adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
+dns.mihanentalpo.me
 nue2.moderateinfra.net
 ps1.modr.club
 dns.mullvad.net
@@ -263,6 +270,7 @@ paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
 dns.narl.app
+dns.neilzone.co.uk
 nenam.eu
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -273,12 +281,15 @@ doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
+dns-malwaresec.nordthreatprotection.com
+dns-cybersec.nordthreatprotection.com
 1.dns.noridev.moe
 dns.npsolution.it
 dns.ofdoom.net
 ada.openbld.net
 ric.openbld.net
 fwgw.orangepipc.mywire.org
+dns.oryxlabs.com
 dns.oszx.co
 dns.paesa.es
 dns-ovh.panszelescik.pl
@@ -290,6 +301,7 @@ dns1.pietjacobs.be
 pooblet.co.za
 dns.pragmasec.nl
 dns-privacy.puregeni.us
+dns.p3k.sk
 ns1.qquack.org
 dns.quad9.net
 adguard.quydang.name.vn
@@ -320,6 +332,7 @@ dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.schlagheck.berlin
 dns.serdcebolit.ru
+dns.sheggi.ch
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
@@ -341,6 +354,7 @@ dns.t53.de
 vpn.technicule.info
 dns.telekom.de
 dns.thebuckners.org
+dns.thegoodsource.net
 doh.tiar.app
 doh.tiarap.org
 tigrons.ru

@@ -1,4 +1,4 @@
-#76e218957d35e1f50bce7d0d92ba94bc5fee41e8da6a18e195fd7a3c3f2a8a4f
+#d4887cf188755c39648a12113c31d03e52040edfdcb3333b60440479bc04f23a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -51,7 +51,6 @@ dns.adrianlam.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
-doh.kel.pe
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
@@ -301,7 +300,6 @@ dns1.pietjacobs.be
 pooblet.co.za
 dns.pragmasec.nl
 dns-privacy.puregeni.us
-dns.p3k.sk
 ns1.qquack.org
 dns.quad9.net
 adguard.quydang.name.vn
@@ -331,6 +329,7 @@ dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.schlagheck.berlin
+adguard.sealyserver.com
 dns.serdcebolit.ru
 dns.sheggi.ch
 adguard.shoupperuser.com
@@ -373,7 +372,6 @@ dns.wang.art
 wikimedia-dns.org
 yarp.lefolgoc.net
 dns.yatima.tv
-dns.yumenashyi.com
 dns.4-the.win
 dns.52306.org
 ibuki.cgnat.net

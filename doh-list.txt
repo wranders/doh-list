@@ -1,4 +1,4 @@
-#d4887cf188755c39648a12113c31d03e52040edfdcb3333b60440479bc04f23a
+#9e5f136a38060e5e292559c89e6333d64a3ba9205247b638997ab9f38e0b0c84
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -21,6 +21,7 @@
 #	dns.pub
 #	dnswebvsn.com
 #	doh.xyz
+#	3dns.eu
 #	dukun.de
 #	edgy-dns.com
 #	dns.google
@@ -54,6 +55,7 @@ doh.nl.ahadns.net
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
+dns.hypercute.eu
 dns.artikel10.org
 secure.avastdns.com
 awan.ftp.sh
@@ -65,6 +67,7 @@ dns.baishiyuan.cn
 sg-dns1.bancuh.com
 fr-dns1.bancuh.com
 dns.bitdefender.net
+dns.bitservices.io
 dns.blaze-sk.ru
 dns.blokada.org
 adguard.bonis.de
@@ -175,6 +178,7 @@ dns.dnswarden.com
 dnswebvsn.com
 dns.doh.best
 doh.xyz
+3dns.eu
 dnsfilter.domotik.us
 takhtakh.domyah.net
 dns.dotnet.win
@@ -210,6 +214,7 @@ dns.hostux.net
 doth.huque.com
 dns.huseynov.work
 ikarosalpha.xyz
+dns.iki.my.id
 dns1.in-berlin.de
 dns.indybanipal.com
 qlf-doh.inria.fr
@@ -219,12 +224,14 @@ megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
 jackyes.ovh
+dns.janl.eu
 green2.jnraptor.net
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
 dns.keke125.com
+dns.kerekes.xyz
 dns.kernel-error.de
 adguard.avdkishore.dev
 dns.koala.us.to
@@ -240,7 +247,6 @@ doh.libredns.gr
 doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
-dns.lista.my.id
 dns.lobbygod.com
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
@@ -280,6 +286,8 @@ doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
+dns1.nordvpn.com
+dns2.nordvpn.com
 dns-malwaresec.nordthreatprotection.com
 dns-cybersec.nordthreatprotection.com
 1.dns.noridev.moe
@@ -304,7 +312,6 @@ ns1.qquack.org
 dns.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
-dns.renardyre.com
 dns.repinger.my.id
 kaitain.restena.lu
 dns.retakecs.com
@@ -321,6 +328,7 @@ jp.rslvr.eu
 hk.rslvr.eu
 sg.rslvr.eu
 au.rslvr.eu
+doh.runsel.id
 doh.safesurfer.io
 dns1.saferbfc.org
 dns2.saferbfc.org
@@ -348,6 +356,7 @@ sundalandia.pp.ua
 resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
+dns.svoi.dev
 doh.syshero.org
 dns.t53.de
 vpn.technicule.info
@@ -369,6 +378,7 @@ virga.pp.ua
 vtcuong.site
 dns.wahr.top
 dns.wang.art
+dns.warma.me
 wikimedia-dns.org
 yarp.lefolgoc.net
 dns.yatima.tv

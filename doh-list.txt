@@ -1,4 +1,4 @@
-#9e5f136a38060e5e292559c89e6333d64a3ba9205247b638997ab9f38e0b0c84
+#bd130f95a56c1729b622897e385099ffcffee08e6eae98c415cf837afb286522
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,8 +7,8 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
+#	alleesph.online
 #	catdns.org
-#	circumitor.de
 #	cloudflare-dns.com
 #	cubedns.com
 #	dns-free.link
@@ -52,6 +52,7 @@ dns.adrianlam.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
+alleesph.online
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
@@ -85,7 +86,6 @@ private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
 dns.circl.lu
-circumitor.de
 doh.opendns.com
 doh.familyshield.opendns.com
 doh.umbrella.com
@@ -215,7 +215,9 @@ doth.huque.com
 dns.huseynov.work
 ikarosalpha.xyz
 dns.iki.my.id
+dns.immanuelschaffer.de
 dns1.in-berlin.de
+adblock.indianets.net
 dns.indybanipal.com
 qlf-doh.inria.fr
 public.dns.iij.jp
@@ -223,6 +225,7 @@ aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
+diy.itsa.top
 jackyes.ovh
 dns.janl.eu
 green2.jnraptor.net
@@ -293,6 +296,7 @@ dns-cybersec.nordthreatprotection.com
 1.dns.noridev.moe
 dns.npsolution.it
 dns.ofdoom.net
+dns.oliviertv.co.za
 ada.openbld.net
 ric.openbld.net
 fwgw.orangepipc.mywire.org
@@ -307,6 +311,7 @@ darya.persiannit.net
 dns1.pietjacobs.be
 pooblet.co.za
 dns.pragmasec.nl
+dns2.prima-solusindo.com
 dns-privacy.puregeni.us
 ns1.qquack.org
 dns.quad9.net
@@ -329,6 +334,7 @@ hk.rslvr.eu
 sg.rslvr.eu
 au.rslvr.eu
 doh.runsel.id
+drs.rustsword.com
 doh.safesurfer.io
 dns1.saferbfc.org
 dns2.saferbfc.org

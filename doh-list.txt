@@ -1,4 +1,4 @@
-#bd130f95a56c1729b622897e385099ffcffee08e6eae98c415cf837afb286522
+#6915bd3c4bb4dd5ff9c65398a0fd8213846cf5e95ae525089eedf2cd913e95e6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -58,6 +58,7 @@ dns.aa.net.uk
 secure.anudeep.me
 dns.hypercute.eu
 dns.artikel10.org
+dns.asterimoon.com
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -65,8 +66,6 @@ awan.ftp.sh
 awan.ftp.sh
 pihole.aws.ketan.dev
 dns.baishiyuan.cn
-sg-dns1.bancuh.com
-fr-dns1.bancuh.com
 dns.bitdefender.net
 dns.bitservices.io
 dns.blaze-sk.ru
@@ -179,7 +178,6 @@ dnswebvsn.com
 dns.doh.best
 doh.xyz
 3dns.eu
-dnsfilter.domotik.us
 takhtakh.domyah.net
 dns.dotnet.win
 dukun.de
@@ -212,7 +210,6 @@ hanniel.tech
 ag.hostme.co.il
 dns.hostux.net
 doth.huque.com
-dns.huseynov.work
 ikarosalpha.xyz
 dns.iki.my.id
 dns.immanuelschaffer.de
@@ -233,6 +230,7 @@ dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
+dns.karfamily.net
 dns.keke125.com
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -241,11 +239,10 @@ dns.koala.us.to
 doh.kooman.org
 adguard.konikoni428.com
 xray.krnl.eu
+dns.kukal.cz
 doh.lacontrevoie.fr
 eu1.dns.lavate.ch
-adguard.leadseason.eu
 dns.levonet.sk
-dns2.lezainski.com
 doh.libredns.gr
 doh.libredns.gr
 lindung.pp.ua
@@ -300,7 +297,6 @@ dns.oliviertv.co.za
 ada.openbld.net
 ric.openbld.net
 fwgw.orangepipc.mywire.org
-dns.oryxlabs.com
 dns.oszx.co
 dns.paesa.es
 dns-ovh.panszelescik.pl
@@ -308,6 +304,7 @@ doh.gcp.pathofgrace.com
 paulo.nom.za
 dns.pccoach.nl
 darya.persiannit.net
+dns.pesaventofilippo.com
 dns1.pietjacobs.be
 pooblet.co.za
 dns.pragmasec.nl
@@ -318,7 +315,7 @@ dns.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
 dns.repinger.my.id
-kaitain.restena.lu
+dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
@@ -339,7 +336,6 @@ doh.safesurfer.io
 dns1.saferbfc.org
 dns2.saferbfc.org
 safeservedns.com
-dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.schlagheck.berlin
@@ -388,6 +384,7 @@ dns.warma.me
 wikimedia-dns.org
 yarp.lefolgoc.net
 dns.yatima.tv
+dns.0x55.net
 dns.4-the.win
 dns.52306.org
 ibuki.cgnat.net

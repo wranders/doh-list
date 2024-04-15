@@ -1,4 +1,4 @@
-#6915bd3c4bb4dd5ff9c65398a0fd8213846cf5e95ae525089eedf2cd913e95e6
+#c5131220af66b728be0bfa96d6f14f0868b0b7edba054b2e6554fd6042e86206
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -225,7 +225,6 @@ darkness.is.my.waifu.cz
 diy.itsa.top
 jackyes.ovh
 dns.janl.eu
-green2.jnraptor.net
 dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org

@@ -1,4 +1,4 @@
-#c5131220af66b728be0bfa96d6f14f0868b0b7edba054b2e6554fd6042e86206
+#9de788d6c9cef00028f04a5de59c4fdb72a9a21affb9179b7458c221638b9d42
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,6 +7,7 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
+#	adfreedns.top
 #	alleesph.online
 #	catdns.org
 #	cloudflare-dns.com
@@ -45,6 +46,7 @@ adguard.abd.ong
 doh.abraservice.xyz
 per.adfilter.net
 syd.adfilter.net
+adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
@@ -146,7 +148,6 @@ ams01.dnscry.pt
 ord01.dnscry.pt
 coe01.dnscry.pt
 cvt01.dnscry.pt
-dfw01.dnscry.pt
 rdu01.dnscry.pt
 fra01.dnscry.pt
 fjr01.dnscry.pt
@@ -178,7 +179,6 @@ dnswebvsn.com
 dns.doh.best
 doh.xyz
 3dns.eu
-takhtakh.domyah.net
 dns.dotnet.win
 dukun.de
 doh.apad.pro
@@ -239,6 +239,7 @@ doh.kooman.org
 adguard.konikoni428.com
 xray.krnl.eu
 dns.kukal.cz
+dns.labnekotest.site
 doh.lacontrevoie.fr
 eu1.dns.lavate.ch
 dns.levonet.sk
@@ -329,6 +330,8 @@ jp.rslvr.eu
 hk.rslvr.eu
 sg.rslvr.eu
 au.rslvr.eu
+adguard.ruby.ci
+adg.rueiliu.space
 doh.runsel.id
 drs.rustsword.com
 doh.safesurfer.io
@@ -381,8 +384,11 @@ dns.wahr.top
 dns.wang.art
 dns.warma.me
 wikimedia-dns.org
+dns.kongjak.com
 yarp.lefolgoc.net
 dns.yatima.tv
+www.zburger.top
+a.zpn.me
 dns.0x55.net
 dns.4-the.win
 dns.52306.org

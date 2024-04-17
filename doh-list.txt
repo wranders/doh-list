@@ -1,4 +1,4 @@
-#9de788d6c9cef00028f04a5de59c4fdb72a9a21affb9179b7458c221638b9d42
+#1fc14b15f1abc72cea7cd89aec9d41cd42dd70f82ec7131607fae7f544427e8c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -67,6 +67,7 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 pihole.aws.ketan.dev
+dns.a47.me
 dns.baishiyuan.cn
 dns.bitdefender.net
 dns.bitservices.io
@@ -238,6 +239,7 @@ dns.koala.us.to
 doh.kooman.org
 adguard.konikoni428.com
 xray.krnl.eu
+dns.kugoapps.com
 dns.kukal.cz
 dns.labnekotest.site
 doh.lacontrevoie.fr
@@ -257,6 +259,7 @@ dns.mandre.dev
 ag.marschi.de
 doh.maskab.com
 masters-of-cloud.de
+family.dns.doubleangels.com
 adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
@@ -306,11 +309,13 @@ dns.pccoach.nl
 darya.persiannit.net
 dns.pesaventofilippo.com
 dns1.pietjacobs.be
+dns.pnh.my.id
 pooblet.co.za
 dns.pragmasec.nl
 dns2.prima-solusindo.com
 dns-privacy.puregeni.us
 ns1.qquack.org
+hostdare.qtxd.net
 dns.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
@@ -350,6 +355,7 @@ dns.silen.org
 dns.silentlybren.com
 dns.skrep.eu
 dns.slinkyman.net
+dns.smartguard.io
 spacedns.org
 dns.spirio.fr
 adguard.sscw.win
@@ -377,20 +383,23 @@ dns.twnic.tw
 dns.txq.life
 resolver.unstoppable.io
 dns.unx.io
+doh.valscosmos.com
 virga.pp.ua
 virga.pp.ua
 vtcuong.site
 dns.wahr.top
 dns.wang.art
 dns.warma.me
+doh-ca.naftalie.net
 wikimedia-dns.org
-dns.kongjak.com
 yarp.lefolgoc.net
 dns.yatima.tv
 www.zburger.top
 a.zpn.me
 dns.0x55.net
 dns.4-the.win
+polisidns.4ch.my.id
 dns.52306.org
+dns.9999.sg
 ibuki.cgnat.net
 doh-2.seby.io

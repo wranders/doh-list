@@ -1,4 +1,4 @@
-#1fc14b15f1abc72cea7cd89aec9d41cd42dd70f82ec7131607fae7f544427e8c
+#44fe3624eee7a5c1ba9a38e76e7b173029cd2bbec0c40ead0eeae2d89412c680
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -101,6 +101,7 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 voyage-s01.cloudku.technology
+doh.cnetwork.cloud
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -208,9 +209,11 @@ dns2.guidocioni.it
 cluster-0.gac.edu
 cluster-1.gac.edu
 hanniel.tech
+dns.horcrux.vip
 ag.hostme.co.il
 dns.hostux.net
 doth.huque.com
+dns.ian.rocks
 ikarosalpha.xyz
 dns.iki.my.id
 dns.immanuelschaffer.de
@@ -308,6 +311,7 @@ paulo.nom.za
 dns.pccoach.nl
 darya.persiannit.net
 dns.pesaventofilippo.com
+dns.phillipjberry.net
 dns1.pietjacobs.be
 dns.pnh.my.id
 pooblet.co.za
@@ -330,7 +334,6 @@ dns.rootlab.top
 dns.rotunneling.net
 us.rslvr.eu
 nl.rslvr.eu
-bg.rslvr.eu
 jp.rslvr.eu
 hk.rslvr.eu
 sg.rslvr.eu
@@ -392,6 +395,7 @@ dns.wang.art
 dns.warma.me
 doh-ca.naftalie.net
 wikimedia-dns.org
+dns.xwdmw.xyz
 yarp.lefolgoc.net
 dns.yatima.tv
 www.zburger.top

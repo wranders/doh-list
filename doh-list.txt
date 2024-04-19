@@ -1,4 +1,4 @@
-#44fe3624eee7a5c1ba9a38e76e7b173029cd2bbec0c40ead0eeae2d89412c680
+#fb196ba124e30523d062237119438161867be3dc9bf3f7ea9cd4cdb275442d44
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -27,7 +27,6 @@
 #	edgy-dns.com
 #	dns.google
 #	8888.google
-#	hanniel.tech
 #	ikarosalpha.xyz
 #	jackyes.ovh
 #	masters-of-cloud.de
@@ -208,7 +207,6 @@ dns.guard.io
 dns2.guidocioni.it
 cluster-0.gac.edu
 cluster-1.gac.edu
-hanniel.tech
 dns.horcrux.vip
 ag.hostme.co.il
 dns.hostux.net
@@ -233,10 +231,8 @@ dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
-dns.karfamily.net
 dns.keke125.com
 dns.kerekes.xyz
-dns.kernel-error.de
 adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
@@ -348,7 +344,6 @@ dns2.saferbfc.org
 safeservedns.com
 dns.sarilouis.com
 ns1.sc-lezhi.com
-dns.schlagheck.berlin
 adguard.sealyserver.com
 dns.serdcebolit.ru
 dns.sheggi.ch

@@ -1,4 +1,4 @@
-#fb196ba124e30523d062237119438161867be3dc9bf3f7ea9cd4cdb275442d44
+#176afc89aa136c310c3be239335384a23b4a26e1a2c55d314091193bbb066cb6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -252,7 +252,6 @@ dns.lobbygod.com
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
-doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 dns.mandre.dev
 ag.marschi.de
@@ -342,6 +341,7 @@ doh.safesurfer.io
 dns1.saferbfc.org
 dns2.saferbfc.org
 safeservedns.com
+adguard.samonte.ovh
 dns.sarilouis.com
 ns1.sc-lezhi.com
 adguard.sealyserver.com
@@ -378,6 +378,7 @@ dns.tls-data.de
 truta.org
 dns.tryk.app
 dns.twnic.tw
+adguard.twotigers.xyz
 dns.txq.life
 resolver.unstoppable.io
 dns.unx.io

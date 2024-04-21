@@ -1,4 +1,4 @@
-#176afc89aa136c310c3be239335384a23b4a26e1a2c55d314091193bbb066cb6
+#abd64fe0e3b6d76332754065861b418f00d844aa712d5955b79c8e9be3ffbc37
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -224,7 +224,6 @@ aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
-diy.itsa.top
 jackyes.ovh
 dns.janl.eu
 dns.hahnjo.de
@@ -297,7 +296,6 @@ dns.ofdoom.net
 dns.oliviertv.co.za
 ada.openbld.net
 ric.openbld.net
-fwgw.orangepipc.mywire.org
 dns.oszx.co
 dns.paesa.es
 dns-ovh.panszelescik.pl
@@ -341,11 +339,9 @@ doh.safesurfer.io
 dns1.saferbfc.org
 dns2.saferbfc.org
 safeservedns.com
-adguard.samonte.ovh
 dns.sarilouis.com
 ns1.sc-lezhi.com
 adguard.sealyserver.com
-dns.serdcebolit.ru
 dns.sheggi.ch
 adguard.shoupperuser.com
 adguard.shutgaming.net

@@ -1,4 +1,4 @@
-#abd64fe0e3b6d76332754065861b418f00d844aa712d5955b79c8e9be3ffbc37
+#2dad1880a7fac9857c6fecb1f89367fe7242421d02262d85802f462057097548
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -99,7 +99,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-voyage-s01.cloudku.technology
 doh.cnetwork.cloud
 freedns.controld.com
 freedns.controld.com
@@ -251,7 +250,6 @@ dns.lobbygod.com
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
-doh.phdns5.lonet.org
 dns.mandre.dev
 ag.marschi.de
 doh.maskab.com
@@ -309,7 +307,6 @@ dns1.pietjacobs.be
 dns.pnh.my.id
 pooblet.co.za
 dns.pragmasec.nl
-dns2.prima-solusindo.com
 dns-privacy.puregeni.us
 ns1.qquack.org
 hostdare.qtxd.net

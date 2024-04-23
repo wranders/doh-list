@@ -1,4 +1,4 @@
-#2dad1880a7fac9857c6fecb1f89367fe7242421d02262d85802f462057097548
+#2397698391300c74a50e5d1af8aa6b040a358bb35cd6937f8c60f628fd5a4857
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -144,12 +144,10 @@ zero.dns0.eu
 kids.dns0.eu
 doh.dns4all.eu
 abe01.dnscry.pt
-ams01.dnscry.pt
 ord01.dnscry.pt
 coe01.dnscry.pt
 cvt01.dnscry.pt
 rdu01.dnscry.pt
-fra01.dnscry.pt
 fjr01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
@@ -257,7 +255,6 @@ masters-of-cloud.de
 family.dns.doubleangels.com
 adguard.meddy94.de
 testguard.meexx.de
-snoke.meganerd.nl
 ns.mtsoln.com
 dns.mihanentalpo.me
 nue2.moderateinfra.net
@@ -333,8 +330,6 @@ adg.rueiliu.space
 doh.runsel.id
 drs.rustsword.com
 doh.safesurfer.io
-dns1.saferbfc.org
-dns2.saferbfc.org
 safeservedns.com
 dns.sarilouis.com
 ns1.sc-lezhi.com
@@ -362,7 +357,6 @@ doh.syshero.org
 dns.t53.de
 vpn.technicule.info
 dns.telekom.de
-dns.thebuckners.org
 dns.thegoodsource.net
 doh.tiar.app
 doh.tiarap.org

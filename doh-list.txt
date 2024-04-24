@@ -1,4 +1,4 @@
-#2397698391300c74a50e5d1af8aa6b040a358bb35cd6937f8c60f628fd5a4857
+#edaee9f081f90ea23133d9225eba5bdbe169b08c2303a4362d6cb96950c0876b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,6 +9,7 @@
 #
 #	adfreedns.top
 #	alleesph.online
+#	b-ii.com
 #	catdns.org
 #	cloudflare-dns.com
 #	cubedns.com
@@ -68,6 +69,7 @@ awan.ftp.sh
 pihole.aws.ketan.dev
 dns.a47.me
 dns.baishiyuan.cn
+b-ii.com
 dns.bitdefender.net
 dns.bitservices.io
 dns.blaze-sk.ru
@@ -183,6 +185,8 @@ doh.apad.pro
 edgy-dns.com
 dns.henek.ovh
 dns.emiliyan.com
+dns.enzonix.com
+bl.eq.md
 dns.esnube.es
 dns.extrawdw.net
 dns.ezyss.id

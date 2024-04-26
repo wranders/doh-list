@@ -1,4 +1,4 @@
-#d6fd8230d1957885927af37abf80e6461c34a7eea8a227b954638de2e4297fbe
+#377d8a73742cd26ee8b06b9af2f93e156ac3d02bc629519c2e799231b5914d18
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -36,7 +36,6 @@
 #	safeservedns.com
 #	spacedns.org
 #	sunnygyl.com
-#	tigrons.ru
 #	truta.org
 #	vtcuong.site
 #	wikimedia-dns.org
@@ -69,10 +68,10 @@ awan.ftp.sh
 pihole.aws.ketan.dev
 dns.a47.me
 dns.baishiyuan.cn
+dns.bemag.app
 b-ii.com
 dns.bitdefender.net
 dns.bitservices.io
-dns.blaze-sk.ru
 dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
@@ -282,9 +281,9 @@ dns1.au.newpangea.de
 dns1.in.newpangea.de
 dns1.sg.newpangea.de
 dns1.cl.newpangea.de
-dns1.fi.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
+dns.nhtsky.com
 doh.lv
 doh.nic.lv
 doh.niyawe.de
@@ -328,6 +327,7 @@ sky.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
 dns.rin.sh
+dns.rbn.gr
 dns.rootlab.top
 dns.rotunneling.net
 us.rslvr.eu
@@ -371,7 +371,6 @@ dns.telekom.de
 dns.thegoodsource.net
 doh.tiar.app
 doh.tiarap.org
-tigrons.ru
 dns.tls-data.de
 truta.org
 dns.tryk.app
@@ -396,7 +395,6 @@ www.zburger.top
 a.zpn.me
 dns.0x55.net
 dns.4-the.win
-polisidns.4ch.my.id
 dns.52306.org
 dns.9999.sg
 ibuki.cgnat.net

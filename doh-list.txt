@@ -1,4 +1,4 @@
-#377d8a73742cd26ee8b06b9af2f93e156ac3d02bc629519c2e799231b5914d18
+#cf65fafc5095c7a6f9c3e4e9f2d936134dc7bc26dbe93eed2f2803f7b76f10d4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,6 +7,7 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
+#	adblockersite.com
 #	adfreedns.top
 #	alleesph.online
 #	b-ii.com
@@ -43,6 +44,7 @@
 
 adguard.abd.ong
 doh.abraservice.xyz
+adblockersite.com
 per.adfilter.net
 syd.adfilter.net
 adfreedns.top
@@ -68,7 +70,6 @@ awan.ftp.sh
 pihole.aws.ketan.dev
 dns.a47.me
 dns.baishiyuan.cn
-dns.bemag.app
 b-ii.com
 dns.bitdefender.net
 dns.bitservices.io
@@ -207,7 +208,6 @@ dns2.guidocioni.it
 cluster-0.gac.edu
 cluster-1.gac.edu
 dns.horcrux.vip
-ag.hostme.co.il
 dns.hostux.net
 doth.huque.com
 dns.ian.rocks
@@ -344,7 +344,7 @@ doh.safesurfer.io
 safeservedns.com
 dns.sarilouis.com
 ns1.sc-lezhi.com
-adguard.sealyserver.com
+dns.seiffert.me
 dns.sheggi.ch
 adguard.shoupperuser.com
 adguard.shutgaming.net

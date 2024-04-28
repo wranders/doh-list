@@ -1,4 +1,4 @@
-#cf65fafc5095c7a6f9c3e4e9f2d936134dc7bc26dbe93eed2f2803f7b76f10d4
+#b03995de86316990cee469ef7aadd8ac034be8649db384e0016a28f1d2d14d97
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -51,7 +51,6 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-dns.adrianlam.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
@@ -187,7 +186,6 @@ dns.henek.ovh
 dns.emiliyan.com
 dns.enzonix.com
 bl.eq.md
-dns.esnube.es
 dns.extrawdw.net
 dnsvps.familiamv.net
 dns.fancyorg.at
@@ -367,6 +365,7 @@ dns.svoi.dev
 doh.syshero.org
 dns.t53.de
 vpn.technicule.info
+dns.technostriker.com
 dns.telekom.de
 dns.thegoodsource.net
 doh.tiar.app

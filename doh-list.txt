@@ -1,4 +1,4 @@
-#b03995de86316990cee469ef7aadd8ac034be8649db384e0016a28f1d2d14d97
+#647bc19f9424824c15b1cf3f6575b060f6f50516f82e8bf68db3e4f470ffe26a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -76,7 +76,6 @@ dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
 stratus.bugz.fr
-dns.caksono.com
 doh.aaaab3n.moe
 console.carestyle.org
 dns.carson-family.com
@@ -211,7 +210,6 @@ doth.huque.com
 dns.ian.rocks
 ikarosalpha.xyz
 dns.iki.my.id
-dns.immanuelschaffer.de
 dns1.in-berlin.de
 adblock.indianets.net
 dns.indybanipal.com

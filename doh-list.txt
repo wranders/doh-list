@@ -1,4 +1,4 @@
-#647bc19f9424824c15b1cf3f6575b060f6f50516f82e8bf68db3e4f470ffe26a
+#2d30cf12cf5de6eee071ed3a8363cbab2e8bc9f66c68f091b1d25dc4f0357a5b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -121,6 +121,7 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
+dns.cr4zzy.xyz
 cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
@@ -306,7 +307,6 @@ darya.persiannit.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns1.pietjacobs.be
-dns.pnh.my.id
 pooblet.co.za
 dns.pragmasec.nl
 doh.archuser.org
@@ -346,11 +346,9 @@ adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
 dns.silentlybren.com
-dns.skrep.eu
 dns.slinkyman.net
 dns.smartguard.io
 spacedns.org
-dns.spirio.fr
 adguard.sscw.win
 dns.strassmair.org
 sukidayo.eu.org
@@ -385,7 +383,6 @@ dns.wang.art
 dns.warma.me
 doh-ca.naftalie.net
 wikimedia-dns.org
-dns.xwdmw.xyz
 yarp.lefolgoc.net
 dns.yatima.tv
 www.zburger.top

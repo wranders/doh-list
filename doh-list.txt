@@ -1,4 +1,4 @@
-#d356be6f247b8675a10f461d2d4e2bec234f29766b1f5b919ca59027435ce1a4
+#bf4fae1b67089f8fcdb5cc463bed380a82155001b46138cd3502c8d62e47b472
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -77,7 +77,6 @@ adguard.bonis.de
 dns.brahma.world
 stratus.bugz.fr
 doh.aaaab3n.moe
-console.carestyle.org
 dns.carson-family.com
 dns.carter.me
 catdns.org
@@ -309,9 +308,11 @@ pooblet.co.za
 dns.pragmasec.nl
 doh.archuser.org
 dns-privacy.puregeni.us
-ns1.qquack.org
 hostdare.qtxd.net
 dns.quad9.net
+dns10.quad9.net
+dns11.quad9.net
+dns12.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
 dnspub.restena.lu
@@ -321,7 +322,6 @@ sky.rethinkdns.com
 doh.rezhajul.io
 dns.rin.sh
 dns.rbn.gr
-dns.rootlab.top
 dns.rotunneling.net
 us.rslvr.eu
 nl.rslvr.eu
@@ -346,7 +346,6 @@ dns.silentlybren.com
 dns.slinkyman.net
 dns.smartguard.io
 spacedns.org
-adguard.sscw.win
 dns.strassmair.org
 sukidayo.eu.org
 sundalandia.pp.ua
@@ -383,7 +382,6 @@ wikimedia-dns.org
 yarp.lefolgoc.net
 dns.yatima.tv
 www.zburger.top
-a.zpn.me
 dns.0x55.net
 dns.4-the.win
 dns.52306.org

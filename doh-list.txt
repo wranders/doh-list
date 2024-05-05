@@ -1,4 +1,4 @@
-#bf4fae1b67089f8fcdb5cc463bed380a82155001b46138cd3502c8d62e47b472
+#b021e49af1a6a53f308eaf9258868484d0d1e48048aaf40c1d44e3a3502b2910
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -296,7 +296,6 @@ ada.openbld.net
 ric.openbld.net
 dns.oszx.co
 dns.paesa.es
-dns-ovh.panszelescik.pl
 doh.gcp.pathofgrace.com
 paulo.nom.za
 dns.pccoach.nl
@@ -308,7 +307,6 @@ pooblet.co.za
 dns.pragmasec.nl
 doh.archuser.org
 dns-privacy.puregeni.us
-hostdare.qtxd.net
 dns.quad9.net
 dns10.quad9.net
 dns11.quad9.net
@@ -319,7 +317,6 @@ dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
-doh.rezhajul.io
 dns.rin.sh
 dns.rbn.gr
 dns.rotunneling.net
@@ -332,7 +329,6 @@ au.rslvr.eu
 adguard.ruby.ci
 adg.rueiliu.space
 doh.runsel.id
-drs.rustsword.com
 doh.safesurfer.io
 safeservedns.com
 dns.sarilouis.com

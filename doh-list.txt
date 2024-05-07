@@ -1,4 +1,4 @@
-#b021e49af1a6a53f308eaf9258868484d0d1e48048aaf40c1d44e3a3502b2910
+#fae3339d99f6ece9add85db0afd4b5c4373e6d17a4a085d728fc98792e0cb40c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -243,7 +243,6 @@ doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
 dns.lobbygod.com
-adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
 dns.mandre.dev
@@ -290,7 +289,6 @@ dns-malwaresec.nordthreatprotection.com
 dns-cybersec.nordthreatprotection.com
 1.dns.noridev.moe
 dns.npsolution.it
-dns.ofdoom.net
 dns.oliviertv.co.za
 ada.openbld.net
 ric.openbld.net

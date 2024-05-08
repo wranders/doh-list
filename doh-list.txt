@@ -1,4 +1,4 @@
-#fae3339d99f6ece9add85db0afd4b5c4373e6d17a4a085d728fc98792e0cb40c
+#2807627245fb3c98038524f7a091a6d2e139104b3bf3b2b7e8ad7c5d9b0ea0a6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -246,7 +246,6 @@ dns.lobbygod.com
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
 dns.mandre.dev
-ag.marschi.de
 doh.maskab.com
 masters-of-cloud.de
 family.dns.doubleangels.com
@@ -285,8 +284,6 @@ resolver.noaddns.com
 pi1.node15.com
 dns1.nordvpn.com
 dns2.nordvpn.com
-dns-malwaresec.nordthreatprotection.com
-dns-cybersec.nordthreatprotection.com
 1.dns.noridev.moe
 dns.npsolution.it
 dns.oliviertv.co.za

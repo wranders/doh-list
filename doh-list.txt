@@ -1,4 +1,4 @@
-#2807627245fb3c98038524f7a091a6d2e139104b3bf3b2b7e8ad7c5d9b0ea0a6
+#ecff50676c71a73565d6a04fa54e9109785a56842d2cd3b4a5fb593acb74d486
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -183,6 +183,7 @@ edgy-dns.com
 dns.henek.ovh
 dns.emiliyan.com
 dns.enzonix.com
+dns.engineer.web.id
 bl.eq.md
 dns.extrawdw.net
 dnsvps.familiamv.net
@@ -202,7 +203,6 @@ dns64.dns.google
 dns.guard.io
 dns2.guidocioni.it
 cluster-0.gac.edu
-cluster-1.gac.edu
 dns.horcrux.vip
 dns.hostux.net
 doth.huque.com
@@ -253,8 +253,8 @@ adguard.meddy94.de
 testguard.meexx.de
 ns.mtsoln.com
 dns.mihanentalpo.me
-nue2.moderateinfra.net
 ps1.modr.club
+dot.modsh.top
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -299,6 +299,7 @@ dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns1.pietjacobs.be
 pooblet.co.za
+dns.powerbs.net
 dns.pragmasec.nl
 doh.archuser.org
 dns-privacy.puregeni.us
@@ -373,6 +374,7 @@ wikimedia-dns.org
 yarp.lefolgoc.net
 dns.yatima.tv
 www.zburger.top
+dns.l6.ee
 dns.0x55.net
 dns.4-the.win
 dns.52306.org

@@ -1,4 +1,4 @@
-#ecff50676c71a73565d6a04fa54e9109785a56842d2cd3b4a5fb593acb74d486
+#460c351a8db65e77ae2144c68ad364daac7fe23b389b83a661ed6074fcc5ca0e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -202,7 +202,6 @@ dns64.dns.google
 8888.google
 dns.guard.io
 dns2.guidocioni.it
-cluster-0.gac.edu
 dns.horcrux.vip
 dns.hostux.net
 doth.huque.com
@@ -309,7 +308,6 @@ dns11.quad9.net
 dns12.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
-dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com

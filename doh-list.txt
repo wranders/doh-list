@@ -1,4 +1,4 @@
-#460c351a8db65e77ae2144c68ad364daac7fe23b389b83a661ed6074fcc5ca0e
+#e2f956572f9fd8a25334a2cbbcf44274e59e7031885075f9f86cabdf28f996fc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -247,7 +247,6 @@ doh.phdns2.lonet.org
 dns.mandre.dev
 doh.maskab.com
 masters-of-cloud.de
-family.dns.doubleangels.com
 adguard.meddy94.de
 testguard.meexx.de
 ns.mtsoln.com
@@ -325,9 +324,11 @@ adg.rueiliu.space
 doh.runsel.id
 doh.safesurfer.io
 safeservedns.com
+dns.saneaki.com
 dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.seiffert.me
+senpai.pp.ua
 dns.sheggi.ch
 adguard.shoupperuser.com
 adguard.shutgaming.net

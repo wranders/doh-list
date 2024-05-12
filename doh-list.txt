@@ -1,4 +1,4 @@
-#e2f956572f9fd8a25334a2cbbcf44274e59e7031885075f9f86cabdf28f996fc
+#813d0dc7f9ec42b21fca9d69e3d4b3e6659922d7c698f3ddcbc25e702c8548ea
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -129,6 +129,7 @@ ns.00dani.me
 ns.data.haus
 dns.dekedin.me
 dns.dev-umbrellagov.com
+dns.diarbagus.id
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns-free.link
@@ -201,7 +202,6 @@ dns.google
 dns64.dns.google
 8888.google
 dns.guard.io
-dns2.guidocioni.it
 dns.horcrux.vip
 dns.hostux.net
 doth.huque.com
@@ -283,7 +283,6 @@ pi1.node15.com
 dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
-dns.npsolution.it
 dns.oliviertv.co.za
 ada.openbld.net
 ric.openbld.net

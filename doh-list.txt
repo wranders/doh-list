@@ -1,4 +1,4 @@
-#813d0dc7f9ec42b21fca9d69e3d4b3e6659922d7c698f3ddcbc25e702c8548ea
+#752d4128df5cb2c5b878c5945cd23b456e6bbaa763f214f4c6e7390ba78cebc0
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -54,11 +54,14 @@ unfiltered.adguard-dns.com
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
+dnsse.alekberg.net
+dnsnl.alekberg.net
 alleesph.online
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
 dns.hypercute.eu
+dns.aquilenet.fr
 dns.artikel10.org
 dns.asterimoon.com
 secure.avastdns.com
@@ -69,9 +72,15 @@ awan.ftp.sh
 pihole.aws.ketan.dev
 dns.a47.me
 dns.baishiyuan.cn
+dns.belnet.be
 b-ii.com
 dns.bitdefender.net
 dns.bitservices.io
+doh-fi.blahdns.com
+doh-de.blahdns.com
+doh-sg.blahdns.com
+doh-jp.blahdns.com
+doh-ch.blahdns.com
 dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
@@ -187,6 +196,7 @@ dns.enzonix.com
 dns.engineer.web.id
 bl.eq.md
 dns.extrawdw.net
+doh.manish.ltd
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
@@ -202,9 +212,12 @@ dns.google
 dns64.dns.google
 8888.google
 dns.guard.io
+dns.hinet.net
 dns.horcrux.vip
 dns.hostux.net
+dns.hostux.net
 doth.huque.com
+ordns.he.net
 dns.ian.rocks
 ikarosalpha.xyz
 dns1.in-berlin.de
@@ -229,6 +242,7 @@ adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
 adguard.konikoni428.com
+pdns.krctechnologies.net
 xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
@@ -241,6 +255,7 @@ doh.libredns.gr
 doh.libredns.gr
 lindung.pp.ua
 lindung.pp.ua
+dns.lista.my.id
 dns.lobbygod.com
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -251,6 +266,7 @@ adguard.meddy94.de
 testguard.meexx.de
 ns.mtsoln.com
 dns.mihanentalpo.me
+dns.mnet-online.de
 ps1.modr.club
 dot.modsh.top
 dns.mullvad.net
@@ -283,6 +299,7 @@ pi1.node15.com
 dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
+dns.nydau.fr
 dns.oliviertv.co.za
 ada.openbld.net
 ric.openbld.net
@@ -306,6 +323,7 @@ dns11.quad9.net
 dns12.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
+dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
@@ -327,7 +345,6 @@ dns.saneaki.com
 dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.seiffert.me
-senpai.pp.ua
 dns.sheggi.ch
 adguard.shoupperuser.com
 adguard.shutgaming.net

@@ -1,4 +1,4 @@
-#752d4128df5cb2c5b878c5945cd23b456e6bbaa763f214f4c6e7390ba78cebc0
+#0383bc77ef6a6e29d1e4c4658554ebe7411cccce9776f9e520de768a8c76b489
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -107,7 +107,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-doh.cnetwork.cloud
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -152,6 +151,13 @@ dns0.eu
 zero.dns0.eu
 kids.dns0.eu
 doh.dns4all.eu
+ca01.dns4me.net
+us01.dns4me.net
+sg01.dns4me.net
+sa01.dns4me.net
+au01.dns4me.net
+uk01.dns4me.net
+nz01.dns4me.net
 abe01.dnscry.pt
 ord01.dnscry.pt
 coe01.dnscry.pt
@@ -221,7 +227,6 @@ ordns.he.net
 dns.ian.rocks
 ikarosalpha.xyz
 dns1.in-berlin.de
-adblock.indianets.net
 dns.indybanipal.com
 qlf-doh.inria.fr
 public.dns.iij.jp
@@ -238,6 +243,7 @@ ad.justincounts.com
 dns.keke125.com
 doh.kekew.info
 dns.kerekes.xyz
+dns.kescher.at
 adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
@@ -299,6 +305,7 @@ pi1.node15.com
 dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
+dns.novg.net
 dns.nydau.fr
 dns.oliviertv.co.za
 ada.openbld.net
@@ -312,6 +319,7 @@ darya.persiannit.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns1.pietjacobs.be
+privacy.plumedns.com
 pooblet.co.za
 dns.powerbs.net
 dns.pragmasec.nl
@@ -353,7 +361,6 @@ dns.silentlybren.com
 dns.slinkyman.net
 dns.smartguard.io
 spacedns.org
-dns.strassmair.org
 sukidayo.eu.org
 sundalandia.pp.ua
 sundalandia.pp.ua
@@ -391,7 +398,6 @@ dns.yatima.tv
 www.zburger.top
 dns.l6.ee
 dns.0x55.net
-dns.4-the.win
 dns.52306.org
 dns.9999.sg
 ibuki.cgnat.net

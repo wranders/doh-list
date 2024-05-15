@@ -1,4 +1,4 @@
-#0383bc77ef6a6e29d1e4c4658554ebe7411cccce9776f9e520de768a8c76b489
+#fe7773b94aa04eb8b92cd7cc5737a7e24064cdae82508ddcec0f3b5912ffef7b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -40,6 +40,7 @@
 #	truta.org
 #	vtcuong.site
 #	wikimedia-dns.org
+#	0ms.dev
 #
 
 adguard.abd.ong
@@ -85,12 +86,14 @@ dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
 stratus.bugz.fr
+doh.b86.nl
 doh.aaaab3n.moe
 dns.carson-family.com
 dns.carter.me
 catdns.org
 dns.chadeyron.fr
 dns.chenu.ch
+doh.cippapp.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
@@ -268,8 +271,10 @@ doh.phdns2.lonet.org
 dns.mandre.dev
 doh.maskab.com
 masters-of-cloud.de
+doh.max.net.id
 adguard.meddy94.de
 testguard.meexx.de
+snoke.meganerd.nl
 ns.mtsoln.com
 dns.mihanentalpo.me
 dns.mnet-online.de
@@ -325,6 +330,7 @@ dns.powerbs.net
 dns.pragmasec.nl
 doh.archuser.org
 dns-privacy.puregeni.us
+doh.qis.io
 dns.quad9.net
 dns10.quad9.net
 dns11.quad9.net
@@ -381,10 +387,10 @@ truta.org
 dns.tryk.app
 dns.twnic.tw
 adguard.twotigers.xyz
-dns.txq.life
 resolver.unstoppable.io
 dns.unx.io
 doh.valscosmos.com
+doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
 vtcuong.site
@@ -396,6 +402,7 @@ wikimedia-dns.org
 yarp.lefolgoc.net
 dns.yatima.tv
 www.zburger.top
+0ms.dev
 dns.l6.ee
 dns.0x55.net
 dns.52306.org

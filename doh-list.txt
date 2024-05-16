@@ -1,4 +1,4 @@
-#fe7773b94aa04eb8b92cd7cc5737a7e24064cdae82508ddcec0f3b5912ffef7b
+#278b2c7a59455d3d3ff1bbc890cf3a6ab8d8310c46e82d92faa4886f30ab27d2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -199,6 +199,7 @@ dns.dotnet.win
 dukun.de
 doh.apad.pro
 edgy-dns.com
+dns.editechstudio.com
 dns.henek.ovh
 dns.emiliyan.com
 dns.enzonix.com
@@ -226,11 +227,12 @@ dns.horcrux.vip
 dns.hostux.net
 dns.hostux.net
 doth.huque.com
-ordns.he.net
 dns.ian.rocks
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
+doh.infotek.net.id
+doh1.infotek.net.id
 qlf-doh.inria.fr
 public.dns.iij.jp
 aqua.is.my.waifu.cz
@@ -271,6 +273,7 @@ doh.phdns2.lonet.org
 dns.mandre.dev
 doh.maskab.com
 masters-of-cloud.de
+dns.mateo.ovh
 doh.max.net.id
 adguard.meddy94.de
 testguard.meexx.de
@@ -337,6 +340,7 @@ dns11.quad9.net
 dns12.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
+dns.repinger.my.id
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -347,7 +351,6 @@ dns.rotunneling.net
 us.rslvr.eu
 nl.rslvr.eu
 jp.rslvr.eu
-hk.rslvr.eu
 sg.rslvr.eu
 au.rslvr.eu
 adguard.ruby.ci
@@ -374,6 +377,7 @@ resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
 dns.svoi.dev
+dns.switch.ch
 doh.syshero.org
 dns.t53.de
 vpn.technicule.info
@@ -383,6 +387,7 @@ dns.thegoodsource.net
 doh.tiar.app
 doh.tiarap.org
 dns.tls-data.de
+ns.trcnet.fi
 truta.org
 dns.tryk.app
 dns.twnic.tw
@@ -390,6 +395,7 @@ adguard.twotigers.xyz
 resolver.unstoppable.io
 dns.unx.io
 doh.valscosmos.com
+dns.velyn.my.id
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua

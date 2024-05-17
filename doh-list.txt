@@ -1,4 +1,4 @@
-#278b2c7a59455d3d3ff1bbc890cf3a6ab8d8310c46e82d92faa4886f30ab27d2
+#f7e2ab9363a4453872f63e620534ba82da1ccd42da16129324673e256c8a99a5
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -201,6 +201,7 @@ doh.apad.pro
 edgy-dns.com
 dns.editechstudio.com
 dns.henek.ovh
+dns.eliv.co.kr
 dns.emiliyan.com
 dns.enzonix.com
 dns.engineer.web.id
@@ -361,7 +362,6 @@ safeservedns.com
 dns.saneaki.com
 dns.sarilouis.com
 ns1.sc-lezhi.com
-dns.seiffert.me
 dns.sheggi.ch
 adguard.shoupperuser.com
 adguard.shutgaming.net
@@ -387,6 +387,9 @@ dns.thegoodsource.net
 doh.tiar.app
 doh.tiarap.org
 dns.tls-data.de
+resolv1.trash.net
+resolv2.trash.net
+resolv3.trash.net
 ns.trcnet.fi
 truta.org
 dns.tryk.app

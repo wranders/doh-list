@@ -1,4 +1,4 @@
-#f7e2ab9363a4453872f63e620534ba82da1ccd42da16129324673e256c8a99a5
+#bb6387212c57daa8403e5c8a684f945f1444eac3d82dee10de4d27e4fc8588cf
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -37,6 +37,7 @@
 #	safeservedns.com
 #	spacedns.org
 #	sunnygyl.com
+#	tirapan.top
 #	truta.org
 #	vtcuong.site
 #	wikimedia-dns.org
@@ -265,6 +266,7 @@ eu1.dns.lavate.ch
 dns.levonet.sk
 doh.libredns.gr
 doh.libredns.gr
+sby-doh.limotelu.org
 lindung.pp.ua
 lindung.pp.ua
 dns.lista.my.id
@@ -328,6 +330,9 @@ darya.persiannit.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns1.pietjacobs.be
+kronos.plan9-dns.com
+helios.plan9-dns.com
+pluton.plan9-dns.com
 privacy.plumedns.com
 pooblet.co.za
 dns.powerbs.net
@@ -357,6 +362,7 @@ au.rslvr.eu
 adguard.ruby.ci
 adg.rueiliu.space
 doh.runsel.id
+dns1.ryan-palmer.com
 doh.safesurfer.io
 safeservedns.com
 dns.saneaki.com
@@ -386,6 +392,7 @@ dns.telekom.de
 dns.thegoodsource.net
 doh.tiar.app
 doh.tiarap.org
+tirapan.top
 dns.tls-data.de
 resolv1.trash.net
 resolv2.trash.net
@@ -408,6 +415,7 @@ dns.wang.art
 dns.warma.me
 doh-ca.naftalie.net
 wikimedia-dns.org
+dns.wixxm.asia
 yarp.lefolgoc.net
 dns.yatima.tv
 www.zburger.top

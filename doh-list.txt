@@ -1,4 +1,4 @@
-#bb6387212c57daa8403e5c8a684f945f1444eac3d82dee10de4d27e4fc8588cf
+#c534b46698e261a371b6272dec0854bbd7e40b9b05d56c6234834007a994a0f4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,7 +39,6 @@
 #	sunnygyl.com
 #	tirapan.top
 #	truta.org
-#	vtcuong.site
 #	wikimedia-dns.org
 #	0ms.dev
 #
@@ -87,14 +86,12 @@ dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
 stratus.bugz.fr
-doh.b86.nl
 doh.aaaab3n.moe
 dns.carson-family.com
 dns.carter.me
 catdns.org
 dns.chadeyron.fr
 dns.chenu.ch
-doh.cippapp.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
@@ -139,7 +136,6 @@ odvr.nic.cz
 dns.daemon.za.net
 ns.00dani.me
 ns.data.haus
-dns.dekedin.me
 dns.dev-umbrellagov.com
 dns.diarbagus.id
 dns.digitale-gesellschaft.ch
@@ -207,7 +203,6 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.engineer.web.id
 bl.eq.md
-dns.extrawdw.net
 doh.manish.ltd
 dnsvps.familiamv.net
 dns.fancyorg.at
@@ -361,7 +356,6 @@ sg.rslvr.eu
 au.rslvr.eu
 adguard.ruby.ci
 adg.rueiliu.space
-doh.runsel.id
 dns1.ryan-palmer.com
 doh.safesurfer.io
 safeservedns.com
@@ -401,7 +395,6 @@ ns.trcnet.fi
 truta.org
 dns.tryk.app
 dns.twnic.tw
-adguard.twotigers.xyz
 resolver.unstoppable.io
 dns.unx.io
 doh.valscosmos.com
@@ -409,10 +402,8 @@ dns.velyn.my.id
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
-vtcuong.site
 dns.wahr.top
 dns.wang.art
-dns.warma.me
 doh-ca.naftalie.net
 wikimedia-dns.org
 dns.wixxm.asia

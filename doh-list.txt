@@ -1,4 +1,4 @@
-#c534b46698e261a371b6272dec0854bbd7e40b9b05d56c6234834007a994a0f4
+#b901232152b8c20e30070e4d02621e172da91ff08bb7a328c18d4667c0e8a524
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -298,7 +298,8 @@ dns1.us.newpangea.de
 dns1.au.newpangea.de
 dns1.in.newpangea.de
 dns1.sg.newpangea.de
-dns1.cl.newpangea.de
+dns1.pl.newpangea.de
+dns1.fi.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com

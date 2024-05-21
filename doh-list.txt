@@ -1,4 +1,4 @@
-#b901232152b8c20e30070e4d02621e172da91ff08bb7a328c18d4667c0e8a524
+#d54831c96929bc8bc6aeefdfa06885af76115e5a2c6fd84fcf1d1ebcc35afadd
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -35,6 +35,7 @@
 #	nenam.eu
 #	doh.lv
 #	safeservedns.com
+#	signsservers.ru
 #	spacedns.org
 #	sunnygyl.com
 #	tirapan.top
@@ -87,7 +88,6 @@ adguard.bonis.de
 dns.brahma.world
 stratus.bugz.fr
 doh.aaaab3n.moe
-dns.carson-family.com
 dns.carter.me
 catdns.org
 dns.chadeyron.fr
@@ -215,6 +215,7 @@ dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.gamban.com
 dns.freyja.pw
+dns.glorydns.com
 dns.google
 dns64.dns.google
 8888.google
@@ -238,7 +239,6 @@ yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
 jackyes.ovh
 dns.janl.eu
-dns.hahnjo.de
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
@@ -246,6 +246,7 @@ dns.keke125.com
 doh.kekew.info
 dns.kerekes.xyz
 dns.kescher.at
+noad.kipp.cool
 adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
@@ -261,11 +262,11 @@ eu1.dns.lavate.ch
 dns.levonet.sk
 doh.libredns.gr
 doh.libredns.gr
-sby-doh.limotelu.org
 lindung.pp.ua
 lindung.pp.ua
 dns.lista.my.id
 dns.lobbygod.com
+ca.loii.in
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
 dns.mandre.dev
@@ -297,9 +298,7 @@ nenam.eu
 dns1.us.newpangea.de
 dns1.au.newpangea.de
 dns1.in.newpangea.de
-dns1.sg.newpangea.de
 dns1.pl.newpangea.de
-dns1.fi.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -366,6 +365,7 @@ ns1.sc-lezhi.com
 dns.sheggi.ch
 adguard.shoupperuser.com
 adguard.shutgaming.net
+signsservers.ru
 dns.silen.org
 dns.silentlybren.com
 dns.slinkyman.net

@@ -1,4 +1,4 @@
-#d54831c96929bc8bc6aeefdfa06885af76115e5a2c6fd84fcf1d1ebcc35afadd
+#db7cd79489aa5e4ca2bdb923a141b9954e141b7d0efc45ae5299b664775a1e46
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -203,7 +203,6 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.engineer.web.id
 bl.eq.md
-doh.manish.ltd
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
@@ -229,8 +228,6 @@ dns.ian.rocks
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
-doh.infotek.net.id
-doh1.infotek.net.id
 qlf-doh.inria.fr
 public.dns.iij.jp
 aqua.is.my.waifu.cz
@@ -238,7 +235,6 @@ megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
 jackyes.ovh
-dns.janl.eu
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
@@ -341,7 +337,6 @@ dns11.quad9.net
 dns12.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
-dns.repinger.my.id
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -349,11 +344,6 @@ sky.rethinkdns.com
 dns.rin.sh
 dns.rbn.gr
 dns.rotunneling.net
-us.rslvr.eu
-nl.rslvr.eu
-jp.rslvr.eu
-sg.rslvr.eu
-au.rslvr.eu
 adguard.ruby.ci
 adg.rueiliu.space
 dns1.ryan-palmer.com
@@ -399,7 +389,6 @@ dns.twnic.tw
 resolver.unstoppable.io
 dns.unx.io
 doh.valscosmos.com
-dns.velyn.my.id
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua

@@ -1,4 +1,4 @@
-#db7cd79489aa5e4ca2bdb923a141b9954e141b7d0efc45ae5299b664775a1e46
+#3bebe861764ed20a4c287d50a48f0cdffa650b23084044150a4a831d48a78f4e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -202,7 +202,6 @@ dns.eliv.co.kr
 dns.emiliyan.com
 dns.enzonix.com
 dns.engineer.web.id
-bl.eq.md
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
@@ -220,7 +219,6 @@ dns64.dns.google
 8888.google
 dns.guard.io
 dns.hinet.net
-dns.horcrux.vip
 dns.hostux.net
 dns.hostux.net
 doth.huque.com

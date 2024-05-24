@@ -1,4 +1,4 @@
-#3bebe861764ed20a4c287d50a48f0cdffa650b23084044150a4a831d48a78f4e
+#2ebd73497b0c46de5bb3f10c8e2ee956892a2fb7a1b807050e37a66f51f40c31
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -14,8 +14,6 @@
 #	catdns.org
 #	cloudflare-dns.com
 #	cubedns.com
-#	dns-free.link
-#	dns-free.link
 #	dns.expert
 #	doh.sb
 #	dns0.eu
@@ -71,7 +69,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
-pihole.aws.ketan.dev
 dns.a47.me
 dns.baishiyuan.cn
 dns.belnet.be
@@ -129,7 +126,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-dns.cr4zzy.xyz
 cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
@@ -140,8 +136,6 @@ dns.dev-umbrellagov.com
 dns.diarbagus.id
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
-dns-free.link
-dns-free.link
 dns.digitalsize.net
 dns.expert
 doh.dns.sb
@@ -290,7 +284,6 @@ dns.narl.app
 dns.neilzone.co.uk
 nenam.eu
 dns1.us.newpangea.de
-dns1.au.newpangea.de
 dns1.in.newpangea.de
 dns1.pl.newpangea.de
 doh.luigi.nexific.it

@@ -1,4 +1,4 @@
-#2ebd73497b0c46de5bb3f10c8e2ee956892a2fb7a1b807050e37a66f51f40c31
+#b81a228c0168467651064adeca3c59f44ccda9c3c6abd259c55e189fbdb4ddf9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	adblockersite.com
 #	adfreedns.top
 #	alleesph.online
 #	b-ii.com
@@ -44,7 +43,6 @@
 
 adguard.abd.ong
 doh.abraservice.xyz
-adblockersite.com
 per.adfilter.net
 syd.adfilter.net
 adfreedns.top
@@ -157,13 +155,17 @@ ord01.dnscry.pt
 coe01.dnscry.pt
 cvt01.dnscry.pt
 rdu01.dnscry.pt
+dus01.dnscry.pt
+fra01.dnscry.pt
 fjr01.dnscry.pt
+jkt01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
 lax01.dnscry.pt
 mia01.dnscry.pt
 muc01.dnscry.pt
 nyc01.dnscry.pt
+nue01.dnscry.pt
 phl01.dnscry.pt
 phx01.dnscry.pt
 slc01.dnscry.pt
@@ -207,7 +209,6 @@ dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.gamban.com
 dns.freyja.pw
-dns.glorydns.com
 dns.google
 dns64.dns.google
 8888.google
@@ -266,7 +267,6 @@ adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
-dns.mihanentalpo.me
 dns.mnet-online.de
 ps1.modr.club
 dot.modsh.top

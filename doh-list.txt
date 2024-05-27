@@ -1,4 +1,4 @@
-#aeb016a4ff68e47d01e5c22ff2e1d0b16a64ff5de799a1511ab24ab6e5782425
+#cd83e0377cdda82adeb07d5f104462a6d71279761ff14f4152373c3df63aac32
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -170,6 +170,7 @@ fjr01.dnscry.pt
 gva01.dnscry.pt
 hel01.dnscry.pt
 hkg01.dnscry.pt
+hkg02.dnscry.pt
 ist01.dnscry.pt
 jkt01.dnscry.pt
 hrk01.dnscry.pt
@@ -255,6 +256,7 @@ dns.hinet.net
 dns.hostux.net
 dns.hostux.net
 doth.huque.com
+ordns.he.net
 dns.ian.rocks
 ikarosalpha.xyz
 dns1.in-berlin.de
@@ -263,8 +265,8 @@ qlf-doh.inria.fr
 public.dns.iij.jp
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
-yunyun.is.my.waifu.cz
 darkness.is.my.waifu.cz
+yunyun.is.my.waifu.cz
 jackyes.ovh
 jp.tiar.app
 jp.tiarap.org
@@ -328,6 +330,8 @@ dns.nextdns.io
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
+nightlymoon.us.kg
+nightlymoon.us.kg
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
@@ -410,7 +414,6 @@ resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
 truta.org
-dns.tryk.app
 dns.twnic.tw
 resolver.unstoppable.io
 dns.unx.io

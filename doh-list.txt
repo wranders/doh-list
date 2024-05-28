@@ -1,4 +1,4 @@
-#cd83e0377cdda82adeb07d5f104462a6d71279761ff14f4152373c3df63aac32
+#90f66579f26ae54dfaf5aeb449c64ff79ed528645f895c0eb7b43ebf43a726d2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -227,7 +227,6 @@ dnswebvsn.com
 dns.doh.best
 doh.xyz
 3dns.eu
-dns.dotnet.win
 dukun.de
 doh.apad.pro
 edgy-dns.com
@@ -272,7 +271,6 @@ jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
 dns.keke125.com
-doh.kekew.info
 dns.kerekes.xyz
 dns.kescher.at
 noad.kipp.cool

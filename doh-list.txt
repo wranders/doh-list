@@ -1,4 +1,4 @@
-#90f66579f26ae54dfaf5aeb449c64ff79ed528645f895c0eb7b43ebf43a726d2
+#5969932c8dc9b36766374233f5777fd42b8dd3211a5116e6376a51c99bcebc11
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -20,17 +20,25 @@
 #	dnslow.me
 #	dns.pub
 #	dnswebvsn.com
+#	doh.buzz
 #	doh.xyz
 #	3dns.eu
 #	dukun.de
 #	edgy-dns.com
 #	dns.google
 #	8888.google
+#	hitian.me
+#	horus-team.com
 #	ikarosalpha.xyz
 #	jackyes.ovh
 #	masters-of-cloud.de
 #	nenam.eu
 #	doh.lv
+#	dns8.org
+#	n0.eu
+#	ns3.com
+#	ns3.cx
+#	ns3.link
 #	safeservedns.com
 #	signsservers.ru
 #	spacedns.org
@@ -38,13 +46,17 @@
 #	tirapan.top
 #	truta.org
 #	wikimedia-dns.org
+#	your-dns.run
 #	0ms.dev
 #
 
 adguard.abd.ong
 doh.abraservice.xyz
+resolver2.absolight.net
+resolver3.absolight.net
 per.adfilter.net
 syd.adfilter.net
+adl.adfilter.net
 adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
@@ -80,11 +92,17 @@ dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
 stratus.bugz.fr
+doh1.b-cdn.net
+doh2.b-cdn.net
+dns.b612.me
 doh.aaaab3n.moe
 dns.carter.me
 catdns.org
 dns.chadeyron.fr
+doh-01.spectrum.com
+doh-02.spectrum.com
 dns.chenu.ch
+c.cicitt.ch
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
@@ -101,6 +119,7 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
+dns.comss.one
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -141,15 +160,20 @@ zero.dns0.eu
 kids.dns0.eu
 doh.dns4all.eu
 ca01.dns4me.net
+ca02.dns4me.net
 us01.dns4me.net
+us02.dns4me.net
 sg01.dns4me.net
 sa01.dns4me.net
 au01.dns4me.net
+au02.dns4me.net
 uk01.dns4me.net
 nz01.dns4me.net
+ie01.dns4me.net
+de01.dns4me.net
+jp01.dns4me.net
 adl01.dnscry.pt
 abe01.dnscry.pt
-ams01.dnscry.pt
 atl01.dnscry.pt
 bud01.dnscry.pt
 ord01.dnscry.pt
@@ -186,7 +210,6 @@ mia01.dnscry.pt
 mil01.dnscry.pt
 bom01.dnscry.pt
 muc01.dnscry.pt
-naw01.dnscry.pt
 nyc01.dnscry.pt
 nue01.dnscry.pt
 omr01.dnscry.pt
@@ -225,9 +248,11 @@ dns.dnswarden.com
 dns.dnswarden.com
 dnswebvsn.com
 dns.doh.best
+doh.buzz
 doh.xyz
 3dns.eu
 dukun.de
+dns.dyn1.de
 doh.apad.pro
 edgy-dns.com
 dns.editechstudio.com
@@ -245,6 +270,7 @@ dns01.flm9.net
 doh.applied-privacy.net
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
+doh.futa.gg
 dns.gamban.com
 dns.freyja.pw
 dns.google
@@ -252,6 +278,8 @@ dns64.dns.google
 8888.google
 dns.guard.io
 dns.hinet.net
+hitian.me
+horus-team.com
 dns.hostux.net
 dns.hostux.net
 doth.huque.com
@@ -259,31 +287,37 @@ ordns.he.net
 dns.ian.rocks
 ikarosalpha.xyz
 dns1.in-berlin.de
+dns.indust.me
 dns.indybanipal.com
 qlf-doh.inria.fr
 public.dns.iij.jp
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
-yunyun.is.my.waifu.cz
+opennic.i2pd.xyz
 jackyes.ovh
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
+dns.kamilszczepanski.com
+dns.kawa.tf
 dns.keke125.com
 dns.kerekes.xyz
+dns.kernel-error.de
 dns.kescher.at
 noad.kipp.cool
 adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
 adguard.konikoni428.com
+dns.kosan.moe
 pdns.krctechnologies.net
 xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 doh.lacontrevoie.fr
+dns.lars-lehmann.net
 eu1.dns.lavate.ch
 dns.levonet.sk
 doh.libredns.gr
@@ -304,6 +338,7 @@ adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
+testaghome.meshkov.info
 dns.mnet-online.de
 ps1.modr.club
 dot.modsh.top
@@ -338,6 +373,12 @@ dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
 dns.novg.net
+dns.npe.bz
+dns8.org
+n0.eu
+ns3.com
+ns3.cx
+ns3.link
 dns.nydau.fr
 dns.oliviertv.co.za
 ada.openbld.net
@@ -346,7 +387,6 @@ dns.oszx.co
 dns.paesa.es
 doh.gcp.pathofgrace.com
 paulo.nom.za
-darya.persiannit.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns1.pietjacobs.be
@@ -359,16 +399,20 @@ dns.powerbs.net
 dns.pragmasec.nl
 doh.archuser.org
 dns-privacy.puregeni.us
+vpsus3.pzhg.me
+at.pzhg.me
 dns.quad9.net
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
+dns.reckoningslug.name
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
+doh.rezhajul.io
 dns.rin.sh
 dns.rbn.gr
 dns.rotunneling.net
@@ -389,6 +433,9 @@ dns.silentlybren.com
 dns.slinkyman.net
 dns.smartguard.io
 spacedns.org
+dns.startupstack.tech
+dns.stevenz.net
+muli.stusta.mhn.de
 sukidayo.eu.org
 sundalandia.pp.ua
 sundalandia.pp.ua
@@ -397,16 +444,19 @@ sunnygyl.com
 dns.superstefan.win
 dns.svoi.dev
 dns.switch.ch
+dns.syaifullah.com
 doh.syshero.org
 dns.t53.de
 vpn.technicule.info
 dns.technostriker.com
 dns.telekom.de
+dns.tesem.dog
 dns.thegoodsource.net
 doh.tiar.app
 doh.tiarap.org
 tirapan.top
 dns.tls-data.de
+doh.totoro.pub
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
@@ -415,17 +465,23 @@ truta.org
 dns.twnic.tw
 resolver.unstoppable.io
 dns.unx.io
+adfree.usableprivacy.net
 doh.valscosmos.com
+tor.vasi.li
 doh.viatech.com.tw
+dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
 dns.wahr.top
 dns.wang.art
+abel.waringer-atg.de
+dns.warpnine.de
 doh-ca.naftalie.net
 wikimedia-dns.org
 dns.wixxm.asia
 yarp.lefolgoc.net
 dns.yatima.tv
+your-dns.run
 www.zburger.top
 0ms.dev
 dns.l6.ee

@@ -1,4 +1,4 @@
-#5969932c8dc9b36766374233f5777fd42b8dd3211a5116e6376a51c99bcebc11
+#261ce2255818f94b1436ad00eda093d0af3ec652d86829a96266406138a5e879
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -25,12 +25,15 @@
 #	3dns.eu
 #	dukun.de
 #	edgy-dns.com
+#	eth.link
 #	dns.google
 #	8888.google
 #	hitian.me
 #	horus-team.com
 #	ikarosalpha.xyz
 #	jackyes.ovh
+#	jkdns.me
+#	korzhov.dev
 #	masters-of-cloud.de
 #	nenam.eu
 #	doh.lv
@@ -45,12 +48,15 @@
 #	sunnygyl.com
 #	tirapan.top
 #	truta.org
+#	wantaquddin.com
 #	wikimedia-dns.org
 #	your-dns.run
+#	yovbak.com
 #	0ms.dev
 #
 
 adguard.abd.ong
+vps.abgnetwork.es
 doh.abraservice.xyz
 resolver2.absolight.net
 resolver3.absolight.net
@@ -61,17 +67,22 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
+testadguardhome.adtidy.net
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 alleesph.online
+mailer.amlegion.org
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
+d.apemlegit.my.id
 dns.hypercute.eu
+dns.applewebkit.dev
 dns.aquilenet.fr
 dns.artikel10.org
 dns.asterimoon.com
+dohtrial.att.net
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -91,9 +102,11 @@ doh-ch.blahdns.com
 dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
+doh.bt.com
 stratus.bugz.fr
 doh1.b-cdn.net
 doh2.b-cdn.net
+dns.b33.network
 dns.b612.me
 doh.aaaab3n.moe
 dns.carter.me
@@ -102,6 +115,7 @@ dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
+oraclejp2.chungyu.com
 c.cicitt.ch
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -119,7 +133,9 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
+adguard.cloudmini.net
 dns.comss.one
+dns.connect.fail
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -141,6 +157,10 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
+doh.cornes.me
+dns.cooluc.com
+dns.cooluc.com
+dns.cretu.xyz
 cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
@@ -150,6 +170,7 @@ ns.data.haus
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
+www.dnsadguard.co.uk
 dns.digitalsize.net
 dns.expert
 doh.dns.sb
@@ -251,16 +272,26 @@ dns.doh.best
 doh.buzz
 doh.xyz
 3dns.eu
+ns1.dotls.org
+agh.dshubham.xyz
 dukun.de
 dns.dyn1.de
+dns.d96.info
 doh.apad.pro
 edgy-dns.com
+dns.edison42.dev
 dns.editechstudio.com
 dns.henek.ovh
+hole.elbschloss.xyz
+dns.electrotm.org
+addns.jpr.space
+dns.unerror.network
 dns.eliv.co.kr
 dns.emiliyan.com
 dns.enzonix.com
 dns.engineer.web.id
+eth.link
+dns.extrawdw.net
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
@@ -272,11 +303,13 @@ dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 doh.futa.gg
 dns.gamban.com
+adguard.gambini.org
 dns.freyja.pw
 dns.google
 dns64.dns.google
 8888.google
 dns.guard.io
+blackhole.gugainfo.com.br
 dns.hinet.net
 hitian.me
 horus-team.com
@@ -285,10 +318,12 @@ dns.hostux.net
 doth.huque.com
 ordns.he.net
 dns.ian.rocks
+ihctw.synology.me
 ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indust.me
 dns.indybanipal.com
+dns.inforlogia.com
 qlf-doh.inria.fr
 public.dns.iij.jp
 aqua.is.my.waifu.cz
@@ -296,6 +331,8 @@ megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 opennic.i2pd.xyz
 jackyes.ovh
+dns.jinwoo.dev
+jkdns.me
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
@@ -305,17 +342,21 @@ dns.keke125.com
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
+pihole.aws.ketan.dev
 noad.kipp.cool
 adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
 adguard.konikoni428.com
+korzhov.dev
 dns.kosan.moe
+dart.kpsn.org
 pdns.krctechnologies.net
 xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
+agh.kyusang.win
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
@@ -334,11 +375,14 @@ doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
 doh.max.net.id
+doh.mcasviper.de
 adguard.meddy94.de
 testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
 testaghome.meshkov.info
+dns.mikeliu.org
+doh.mmmalia.com
 dns.mnet-online.de
 ps1.modr.club
 dot.modsh.top
@@ -363,6 +407,7 @@ dns.nextdns.io
 dns.nhtsky.com
 doh.lv
 doh.nic.lv
+adguard-kartoffel.zernico.de
 nightlymoon.us.kg
 nightlymoon.us.kg
 doh.niyawe.de
@@ -372,6 +417,8 @@ pi1.node15.com
 dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
+2.dns.noridev.moe
+dns.novali.date
 dns.novg.net
 dns.npe.bz
 dns8.org
@@ -380,11 +427,16 @@ ns3.com
 ns3.cx
 ns3.link
 dns.nydau.fr
+dns.n23.io
+dns.ofdoom.net
 dns.oliviertv.co.za
 ada.openbld.net
 ric.openbld.net
+ag.apollohct.com
 dns.oszx.co
+1a.ns.ozer.im
 dns.paesa.es
+dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 paulo.nom.za
 dns.pesaventofilippo.com
@@ -397,6 +449,7 @@ privacy.plumedns.com
 pooblet.co.za
 dns.powerbs.net
 dns.pragmasec.nl
+dns.psociety.de
 doh.archuser.org
 dns-privacy.puregeni.us
 vpsus3.pzhg.me
@@ -414,24 +467,33 @@ sky.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
 dns.rin.sh
+dns.rkjha.com.np
 dns.rbn.gr
 dns.rotunneling.net
+adguard.rowdyengeesje.nl
 adguard.ruby.ci
 adg.rueiliu.space
 dns1.ryan-palmer.com
 doh.safesurfer.io
 safeservedns.com
+o.rsaikat.com
 dns.saneaki.com
+dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
+dns.sev.monster
 dns.sheggi.ch
+dns.shimul.me
 adguard.shoupperuser.com
 adguard.shutgaming.net
+adguard.shuting.idv.tw
 signsservers.ru
 dns.silen.org
+dns.skrep.eu
 dns.silentlybren.com
 dns.slinkyman.net
 dns.smartguard.io
+adg.geili.me
 spacedns.org
 dns.startupstack.tech
 dns.stevenz.net
@@ -454,9 +516,12 @@ dns.tesem.dog
 dns.thegoodsource.net
 doh.tiar.app
 doh.tiarap.org
+dns.tipsy.coffee
 tirapan.top
 dns.tls-data.de
+d.toairs.com
 doh.totoro.pub
+dns.apigw.online
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
@@ -472,8 +537,10 @@ doh.viatech.com.tw
 dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
+killads.vpms.xyz
 dns.wahr.top
 dns.wang.art
+wantaquddin.com
 abel.waringer-atg.de
 dns.warpnine.de
 doh-ca.naftalie.net
@@ -482,10 +549,16 @@ dns.wixxm.asia
 yarp.lefolgoc.net
 dns.yatima.tv
 your-dns.run
+yovbak.com
 www.zburger.top
 0ms.dev
+dns.0ooo.icu
+1.0rz.space
+2.0rz.space
 dns.l6.ee
 dns.0x55.net
+family.5ososea.com
+kids.5ososea.com
 dns.52306.org
 dns.9999.sg
 ibuki.cgnat.net

@@ -1,4 +1,4 @@
-#fbbfb9b90045ab9ff7c51b4ffe3f21d31a5b2ced566ea3f79b71b8af1e1763b1
+#a68c356e6c06e0e2b96350acace409ebb8e9a262cfe6f108dfd59e2ab92b6a24
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -30,7 +30,6 @@
 #	eth.link
 #	dns.google
 #	8888.google
-#	hitian.me
 #	horus-team.com
 #	ikarosalpha.xyz
 #	jackyes.ovh
@@ -320,7 +319,6 @@ dns64.dns.google
 dns.guard.io
 blackhole.gugainfo.com.br
 dns.hinet.net
-hitian.me
 horus-team.com
 dns.hostux.net
 dns.hostux.net
@@ -407,7 +405,9 @@ addns1.m-it.ro
 doh.mmmalia.com
 dns.mnet-online.de
 ps1.modr.club
+nue2.moderateinfra.net
 dot.modsh.top
+naganohara-yoimiya.momokko.moe
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -456,7 +456,9 @@ ada.openbld.net
 ric.openbld.net
 ag.apollohct.com
 dns.oszx.co
+dns.ours.luxe
 1a.ns.ozer.im
+5g.o0o.re
 dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
@@ -474,8 +476,6 @@ dns.pragmasec.nl
 dns.psociety.de
 doh.archuser.org
 dns-privacy.puregeni.us
-vpsus3.pzhg.me
-at.pzhg.me
 doh.qis.io
 dns.quad9.net
 dns10.quad9.net
@@ -483,6 +483,7 @@ dns11.quad9.net
 dns12.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
+la.ray0512.win
 dns.reckoningslug.name
 dnspub.restena.lu
 dns.retakecs.com
@@ -509,7 +510,6 @@ dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
 adguard.shutgaming.net
-adguard.shuting.idv.tw
 signsservers.ru
 dns.silen.org
 dns.skrep.eu

@@ -1,4 +1,4 @@
-#a68c356e6c06e0e2b96350acace409ebb8e9a262cfe6f108dfd59e2ab92b6a24
+#b34524db4e92d6e64a91a228fd22c4630ad67be3f74cf1a797ff787221a7a785
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,6 +7,7 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
+#	adfiltro.fun
 #	adfreedns.top
 #	alleesph.online
 #	ayasesayuki.shop
@@ -54,18 +55,17 @@
 #	wikimedia-dns.org
 #	your-dns.run
 #	yovbak.com
-#	0ms.dev
 #
 
 adguard.abd.ong
 vps.abgnetwork.es
 doh.abraservice.xyz
-vn.dns.abpvn.com
 resolver2.absolight.net
 resolver3.absolight.net
 per.adfilter.net
 syd.adfilter.net
 adl.adfilter.net
+adfiltro.fun
 adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
@@ -171,6 +171,7 @@ dns.cynthialabs.net
 odvr.nic.cz
 dns.daemon.za.net
 ns.00dani.me
+filter.das.sch.id
 ns.data.haus
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
@@ -500,11 +501,12 @@ adg.rueiliu.space
 dns1.ryan-palmer.com
 doh.safesurfer.io
 safeservedns.com
-o.rsaikat.com
 dns.saneaki.com
 dns.sarak.as
 dns.sarilouis.com
+dns.scarx.net
 ns1.sc-lezhi.com
+dns.scuola.org
 dns.sev.monster
 dns.sheggi.ch
 dns.shimul.me
@@ -512,6 +514,7 @@ adguard.shoupperuser.com
 adguard.shutgaming.net
 signsservers.ru
 dns.silen.org
+adg.siudzinski.net
 dns.skrep.eu
 dns.silentlybren.com
 dns.sitdns.com
@@ -520,6 +523,7 @@ dns.smartguard.io
 adg.geili.me
 socolov.home.ro
 spacedns.org
+adguard.sparshbajaj.me
 dns.startupstack.tech
 dns.stevenz.net
 adguard.streamlas.fr
@@ -539,7 +543,9 @@ vpn.technicule.info
 dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
+dns.thebuckners.org
 dns.thegoodsource.net
+blocker.thethorsens.org
 doh.tiar.app
 doh.tiarap.org
 dns.tipsy.coffee
@@ -567,19 +573,22 @@ killads.vpms.xyz
 dns.wahr.top
 dns.wang.art
 wantaquddin.com
+dns.wargan.io
 abel.waringer-atg.de
 dns.warpnine.de
+zuhause.webteufel.net
+resov.wehao.net
 doh-ca.naftalie.net
 wikimedia-dns.org
 dns.wixxm.asia
 agh.workfordemo.co.in
+v2.xx3210766.live
 yarp.lefolgoc.net
 dns.yatima.tv
 dns.yingroad.top
 your-dns.run
 yovbak.com
 www.zburger.top
-0ms.dev
 dns.0ooo.icu
 1.0rz.space
 2.0rz.space

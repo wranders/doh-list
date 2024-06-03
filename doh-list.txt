@@ -1,4 +1,4 @@
-#b34524db4e92d6e64a91a228fd22c4630ad67be3f74cf1a797ff787221a7a785
+#40826846d73a9a47a00163096211c8c34a528daf983f6c8a8ba7218a1cea8850
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,6 +9,7 @@
 #
 #	adfiltro.fun
 #	adfreedns.top
+#	albertocognetti.com
 #	alleesph.online
 #	ayasesayuki.shop
 #	b-ii.com
@@ -38,6 +39,7 @@
 #	korzhov.dev
 #	mailkyb.co
 #	masters-of-cloud.de
+#	mikatos.de
 #	nenam.eu
 #	doh.lv
 #	dns8.org
@@ -58,7 +60,6 @@
 #
 
 adguard.abd.ong
-vps.abgnetwork.es
 doh.abraservice.xyz
 resolver2.absolight.net
 resolver3.absolight.net
@@ -74,6 +75,8 @@ testadguardhome.adtidy.net
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
+hk.ahua.ltd
+albertocognetti.com
 alleesph.online
 mailer.amlegion.org
 dns.andrewnw.xyz
@@ -94,7 +97,6 @@ awan.ftp.sh
 ayasesayuki.shop
 dns.a47.me
 dns.baishiyuan.cn
-justhost.bedro.cloud
 dns.belnet.be
 b-ii.com
 dns.bitdefender.net
@@ -107,12 +109,14 @@ doh-ch.blahdns.com
 dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
+dns.bravoc.one
 doh.bt.com
 stratus.bugz.fr
 doh1.b-cdn.net
 doh2.b-cdn.net
 dns.b33.network
 dns.b612.me
+dns.doserver.top
 doh.aaaab3n.moe
 dns.carter.me
 catdns.org
@@ -120,6 +124,7 @@ dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
+dns.dooks.uk
 oraclejp2.chungyu.com
 c.cicitt.ch
 private.canadianshield.cira.ca
@@ -139,6 +144,8 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
+voyage-s01.cloudku.technology
+voyage-s02.cloudku.technology
 adguard.cloudmini.net
 dns.comss.one
 freedns.controld.com
@@ -247,7 +254,6 @@ phx01.dnscry.pt
 pdx01.dnscry.pt
 ped01.dnscry.pt
 slc01.dnscry.pt
-trf01.dnscry.pt
 sjc01.dnscry.pt
 sea01.dnscry.pt
 sin01.dnscry.pt
@@ -299,7 +305,9 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.engineer.web.id
 shield1.eranext.net
+dns.esnube.es
 eth.link
+dns.everdns.tech
 dns.extrawdw.net
 dnsvps.familiamv.net
 dns.fancyorg.at
@@ -318,11 +326,11 @@ dns.google
 dns64.dns.google
 8888.google
 dns.guard.io
-blackhole.gugainfo.com.br
 dns.hinet.net
 horus-team.com
 dns.hostux.net
 dns.hostux.net
+dns.huas.me
 doth.huque.com
 ordns.he.net
 dns.ian.rocks
@@ -343,6 +351,7 @@ jackyes.ovh
 dns.jhangy.us
 dns.jinwoo.dev
 jkdns.me
+ad.johnwick.me
 jp.tiar.app
 jp.tiarap.org
 ad.justincounts.com
@@ -353,7 +362,6 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
-noad.kipp.cool
 adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
@@ -364,7 +372,6 @@ dns.kosan.moe
 dart.kpsn.org
 pdns.krctechnologies.net
 xray.krnl.eu
-dns.skrzypiec.pl
 dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
@@ -372,6 +379,7 @@ agh.kyusang.win
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
+adguard.leadseason.eu
 dns.levonet.sk
 doh.libredns.gr
 doh.libredns.gr
@@ -391,7 +399,6 @@ mailkyb.co
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
-doh.max.net.id
 home.wriedts.de
 doh.mcasviper.de
 adguard.meddy94.de
@@ -399,6 +406,7 @@ testguard.meexx.de
 snoke.meganerd.nl
 ns.mtsoln.com
 testaghome.meshkov.info
+mikatos.de
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 netcup.mismat.ch
@@ -435,6 +443,7 @@ nightlymoon.us.kg
 nightlymoon.us.kg
 doh.niyawe.de
 dns.njal.la
+dns.nj0.de
 resolver.noaddns.com
 pi1.node15.com
 dns1.nordvpn.com
@@ -451,6 +460,7 @@ ns3.cx
 ns3.link
 dns.nydau.fr
 dns.n23.io
+dns.oasg.xyz
 dns.ofdoom.net
 dns.oliviertv.co.za
 ada.openbld.net
@@ -460,6 +470,7 @@ dns.oszx.co
 dns.ours.luxe
 1a.ns.ozer.im
 5g.o0o.re
+dns.pacificmonster.com
 dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
@@ -492,6 +503,7 @@ sky.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
 dns.rin.sh
+dns.rjls.me
 dns.rkjha.com.np
 dns.rbn.gr
 dns.rotunneling.net
@@ -588,6 +600,7 @@ dns.yatima.tv
 dns.yingroad.top
 your-dns.run
 yovbak.com
+dns.yumenashyi.com
 www.zburger.top
 dns.0ooo.icu
 1.0rz.space

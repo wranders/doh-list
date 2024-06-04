@@ -1,4 +1,4 @@
-#40826846d73a9a47a00163096211c8c34a528daf983f6c8a8ba7218a1cea8850
+#4fc938be3812c29c9921f783c8445623299f83e4ba922f5a0af914fd4f30a5af
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -304,7 +304,6 @@ dns.eliv.co.kr
 dns.emiliyan.com
 dns.enzonix.com
 dns.engineer.web.id
-shield1.eranext.net
 dns.esnube.es
 eth.link
 dns.everdns.tech
@@ -336,7 +335,10 @@ ordns.he.net
 dns.ian.rocks
 ihctw.synology.me
 ikarosalpha.xyz
+dns.iki.my.id
+dns.immanuelschaffer.de
 dns1.in-berlin.de
+adblock.indianets.net
 dns.indust.me
 dns.indybanipal.com
 dns.inforlogia.com
@@ -348,6 +350,7 @@ megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 opennic.i2pd.xyz
 jackyes.ovh
+dns.janl.eu
 dns.jhangy.us
 dns.jinwoo.dev
 jkdns.me
@@ -453,6 +456,7 @@ dns2.nordvpn.com
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.npsolution.it
 dns8.org
 n0.eu
 ns3.com
@@ -475,12 +479,16 @@ dns.paesa.es
 dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 paulo.nom.za
+dns.decky.eu
+dns.pccoach.nl
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns1.pietjacobs.be
+doh.plaawan.uk
 kronos.plan9-dns.com
 helios.plan9-dns.com
 pluton.plan9-dns.com
+dns.ple91.uk
 privacy.plumedns.com
 pooblet.co.za
 dns.powerbs.net
@@ -496,6 +504,7 @@ dns12.quad9.net
 adguard.quydang.name.vn
 ns.ral9005.org
 la.ray0512.win
+dns.renardyre.com
 dns.reckoningslug.name
 dnspub.restena.lu
 dns.retakecs.com
@@ -510,6 +519,7 @@ dns.rotunneling.net
 adguard.rowdyengeesje.nl
 adguard.ruby.ci
 adg.rueiliu.space
+doh.runsel.id
 dns1.ryan-palmer.com
 doh.safesurfer.io
 safeservedns.com
@@ -519,6 +529,7 @@ dns.sarilouis.com
 dns.scarx.net
 ns1.sc-lezhi.com
 dns.scuola.org
+adguard.sealyserver.com
 dns.sev.monster
 dns.sheggi.ch
 dns.shimul.me
@@ -556,6 +567,7 @@ dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
+guard.thefather.cloud
 dns.thegoodsource.net
 blocker.thethorsens.org
 doh.tiar.app
@@ -572,6 +584,7 @@ ns.trcnet.fi
 truta.org
 adg.tshost.no
 dns.twnic.tw
+anycast.uncensoreddns.org
 resolver.unstoppable.io
 dns.unx.io
 adfree.usableprivacy.net
@@ -592,7 +605,6 @@ zuhause.webteufel.net
 resov.wehao.net
 doh-ca.naftalie.net
 wikimedia-dns.org
-dns.wixxm.asia
 agh.workfordemo.co.in
 v2.xx3210766.live
 yarp.lefolgoc.net

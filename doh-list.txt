@@ -1,4 +1,4 @@
-#b79cc741652e092ba3085579df9958fb4c334cdfcbdab8d872a72de0d3bb502f
+#4b66f9a0125cdf50dd8044098540ab49fa8f58b416bf623cbfd1d832b5cca2da
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -33,7 +33,6 @@
 #	8888.google
 #	horus-team.com
 #	ikarosalpha.xyz
-#	jackyes.ovh
 #	jkdns.me
 #	korzhov.dev
 #	mailkyb.co
@@ -119,6 +118,7 @@ dns.doserver.top
 doh.aaaab3n.moe
 dns.carter.me
 catdns.org
+dns.cctld.kg
 dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -176,7 +176,6 @@ dns.cretu.xyz
 cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
-dns.daemon.za.net
 ns.00dani.me
 filter.das.sch.id
 ns.data.haus
@@ -236,6 +235,7 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 ist01.dnscry.pt
 jkt01.dnscry.pt
+jnb01.dnscry.pt
 hrk01.dnscry.pt
 los01.dnscry.pt
 las01.dnscry.pt
@@ -281,6 +281,7 @@ vno01.dnscry.pt
 waw02.dnscry.pt
 dnsforge.de
 clean.dnsforge.de
+dns.dnshome.de
 dnslow.me
 dns.pub
 dns.dnswarden.com
@@ -326,6 +327,7 @@ doh.applied-privacy.net
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 doh.futa.gg
+doh.futa.app
 dns.gamban.com
 adguard.gambini.org
 dns.freyja.pw
@@ -357,7 +359,6 @@ aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 opennic.i2pd.xyz
-jackyes.ovh
 dns.janl.eu
 dns.jhangy.us
 dns.jinwoo.dev
@@ -365,6 +366,7 @@ jkdns.me
 ad.johnwick.me
 jp.tiar.app
 jp.tiarap.org
+dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karfamily.net
@@ -400,11 +402,6 @@ lindung.pp.ua
 dns.lista.my.id
 dns.lobbygod.com
 ca.loii.in
-doh.phdns1.lonet.org
-doh.phdns2.lonet.org
-doh.phdns3.lonet.org
-doh.phdns4.lonet.org
-doh.phdns5.lonet.org
 dns1.lothuscorp.com.br
 dns.l337.site
 mailkyb.co
@@ -440,11 +437,11 @@ paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
 dns.narl.app
-dns.neilzone.co.uk
 nenam.eu
 dns1.us.newpangea.de
 dns1.in.newpangea.de
-dns1.pl.newpangea.de
+dns1.au.newpangea.de
+dns1.sg.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -600,7 +597,6 @@ adfree.usableprivacy.net
 doh.valscosmos.com
 tor.vasi.li
 doh.viatech.com.tw
-dns.vinnyp.xyz
 virga.pp.ua
 virga.pp.ua
 dns.wahr.top

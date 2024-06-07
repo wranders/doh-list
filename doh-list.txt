@@ -1,4 +1,4 @@
-#4b66f9a0125cdf50dd8044098540ab49fa8f58b416bf623cbfd1d832b5cca2da
+#928f7c1b925c029335c9963e00bfac0ec7d2ebe258f766a9d1ac683b3ea65882
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -18,11 +18,13 @@
 #	dns.expert
 #	doh.sb
 #	dns0.eu
+#	dnsdoh.art
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
 #	dnswebvsn.com
 #	doh.buzz
+#	doh.li
 #	doh.xyz
 #	3dns.eu
 #	dukun.de
@@ -55,6 +57,7 @@
 #	wikimedia-dns.org
 #	your-dns.run
 #	yovbak.com
+#	zdn.ro
 #
 
 adguard.abd.ong
@@ -118,13 +121,13 @@ dns.doserver.top
 doh.aaaab3n.moe
 dns.carter.me
 catdns.org
-dns.cctld.kg
 dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
 dns.dooks.uk
 oraclejp2.chungyu.com
+dns.ch6se.com
 c.cicitt.ch
 doh.cippapp.com
 private.canadianshield.cira.ca
@@ -279,6 +282,8 @@ zal01.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
+dns1.dnscrypt.ca
+dnsdoh.art
 dnsforge.de
 clean.dnsforge.de
 dns.dnshome.de
@@ -290,6 +295,7 @@ dns.dnswarden.com
 dnswebvsn.com
 dns.doh.best
 doh.buzz
+doh.li
 doh.xyz
 3dns.eu
 ns1.dotls.org
@@ -299,6 +305,7 @@ dukun.de
 dns.dyn1.de
 dns.d96.info
 doh.apad.pro
+doh.eddi.net
 edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
@@ -335,6 +342,7 @@ dns.google
 dns64.dns.google
 8888.google
 dns.guard.io
+dns1.hanahira.dev
 dns.hinet.net
 horus-team.com
 dns.hostux.net
@@ -342,6 +350,7 @@ dns.hostux.net
 dns.huas.me
 doth.huque.com
 ordns.he.net
+dns.hyas.com
 dns.ian.rocks
 ihctw.synology.me
 ikarosalpha.xyz
@@ -512,6 +521,7 @@ ns.ral9005.org
 la.ray0512.win
 dns.renardyre.com
 dns.reckoningslug.name
+dns.repinger.my.id
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -566,7 +576,6 @@ sunnygyl.com
 dns.superstefan.win
 dns.svoi.dev
 dns.switch.ch
-dns.syaifullah.com
 doh.syshero.org
 dns.t53.de
 vpn.technicule.info
@@ -599,6 +608,8 @@ tor.vasi.li
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
+outdoor.v6.army
+dns.wael.name
 dns.wahr.top
 dns.wang.art
 wantaquddin.com
@@ -607,6 +618,7 @@ abel.waringer-atg.de
 dns.warpnine.de
 zuhause.webteufel.net
 resov.wehao.net
+doh-rs.whalebone.io
 doh-ca.naftalie.net
 wikimedia-dns.org
 agh.workfordemo.co.in
@@ -618,11 +630,13 @@ your-dns.run
 yovbak.com
 dns.yumenashyi.com
 www.zburger.top
+zdn.ro
 dns.0ooo.icu
 1.0rz.space
 2.0rz.space
 dns.l6.ee
 dns.0x55.net
+dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
 dns.52306.org

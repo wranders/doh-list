@@ -1,4 +1,4 @@
-#928f7c1b925c029335c9963e00bfac0ec7d2ebe258f766a9d1ac683b3ea65882
+#76d0b2e6ac7894529f31b2e4321e733dff6446d47d1dd8560abb7775c477c840
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -18,10 +18,10 @@
 #	dns.expert
 #	doh.sb
 #	dns0.eu
-#	dnsdoh.art
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
+#	dnssilo.top
 #	dnswebvsn.com
 #	doh.buzz
 #	doh.li
@@ -42,11 +42,6 @@
 #	mikatos.de
 #	nenam.eu
 #	doh.lv
-#	dns8.org
-#	n0.eu
-#	ns3.com
-#	ns3.cx
-#	ns3.link
 #	safeservedns.com
 #	signsservers.ru
 #	spacedns.org
@@ -62,6 +57,7 @@
 
 adguard.abd.ong
 doh.abraservice.xyz
+resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
 per.adfilter.net
@@ -77,9 +73,11 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 hk.ahua.ltd
+doh.airwaynet.cz
 alleesph.online
 mailer.amlegion.org
 doh.amonsul.net
+doh.kel.pe
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
@@ -87,6 +85,7 @@ d.apemlegit.my.id
 dns.hypercute.eu
 dns.applewebkit.dev
 dns.aquilenet.fr
+nsec.arnor.org
 dns.artikel10.org
 dns.asterimoon.com
 dohtrial.att.net
@@ -107,6 +106,7 @@ doh-de.blahdns.com
 doh-sg.blahdns.com
 doh-jp.blahdns.com
 doh-ch.blahdns.com
+us1.blissdns.net
 dns.blokada.org
 adguard.bonis.de
 dns.brahma.world
@@ -117,10 +117,10 @@ doh1.b-cdn.net
 doh2.b-cdn.net
 dns.b33.network
 dns.b612.me
-dns.doserver.top
 doh.aaaab3n.moe
 dns.carter.me
 catdns.org
+dns.cctld.kg
 dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -173,6 +173,7 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 doh.cornes.me
+resolve.corpa.me
 dns.cooluc.com
 dns.cooluc.com
 dns.cretu.xyz
@@ -182,6 +183,7 @@ odvr.nic.cz
 ns.00dani.me
 filter.das.sch.id
 ns.data.haus
+doh.denypradana.com
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
@@ -283,12 +285,12 @@ vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
 dns1.dnscrypt.ca
-dnsdoh.art
 dnsforge.de
 clean.dnsforge.de
 dns.dnshome.de
 dnslow.me
 dns.pub
+dnssilo.top
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
@@ -319,6 +321,7 @@ dns.eliv.co.kr
 dns.emiliyan.com
 dns.enzonix.com
 dns.engineer.web.id
+agh.ero-sayhi.com
 dns.esnube.es
 eth.link
 dns.everdns.tech
@@ -363,6 +366,7 @@ dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
 public.dns.iij.jp
+doh.iucc.ac.il
 dns.cloud.ionutl.ro
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
@@ -428,7 +432,6 @@ mikatos.de
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 netcup.mismat.ch
-addns1.m-it.ro
 doh.mmmalia.com
 dns.mnet-online.de
 ps1.modr.club
@@ -447,10 +450,10 @@ adblock.mydns.network
 family.mydns.network
 dns.narl.app
 nenam.eu
+dns.neowutran.ovh
 dns1.us.newpangea.de
 dns1.in.newpangea.de
 dns1.au.newpangea.de
-dns1.sg.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -459,6 +462,8 @@ doh.nic.lv
 adguard-kartoffel.zernico.de
 nightlymoon.us.kg
 nightlymoon.us.kg
+dns.ningkelle.id
+family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
 dns.nj0.de
@@ -472,11 +477,6 @@ dns.novali.date
 dns.novg.net
 dns.npe.bz
 dns.npsolution.it
-dns8.org
-n0.eu
-ns3.com
-ns3.cx
-ns3.link
 dns.nydau.fr
 dns.n23.io
 dns.oasg.xyz
@@ -605,6 +605,7 @@ dns.unx.io
 adfree.usableprivacy.net
 doh.valscosmos.com
 tor.vasi.li
+dns.velyn.my.id
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
@@ -640,6 +641,7 @@ dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
 dns.52306.org
+doh.978159.xyz
 dns.9999.sg
 ibuki.cgnat.net
 doh-2.seby.io

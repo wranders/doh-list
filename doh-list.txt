@@ -1,4 +1,4 @@
-#76d0b2e6ac7894529f31b2e4321e733dff6446d47d1dd8560abb7775c477c840
+#6b27bb6d5973f33228c4a536520242bd2343e73249a9fde50726aab544eb09c6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -236,7 +236,6 @@ fet01.dnscry.pt
 fjr01.dnscry.pt
 gva01.dnscry.pt
 hel01.dnscry.pt
-hkg01.dnscry.pt
 hkg02.dnscry.pt
 ist01.dnscry.pt
 jkt01.dnscry.pt
@@ -336,6 +335,7 @@ dns01.flm9.net
 doh.applied-privacy.net
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
+doh.funil.de
 doh.futa.gg
 doh.futa.app
 dns.gamban.com
@@ -425,7 +425,6 @@ home.wriedts.de
 doh.mcasviper.de
 adguard.meddy94.de
 testguard.meexx.de
-snoke.meganerd.nl
 ns.mtsoln.com
 testaghome.meshkov.info
 mikatos.de
@@ -517,6 +516,7 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 adguard.quydang.name.vn
+dns.rafn.is
 ns.ral9005.org
 la.ray0512.win
 dns.renardyre.com
@@ -578,6 +578,7 @@ dns.svoi.dev
 dns.switch.ch
 doh.syshero.org
 dns.t53.de
+adguard.tcpu.io
 vpn.technicule.info
 dns.technostriker.com
 dns.telekom.de

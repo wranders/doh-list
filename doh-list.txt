@@ -1,4 +1,4 @@
-#6b27bb6d5973f33228c4a536520242bd2343e73249a9fde50726aab544eb09c6
+#c5b1dbea3c8c018259eed480d705cb3c51d190cb26a2ce1cc3eecae8420375a7
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,6 +15,7 @@
 #	catdns.org
 #	cloudflare-dns.com
 #	cubedns.com
+#	yeralin.net
 #	dns.expert
 #	doh.sb
 #	dns0.eu
@@ -23,6 +24,7 @@
 #	dns.pub
 #	dnssilo.top
 #	dnswebvsn.com
+#	doh.beauty
 #	doh.buzz
 #	doh.li
 #	doh.xyz
@@ -52,6 +54,8 @@
 #	wikimedia-dns.org
 #	your-dns.run
 #	yovbak.com
+#	zakaria.website
+#	princez.uk
 #	zdn.ro
 #
 
@@ -72,7 +76,6 @@ testadguardhome.adtidy.net
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
-hk.ahua.ltd
 doh.airwaynet.cz
 alleesph.online
 mailer.amlegion.org
@@ -181,6 +184,7 @@ cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
 ns.00dani.me
+yeralin.net
 filter.das.sch.id
 ns.data.haus
 doh.denypradana.com
@@ -294,6 +298,7 @@ dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
 dnswebvsn.com
+doh.beauty
 dns.doh.best
 doh.buzz
 doh.li
@@ -344,6 +349,9 @@ dns.freyja.pw
 dns.google
 dns64.dns.google
 8888.google
+nana-is.so-gorgeo.us.kg
+tetty-is.so-gorgeo.us.kg
+luna-is.so-gorgeo.us.kg
 dns.guard.io
 dns1.hanahira.dev
 dns.hinet.net
@@ -371,6 +379,7 @@ dns.cloud.ionutl.ro
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
+yunyun.is.my.waifu.cz
 opennic.i2pd.xyz
 dns.janl.eu
 dns.jhangy.us
@@ -604,7 +613,6 @@ anycast.uncensoreddns.org
 resolver.unstoppable.io
 dns.unx.io
 adfree.usableprivacy.net
-doh.valscosmos.com
 tor.vasi.li
 dns.velyn.my.id
 doh.viatech.com.tw
@@ -631,6 +639,8 @@ dns.yingroad.top
 your-dns.run
 yovbak.com
 dns.yumenashyi.com
+zakaria.website
+princez.uk
 www.zburger.top
 zdn.ro
 dns.0ooo.icu

@@ -1,4 +1,4 @@
-#c5b1dbea3c8c018259eed480d705cb3c51d190cb26a2ce1cc3eecae8420375a7
+#785f7ebc390314f643b14dd8cbd88784862eee9cd9c6b904f383b1bf2225ba59
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,7 +9,6 @@
 #
 #	adfiltro.fun
 #	adfreedns.top
-#	alleesph.online
 #	ayasesayuki.shop
 #	b-ii.com
 #	catdns.org
@@ -22,17 +21,16 @@
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
-#	dnssilo.top
 #	dnswebvsn.com
 #	doh.beauty
 #	doh.buzz
-#	doh.li
 #	doh.xyz
 #	3dns.eu
 #	dukun.de
 #	edgy-dns.com
 #	eliatofani.ovh
 #	eth.link
+#	doh.li
 #	dns.google
 #	8888.google
 #	horus-team.com
@@ -42,7 +40,6 @@
 #	mailkyb.co
 #	masters-of-cloud.de
 #	mikatos.de
-#	nenam.eu
 #	doh.lv
 #	safeservedns.com
 #	signsservers.ru
@@ -77,7 +74,6 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 doh.airwaynet.cz
-alleesph.online
 mailer.amlegion.org
 doh.amonsul.net
 doh.kel.pe
@@ -124,6 +120,7 @@ doh.aaaab3n.moe
 dns.carter.me
 catdns.org
 dns.cctld.kg
+dns.cert.ee
 dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -144,7 +141,6 @@ dns.clanto.cloud
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
-dns.cloud88.com.au
 cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
@@ -180,6 +176,7 @@ resolve.corpa.me
 dns.cooluc.com
 dns.cooluc.com
 dns.cretu.xyz
+dns.csa-rz.de
 cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
@@ -293,7 +290,6 @@ clean.dnsforge.de
 dns.dnshome.de
 dnslow.me
 dns.pub
-dnssilo.top
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
@@ -301,7 +297,6 @@ dnswebvsn.com
 doh.beauty
 dns.doh.best
 doh.buzz
-doh.li
 doh.xyz
 3dns.eu
 ns1.dotls.org
@@ -335,6 +330,7 @@ dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
+doh.li
 doh.ffmuc.net
 dns01.flm9.net
 doh.applied-privacy.net
@@ -398,6 +394,7 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
+adg.khon.dev
 adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
@@ -419,8 +416,11 @@ adguard.leadseason.eu
 dns.levonet.sk
 doh.libredns.gr
 doh.libredns.gr
+ns-doh.licoho.de
 lindung.pp.ua
 lindung.pp.ua
+africadns1.liquidtelecom.net
+africadns2.liquidtelecom.net
 dns.lista.my.id
 dns.lobbygod.com
 ca.loii.in
@@ -446,6 +446,7 @@ ps1.modr.club
 nue2.moderateinfra.net
 dot.modsh.top
 naganohara-yoimiya.momokko.moe
+www.morbitzer.de
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -457,7 +458,6 @@ paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
 dns.narl.app
-nenam.eu
 dns.neowutran.ovh
 dns1.us.newpangea.de
 dns1.in.newpangea.de
@@ -493,9 +493,12 @@ dns.oliviertv.co.za
 ada.openbld.net
 ric.openbld.net
 ag.apollohct.com
+ns1.opennameserver.org
+ns2.opennameserver.org
+ns3.opennameserver.org
+ns4.opennameserver.org
 dns.oszx.co
 dns.ours.luxe
-1a.ns.ozer.im
 5g.o0o.re
 dns.pacificmonster.com
 dns.paesa.es
@@ -516,6 +519,8 @@ privacy.plumedns.com
 pooblet.co.za
 dns.powerbs.net
 dns.pragmasec.nl
+de.dns.privex.io
+nl.dns.privex.io
 dns.psociety.de
 doh.archuser.org
 dns-privacy.puregeni.us
@@ -551,6 +556,7 @@ safeservedns.com
 dns.saneaki.com
 dns.sarak.as
 dns.sarilouis.com
+dns.sec511.com
 dns.scarx.net
 ns1.sc-lezhi.com
 dns.scuola.org
@@ -570,7 +576,6 @@ dns.sitdns.com
 dns.slinkyman.net
 dns.smartguard.io
 adg.geili.me
-socolov.home.ro
 spacedns.org
 adguard.sparshbajaj.me
 dns.startupstack.tech
@@ -613,6 +618,7 @@ anycast.uncensoreddns.org
 resolver.unstoppable.io
 dns.unx.io
 adfree.usableprivacy.net
+dns.utangard.net
 tor.vasi.li
 dns.velyn.my.id
 doh.viatech.com.tw
@@ -626,11 +632,14 @@ wantaquddin.com
 dns.wargan.io
 abel.waringer-atg.de
 dns.warpnine.de
+doh.webnmail.de
 zuhause.webteufel.net
 resov.wehao.net
 doh-rs.whalebone.io
 doh-ca.naftalie.net
 wikimedia-dns.org
+dns-1.wil.cloud
+dns-2.wil.cloud
 agh.workfordemo.co.in
 v2.xx3210766.live
 yarp.lefolgoc.net

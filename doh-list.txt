@@ -1,4 +1,4 @@
-#785f7ebc390314f643b14dd8cbd88784862eee9cd9c6b904f383b1bf2225ba59
+#f67d8064060e73316b77d9de9c7a008c26cb06adb03b4b5e90c4d4c137d0b39b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -74,13 +74,14 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 doh.airwaynet.cz
+atelier.alica.idv.tw
+dns.alidns.com
 mailer.amlegion.org
 doh.amonsul.net
 doh.kel.pe
 dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
-d.apemlegit.my.id
 dns.hypercute.eu
 dns.applewebkit.dev
 dns.aquilenet.fr
@@ -93,6 +94,7 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
+dns.axto.me
 ayasesayuki.shop
 dns.a47.me
 dns.baishiyuan.cn
@@ -107,6 +109,8 @@ doh-jp.blahdns.com
 doh-ch.blahdns.com
 us1.blissdns.net
 dns.blokada.org
+rfree1.blue-shield.at
+rfree2.blue-shield.at
 adguard.bonis.de
 dns.brahma.world
 dns.bravoc.one
@@ -176,19 +180,21 @@ resolve.corpa.me
 dns.cooluc.com
 dns.cooluc.com
 dns.cretu.xyz
+public.deepdns.net
 dns.csa-rz.de
 cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
 ns.00dani.me
 yeralin.net
+adguard.dantynes.cyou
 filter.das.sch.id
 ns.data.haus
 doh.denypradana.com
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
+eka.dilli.dev
 doh.disconnect.app
-www.dnsadguard.co.uk
 dns.digitalsize.net
 dns.expert
 doh.dns.sb
@@ -313,12 +319,9 @@ dns.editechstudio.com
 dns.henek.ovh
 hole.elbschloss.xyz
 dns.electrotm.org
-addns.jpr.space
-dns.unerror.network
 eliatofani.ovh
 dns.eliv.co.kr
 dns.emiliyan.com
-dns.enzonix.com
 dns.engineer.web.id
 agh.ero-sayhi.com
 dns.esnube.es
@@ -334,6 +337,7 @@ doh.li
 doh.ffmuc.net
 dns01.flm9.net
 doh.applied-privacy.net
+adguard.foxcross.de
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 doh.funil.de
@@ -342,6 +346,7 @@ doh.futa.app
 dns.gamban.com
 adguard.gambini.org
 dns.freyja.pw
+adguard.maison.gifino.fr
 dns.google
 dns64.dns.google
 8888.google
@@ -359,13 +364,13 @@ doth.huque.com
 ordns.he.net
 dns.hyas.com
 dns.ian.rocks
+ibksturm.synology.me
 ihctw.synology.me
 ikarosalpha.xyz
 dns.iki.my.id
 dns.immanuelschaffer.de
 dns1.in-berlin.de
 adblock.indianets.net
-dns.indust.me
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
@@ -375,8 +380,9 @@ dns.cloud.ionutl.ro
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
-yunyun.is.my.waifu.cz
 opennic.i2pd.xyz
+www.jabber-germany.de
+adguard.jakinet.id
 dns.janl.eu
 dns.jhangy.us
 dns.jinwoo.dev
@@ -404,6 +410,7 @@ dns.korzhyk.pp.ua
 dns.kosan.moe
 dart.kpsn.org
 pdns.krctechnologies.net
+dns.kritsa0.xyz
 xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
@@ -436,6 +443,7 @@ adguard.meddy94.de
 testguard.meexx.de
 ns.mtsoln.com
 testaghome.meshkov.info
+dns.dallinbryce.com
 mikatos.de
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
@@ -462,6 +470,7 @@ dns.neowutran.ovh
 dns1.us.newpangea.de
 dns1.in.newpangea.de
 dns1.au.newpangea.de
+adguard.netkolik.org
 doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
@@ -477,6 +486,7 @@ dns.njal.la
 dns.nj0.de
 resolver.noaddns.com
 pi1.node15.com
+kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
@@ -535,6 +545,7 @@ ns.ral9005.org
 la.ray0512.win
 dns.renardyre.com
 dns.reckoningslug.name
+adguard.relskor.com
 dns.repinger.my.id
 dnspub.restena.lu
 dns.retakecs.com
@@ -578,6 +589,7 @@ dns.smartguard.io
 adg.geili.me
 spacedns.org
 adguard.sparshbajaj.me
+adguard.srito.com.br
 dns.startupstack.tech
 dns.stevenz.net
 adguard.streamlas.fr
@@ -606,7 +618,6 @@ doh.tiarap.org
 dns.tipsy.coffee
 tirapan.top
 dns.tls-data.de
-dns.apigw.online
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
@@ -661,6 +672,7 @@ dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
 dns.52306.org
+dns.886886886.xyz
 doh.978159.xyz
 dns.9999.sg
 ibuki.cgnat.net

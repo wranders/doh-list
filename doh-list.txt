@@ -1,4 +1,4 @@
-#f67d8064060e73316b77d9de9c7a008c26cb06adb03b4b5e90c4d4c137d0b39b
+#5395ecf951dd936feac84b8bc4d7383bf8ca15ef0293c16c9a30adad4141ed10
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -74,7 +74,6 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 doh.airwaynet.cz
-atelier.alica.idv.tw
 dns.alidns.com
 mailer.amlegion.org
 doh.amonsul.net
@@ -123,7 +122,6 @@ dns.b612.me
 doh.aaaab3n.moe
 dns.carter.me
 catdns.org
-dns.cctld.kg
 dns.cert.ee
 dns.chadeyron.fr
 doh-01.spectrum.com
@@ -141,7 +139,6 @@ dns.circl.lu
 doh.opendns.com
 doh.familyshield.opendns.com
 doh.umbrella.com
-dns.clanto.cloud
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
@@ -223,7 +220,6 @@ ams01.dnscry.pt
 abn01.dnscry.pt
 ath01.dnscry.pt
 atl01.dnscry.pt
-bud01.dnscry.pt
 ord01.dnscry.pt
 kiv01.dnscry.pt
 coe01.dnscry.pt
@@ -246,9 +242,7 @@ hel01.dnscry.pt
 hkg02.dnscry.pt
 ist01.dnscry.pt
 jkt01.dnscry.pt
-jnb01.dnscry.pt
 hrk01.dnscry.pt
-los01.dnscry.pt
 las01.dnscry.pt
 llk01.dnscry.pt
 lim01.dnscry.pt
@@ -286,7 +280,6 @@ tsm01.dnscry.pt
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 yyz01.dnscry.pt
-zal01.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
@@ -326,7 +319,6 @@ dns.engineer.web.id
 agh.ero-sayhi.com
 dns.esnube.es
 eth.link
-dns.everdns.tech
 dns.extrawdw.net
 doh.manish.ltd
 dnsvps.familiamv.net
@@ -347,12 +339,14 @@ dns.gamban.com
 adguard.gambini.org
 dns.freyja.pw
 adguard.maison.gifino.fr
+dns.girino.org
 dns.google
 dns64.dns.google
 8888.google
 nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 luna-is.so-gorgeo.us.kg
+secure-dns.gridlax.com
 dns.guard.io
 dns1.hanahira.dev
 dns.hinet.net
@@ -362,7 +356,6 @@ dns.hostux.net
 dns.huas.me
 doth.huque.com
 ordns.he.net
-dns.hyas.com
 dns.ian.rocks
 ibksturm.synology.me
 ihctw.synology.me
@@ -388,8 +381,6 @@ dns.jhangy.us
 dns.jinwoo.dev
 jkdns.me
 ad.johnwick.me
-jp.tiar.app
-jp.tiarap.org
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
@@ -410,11 +401,11 @@ dns.korzhyk.pp.ua
 dns.kosan.moe
 dart.kpsn.org
 pdns.krctechnologies.net
-dns.kritsa0.xyz
 xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
+dns.kuuhaku.moe
 agh.kyusang.win
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
@@ -454,7 +445,6 @@ ps1.modr.club
 nue2.moderateinfra.net
 dot.modsh.top
 naganohara-yoimiya.momokko.moe
-www.morbitzer.de
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -468,7 +458,6 @@ family.mydns.network
 dns.narl.app
 dns.neowutran.ovh
 dns1.us.newpangea.de
-dns1.in.newpangea.de
 dns1.au.newpangea.de
 adguard.netkolik.org
 doh.luigi.nexific.it
@@ -479,8 +468,6 @@ doh.nic.lv
 adguard-kartoffel.zernico.de
 nightlymoon.us.kg
 nightlymoon.us.kg
-dns.ningkelle.id
-family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
 dns.nj0.de
@@ -495,7 +482,6 @@ dns.novali.date
 dns.novg.net
 dns.npe.bz
 dns.npsolution.it
-dns.nydau.fr
 dns.n23.io
 dns.oasg.xyz
 dns.ofdoom.net
@@ -504,7 +490,6 @@ ada.openbld.net
 ric.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
-ns2.opennameserver.org
 ns3.opennameserver.org
 ns4.opennameserver.org
 dns.oszx.co
@@ -552,6 +537,7 @@ dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
+dns.richoux.me
 dns.rin.sh
 dns.rjls.me
 dns.rkjha.com.np
@@ -570,7 +556,6 @@ dns.sarilouis.com
 dns.sec511.com
 dns.scarx.net
 ns1.sc-lezhi.com
-dns.scuola.org
 adguard.sealyserver.com
 dns.seiffert.me
 dns.sev.monster
@@ -589,7 +574,6 @@ dns.smartguard.io
 adg.geili.me
 spacedns.org
 adguard.sparshbajaj.me
-adguard.srito.com.br
 dns.startupstack.tech
 dns.stevenz.net
 adguard.streamlas.fr
@@ -613,8 +597,6 @@ dns.thebuckners.org
 guard.thefather.cloud
 dns.thegoodsource.net
 blocker.thethorsens.org
-doh.tiar.app
-doh.tiarap.org
 dns.tipsy.coffee
 tirapan.top
 dns.tls-data.de
@@ -635,14 +617,12 @@ dns.velyn.my.id
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
-outdoor.v6.army
 dns.wael.name
 dns.wahr.top
 dns.wang.art
 wantaquddin.com
 dns.wargan.io
 abel.waringer-atg.de
-dns.warpnine.de
 doh.webnmail.de
 zuhause.webteufel.net
 resov.wehao.net

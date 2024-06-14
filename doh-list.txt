@@ -1,4 +1,4 @@
-#5395ecf951dd936feac84b8bc4d7383bf8ca15ef0293c16c9a30adad4141ed10
+#742204289b780c7c3007dfef829e9a7bbbce0fa5efa0d7726069951f43a1d351
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -47,7 +47,6 @@
 #	sunnygyl.com
 #	tirapan.top
 #	truta.org
-#	wantaquddin.com
 #	wikimedia-dns.org
 #	your-dns.run
 #	yovbak.com
@@ -76,7 +75,6 @@ doh.nl.ahadns.net
 doh.airwaynet.cz
 dns.alidns.com
 mailer.amlegion.org
-doh.amonsul.net
 doh.kel.pe
 dns.andrewnw.xyz
 dns.aa.net.uk
@@ -93,7 +91,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
-dns.axto.me
 ayasesayuki.shop
 dns.a47.me
 dns.baishiyuan.cn
@@ -302,7 +299,6 @@ ns1.dotls.org
 server01.dr-adguard.de
 agh.dshubham.xyz
 dukun.de
-dns.dyn1.de
 dns.d96.info
 doh.apad.pro
 doh.eddi.net
@@ -327,7 +323,6 @@ ns0.fdn.fr
 ns1.fdn.fr
 doh.li
 doh.ffmuc.net
-dns01.flm9.net
 doh.applied-privacy.net
 adguard.foxcross.de
 dns.froth.zone
@@ -373,7 +368,6 @@ dns.cloud.ionutl.ro
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
-opennic.i2pd.xyz
 www.jabber-germany.de
 adguard.jakinet.id
 dns.janl.eu
@@ -538,7 +532,6 @@ sky.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
 dns.richoux.me
-dns.rin.sh
 dns.rjls.me
 dns.rkjha.com.np
 dns.rbn.gr
@@ -618,9 +611,7 @@ doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
 dns.wael.name
-dns.wahr.top
 dns.wang.art
-wantaquddin.com
 dns.wargan.io
 abel.waringer-atg.de
 doh.webnmail.de

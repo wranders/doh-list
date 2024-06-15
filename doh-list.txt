@@ -1,4 +1,4 @@
-#742204289b780c7c3007dfef829e9a7bbbce0fa5efa0d7726069951f43a1d351
+#07e9bb02c659e60062f26206022fed9876c744bd54fe396ca2ff9b3f0e38f82f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -146,7 +146,6 @@ family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 voyage-s01.cloudku.technology
 voyage-s02.cloudku.technology
-adguard.cloudmini.net
 dns.comss.one
 freedns.controld.com
 freedns.controld.com
@@ -174,7 +173,6 @@ resolve.corpa.me
 dns.cooluc.com
 dns.cooluc.com
 dns.cretu.xyz
-public.deepdns.net
 dns.csa-rz.de
 cubedns.com
 dns.cynthialabs.net
@@ -274,7 +272,6 @@ tpe01.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
 tsm01.dnscry.pt
-tyo01.dnscry.pt
 tyo02.dnscry.pt
 yyz01.dnscry.pt
 vie01.dnscry.pt
@@ -372,7 +369,6 @@ www.jabber-germany.de
 adguard.jakinet.id
 dns.janl.eu
 dns.jhangy.us
-dns.jinwoo.dev
 jkdns.me
 ad.johnwick.me
 dns.jupitrdns.com
@@ -518,8 +514,6 @@ dns.quad9.net
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
-adguard.quydang.name.vn
-dns.rafn.is
 ns.ral9005.org
 la.ray0512.win
 dns.renardyre.com
@@ -533,14 +527,12 @@ sky.rethinkdns.com
 doh.rezhajul.io
 dns.richoux.me
 dns.rjls.me
-dns.rkjha.com.np
 dns.rbn.gr
 dns.rotunneling.net
 adguard.rowdyengeesje.nl
 adguard.ruby.ci
 adg.rueiliu.space
 doh.runsel.id
-dns1.ryan-palmer.com
 doh.safesurfer.io
 safeservedns.com
 dns.saneaki.com

@@ -1,4 +1,4 @@
-#07e9bb02c659e60062f26206022fed9876c744bd54fe396ca2ff9b3f0e38f82f
+#10a40867989d63db3fc3698fcd3bf72a817e499048a71e9b12b5de9db1da80dc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -56,7 +56,6 @@
 #
 
 adguard.abd.ong
-doh.abraservice.xyz
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
@@ -482,7 +481,6 @@ ag.apollohct.com
 ns1.opennameserver.org
 ns3.opennameserver.org
 ns4.opennameserver.org
-dns.oszx.co
 dns.ours.luxe
 5g.o0o.re
 dns.pacificmonster.com

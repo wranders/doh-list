@@ -1,4 +1,4 @@
-#10a40867989d63db3fc3698fcd3bf72a817e499048a71e9b12b5de9db1da80dc
+#f71f1e66ff50b2d0380a584bba609449a65a9c7b68c5dc202ad6db04ed15ee98
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -71,7 +71,6 @@ testadguardhome.adtidy.net
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
-doh.airwaynet.cz
 dns.alidns.com
 mailer.amlegion.org
 doh.kel.pe
@@ -171,7 +170,6 @@ doh.cornes.me
 resolve.corpa.me
 dns.cooluc.com
 dns.cooluc.com
-dns.cretu.xyz
 dns.csa-rz.de
 cubedns.com
 dns.cynthialabs.net
@@ -481,7 +479,6 @@ ag.apollohct.com
 ns1.opennameserver.org
 ns3.opennameserver.org
 ns4.opennameserver.org
-dns.ours.luxe
 5g.o0o.re
 dns.pacificmonster.com
 dns.paesa.es
@@ -529,7 +526,6 @@ dns.rbn.gr
 dns.rotunneling.net
 adguard.rowdyengeesje.nl
 adguard.ruby.ci
-adg.rueiliu.space
 doh.runsel.id
 doh.safesurfer.io
 safeservedns.com
@@ -593,7 +589,6 @@ dns.twnic.tw
 anycast.uncensoreddns.org
 resolver.unstoppable.io
 dns.unx.io
-adfree.usableprivacy.net
 dns.utangard.net
 tor.vasi.li
 dns.velyn.my.id
@@ -607,7 +602,6 @@ abel.waringer-atg.de
 doh.webnmail.de
 zuhause.webteufel.net
 resov.wehao.net
-doh-rs.whalebone.io
 doh-ca.naftalie.net
 wikimedia-dns.org
 dns-1.wil.cloud

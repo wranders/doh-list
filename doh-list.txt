@@ -1,4 +1,4 @@
-#f71f1e66ff50b2d0380a584bba609449a65a9c7b68c5dc202ad6db04ed15ee98
+#f947219c973c16b17f9527cb058becd0c75c5deb6f69f355a89579e97129e14c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -21,7 +21,6 @@
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
-#	dnswebvsn.com
 #	doh.beauty
 #	doh.buzz
 #	doh.xyz
@@ -36,7 +35,6 @@
 #	horus-team.com
 #	ikarosalpha.xyz
 #	jkdns.me
-#	korzhov.dev
 #	mailkyb.co
 #	masters-of-cloud.de
 #	mikatos.de
@@ -67,14 +65,12 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-testadguardhome.adtidy.net
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 dns.alidns.com
 mailer.amlegion.org
 doh.kel.pe
-dns.andrewnw.xyz
 dns.aa.net.uk
 secure.anudeep.me
 dns.hypercute.eu
@@ -283,7 +279,6 @@ dns.pub
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
-dnswebvsn.com
 doh.beauty
 dns.doh.best
 doh.buzz
@@ -318,7 +313,6 @@ ns1.fdn.fr
 doh.li
 doh.ffmuc.net
 doh.applied-privacy.net
-adguard.foxcross.de
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 doh.funil.de
@@ -383,12 +377,10 @@ adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
 adguard.konikoni428.com
-korzhov.dev
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dart.kpsn.org
 pdns.krctechnologies.net
-xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
@@ -410,7 +402,6 @@ dns.lista.my.id
 dns.lobbygod.com
 ca.loii.in
 dns1.lothuscorp.com.br
-dns.l337.site
 mailkyb.co
 doh.maskab.com
 masters-of-cloud.de
@@ -447,7 +438,6 @@ dns.neowutran.ovh
 dns1.us.newpangea.de
 dns1.au.newpangea.de
 adguard.netkolik.org
-doh.luigi.nexific.it
 dns.nextdns.io
 dns.nhtsky.com
 doh.lv
@@ -487,7 +477,6 @@ doh.gcp.pathofgrace.com
 paulo.nom.za
 dns.decky.eu
 dns.pccoach.nl
-dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns1.pietjacobs.be
 doh.plaawan.uk
@@ -497,7 +486,6 @@ pluton.plan9-dns.com
 dns.ple91.uk
 privacy.plumedns.com
 pooblet.co.za
-dns.powerbs.net
 dns.pragmasec.nl
 de.dns.privex.io
 nl.dns.privex.io
@@ -519,7 +507,6 @@ dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
-doh.rezhajul.io
 dns.richoux.me
 dns.rjls.me
 dns.rbn.gr
@@ -589,13 +576,11 @@ dns.twnic.tw
 anycast.uncensoreddns.org
 resolver.unstoppable.io
 dns.unx.io
-dns.utangard.net
 tor.vasi.li
 dns.velyn.my.id
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
-dns.wael.name
 dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
@@ -621,7 +606,6 @@ zdn.ro
 dns.0ooo.icu
 1.0rz.space
 2.0rz.space
-dns.l6.ee
 dns.0x55.net
 dns.56k.uy
 family.5ososea.com

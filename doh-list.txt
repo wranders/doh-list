@@ -1,4 +1,4 @@
-#f947219c973c16b17f9527cb058becd0c75c5deb6f69f355a89579e97129e14c
+#72a8b7f42d1590c78efff6425cdd34281dee961b771f1e86a5628b4f6f20a986
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -34,6 +34,7 @@
 #	8888.google
 #	horus-team.com
 #	ikarosalpha.xyz
+#	ivnkn.xyz
 #	jkdns.me
 #	mailkyb.co
 #	masters-of-cloud.de
@@ -75,7 +76,6 @@ dns.aa.net.uk
 secure.anudeep.me
 dns.hypercute.eu
 dns.applewebkit.dev
-dns.aquilenet.fr
 nsec.arnor.org
 dns.artikel10.org
 dns.asterimoon.com
@@ -88,6 +88,7 @@ awan.ftp.sh
 ayasesayuki.shop
 dns.a47.me
 dns.baishiyuan.cn
+dns.bebasid.com
 dns.belnet.be
 b-ii.com
 dns.bitdefender.net
@@ -114,13 +115,11 @@ doh.aaaab3n.moe
 dns.carter.me
 catdns.org
 dns.cert.ee
-dns.chadeyron.fr
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
 dns.dooks.uk
 oraclejp2.chungyu.com
-dns.ch6se.com
 c.cicitt.ch
 doh.cippapp.com
 private.canadianshield.cira.ca
@@ -261,7 +260,6 @@ sof01.dnscry.pt
 geg01.dnscry.pt
 sto01.dnscry.pt
 syd01.dnscry.pt
-tpe01.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
 tsm01.dnscry.pt
@@ -346,7 +344,6 @@ ikarosalpha.xyz
 dns.iki.my.id
 dns.immanuelschaffer.de
 dns1.in-berlin.de
-adblock.indianets.net
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
@@ -356,8 +353,8 @@ dns.cloud.ionutl.ro
 aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
+ivnkn.xyz
 www.jabber-germany.de
-adguard.jakinet.id
 dns.janl.eu
 dns.jhangy.us
 jkdns.me
@@ -365,7 +362,6 @@ ad.johnwick.me
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
-dns.karfamily.net
 dns.kawa.tf
 dns.keke125.com
 dns.kerekes.xyz
@@ -575,7 +571,6 @@ adg.tshost.no
 dns.twnic.tw
 anycast.uncensoreddns.org
 resolver.unstoppable.io
-dns.unx.io
 tor.vasi.li
 dns.velyn.my.id
 doh.viatech.com.tw

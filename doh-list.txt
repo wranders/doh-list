@@ -1,4 +1,4 @@
-#72a8b7f42d1590c78efff6425cdd34281dee961b771f1e86a5628b4f6f20a986
+#f985f5a8a3862e06430f95a85564745f7e97ee719b24aee2d9ff28d829e78ef9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,6 +15,7 @@
 #	cloudflare-dns.com
 #	cubedns.com
 #	yeralin.net
+#	delegated-ipfs.dev
 #	dns.expert
 #	doh.sb
 #	dns0.eu
@@ -174,6 +175,7 @@ yeralin.net
 adguard.dantynes.cyou
 filter.das.sch.id
 ns.data.haus
+delegated-ipfs.dev
 doh.denypradana.com
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
@@ -244,7 +246,6 @@ muc01.dnscry.pt
 nyc01.dnscry.pt
 nue01.dnscry.pt
 omr01.dnscry.pt
-ott01.dnscry.pt
 par01.dnscry.pt
 phl01.dnscry.pt
 phx01.dnscry.pt
@@ -472,7 +473,6 @@ dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 paulo.nom.za
 dns.decky.eu
-dns.pccoach.nl
 dns.phillipjberry.net
 dns1.pietjacobs.be
 doh.plaawan.uk
@@ -606,7 +606,6 @@ dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
 dns.52306.org
-dns.886886886.xyz
 doh.978159.xyz
 dns.9999.sg
 ibuki.cgnat.net

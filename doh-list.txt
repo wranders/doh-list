@@ -1,4 +1,4 @@
-#f985f5a8a3862e06430f95a85564745f7e97ee719b24aee2d9ff28d829e78ef9
+#2f77207c1a236d82da49949bdec90ceef6b3ae840baf7dca4ac68dc47323a886
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -37,7 +37,6 @@
 #	ikarosalpha.xyz
 #	ivnkn.xyz
 #	jkdns.me
-#	mailkyb.co
 #	masters-of-cloud.de
 #	mikatos.de
 #	doh.lv
@@ -399,7 +398,6 @@ dns.lista.my.id
 dns.lobbygod.com
 ca.loii.in
 dns1.lothuscorp.com.br
-mailkyb.co
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -498,7 +496,7 @@ la.ray0512.win
 dns.renardyre.com
 dns.reckoningslug.name
 adguard.relskor.com
-dns.repinger.my.id
+dns.repinger.com
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -521,6 +519,7 @@ ns1.sc-lezhi.com
 adguard.sealyserver.com
 dns.seiffert.me
 dns.sev.monster
+dns.shaftinc.fr
 dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
@@ -530,7 +529,6 @@ dns.silen.org
 adg.siudzinski.net
 dns.skrep.eu
 dns.silentlybren.com
-dns.sitdns.com
 dns.slinkyman.net
 dns.smartguard.io
 adg.geili.me

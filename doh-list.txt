@@ -1,4 +1,4 @@
-#2f77207c1a236d82da49949bdec90ceef6b3ae840baf7dca4ac68dc47323a886
+#a2dde1239e4c8a85e4e51766594bffbf4e516d3a8f97266638fa2d30928536c3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -24,6 +24,7 @@
 #	dns.pub
 #	doh.beauty
 #	doh.buzz
+#	doh.pink
 #	doh.xyz
 #	3dns.eu
 #	dukun.de
@@ -280,6 +281,7 @@ dns.dnswarden.com
 doh.beauty
 dns.doh.best
 doh.buzz
+doh.pink
 doh.xyz
 3dns.eu
 ns1.dotls.org
@@ -432,7 +434,6 @@ dns.narl.app
 dns.neowutran.ovh
 dns1.us.newpangea.de
 dns1.au.newpangea.de
-adguard.netkolik.org
 dns.nextdns.io
 dns.nhtsky.com
 doh.lv
@@ -556,7 +557,6 @@ dns.tesem.dog
 dns.thebuckners.org
 guard.thefather.cloud
 dns.thegoodsource.net
-blocker.thethorsens.org
 dns.tipsy.coffee
 tirapan.top
 dns.tls-data.de

@@ -1,4 +1,4 @@
-#a2dde1239e4c8a85e4e51766594bffbf4e516d3a8f97266638fa2d30928536c3
+#36f096a113709be6ef110d6c0381f82dee6cfe9e5e02cfff6254ba04c3f71e64
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -138,8 +138,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-voyage-s01.cloudku.technology
-voyage-s02.cloudku.technology
 dns.comss.one
 freedns.controld.com
 freedns.controld.com
@@ -352,7 +350,6 @@ qlf-doh.inria.fr
 public.dns.iij.jp
 doh.iucc.ac.il
 dns.cloud.ionutl.ro
-aqua.is.my.waifu.cz
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 ivnkn.xyz
@@ -381,7 +378,6 @@ dart.kpsn.org
 pdns.krctechnologies.net
 dns.kugoapps.com
 dns.kukal.cz
-dns.kusoneko.moe
 dns.kuuhaku.moe
 agh.kyusang.win
 doh.lacontrevoie.fr

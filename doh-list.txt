@@ -1,4 +1,4 @@
-#36f096a113709be6ef110d6c0381f82dee6cfe9e5e02cfff6254ba04c3f71e64
+#c9e5a47b9357d740482e146f9667501b1b5809439b715c33588bd0e7ca052a6a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -452,7 +452,6 @@ dns.novg.net
 dns.npe.bz
 dns.npsolution.it
 dns.n23.io
-dns.oasg.xyz
 dns.ofdoom.net
 dns.oliviertv.co.za
 ada.openbld.net

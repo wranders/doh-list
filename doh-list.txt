@@ -1,4 +1,4 @@
-#c9e5a47b9357d740482e146f9667501b1b5809439b715c33588bd0e7ca052a6a
+#1e1ca2170f9086b6a2edcd0e83e042e57172b1952861e04994c25f5246518027
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -303,7 +303,6 @@ agh.ero-sayhi.com
 dns.esnube.es
 eth.link
 dns.extrawdw.net
-doh.manish.ltd
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr

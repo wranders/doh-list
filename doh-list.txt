@@ -1,4 +1,4 @@
-#1e1ca2170f9086b6a2edcd0e83e042e57172b1952861e04994c25f5246518027
+#428ac5fe57e3832352f855ed78ae00b39b8f660a2962a7998ba08ede413b22a1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,6 +9,8 @@
 #
 #	adfiltro.fun
 #	adfreedns.top
+#	aerodrorne.live
+#	aerodrorne.vip
 #	ayasesayuki.shop
 #	b-ii.com
 #	catdns.org
@@ -47,6 +49,7 @@
 #	sunnygyl.com
 #	tirapan.top
 #	truta.org
+#	uni5wap.info
 #	wikimedia-dns.org
 #	your-dns.run
 #	yovbak.com
@@ -67,6 +70,8 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
+aerodrorne.live
+aerodrorne.vip
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
@@ -248,7 +253,6 @@ par01.dnscry.pt
 phl01.dnscry.pt
 phx01.dnscry.pt
 pdx01.dnscry.pt
-ped01.dnscry.pt
 slc01.dnscry.pt
 trf01.dnscry.pt
 sjc01.dnscry.pt
@@ -360,6 +364,7 @@ ad.johnwick.me
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
+dns.kapite.in
 dns.kawa.tf
 dns.keke125.com
 dns.kerekes.xyz
@@ -408,6 +413,7 @@ dns.dallinbryce.com
 mikatos.de
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milftech.xyz
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
@@ -448,12 +454,11 @@ dns2.nordvpn.com
 2.dns.noridev.moe
 dns.novali.date
 dns.novg.net
-dns.npe.bz
 dns.npsolution.it
+dns.numerus.com
 dns.n23.io
 dns.ofdoom.net
 dns.oliviertv.co.za
-ada.openbld.net
 ric.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
@@ -472,7 +477,6 @@ doh.plaawan.uk
 kronos.plan9-dns.com
 helios.plan9-dns.com
 pluton.plan9-dns.com
-dns.ple91.uk
 privacy.plumedns.com
 pooblet.co.za
 dns.pragmasec.nl
@@ -500,7 +504,6 @@ dns.richoux.me
 dns.rjls.me
 dns.rbn.gr
 dns.rotunneling.net
-adguard.rowdyengeesje.nl
 adguard.ruby.ci
 doh.runsel.id
 doh.safesurfer.io
@@ -511,7 +514,6 @@ dns.sarilouis.com
 dns.sec511.com
 dns.scarx.net
 ns1.sc-lezhi.com
-adguard.sealyserver.com
 dns.seiffert.me
 dns.sev.monster
 dns.shaftinc.fr
@@ -563,6 +565,7 @@ adg.tshost.no
 dns.twnic.tw
 anycast.uncensoreddns.org
 resolver.unstoppable.io
+uni5wap.info
 tor.vasi.li
 dns.velyn.my.id
 doh.viatech.com.tw

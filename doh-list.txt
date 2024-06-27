@@ -1,4 +1,4 @@
-#428ac5fe57e3832352f855ed78ae00b39b8f660a2962a7998ba08ede413b22a1
+#2e04e0ae6ba7cdfe74042ef1d4babc6958f62e302b438dcffb459c2d48f9b87d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,7 +9,6 @@
 #
 #	adfiltro.fun
 #	adfreedns.top
-#	aerodrorne.live
 #	aerodrorne.vip
 #	ayasesayuki.shop
 #	b-ii.com
@@ -70,7 +69,6 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-aerodrorne.live
 aerodrorne.vip
 blitz.ahadns.com
 blitz.ahadns.com
@@ -206,7 +204,6 @@ nz01.dns4me.net
 ie01.dns4me.net
 de01.dns4me.net
 jp01.dns4me.net
-adl01.dnscry.pt
 abe01.dnscry.pt
 ams01.dnscry.pt
 abn01.dnscry.pt
@@ -505,8 +502,6 @@ dns.rjls.me
 dns.rbn.gr
 dns.rotunneling.net
 adguard.ruby.ci
-doh.runsel.id
-doh.safesurfer.io
 safeservedns.com
 dns.saneaki.com
 dns.sarak.as
@@ -551,8 +546,6 @@ dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
-guard.thefather.cloud
-dns.thegoodsource.net
 dns.tipsy.coffee
 tirapan.top
 dns.tls-data.de
@@ -597,6 +590,7 @@ dns.0ooo.icu
 1.0rz.space
 2.0rz.space
 dns.0x55.net
+doh.5u3.org
 dns.56k.uy
 family.5ososea.com
 kids.5ososea.com

@@ -1,4 +1,4 @@
-#2e04e0ae6ba7cdfe74042ef1d4babc6958f62e302b438dcffb459c2d48f9b87d
+#cd120a4f6ec5de589e2179846f57f1adf029aab2ac2bdbd18bf6ab3735a2153d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,8 +10,10 @@
 #	adfiltro.fun
 #	adfreedns.top
 #	aerodrorne.vip
+#	atws2425.xyz
 #	ayasesayuki.shop
 #	b-ii.com
+#	btb.dog
 #	catdns.org
 #	cloudflare-dns.com
 #	cubedns.com
@@ -77,6 +79,7 @@ dns.alidns.com
 mailer.amlegion.org
 doh.kel.pe
 dns.aa.net.uk
+antarlangit.my.id
 secure.anudeep.me
 dns.hypercute.eu
 dns.applewebkit.dev
@@ -84,6 +87,7 @@ nsec.arnor.org
 dns.artikel10.org
 dns.asterimoon.com
 dohtrial.att.net
+atws2425.xyz
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -91,12 +95,14 @@ awan.ftp.sh
 awan.ftp.sh
 ayasesayuki.shop
 dns.a47.me
+bahopir188.dnshome.de
 dns.baishiyuan.cn
 dns.bebasid.com
 dns.belnet.be
 b-ii.com
 dns.bitdefender.net
 dns.bitservices.io
+biying.flymlc.com
 doh-fi.blahdns.com
 doh-de.blahdns.com
 doh-sg.blahdns.com
@@ -110,12 +116,15 @@ adguard.bonis.de
 dns.brahma.world
 dns.bravoc.one
 doh.bt.com
+btb.dog
 stratus.bugz.fr
 doh1.b-cdn.net
 doh2.b-cdn.net
+dns.busold.ws
 dns.b33.network
 dns.b612.me
 doh.aaaab3n.moe
+console.carestyle.org
 dns.carter.me
 catdns.org
 dns.cert.ee
@@ -130,6 +139,7 @@ private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
 dns.circl.lu
+m-cm.circumitor.de
 doh.opendns.com
 doh.familyshield.opendns.com
 doh.umbrella.com
@@ -227,7 +237,9 @@ fra01.dnscry.pt
 fet01.dnscry.pt
 fjr01.dnscry.pt
 gva01.dnscry.pt
+han01.dnscry.pt
 hel01.dnscry.pt
+sgn01.dnscry.pt
 hkg02.dnscry.pt
 ist01.dnscry.pt
 jkt01.dnscry.pt
@@ -253,8 +265,9 @@ pdx01.dnscry.pt
 slc01.dnscry.pt
 trf01.dnscry.pt
 sjc01.dnscry.pt
+gru01.dnscry.pt
 sea01.dnscry.pt
-sin01.dnscry.pt
+sin03.dnscry.pt
 sin02.dnscry.pt
 sof01.dnscry.pt
 geg01.dnscry.pt
@@ -264,7 +277,9 @@ tll01.dnscry.pt
 tpa01.dnscry.pt
 tsm01.dnscry.pt
 tyo02.dnscry.pt
+tyo03.dnscry.pt
 yyz01.dnscry.pt
+yvr01.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
@@ -300,6 +315,7 @@ eliatofani.ovh
 dns.eliv.co.kr
 dns.emiliyan.com
 dns.engineer.web.id
+home.enjoymylife.net
 agh.ero-sayhi.com
 dns.esnube.es
 eth.link
@@ -358,6 +374,7 @@ dns.janl.eu
 dns.jhangy.us
 jkdns.me
 ad.johnwick.me
+doh.jtcargokebumen.com
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
@@ -388,7 +405,6 @@ adguard.leadseason.eu
 dns.levonet.sk
 doh.libredns.gr
 doh.libredns.gr
-ns-doh.licoho.de
 lindung.pp.ua
 lindung.pp.ua
 africadns1.liquidtelecom.net
@@ -418,6 +434,7 @@ ps1.modr.club
 nue2.moderateinfra.net
 dot.modsh.top
 naganohara-yoimiya.momokko.moe
+dns.mtoo.vip
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -429,6 +446,50 @@ paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
 dns.narl.app
+ae-fuj-w-p-1.nashkan.net
+ae-fuj-w-p-2.nashkan.net
+ae-fuj-w-p-3.nashkan.net
+at-wie-w-p-1.nashkan.net
+au-syd-w-f-1.nashkan.net
+au-syd-w-p-1.nashkan.net
+de-fra-w-p-1.nashkan.net
+de-fsn-w-f-4.nashkan.net
+de-fsn-w-f-5.nashkan.net
+de-fsn-w-p-1.nashkan.net
+fi-hel-w-f-2.nashkan.net
+fi-hel-w-p-1.nashkan.net
+fr-gra-w-f-1.nashkan.net
+fr-gra-w-p-1.nashkan.net
+gb-cov-w-f-1.nashkan.net
+gb-cov-w-p-1.nashkan.net
+gb-lon-w-f-1.nashkan.net
+gb-lon-w-p-1.nashkan.net
+gb-lon-w-p-2.nashkan.net
+jp-tyo-w-p-1.nashkan.net
+kz-pav-w-p-1.nashkan.net
+nl-dro-w-f-1.nashkan.net
+nl-dro-w-p-1.nashkan.net
+pl-waw-w-f-1.nashkan.net
+pl-waw-w-p-2.nashkan.net
+ro-buc-w-f-1.nashkan.net
+ro-buc-w-p-1.nashkan.net
+ru-mos-w-p-1.nashkan.net
+sg-w-f-1.nashkan.net
+sg-w-f-2.nashkan.net
+sg-w-p-1.nashkan.net
+tr-ist-w-p-2.nashkan.net
+us-chi-w-f-1.nashkan.net
+us-chi-w-p-1.nashkan.net
+us-hil-w-f-1.nashkan.net
+us-hil-w-p-1.nashkan.net
+us-jac-w-f-1.nashkan.net
+us-jac-w-p-1.nashkan.net
+us-kan-w-f-1.nashkan.net
+us-kan-w-p-1.nashkan.net
+us-nyc-w-f-1.nashkan.net
+us-nyc-w-p-1.nashkan.net
+us-saj-w-f-1.nashkan.net
+us-saj-w-p-1.nashkan.net
 dns.neowutran.ovh
 dns1.us.newpangea.de
 dns1.au.newpangea.de
@@ -468,6 +529,7 @@ dns.panszelescik.pl
 doh.gcp.pathofgrace.com
 paulo.nom.za
 dns.decky.eu
+adguard.pggns.de
 dns.phillipjberry.net
 dns1.pietjacobs.be
 doh.plaawan.uk
@@ -507,6 +569,7 @@ dns.saneaki.com
 dns.sarak.as
 dns.sarilouis.com
 dns.sec511.com
+adguard.senthil.us
 dns.scarx.net
 ns1.sc-lezhi.com
 dns.seiffert.me
@@ -530,6 +593,7 @@ dns.startupstack.tech
 dns.stevenz.net
 adguard.streamlas.fr
 muli.stusta.mhn.de
+dns.suhaila.dev
 sukidayo.eu.org
 sundalandia.pp.ua
 sundalandia.pp.ua
@@ -564,6 +628,7 @@ dns.velyn.my.id
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
+bigora2.vuhai.de
 dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
@@ -586,10 +651,13 @@ zakaria.website
 princez.uk
 www.zburger.top
 zdn.ro
+blocker.zebrzydowa110.eu
+dns1.zettawize.xyz
 dns.0ooo.icu
 1.0rz.space
 2.0rz.space
 dns.0x55.net
+dhlifeus-micro1.dns.3456.kr
 doh.5u3.org
 dns.56k.uy
 family.5ososea.com

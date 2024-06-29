@@ -1,4 +1,4 @@
-#cd120a4f6ec5de589e2179846f57f1adf029aab2ac2bdbd18bf6ab3735a2153d
+#32e4d64d4aeda7c07cd4321e5e493460c27b2bf96b977ce24be4268d35889c5c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -26,23 +26,28 @@
 #	dnslow.me
 #	dns.pub
 #	doh.beauty
+#	doh.best
 #	doh.buzz
 #	doh.pink
 #	doh.xyz
 #	3dns.eu
 #	dukun.de
+#	xn--durhre-yxa.de
 #	edgy-dns.com
 #	eliatofani.ovh
 #	eth.link
 #	doh.li
 #	dns.google
 #	8888.google
-#	horus-team.com
 #	ikarosalpha.xyz
 #	ivnkn.xyz
 #	jkdns.me
+#	kostik-66.online
+#	loadlow.me
+#	maherhost.uk
 #	masters-of-cloud.de
 #	mikatos.de
+#	mnrv.trade
 #	doh.lv
 #	safeservedns.com
 #	signsservers.ru
@@ -79,6 +84,7 @@ dns.alidns.com
 mailer.amlegion.org
 doh.kel.pe
 dns.aa.net.uk
+doh.angry.im
 antarlangit.my.id
 secure.anudeep.me
 dns.hypercute.eu
@@ -110,6 +116,7 @@ doh-jp.blahdns.com
 doh-ch.blahdns.com
 us1.blissdns.net
 dns.blokada.org
+doh.linngde.com
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 adguard.bonis.de
@@ -293,7 +300,7 @@ dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
 doh.beauty
-dns.doh.best
+doh.best
 doh.buzz
 doh.pink
 doh.xyz
@@ -302,6 +309,7 @@ ns1.dotls.org
 server01.dr-adguard.de
 agh.dshubham.xyz
 dukun.de
+xn--durhre-yxa.de
 dns.d96.info
 doh.apad.pro
 doh.eddi.net
@@ -320,12 +328,14 @@ agh.ero-sayhi.com
 dns.esnube.es
 eth.link
 dns.extrawdw.net
+dns.faked.org
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
 doh.li
 doh.ffmuc.net
+dns.fizz.studio
 doh.applied-privacy.net
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
@@ -347,7 +357,6 @@ secure-dns.gridlax.com
 dns.guard.io
 dns1.hanahira.dev
 dns.hinet.net
-horus-team.com
 dns.hostux.net
 dns.hostux.net
 dns.huas.me
@@ -360,12 +369,14 @@ ikarosalpha.xyz
 dns.iki.my.id
 dns.immanuelschaffer.de
 dns1.in-berlin.de
+dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
 public.dns.iij.jp
 doh.iucc.ac.il
 dns.cloud.ionutl.ro
+dns.ipoac.nl
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 ivnkn.xyz
@@ -374,7 +385,6 @@ dns.janl.eu
 dns.jhangy.us
 jkdns.me
 ad.johnwick.me
-doh.jtcargokebumen.com
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
@@ -386,12 +396,14 @@ dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
 adg.khon.dev
+doh.kidzonet.io
 adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 dns.kosan.moe
+kostik-66.online
 dart.kpsn.org
 pdns.krctechnologies.net
 dns.kugoapps.com
@@ -401,7 +413,6 @@ agh.kyusang.win
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
-adguard.leadseason.eu
 dns.levonet.sk
 doh.libredns.gr
 doh.libredns.gr
@@ -410,13 +421,16 @@ lindung.pp.ua
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 dns.lista.my.id
+loadlow.me
 dns.lobbygod.com
 ca.loii.in
 dns1.lothuscorp.com.br
+maherhost.uk
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
 home.wriedts.de
+dns.mayx.eu.org
 doh.mcasviper.de
 adguard.meddy94.de
 testguard.meexx.de
@@ -430,6 +444,7 @@ dns.milftech.xyz
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
+mnrv.trade
 ps1.modr.club
 nue2.moderateinfra.net
 dot.modsh.top
@@ -491,10 +506,9 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neowutran.ovh
-dns1.us.newpangea.de
-dns1.au.newpangea.de
 dns.nextdns.io
 dns.nhtsky.com
+dns.nick-slowinski.de
 doh.lv
 doh.nic.lv
 adguard-kartoffel.zernico.de
@@ -515,9 +529,9 @@ dns.novg.net
 dns.npsolution.it
 dns.numerus.com
 dns.n23.io
+dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
-ric.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
 ns3.opennameserver.org
@@ -549,8 +563,12 @@ dns.quad9.net
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
+dns.rabbitdns.org
+security.rabbitdns.org
+family.rabbitdns.org
 ns.ral9005.org
 la.ray0512.win
+dns.redvau.lt
 dns.renardyre.com
 dns.reckoningslug.name
 adguard.relskor.com
@@ -559,7 +577,6 @@ dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
-dns.richoux.me
 dns.rjls.me
 dns.rbn.gr
 dns.rotunneling.net
@@ -581,6 +598,7 @@ adguard.shoupperuser.com
 adguard.shutgaming.net
 signsservers.ru
 dns.silen.org
+dns.sindominio.net
 adg.siudzinski.net
 dns.skrep.eu
 dns.silentlybren.com
@@ -591,6 +609,7 @@ spacedns.org
 adguard.sparshbajaj.me
 dns.startupstack.tech
 dns.stevenz.net
+dns.stirringphoto.com
 adguard.streamlas.fr
 muli.stusta.mhn.de
 dns.suhaila.dev
@@ -610,6 +629,7 @@ dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
+dns.tierradeayala.com
 dns.tipsy.coffee
 tirapan.top
 dns.tls-data.de
@@ -625,21 +645,22 @@ resolver.unstoppable.io
 uni5wap.info
 tor.vasi.li
 dns.velyn.my.id
-doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
+dns.vojtat.cz
+dns.volatile.ovh
 bigora2.vuhai.de
 dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
 doh.webnmail.de
-zuhause.webteufel.net
 resov.wehao.net
 doh-ca.naftalie.net
 wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
 agh.workfordemo.co.in
+dns.w3ctag.org
 v2.xx3210766.live
 yarp.lefolgoc.net
 dns.yatima.tv
@@ -658,6 +679,8 @@ dns.0ooo.icu
 2.0rz.space
 dns.0x55.net
 dhlifeus-micro1.dns.3456.kr
+ns1.4netguides.org
+ns2.4netguides.org
 doh.5u3.org
 dns.56k.uy
 family.5ososea.com

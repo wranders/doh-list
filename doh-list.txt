@@ -1,4 +1,4 @@
-#32e4d64d4aeda7c07cd4321e5e493460c27b2bf96b977ce24be4268d35889c5c
+#3bd411576684e62ef6d748016538ead992c69a075ce6b8ba506f6ca240e6fc79
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -366,7 +366,6 @@ dns.ian.rocks
 ibksturm.synology.me
 ihctw.synology.me
 ikarosalpha.xyz
-dns.iki.my.id
 dns.immanuelschaffer.de
 dns1.in-berlin.de
 dns.inclusioproject.com

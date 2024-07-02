@@ -1,4 +1,4 @@
-#3bd411576684e62ef6d748016538ead992c69a075ce6b8ba506f6ca240e6fc79
+#b3bb90b468d44374faa397f027f91f7ab89563320941dc63591e9336cde82b7d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -318,12 +318,10 @@ dns.edison42.dev
 dns.editechstudio.com
 dns.henek.ovh
 hole.elbschloss.xyz
-dns.electrotm.org
 eliatofani.ovh
 dns.eliv.co.kr
 dns.emiliyan.com
 dns.engineer.web.id
-home.enjoymylife.net
 agh.ero-sayhi.com
 dns.esnube.es
 eth.link

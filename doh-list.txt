@@ -1,4 +1,4 @@
-#b3bb90b468d44374faa397f027f91f7ab89563320941dc63591e9336cde82b7d
+#5947b4dd4086615becec4c782a35a54872b7db64703ee4a92b35db76fd101df3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -13,7 +13,6 @@
 #	atws2425.xyz
 #	ayasesayuki.shop
 #	b-ii.com
-#	btb.dog
 #	catdns.org
 #	cloudflare-dns.com
 #	cubedns.com
@@ -123,12 +122,10 @@ adguard.bonis.de
 dns.brahma.world
 dns.bravoc.one
 doh.bt.com
-btb.dog
 stratus.bugz.fr
 doh1.b-cdn.net
 doh2.b-cdn.net
 dns.busold.ws
-dns.b33.network
 dns.b612.me
 doh.aaaab3n.moe
 console.carestyle.org
@@ -325,6 +322,7 @@ dns.engineer.web.id
 agh.ero-sayhi.com
 dns.esnube.es
 eth.link
+ns1.e-virtus.com
 dns.extrawdw.net
 dns.faked.org
 dnsvps.familiamv.net
@@ -353,7 +351,6 @@ tetty-is.so-gorgeo.us.kg
 luna-is.so-gorgeo.us.kg
 secure-dns.gridlax.com
 dns.guard.io
-dns1.hanahira.dev
 dns.hinet.net
 dns.hostux.net
 dns.hostux.net
@@ -570,6 +567,7 @@ dns.renardyre.com
 dns.reckoningslug.name
 adguard.relskor.com
 dns.repinger.com
+dns.falkenthal.org
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -607,7 +605,6 @@ adguard.sparshbajaj.me
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
-adguard.streamlas.fr
 muli.stusta.mhn.de
 dns.suhaila.dev
 sukidayo.eu.org
@@ -620,7 +617,6 @@ dns.svoi.dev
 dns.switch.ch
 doh.syshero.org
 dns.t53.de
-adguard.tcpu.io
 vpn.technicule.info
 dns.technostriker.com
 dns.telekom.de
@@ -678,7 +674,6 @@ dns.0x55.net
 dhlifeus-micro1.dns.3456.kr
 ns1.4netguides.org
 ns2.4netguides.org
-doh.5u3.org
 dns.56k.uy
 family.5ososea.com
 kids.5ososea.com

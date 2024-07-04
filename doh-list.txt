@@ -1,4 +1,4 @@
-#5947b4dd4086615becec4c782a35a54872b7db64703ee4a92b35db76fd101df3
+#3ca852d8aae10cdd36c3ee012b1778d3629f53d601d33270511d0d31b177ab9d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,6 +10,8 @@
 #	adfiltro.fun
 #	adfreedns.top
 #	aerodrorne.vip
+#	affcdn.net
+#	ahoj.email
 #	atws2425.xyz
 #	ayasesayuki.shop
 #	b-ii.com
@@ -35,6 +37,7 @@
 #	edgy-dns.com
 #	eliatofani.ovh
 #	eth.link
+#	nicsezcheckfbi.gov
 #	doh.li
 #	dns.google
 #	8888.google
@@ -55,6 +58,7 @@
 #	tirapan.top
 #	truta.org
 #	uni5wap.info
+#	vorlif.org
 #	wikimedia-dns.org
 #	your-dns.run
 #	yovbak.com
@@ -76,9 +80,11 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 aerodrorne.vip
+affcdn.net
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
+ahoj.email
 dns.alidns.com
 mailer.amlegion.org
 doh.kel.pe
@@ -121,6 +127,7 @@ rfree2.blue-shield.at
 adguard.bonis.de
 dns.brahma.world
 dns.bravoc.one
+dns.brian-wee.com
 doh.bt.com
 stratus.bugz.fr
 doh1.b-cdn.net
@@ -327,6 +334,7 @@ dns.extrawdw.net
 dns.faked.org
 dnsvps.familiamv.net
 dns.fancyorg.at
+nicsezcheckfbi.gov
 ns0.fdn.fr
 ns1.fdn.fr
 doh.li
@@ -530,6 +538,7 @@ ag.apollohct.com
 ns1.opennameserver.org
 ns3.opennameserver.org
 ns4.opennameserver.org
+dns.ourvau.lt
 5g.o0o.re
 dns.pacificmonster.com
 dns.paesa.es
@@ -642,6 +651,7 @@ virga.pp.ua
 virga.pp.ua
 dns.vojtat.cz
 dns.volatile.ovh
+vorlif.org
 bigora2.vuhai.de
 dns.wang.art
 dns.wargan.io

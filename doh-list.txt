@@ -1,4 +1,4 @@
-#3ca852d8aae10cdd36c3ee012b1778d3629f53d601d33270511d0d31b177ab9d
+#fe8db4f2c331cc20c1cb8e09730a105ad1cf96a51ab6c932578a126ebd5ee492
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -11,10 +11,12 @@
 #	adfreedns.top
 #	aerodrorne.vip
 #	affcdn.net
+#	affsoft.cc
 #	ahoj.email
 #	atws2425.xyz
 #	ayasesayuki.shop
 #	b-ii.com
+#	bth.dance
 #	catdns.org
 #	cloudflare-dns.com
 #	cubedns.com
@@ -81,12 +83,12 @@ family.adguard-dns.com
 unfiltered.adguard-dns.com
 aerodrorne.vip
 affcdn.net
+affsoft.cc
 blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 ahoj.email
 dns.alidns.com
-mailer.amlegion.org
 doh.kel.pe
 dns.aa.net.uk
 doh.angry.im
@@ -120,6 +122,7 @@ doh-sg.blahdns.com
 doh-jp.blahdns.com
 doh-ch.blahdns.com
 us1.blissdns.net
+adguard.blogssl.com
 dns.blokada.org
 doh.linngde.com
 rfree1.blue-shield.at
@@ -129,6 +132,7 @@ dns.brahma.world
 dns.bravoc.one
 dns.brian-wee.com
 doh.bt.com
+bth.dance
 stratus.bugz.fr
 doh1.b-cdn.net
 doh2.b-cdn.net
@@ -188,6 +192,7 @@ doh.cornes.me
 resolve.corpa.me
 dns.cooluc.com
 dns.cooluc.com
+dns.criena.net
 dns.csa-rz.de
 cubedns.com
 dns.cynthialabs.net
@@ -200,6 +205,7 @@ ns.data.haus
 delegated-ipfs.dev
 doh.denypradana.com
 dns.dev-umbrellagov.com
+dns.beardic.cn
 dns.digitale-gesellschaft.ch
 eka.dilli.dev
 doh.disconnect.app
@@ -348,6 +354,7 @@ doh.futa.gg
 doh.futa.app
 dns.gamban.com
 adguard.gambini.org
+dns.gayanalysing.co.uk
 dns.freyja.pw
 adguard.maison.gifino.fr
 dns.girino.org
@@ -359,7 +366,9 @@ tetty-is.so-gorgeo.us.kg
 luna-is.so-gorgeo.us.kg
 secure-dns.gridlax.com
 dns.guard.io
+dns.haka.se
 dns.hinet.net
+dns.lihj.me
 dns.hostux.net
 dns.hostux.net
 dns.huas.me
@@ -385,6 +394,7 @@ ivnkn.xyz
 www.jabber-germany.de
 dns.janl.eu
 dns.jhangy.us
+dns.jichi.io
 jkdns.me
 ad.johnwick.me
 dns.jupitrdns.com
@@ -409,7 +419,6 @@ kostik-66.online
 dart.kpsn.org
 pdns.krctechnologies.net
 dns.kugoapps.com
-dns.kukal.cz
 dns.kuuhaku.moe
 agh.kyusang.win
 doh.lacontrevoie.fr
@@ -434,6 +443,7 @@ dns.mateo.ovh
 home.wriedts.de
 dns.mayx.eu.org
 doh.mcasviper.de
+doh.serverhost.no
 adguard.meddy94.de
 testguard.meexx.de
 ns.mtsoln.com
@@ -462,6 +472,7 @@ freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
+dns.nako.kr
 dns.narl.app
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -492,7 +503,6 @@ ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 ru-mos-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
-sg-w-f-2.nashkan.net
 sg-w-p-1.nashkan.net
 tr-ist-w-p-2.nashkan.net
 us-chi-w-f-1.nashkan.net
@@ -596,6 +606,7 @@ ns1.sc-lezhi.com
 dns.seiffert.me
 dns.sev.monster
 dns.shaftinc.fr
+dns.shareworx.net
 dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
@@ -646,6 +657,7 @@ anycast.uncensoreddns.org
 resolver.unstoppable.io
 uni5wap.info
 tor.vasi.li
+dns.vault81.de
 dns.velyn.my.id
 virga.pp.ua
 virga.pp.ua
@@ -657,6 +669,7 @@ dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
 doh.webnmail.de
+dns.b72.com
 resov.wehao.net
 doh-ca.naftalie.net
 wikimedia-dns.org
@@ -676,6 +689,7 @@ princez.uk
 www.zburger.top
 zdn.ro
 blocker.zebrzydowa110.eu
+dns.zemows.industries
 dns1.zettawize.xyz
 dns.0ooo.icu
 1.0rz.space

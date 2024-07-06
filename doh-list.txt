@@ -1,4 +1,4 @@
-#fe8db4f2c331cc20c1cb8e09730a105ad1cf96a51ab6c932578a126ebd5ee492
+#717ad6c90af9867ea48b3d79d618fd2bc290c78ecb959466629f948bcdcde1f0
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -14,6 +14,7 @@
 #	affsoft.cc
 #	ahoj.email
 #	atws2425.xyz
+#	servis4u.top
 #	ayasesayuki.shop
 #	b-ii.com
 #	bth.dance
@@ -46,6 +47,7 @@
 #	ikarosalpha.xyz
 #	ivnkn.xyz
 #	jkdns.me
+#	kaiwu.xyz
 #	kostik-66.online
 #	loadlow.me
 #	maherhost.uk
@@ -101,6 +103,7 @@ dns.artikel10.org
 dns.asterimoon.com
 dohtrial.att.net
 atws2425.xyz
+servis4u.top
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -147,6 +150,7 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
 dns.dooks.uk
+dns.christerwaren.fi
 oraclejp2.chungyu.com
 c.cicitt.ch
 doh.cippapp.com
@@ -399,6 +403,7 @@ jkdns.me
 ad.johnwick.me
 dns.jupitrdns.com
 ad.justincounts.com
+kaiwu.xyz
 dns.kamilszczepanski.com
 dns.kapite.in
 dns.kawa.tf
@@ -485,7 +490,6 @@ de-fsn-w-f-4.nashkan.net
 de-fsn-w-f-5.nashkan.net
 de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
-fi-hel-w-p-1.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
@@ -501,7 +505,6 @@ pl-waw-w-f-1.nashkan.net
 pl-waw-w-p-2.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
-ru-mos-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
 tr-ist-w-p-2.nashkan.net
@@ -530,7 +533,6 @@ doh.niyawe.de
 dns.njal.la
 dns.nj0.de
 resolver.noaddns.com
-pi1.node15.com
 kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
@@ -539,7 +541,6 @@ dns2.nordvpn.com
 dns.novali.date
 dns.novg.net
 dns.npsolution.it
-dns.numerus.com
 dns.n23.io
 dns.odinpl.com
 dns.ofdoom.net

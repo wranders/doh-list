@@ -1,4 +1,4 @@
-#3e86e597323f5a3ab6e9120663bf882db5d9478d760956eef25987df7fa56178
+#e103758ce89c3b85c8dc68d51a801146ac0a2bee14340772217808e5f51fdbb2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -115,6 +115,7 @@ bahopir188.dnshome.de
 dns.baishiyuan.cn
 dns.bebasid.com
 dns.belnet.be
+dns.benoit.jp.net
 b-ii.com
 dns.bitdefender.net
 dns.bitservices.io
@@ -680,6 +681,7 @@ dns-2.wil.cloud
 agh.workfordemo.co.in
 dns.w3ctag.org
 dns.xiumu.org
+dns.xlion.tw
 v2.xx3210766.live
 yarp.lefolgoc.net
 dns.yatima.tv

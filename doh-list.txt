@@ -1,4 +1,4 @@
-#e103758ce89c3b85c8dc68d51a801146ac0a2bee14340772217808e5f51fdbb2
+#0e3d431e0d9d75dfba6ddd97bfe7b7b6895702c4c88b56b422f4028412c59a06
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -64,6 +64,7 @@
 #	uni5wap.info
 #	vorlif.org
 #	wikimedia-dns.org
+#	x2ox.com
 #	your-dns.run
 #	yovbak.com
 #	zakaria.website
@@ -342,6 +343,7 @@ agh.ero-sayhi.com
 dns.esnube.es
 eth.link
 ns1.e-virtus.com
+doh.excdn.eu.org
 dns.extrawdw.net
 dns.faked.org
 dnsvps.familiamv.net
@@ -354,6 +356,7 @@ doh.ffmuc.net
 dns.fizz.studio
 doh.applied-privacy.net
 dns.froth.zone
+adguard.frutuozo.com.br
 dns.fullaccesstointernet.jp.eu.org
 doh.funil.de
 doh.futa.gg
@@ -556,7 +559,6 @@ dns.ourvau.lt
 dns.pacificmonster.com
 dns.paesa.es
 dns.panszelescik.pl
-doh.gcp.pathofgrace.com
 paulo.nom.za
 dns.decky.eu
 adguard.pggns.de
@@ -585,6 +587,7 @@ family.rabbitdns.org
 ns.ral9005.org
 la.ray0512.win
 dns.redvau.lt
+dns.reitmeier.me
 dns.renardyre.com
 dns.reckoningslug.name
 adguard.relskor.com
@@ -682,7 +685,7 @@ agh.workfordemo.co.in
 dns.w3ctag.org
 dns.xiumu.org
 dns.xlion.tw
-v2.xx3210766.live
+x2ox.com
 yarp.lefolgoc.net
 dns.yatima.tv
 dns.yingroad.top
@@ -703,7 +706,6 @@ dns.0x55.net
 dhlifeus-micro1.dns.3456.kr
 ns1.4netguides.org
 ns2.4netguides.org
-dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
 dns.52306.org

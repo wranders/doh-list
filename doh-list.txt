@@ -1,4 +1,4 @@
-#0e3d431e0d9d75dfba6ddd97bfe7b7b6895702c4c88b56b422f4028412c59a06
+#ee08568e27ebe5f2016f7b45fa594aae4aff6a9574384c30cacc421a59e15166
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -153,6 +153,7 @@ doh-02.spectrum.com
 dns.chenu.ch
 dns.dooks.uk
 dns.christerwaren.fi
+dns.chriswservers.com
 oraclejp2.chungyu.com
 c.cicitt.ch
 doh.cippapp.com
@@ -336,7 +337,7 @@ dns.editechstudio.com
 dns.henek.ovh
 hole.elbschloss.xyz
 eliatofani.ovh
-dns.eliv.co.kr
+dns.eliv.kr
 dns.emiliyan.com
 dns.engineer.web.id
 agh.ero-sayhi.com
@@ -467,7 +468,6 @@ netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
 mnrv.trade
-ps1.modr.club
 nue2.moderateinfra.net
 dot.modsh.top
 naganohara-yoimiya.momokko.moe
@@ -662,6 +662,7 @@ dns.twnic.tw
 anycast.uncensoreddns.org
 resolver.unstoppable.io
 uni5wap.info
+dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
 dns.velyn.my.id

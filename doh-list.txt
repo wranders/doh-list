@@ -1,4 +1,4 @@
-#ee08568e27ebe5f2016f7b45fa594aae4aff6a9574384c30cacc421a59e15166
+#51c9e61de013356387de25c4037ffed053e072fdaa6e36f53fe4c06b8acb6c6f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -55,6 +55,7 @@
 #	mikatos.de
 #	mnrv.trade
 #	doh.lv
+#	pygos.space
 #	safeservedns.com
 #	signsservers.ru
 #	spacedns.org
@@ -355,6 +356,7 @@ ns1.fdn.fr
 doh.li
 doh.ffmuc.net
 dns.fizz.studio
+dns.flightspace.net
 doh.applied-privacy.net
 dns.froth.zone
 adguard.frutuozo.com.br
@@ -526,6 +528,7 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neowutran.ovh
+dns.netvpn.net
 dns.nextdns.io
 dns.nhtsky.com
 dns.nick-slowinski.de
@@ -556,7 +559,6 @@ ns3.opennameserver.org
 ns4.opennameserver.org
 dns.ourvau.lt
 5g.o0o.re
-dns.pacificmonster.com
 dns.paesa.es
 dns.panszelescik.pl
 paulo.nom.za
@@ -576,6 +578,7 @@ nl.dns.privex.io
 dns.psociety.de
 doh.archuser.org
 dns-privacy.puregeni.us
+pygos.space
 doh.qis.io
 dns.quad9.net
 dns10.quad9.net
@@ -644,7 +647,6 @@ dns.switch.ch
 doh.syshero.org
 dns.t53.de
 vpn.technicule.info
-dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org

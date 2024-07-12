@@ -1,4 +1,4 @@
-#51c9e61de013356387de25c4037ffed053e072fdaa6e36f53fe4c06b8acb6c6f
+#913681cf46b5839b0875e83bd2eac7932610248b0b8b04a7919935e42375789b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -21,7 +21,6 @@
 #	catdns.org
 #	cloudflare-dns.com
 #	cubedns.com
-#	yeralin.net
 #	delegated-ipfs.dev
 #	dns.expert
 #	doh.sb
@@ -65,7 +64,6 @@
 #	uni5wap.info
 #	vorlif.org
 #	wikimedia-dns.org
-#	x2ox.com
 #	your-dns.run
 #	yovbak.com
 #	zakaria.website
@@ -162,7 +160,6 @@ private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
 dns.circl.lu
-m-cm.circumitor.de
 doh.opendns.com
 doh.familyshield.opendns.com
 doh.umbrella.com
@@ -206,9 +203,7 @@ cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
 ns.00dani.me
-yeralin.net
 adguard.dantynes.cyou
-filter.das.sch.id
 ns.data.haus
 delegated-ipfs.dev
 doh.denypradana.com
@@ -302,7 +297,6 @@ tll01.dnscry.pt
 tpa01.dnscry.pt
 tsm01.dnscry.pt
 tyo02.dnscry.pt
-tyo03.dnscry.pt
 yyz01.dnscry.pt
 yvr01.dnscry.pt
 vie01.dnscry.pt
@@ -323,8 +317,8 @@ doh.buzz
 doh.pink
 doh.xyz
 3dns.eu
+doh.domreg.lt
 ns1.dotls.org
-server01.dr-adguard.de
 agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de
@@ -548,7 +542,6 @@ dns2.nordvpn.com
 2.dns.noridev.moe
 dns.novali.date
 dns.novg.net
-dns.npsolution.it
 dns.n23.io
 dns.odinpl.com
 dns.ofdoom.net
@@ -688,7 +681,6 @@ agh.workfordemo.co.in
 dns.w3ctag.org
 dns.xiumu.org
 dns.xlion.tw
-x2ox.com
 yarp.lefolgoc.net
 dns.yatima.tv
 dns.yingroad.top
@@ -702,6 +694,7 @@ zdn.ro
 blocker.zebrzydowa110.eu
 dns.zemows.industries
 dns1.zettawize.xyz
+doh.ztbro.com
 dns.0ooo.icu
 1.0rz.space
 2.0rz.space

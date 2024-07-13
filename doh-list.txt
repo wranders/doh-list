@@ -1,4 +1,4 @@
-#913681cf46b5839b0875e83bd2eac7932610248b0b8b04a7919935e42375789b
+#bef0410600ab4e91482d017e43a82687e4eb6f92206807f1e11ffeda8636e740
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -37,6 +37,7 @@
 #	dukun.de
 #	xn--durhre-yxa.de
 #	edgy-dns.com
+#	elarvee.xyz
 #	eliatofani.ovh
 #	eth.link
 #	nicsezcheckfbi.gov
@@ -61,6 +62,7 @@
 #	sunnygyl.com
 #	tirapan.top
 #	truta.org
+#	tsc.gov
 #	uni5wap.info
 #	vorlif.org
 #	wikimedia-dns.org
@@ -90,6 +92,7 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 ahoj.email
+dns.alanpearce.eu
 dns.alidns.com
 doh.kel.pe
 dns.aa.net.uk
@@ -115,7 +118,9 @@ bahopir188.dnshome.de
 dns.baishiyuan.cn
 dns.bebasid.com
 dns.belnet.be
+dns.bmwhocking.com
 dns.benoit.jp.net
+dns.bermeitinger.eu
 b-ii.com
 dns.bitdefender.net
 dns.bitservices.io
@@ -194,7 +199,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 doh.cornes.me
-resolve.corpa.me
 dns.cooluc.com
 dns.cooluc.com
 dns.criena.net
@@ -330,6 +334,7 @@ edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
 dns.henek.ovh
+elarvee.xyz
 hole.elbschloss.xyz
 eliatofani.ovh
 dns.eliv.kr
@@ -452,7 +457,6 @@ dns.mayx.eu.org
 doh.mcasviper.de
 doh.serverhost.no
 adguard.meddy94.de
-testguard.meexx.de
 ns.mtsoln.com
 testaghome.meshkov.info
 dns.dallinbryce.com
@@ -598,7 +602,6 @@ dns.rbn.gr
 dns.rotunneling.net
 adguard.ruby.ci
 safeservedns.com
-dns.saneaki.com
 dns.sarak.as
 dns.sarilouis.com
 dns.sec511.com
@@ -652,6 +655,7 @@ resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
 truta.org
+tsc.gov
 adg.tshost.no
 dns.twnic.tw
 anycast.uncensoreddns.org
@@ -693,7 +697,6 @@ www.zburger.top
 zdn.ro
 blocker.zebrzydowa110.eu
 dns.zemows.industries
-dns1.zettawize.xyz
 doh.ztbro.com
 dns.0ooo.icu
 1.0rz.space

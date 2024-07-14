@@ -1,4 +1,4 @@
-#bef0410600ab4e91482d017e43a82687e4eb6f92206807f1e11ffeda8636e740
+#dd4b75ef303317bae45ee3de1c7d7ff2eb7dbb3e043cfd81bf4207a5f920b6ad
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -16,7 +16,6 @@
 #	atws2425.xyz
 #	servis4u.top
 #	ayasesayuki.shop
-#	b-ii.com
 #	bth.dance
 #	catdns.org
 #	cloudflare-dns.com
@@ -61,6 +60,7 @@
 #	spacedns.org
 #	sunnygyl.com
 #	tirapan.top
+#	tributh.net
 #	truta.org
 #	tsc.gov
 #	uni5wap.info
@@ -114,6 +114,7 @@ awan.ftp.sh
 awan.ftp.sh
 ayasesayuki.shop
 dns.a47.me
+dns.backschues.net
 bahopir188.dnshome.de
 dns.baishiyuan.cn
 dns.bebasid.com
@@ -121,7 +122,6 @@ dns.belnet.be
 dns.bmwhocking.com
 dns.benoit.jp.net
 dns.bermeitinger.eu
-b-ii.com
 dns.bitdefender.net
 dns.bitservices.io
 biying.flymlc.com
@@ -176,6 +176,7 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
+dns.comff.net
 dns.comss.one
 freedns.controld.com
 freedns.controld.com
@@ -385,6 +386,7 @@ dns.hostux.net
 dns.huas.me
 doth.huque.com
 ordns.he.net
+dns.h3z.jp
 dns.ian.rocks
 ibksturm.synology.me
 ihctw.synology.me
@@ -463,7 +465,6 @@ dns.dallinbryce.com
 mikatos.de
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milftech.xyz
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
@@ -608,6 +609,7 @@ dns.sec511.com
 adguard.senthil.us
 dns.scarx.net
 ns1.sc-lezhi.com
+dns.scott-smith.us
 dns.seiffert.me
 dns.sev.monster
 dns.shaftinc.fr
@@ -631,6 +633,7 @@ dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
 muli.stusta.mhn.de
+doh.suche.org
 dns.suhaila.dev
 sukidayo.eu.org
 sundalandia.pp.ua
@@ -650,6 +653,7 @@ dns.tierradeayala.com
 dns.tipsy.coffee
 tirapan.top
 dns.tls-data.de
+tributh.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
@@ -685,6 +689,7 @@ agh.workfordemo.co.in
 dns.w3ctag.org
 dns.xiumu.org
 dns.xlion.tw
+dns.xuming.studio
 yarp.lefolgoc.net
 dns.yatima.tv
 dns.yingroad.top
@@ -698,6 +703,7 @@ zdn.ro
 blocker.zebrzydowa110.eu
 dns.zemows.industries
 doh.ztbro.com
+dns.learningman.top
 dns.0ooo.icu
 1.0rz.space
 2.0rz.space

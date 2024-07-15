@@ -1,4 +1,4 @@
-#dd4b75ef303317bae45ee3de1c7d7ff2eb7dbb3e043cfd81bf4207a5f920b6ad
+#825b2c9cd6611423bb82ef936737a7f38de7bb490cd4553679394f5f28c6df52
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -14,7 +14,6 @@
 #	affsoft.cc
 #	ahoj.email
 #	atws2425.xyz
-#	servis4u.top
 #	ayasesayuki.shop
 #	bth.dance
 #	catdns.org
@@ -53,13 +52,13 @@
 #	masters-of-cloud.de
 #	mikatos.de
 #	mnrv.trade
+#	nekomiya-sama.top
 #	doh.lv
 #	pygos.space
 #	safeservedns.com
 #	signsservers.ru
 #	spacedns.org
 #	sunnygyl.com
-#	tirapan.top
 #	tributh.net
 #	truta.org
 #	tsc.gov
@@ -106,7 +105,6 @@ dns.artikel10.org
 dns.asterimoon.com
 dohtrial.att.net
 atws2425.xyz
-servis4u.top
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -128,7 +126,6 @@ biying.flymlc.com
 doh-fi.blahdns.com
 doh-de.blahdns.com
 doh-sg.blahdns.com
-doh-jp.blahdns.com
 doh-ch.blahdns.com
 us1.blissdns.net
 adguard.blogssl.com
@@ -404,6 +401,7 @@ dns.ipoac.nl
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 ivnkn.xyz
+adguard.izapi4.fr
 www.jabber-germany.de
 dns.janl.eu
 dns.jhangy.us
@@ -526,6 +524,7 @@ us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
+nekomiya-sama.top
 dns.neowutran.ovh
 dns.netvpn.net
 dns.nextdns.io
@@ -538,7 +537,6 @@ nightlymoon.us.kg
 nightlymoon.us.kg
 doh.niyawe.de
 dns.njal.la
-dns.nj0.de
 resolver.noaddns.com
 kiri.nonexiste.net
 dns1.nordvpn.com
@@ -564,7 +562,6 @@ dns.decky.eu
 adguard.pggns.de
 dns.phillipjberry.net
 dns1.pietjacobs.be
-doh.plaawan.uk
 kronos.plan9-dns.com
 helios.plan9-dns.com
 pluton.plan9-dns.com
@@ -635,7 +632,6 @@ dns.stirringphoto.com
 muli.stusta.mhn.de
 doh.suche.org
 dns.suhaila.dev
-sukidayo.eu.org
 sundalandia.pp.ua
 sundalandia.pp.ua
 resolver.sunet.se
@@ -651,7 +647,6 @@ dns.tesem.dog
 dns.thebuckners.org
 dns.tierradeayala.com
 dns.tipsy.coffee
-tirapan.top
 dns.tls-data.de
 tributh.net
 resolv1.trash.net
@@ -690,6 +685,7 @@ dns.w3ctag.org
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
+dns.xusqui.com
 yarp.lefolgoc.net
 dns.yatima.tv
 dns.yingroad.top

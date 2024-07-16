@@ -1,4 +1,4 @@
-#825b2c9cd6611423bb82ef936737a7f38de7bb490cd4553679394f5f28c6df52
+#310f9103aa4b7d5682120e22dc2c9d2a9927d3c1446825ab8980a78f4bcc9a00
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,6 +15,7 @@
 #	ahoj.email
 #	atws2425.xyz
 #	ayasesayuki.shop
+#	bazooki-infra.dev
 #	bth.dance
 #	catdns.org
 #	cloudflare-dns.com
@@ -46,6 +47,7 @@
 #	ivnkn.xyz
 #	jkdns.me
 #	kaiwu.xyz
+#	konpetr6.site
 #	kostik-66.online
 #	loadlow.me
 #	maherhost.uk
@@ -115,6 +117,7 @@ dns.a47.me
 dns.backschues.net
 bahopir188.dnshome.de
 dns.baishiyuan.cn
+bazooki-infra.dev
 dns.bebasid.com
 dns.belnet.be
 dns.bmwhocking.com
@@ -338,6 +341,7 @@ eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
 dns.engineer.web.id
+ad.eren.homes
 agh.ero-sayhi.com
 dns.esnube.es
 eth.link
@@ -425,6 +429,7 @@ adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
 adguard.konikoni428.com
+konpetr6.site
 dns.korzhyk.pp.ua
 dns.kosan.moe
 kostik-66.online

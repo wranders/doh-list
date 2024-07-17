@@ -1,4 +1,4 @@
-#310f9103aa4b7d5682120e22dc2c9d2a9927d3c1446825ab8980a78f4bcc9a00
+#f31f56f9da89cebd4ad9429c9dc11bb4b0f2f595814331e18a98285db6165fc6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -64,6 +64,7 @@
 #	tributh.net
 #	truta.org
 #	tsc.gov
+#	tuskythehusky.tech
 #	uni5wap.info
 #	vorlif.org
 #	wikimedia-dns.org
@@ -72,6 +73,7 @@
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
+#	003153.xyz
 #
 
 adguard.abd.ong
@@ -126,7 +128,6 @@ dns.bermeitinger.eu
 dns.bitdefender.net
 dns.bitservices.io
 biying.flymlc.com
-doh-fi.blahdns.com
 doh-de.blahdns.com
 doh-sg.blahdns.com
 doh-ch.blahdns.com
@@ -144,7 +145,6 @@ doh.bt.com
 bth.dance
 stratus.bugz.fr
 doh1.b-cdn.net
-doh2.b-cdn.net
 dns.busold.ws
 dns.b612.me
 doh.aaaab3n.moe
@@ -212,6 +212,7 @@ adguard.dantynes.cyou
 ns.data.haus
 delegated-ipfs.dev
 doh.denypradana.com
+dns.olpploiopkuyhiopsfrt.info
 dns.dev-umbrellagov.com
 dns.beardic.cn
 dns.digitale-gesellschaft.ch
@@ -371,6 +372,7 @@ dns.gayanalysing.co.uk
 dns.freyja.pw
 adguard.maison.gifino.fr
 dns.girino.org
+agh.gloom.nexus
 dns.google
 dns64.dns.google
 8888.google
@@ -411,6 +413,7 @@ dns.janl.eu
 dns.jhangy.us
 dns.jichi.io
 jkdns.me
+adguard.johanliebert.top
 ad.johnwick.me
 dns.jupitrdns.com
 ad.justincounts.com
@@ -451,7 +454,6 @@ africadns2.liquidtelecom.net
 dns.lista.my.id
 loadlow.me
 dns.lobbygod.com
-ca.loii.in
 dns1.lothuscorp.com.br
 maherhost.uk
 doh.maskab.com
@@ -495,8 +497,6 @@ at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
 au-syd-w-p-1.nashkan.net
 de-fra-w-p-1.nashkan.net
-de-fsn-w-f-4.nashkan.net
-de-fsn-w-f-5.nashkan.net
 de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
 fr-gra-w-f-1.nashkan.net
@@ -661,6 +661,7 @@ ns.trcnet.fi
 truta.org
 tsc.gov
 adg.tshost.no
+tuskythehusky.tech
 dns.twnic.tw
 anycast.uncensoreddns.org
 resolver.unstoppable.io
@@ -676,7 +677,6 @@ dns.volatile.ovh
 vorlif.org
 bigora2.vuhai.de
 dns.wang.art
-dns.wargan.io
 abel.waringer-atg.de
 doh.webnmail.de
 dns.b72.com
@@ -706,9 +706,11 @@ dns.zemows.industries
 doh.ztbro.com
 dns.learningman.top
 dns.0ooo.icu
+dns.0rz.ing
 1.0rz.space
 2.0rz.space
 dns.0x55.net
+003153.xyz
 dhlifeus-micro1.dns.3456.kr
 ns1.4netguides.org
 ns2.4netguides.org

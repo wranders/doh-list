@@ -1,4 +1,4 @@
-#f31f56f9da89cebd4ad9429c9dc11bb4b0f2f595814331e18a98285db6165fc6
+#54048a0e54e7e73d1618b604942b7378f9b160d6a574d85965dbaa069cb57ae3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -16,6 +16,7 @@
 #	atws2425.xyz
 #	ayasesayuki.shop
 #	bazooki-infra.dev
+#	bestwon203.com
 #	bth.dance
 #	catdns.org
 #	cloudflare-dns.com
@@ -36,7 +37,6 @@
 #	dukun.de
 #	xn--durhre-yxa.de
 #	edgy-dns.com
-#	elarvee.xyz
 #	eliatofani.ovh
 #	eth.link
 #	nicsezcheckfbi.gov
@@ -48,10 +48,10 @@
 #	jkdns.me
 #	kaiwu.xyz
 #	konpetr6.site
-#	kostik-66.online
 #	loadlow.me
 #	maherhost.uk
 #	masters-of-cloud.de
+#	mendozasdelivery.com
 #	mikatos.de
 #	mnrv.trade
 #	nekomiya-sama.top
@@ -74,6 +74,7 @@
 #	princez.uk
 #	zdn.ro
 #	003153.xyz
+#	3dcosas.xyz
 #
 
 adguard.abd.ong
@@ -106,6 +107,7 @@ dns.hypercute.eu
 dns.applewebkit.dev
 nsec.arnor.org
 dns.artikel10.org
+dns.aslk685qwda.com
 dns.asterimoon.com
 dohtrial.att.net
 atws2425.xyz
@@ -125,6 +127,7 @@ dns.belnet.be
 dns.bmwhocking.com
 dns.benoit.jp.net
 dns.bermeitinger.eu
+bestwon203.com
 dns.bitdefender.net
 dns.bitservices.io
 biying.flymlc.com
@@ -336,7 +339,6 @@ edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
 dns.henek.ovh
-elarvee.xyz
 hole.elbschloss.xyz
 eliatofani.ovh
 dns.eliv.kr
@@ -346,9 +348,7 @@ ad.eren.homes
 agh.ero-sayhi.com
 dns.esnube.es
 eth.link
-ns1.e-virtus.com
 doh.excdn.eu.org
-dns.extrawdw.net
 dns.faked.org
 dnsvps.familiamv.net
 dns.fancyorg.at
@@ -414,7 +414,6 @@ dns.jhangy.us
 dns.jichi.io
 jkdns.me
 adguard.johanliebert.top
-ad.johnwick.me
 dns.jupitrdns.com
 ad.justincounts.com
 kaiwu.xyz
@@ -426,6 +425,7 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
+dns.keviland.com
 adg.khon.dev
 doh.kidzonet.io
 adguard.avdkishore.dev
@@ -435,7 +435,6 @@ adguard.konikoni428.com
 konpetr6.site
 dns.korzhyk.pp.ua
 dns.kosan.moe
-kostik-66.online
 dart.kpsn.org
 pdns.krctechnologies.net
 dns.kugoapps.com
@@ -464,6 +463,7 @@ dns.mayx.eu.org
 doh.mcasviper.de
 doh.serverhost.no
 adguard.meddy94.de
+mendozasdelivery.com
 ns.mtsoln.com
 testaghome.meshkov.info
 dns.dallinbryce.com
@@ -475,7 +475,6 @@ doh.mmmalia.com
 dns.mnet-online.de
 mnrv.trade
 nue2.moderateinfra.net
-dot.modsh.top
 naganohara-yoimiya.momokko.moe
 dns.mtoo.vip
 dns.mullvad.net
@@ -516,7 +515,6 @@ ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
-tr-ist-w-p-2.nashkan.net
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-hil-w-f-1.nashkan.net
@@ -711,8 +709,8 @@ dns.0rz.ing
 2.0rz.space
 dns.0x55.net
 003153.xyz
+3dcosas.xyz
 dhlifeus-micro1.dns.3456.kr
-ns1.4netguides.org
 ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com

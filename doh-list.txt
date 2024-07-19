@@ -1,4 +1,4 @@
-#54048a0e54e7e73d1618b604942b7378f9b160d6a574d85965dbaa069cb57ae3
+#6687d483ebbf4f78fec3c13476520dc5fcd543b4aa37fb6498e767ef0c5f1768
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -13,7 +13,6 @@
 #	affcdn.net
 #	affsoft.cc
 #	ahoj.email
-#	atws2425.xyz
 #	ayasesayuki.shop
 #	bazooki-infra.dev
 #	bestwon203.com
@@ -56,9 +55,9 @@
 #	mnrv.trade
 #	nekomiya-sama.top
 #	doh.lv
+#	pashagame456.com
 #	pygos.space
 #	safeservedns.com
-#	signsservers.ru
 #	spacedns.org
 #	sunnygyl.com
 #	tributh.net
@@ -75,6 +74,7 @@
 #	zdn.ro
 #	003153.xyz
 #	3dcosas.xyz
+#	351242444.xyz
 #
 
 adguard.abd.ong
@@ -110,7 +110,6 @@ dns.artikel10.org
 dns.aslk685qwda.com
 dns.asterimoon.com
 dohtrial.att.net
-atws2425.xyz
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -133,7 +132,6 @@ dns.bitservices.io
 biying.flymlc.com
 doh-de.blahdns.com
 doh-sg.blahdns.com
-doh-ch.blahdns.com
 us1.blissdns.net
 adguard.blogssl.com
 dns.blokada.org
@@ -161,7 +159,6 @@ dns.chenu.ch
 dns.dooks.uk
 dns.christerwaren.fi
 dns.chriswservers.com
-oraclejp2.chungyu.com
 c.cicitt.ch
 doh.cippapp.com
 private.canadianshield.cira.ca
@@ -410,6 +407,7 @@ ivnkn.xyz
 adguard.izapi4.fr
 www.jabber-germany.de
 dns.janl.eu
+doh.javi.lat
 dns.jhangy.us
 dns.jichi.io
 jkdns.me
@@ -420,7 +418,6 @@ kaiwu.xyz
 dns.kamilszczepanski.com
 dns.kapite.in
 dns.kawa.tf
-dns.keke125.com
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -436,7 +433,6 @@ konpetr6.site
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dart.kpsn.org
-pdns.krctechnologies.net
 dns.kugoapps.com
 dns.kuuhaku.moe
 agh.kyusang.win
@@ -540,7 +536,6 @@ nightlymoon.us.kg
 nightlymoon.us.kg
 doh.niyawe.de
 dns.njal.la
-resolver.noaddns.com
 kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
@@ -560,6 +555,7 @@ dns.ourvau.lt
 5g.o0o.re
 dns.paesa.es
 dns.panszelescik.pl
+pashagame456.com
 paulo.nom.za
 dns.decky.eu
 adguard.pggns.de
@@ -618,7 +614,6 @@ dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
 adguard.shutgaming.net
-signsservers.ru
 dns.silen.org
 dns.sindominio.net
 adg.siudzinski.net
@@ -705,12 +700,12 @@ doh.ztbro.com
 dns.learningman.top
 dns.0ooo.icu
 dns.0rz.ing
-1.0rz.space
 2.0rz.space
 dns.0x55.net
 003153.xyz
 3dcosas.xyz
 dhlifeus-micro1.dns.3456.kr
+351242444.xyz
 ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com

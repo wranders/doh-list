@@ -1,4 +1,4 @@
-#6687d483ebbf4f78fec3c13476520dc5fcd543b4aa37fb6498e767ef0c5f1768
+#dcbb91c7d7e2794cac4d4ff09f5b677f103f5010952c018e4fbe7e2f389dbb52
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -19,6 +19,7 @@
 #	bth.dance
 #	catdns.org
 #	cloudflare-dns.com
+#	contentwritingservice.tech
 #	cubedns.com
 #	delegated-ipfs.dev
 #	dns.expert
@@ -53,10 +54,10 @@
 #	mendozasdelivery.com
 #	mikatos.de
 #	mnrv.trade
+#	my-private-cdn.com
 #	nekomiya-sama.top
 #	doh.lv
 #	pashagame456.com
-#	pygos.space
 #	safeservedns.com
 #	spacedns.org
 #	sunnygyl.com
@@ -64,7 +65,6 @@
 #	truta.org
 #	tsc.gov
 #	tuskythehusky.tech
-#	uni5wap.info
 #	vorlif.org
 #	wikimedia-dns.org
 #	your-dns.run
@@ -110,7 +110,6 @@ dns.artikel10.org
 dns.aslk685qwda.com
 dns.asterimoon.com
 dohtrial.att.net
-secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
@@ -178,6 +177,7 @@ family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns.comff.net
 dns.comss.one
+contentwritingservice.tech
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -210,6 +210,7 @@ odvr.nic.cz
 ns.00dani.me
 adguard.dantynes.cyou
 ns.data.haus
+dns.ddasdka678asdsa.com
 delegated-ipfs.dev
 doh.denypradana.com
 dns.olpploiopkuyhiopsfrt.info
@@ -245,6 +246,7 @@ ams01.dnscry.pt
 abn01.dnscry.pt
 ath01.dnscry.pt
 atl01.dnscry.pt
+bts01.dnscry.pt
 ord01.dnscry.pt
 kiv01.dnscry.pt
 coe01.dnscry.pt
@@ -379,6 +381,7 @@ luna-is.so-gorgeo.us.kg
 secure-dns.gridlax.com
 dns.guard.io
 dns.haka.se
+adguard.hartley.cloud
 dns.hinet.net
 dns.lihj.me
 dns.hostux.net
@@ -391,7 +394,9 @@ dns.ian.rocks
 ibksturm.synology.me
 ihctw.synology.me
 ikarosalpha.xyz
+dns.ikataruto.com
 dns.immanuelschaffer.de
+doh.immerda.ch
 dns1.in-berlin.de
 dns.inclusioproject.com
 dns.indybanipal.com
@@ -405,7 +410,6 @@ megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 ivnkn.xyz
 adguard.izapi4.fr
-www.jabber-germany.de
 dns.janl.eu
 doh.javi.lat
 dns.jhangy.us
@@ -483,6 +487,7 @@ freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
+my-private-cdn.com
 dns.nako.kr
 dns.narl.app
 ae-fuj-w-p-1.nashkan.net
@@ -567,12 +572,12 @@ pluton.plan9-dns.com
 privacy.plumedns.com
 pooblet.co.za
 dns.pragmasec.nl
+dns.princex.net
 de.dns.privex.io
 nl.dns.privex.io
 dns.psociety.de
 doh.archuser.org
 dns-privacy.puregeni.us
-pygos.space
 doh.qis.io
 dns.quad9.net
 dns10.quad9.net
@@ -658,7 +663,6 @@ tuskythehusky.tech
 dns.twnic.tw
 anycast.uncensoreddns.org
 resolver.unstoppable.io
-uni5wap.info
 dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de

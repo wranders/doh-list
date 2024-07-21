@@ -1,4 +1,4 @@
-#dcbb91c7d7e2794cac4d4ff09f5b677f103f5010952c018e4fbe7e2f389dbb52
+#ed349dbca7c951836457b7adb65e9647c1e98d43c98845c1e230339cfff29c20
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -18,6 +18,7 @@
 #	bestwon203.com
 #	bth.dance
 #	catdns.org
+#	cfdjb.org
 #	cloudflare-dns.com
 #	contentwritingservice.tech
 #	cubedns.com
@@ -101,7 +102,6 @@ dns.alidns.com
 doh.kel.pe
 dns.aa.net.uk
 doh.angry.im
-antarlangit.my.id
 secure.anudeep.me
 dns.hypercute.eu
 dns.applewebkit.dev
@@ -152,6 +152,7 @@ console.carestyle.org
 dns.carter.me
 catdns.org
 dns.cert.ee
+cfdjb.org
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch

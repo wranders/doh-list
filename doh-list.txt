@@ -1,4 +1,4 @@
-#ed349dbca7c951836457b7adb65e9647c1e98d43c98845c1e230339cfff29c20
+#4f18dd05ce5cbfdfeca83b982e7934158d689d434b0145c2cff2568925375d79
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -74,6 +74,7 @@
 #	princez.uk
 #	zdn.ro
 #	003153.xyz
+#	123000123.xyz
 #	3dcosas.xyz
 #	351242444.xyz
 #
@@ -385,8 +386,6 @@ dns.haka.se
 adguard.hartley.cloud
 dns.hinet.net
 dns.lihj.me
-dns.hostux.net
-dns.hostux.net
 dns.huas.me
 doth.huque.com
 ordns.he.net
@@ -555,7 +554,6 @@ dns.ofdoom.net
 dns.oliviertv.co.za
 ag.apollohct.com
 ns1.opennameserver.org
-ns3.opennameserver.org
 ns4.opennameserver.org
 dns.ourvau.lt
 5g.o0o.re
@@ -588,7 +586,6 @@ dns.rabbitdns.org
 security.rabbitdns.org
 family.rabbitdns.org
 ns.ral9005.org
-la.ray0512.win
 dns.redvau.lt
 dns.reitmeier.me
 dns.renardyre.com
@@ -671,7 +668,6 @@ dns.velyn.my.id
 virga.pp.ua
 virga.pp.ua
 dns.vojtat.cz
-dns.volatile.ovh
 vorlif.org
 bigora2.vuhai.de
 dns.wang.art
@@ -708,6 +704,7 @@ dns.0rz.ing
 2.0rz.space
 dns.0x55.net
 003153.xyz
+123000123.xyz
 3dcosas.xyz
 dhlifeus-micro1.dns.3456.kr
 351242444.xyz

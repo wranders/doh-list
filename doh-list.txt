@@ -1,4 +1,4 @@
-#4f18dd05ce5cbfdfeca83b982e7934158d689d434b0145c2cff2568925375d79
+#c0a3973055701df384b57c96ac459b0fa7c155ffa440c93138ec0660cd40fc63
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,6 +39,7 @@
 #	xn--durhre-yxa.de
 #	edgy-dns.com
 #	eliatofani.ovh
+#	skydragoness.com
 #	eth.link
 #	nicsezcheckfbi.gov
 #	doh.li
@@ -53,7 +54,6 @@
 #	maherhost.uk
 #	masters-of-cloud.de
 #	mendozasdelivery.com
-#	mikatos.de
 #	mnrv.trade
 #	my-private-cdn.com
 #	nekomiya-sama.top
@@ -348,6 +348,7 @@ dns.engineer.web.id
 ad.eren.homes
 agh.ero-sayhi.com
 dns.esnube.es
+skydragoness.com
 eth.link
 doh.excdn.eu.org
 dns.faked.org
@@ -380,7 +381,6 @@ dns64.dns.google
 nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 luna-is.so-gorgeo.us.kg
-secure-dns.gridlax.com
 dns.guard.io
 dns.haka.se
 adguard.hartley.cloud
@@ -411,7 +411,6 @@ darkness.is.my.waifu.cz
 ivnkn.xyz
 adguard.izapi4.fr
 dns.janl.eu
-doh.javi.lat
 dns.jhangy.us
 dns.jichi.io
 jkdns.me
@@ -460,14 +459,12 @@ masters-of-cloud.de
 dns.mateo.ovh
 home.wriedts.de
 dns.mayx.eu.org
-doh.mcasviper.de
 doh.serverhost.no
 adguard.meddy94.de
 mendozasdelivery.com
 ns.mtsoln.com
 testaghome.meshkov.info
 dns.dallinbryce.com
-mikatos.de
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 netcup.mismat.ch
@@ -551,6 +548,7 @@ dns.novg.net
 dns.n23.io
 dns.odinpl.com
 dns.ofdoom.net
+dns.olgui.net
 dns.oliviertv.co.za
 ag.apollohct.com
 ns1.opennameserver.org
@@ -673,6 +671,7 @@ bigora2.vuhai.de
 dns.wang.art
 abel.waringer-atg.de
 doh.webnmail.de
+dns.webpotato.nl
 dns.b72.com
 resov.wehao.net
 doh-ca.naftalie.net
@@ -701,7 +700,6 @@ doh.ztbro.com
 dns.learningman.top
 dns.0ooo.icu
 dns.0rz.ing
-2.0rz.space
 dns.0x55.net
 003153.xyz
 123000123.xyz

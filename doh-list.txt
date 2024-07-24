@@ -1,4 +1,4 @@
-#c0a3973055701df384b57c96ac459b0fa7c155ffa440c93138ec0660cd40fc63
+#6344374c9a21dd2c1264448fabd97bf1d6037483c6f58cc500d5a270f83f89a6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -20,7 +20,6 @@
 #	catdns.org
 #	cfdjb.org
 #	cloudflare-dns.com
-#	contentwritingservice.tech
 #	cubedns.com
 #	delegated-ipfs.dev
 #	dns.expert
@@ -32,7 +31,6 @@
 #	doh.beauty
 #	doh.best
 #	doh.buzz
-#	doh.pink
 #	doh.xyz
 #	3dns.eu
 #	dukun.de
@@ -43,28 +41,30 @@
 #	eth.link
 #	nicsezcheckfbi.gov
 #	doh.li
+#	ghilmanaji.xyz
 #	dns.google
 #	8888.google
 #	ikarosalpha.xyz
 #	ivnkn.xyz
 #	jkdns.me
 #	kaiwu.xyz
-#	konpetr6.site
 #	loadlow.me
+#	lukscasino-929-tr.xyz
+#	lukscasino-479-tr.xyz
+#	lukscasino-542-tr.xyz
 #	maherhost.uk
 #	masters-of-cloud.de
 #	mendozasdelivery.com
 #	mnrv.trade
 #	my-private-cdn.com
-#	nekomiya-sama.top
 #	doh.lv
 #	pashagame456.com
 #	safeservedns.com
 #	spacedns.org
 #	sunnygyl.com
+#	tecdrive.site
 #	tributh.net
 #	truta.org
-#	tsc.gov
 #	tuskythehusky.tech
 #	vorlif.org
 #	wikimedia-dns.org
@@ -79,7 +79,6 @@
 #	351242444.xyz
 #
 
-adguard.abd.ong
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
@@ -165,7 +164,6 @@ doh.cippapp.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
-dns.circl.lu
 doh.opendns.com
 doh.familyshield.opendns.com
 doh.umbrella.com
@@ -179,7 +177,6 @@ family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns.comff.net
 dns.comss.one
-contentwritingservice.tech
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -324,7 +321,6 @@ dns.dnswarden.com
 doh.beauty
 doh.best
 doh.buzz
-doh.pink
 doh.xyz
 3dns.eu
 doh.domreg.lt
@@ -372,6 +368,7 @@ dns.gamban.com
 adguard.gambini.org
 dns.gayanalysing.co.uk
 dns.freyja.pw
+ghilmanaji.xyz
 adguard.maison.gifino.fr
 dns.girino.org
 agh.gloom.nexus
@@ -391,7 +388,6 @@ doth.huque.com
 ordns.he.net
 dns.h3z.jp
 dns.ian.rocks
-ibksturm.synology.me
 ihctw.synology.me
 ikarosalpha.xyz
 dns.ikataruto.com
@@ -432,7 +428,6 @@ adguard.avdkishore.dev
 dns.koala.us.to
 doh.kooman.org
 adguard.konikoni428.com
-konpetr6.site
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dart.kpsn.org
@@ -453,6 +448,9 @@ dns.lista.my.id
 loadlow.me
 dns.lobbygod.com
 dns1.lothuscorp.com.br
+lukscasino-929-tr.xyz
+lukscasino-479-tr.xyz
+lukscasino-542-tr.xyz
 maherhost.uk
 doh.maskab.com
 masters-of-cloud.de
@@ -525,7 +523,6 @@ us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
-nekomiya-sama.top
 dns.neowutran.ovh
 dns.netvpn.net
 dns.nextdns.io
@@ -588,7 +585,6 @@ dns.redvau.lt
 dns.reitmeier.me
 dns.renardyre.com
 dns.reckoningslug.name
-adguard.relskor.com
 dns.repinger.com
 dns.falkenthal.org
 dnspub.restena.lu
@@ -617,7 +613,6 @@ adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
 dns.sindominio.net
-adg.siudzinski.net
 dns.skrep.eu
 dns.silentlybren.com
 dns.slinkyman.net
@@ -640,6 +635,7 @@ dns.svoi.dev
 dns.switch.ch
 doh.syshero.org
 dns.t53.de
+tecdrive.site
 vpn.technicule.info
 dns.telekom.de
 dns.tesem.dog
@@ -653,7 +649,6 @@ resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
 truta.org
-tsc.gov
 adg.tshost.no
 tuskythehusky.tech
 dns.twnic.tw

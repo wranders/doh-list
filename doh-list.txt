@@ -1,4 +1,4 @@
-#6344374c9a21dd2c1264448fabd97bf1d6037483c6f58cc500d5a270f83f89a6
+#50d83021746895f1932eb91a1fcfb4d22bedd805ddc0d7bb0e36574f60843539
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -13,7 +13,6 @@
 #	affcdn.net
 #	affsoft.cc
 #	ahoj.email
-#	ayasesayuki.shop
 #	bazooki-infra.dev
 #	bestwon203.com
 #	bth.dance
@@ -107,14 +106,12 @@ dns.hypercute.eu
 dns.applewebkit.dev
 nsec.arnor.org
 dns.artikel10.org
-dns.aslk685qwda.com
 dns.asterimoon.com
 dohtrial.att.net
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
-ayasesayuki.shop
 dns.a47.me
 dns.backschues.net
 bahopir188.dnshome.de
@@ -206,10 +203,10 @@ dns.csa-rz.de
 cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
+get-resolution-ok-cdn.dahi.icu
 ns.00dani.me
 adguard.dantynes.cyou
 ns.data.haus
-dns.ddasdka678asdsa.com
 delegated-ipfs.dev
 doh.denypradana.com
 dns.olpploiopkuyhiopsfrt.info
@@ -388,7 +385,6 @@ doth.huque.com
 ordns.he.net
 dns.h3z.jp
 dns.ian.rocks
-ihctw.synology.me
 ikarosalpha.xyz
 dns.ikataruto.com
 dns.immanuelschaffer.de

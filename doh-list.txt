@@ -1,4 +1,4 @@
-#50d83021746895f1932eb91a1fcfb4d22bedd805ddc0d7bb0e36574f60843539
+#1bb5067be38dd65d17359c69d87504f3360e70bab73f0f4ad416c1085bb58efd
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -55,7 +55,6 @@
 #	masters-of-cloud.de
 #	mendozasdelivery.com
 #	mnrv.trade
-#	my-private-cdn.com
 #	doh.lv
 #	pashagame456.com
 #	safeservedns.com
@@ -115,7 +114,6 @@ awan.ftp.sh
 dns.a47.me
 dns.backschues.net
 bahopir188.dnshome.de
-dns.baishiyuan.cn
 bazooki-infra.dev
 dns.bebasid.com
 dns.belnet.be
@@ -137,7 +135,6 @@ rfree2.blue-shield.at
 adguard.bonis.de
 dns.brahma.world
 dns.bravoc.one
-dns.brian-wee.com
 doh.bt.com
 bth.dance
 stratus.bugz.fr
@@ -338,7 +335,6 @@ eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
 dns.engineer.web.id
-ad.eren.homes
 agh.ero-sayhi.com
 dns.esnube.es
 skydragoness.com
@@ -478,7 +474,6 @@ freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
-my-private-cdn.com
 dns.nako.kr
 dns.narl.app
 ae-fuj-w-p-1.nashkan.net
@@ -659,12 +654,10 @@ virga.pp.ua
 dns.vojtat.cz
 vorlif.org
 bigora2.vuhai.de
-dns.wang.art
 abel.waringer-atg.de
 doh.webnmail.de
 dns.webpotato.nl
 dns.b72.com
-resov.wehao.net
 doh-ca.naftalie.net
 wikimedia-dns.org
 dns-1.wil.cloud

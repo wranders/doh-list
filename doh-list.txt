@@ -1,4 +1,4 @@
-#1bb5067be38dd65d17359c69d87504f3360e70bab73f0f4ad416c1085bb58efd
+#da87fae99502e8a50004ea14916a23a2ce13fd46aab73a5615de25035af66b95
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -125,7 +125,6 @@ dns.bitdefender.net
 dns.bitservices.io
 biying.flymlc.com
 doh-de.blahdns.com
-doh-sg.blahdns.com
 us1.blissdns.net
 adguard.blogssl.com
 dns.blokada.org
@@ -145,6 +144,7 @@ doh.aaaab3n.moe
 console.carestyle.org
 dns.carter.me
 catdns.org
+dns.cctld.kg
 dns.cert.ee
 cfdjb.org
 doh-01.spectrum.com
@@ -210,7 +210,6 @@ dns.olpploiopkuyhiopsfrt.info
 dns.dev-umbrellagov.com
 dns.beardic.cn
 dns.digitale-gesellschaft.ch
-eka.dilli.dev
 doh.disconnect.app
 dns.digitalsize.net
 dns.expert
@@ -335,7 +334,6 @@ eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
 dns.engineer.web.id
-agh.ero-sayhi.com
 dns.esnube.es
 skydragoness.com
 eth.link
@@ -350,6 +348,8 @@ doh.li
 doh.ffmuc.net
 dns.fizz.studio
 dns.flightspace.net
+dns.flymc.cc
+dns.pari.network
 doh.applied-privacy.net
 dns.froth.zone
 adguard.frutuozo.com.br
@@ -393,7 +393,6 @@ qlf-doh.inria.fr
 public.dns.iij.jp
 doh.iucc.ac.il
 dns.cloud.ionutl.ro
-dns.ipoac.nl
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 ivnkn.xyz
@@ -599,7 +598,6 @@ dns.sev.monster
 dns.shaftinc.fr
 dns.shareworx.net
 dns.sheggi.ch
-dns.shimul.me
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org

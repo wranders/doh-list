@@ -1,4 +1,4 @@
-#da87fae99502e8a50004ea14916a23a2ce13fd46aab73a5615de25035af66b95
+#7d6154c13297b8ec77306135e1f76b2b5fa849fd9da9ff310ab9ea76f4f7e408
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -379,7 +379,6 @@ dns.lihj.me
 dns.huas.me
 doth.huque.com
 ordns.he.net
-dns.h3z.jp
 dns.ian.rocks
 ikarosalpha.xyz
 dns.ikataruto.com
@@ -480,7 +479,6 @@ ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
-au-syd-w-p-1.nashkan.net
 de-fra-w-p-1.nashkan.net
 de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
@@ -535,7 +533,6 @@ dns.novg.net
 dns.n23.io
 dns.odinpl.com
 dns.ofdoom.net
-dns.olgui.net
 dns.oliviertv.co.za
 ag.apollohct.com
 ns1.opennameserver.org

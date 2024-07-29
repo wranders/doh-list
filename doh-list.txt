@@ -1,4 +1,4 @@
-#7d6154c13297b8ec77306135e1f76b2b5fa849fd9da9ff310ab9ea76f4f7e408
+#84278d5b9c08588dd20155377220a5a8662cf82ec3c9cf473a8e23101dd8cccb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -538,7 +538,6 @@ ag.apollohct.com
 ns1.opennameserver.org
 ns4.opennameserver.org
 dns.ourvau.lt
-5g.o0o.re
 dns.paesa.es
 dns.panszelescik.pl
 pashagame456.com
@@ -653,7 +652,6 @@ abel.waringer-atg.de
 doh.webnmail.de
 dns.webpotato.nl
 dns.b72.com
-doh-ca.naftalie.net
 wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
@@ -673,7 +671,6 @@ zakaria.website
 princez.uk
 www.zburger.top
 zdn.ro
-blocker.zebrzydowa110.eu
 dns.zemows.industries
 doh.ztbro.com
 dns.learningman.top

@@ -1,4 +1,4 @@
-#84278d5b9c08588dd20155377220a5a8662cf82ec3c9cf473a8e23101dd8cccb
+#c68ec8ac12b0ed77b6bb7cadc8974542b486a2d468be320751a60bc794e049d1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -672,7 +672,6 @@ princez.uk
 www.zburger.top
 zdn.ro
 dns.zemows.industries
-doh.ztbro.com
 dns.learningman.top
 dns.0ooo.icu
 dns.0rz.ing

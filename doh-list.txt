@@ -1,4 +1,4 @@
-#c68ec8ac12b0ed77b6bb7cadc8974542b486a2d468be320751a60bc794e049d1
+#eb09788a19c73da645169df248458cbd4bcdf1d28c4fa9787b5efc51487a9e84
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,13 +15,11 @@
 #	ahoj.email
 #	bazooki-infra.dev
 #	bestwon203.com
-#	bth.dance
 #	catdns.org
 #	cfdjb.org
 #	cloudflare-dns.com
 #	cubedns.com
 #	delegated-ipfs.dev
-#	dns.expert
 #	doh.sb
 #	dns0.eu
 #	dnsforge.de
@@ -112,7 +110,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 dns.a47.me
-dns.backschues.net
 bahopir188.dnshome.de
 bazooki-infra.dev
 dns.bebasid.com
@@ -135,7 +132,6 @@ adguard.bonis.de
 dns.brahma.world
 dns.bravoc.one
 doh.bt.com
-bth.dance
 stratus.bugz.fr
 doh1.b-cdn.net
 dns.busold.ws
@@ -212,7 +208,6 @@ dns.beardic.cn
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns.digitalsize.net
-dns.expert
 doh.dns.sb
 doh.sb
 open.dns0.eu

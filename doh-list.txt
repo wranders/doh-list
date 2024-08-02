@@ -1,4 +1,4 @@
-#eb09788a19c73da645169df248458cbd4bcdf1d28c4fa9787b5efc51487a9e84
+#e3b92d6c977f12963ebc214044abd5cbe51b0961d5f89dec34120350464e555c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -66,6 +66,7 @@
 #	wikimedia-dns.org
 #	your-dns.run
 #	yovbak.com
+#	yuvelirtut.website
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
@@ -73,6 +74,7 @@
 #	123000123.xyz
 #	3dcosas.xyz
 #	351242444.xyz
+#	89433332.xyz
 #
 
 resolver1.absolight.net
@@ -86,6 +88,7 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
+dns.aeiou.pp.ua
 aerodrorne.vip
 affcdn.net
 affsoft.cc
@@ -366,6 +369,7 @@ dns64.dns.google
 nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 luna-is.so-gorgeo.us.kg
+performance.gosami.xyz
 dns.guard.io
 dns.haka.se
 adguard.hartley.cloud
@@ -436,6 +440,7 @@ dns1.lothuscorp.com.br
 lukscasino-929-tr.xyz
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+doh.magunyan.com
 maherhost.uk
 doh.maskab.com
 masters-of-cloud.de
@@ -488,8 +493,6 @@ jp-tyo-w-p-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
-pl-waw-w-f-1.nashkan.net
-pl-waw-w-p-2.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
@@ -582,9 +585,9 @@ dns.sarilouis.com
 dns.sec511.com
 adguard.senthil.us
 dns.scarx.net
-ns1.sc-lezhi.com
 dns.scott-smith.us
 dns.seiffert.me
+dns1.server.my.id
 dns.sev.monster
 dns.shaftinc.fr
 dns.shareworx.net
@@ -600,6 +603,7 @@ dns.smartguard.io
 adg.geili.me
 spacedns.org
 adguard.sparshbajaj.me
+adguard.speeddemon.co.za
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
@@ -661,7 +665,9 @@ dns.yatima.tv
 dns.yingroad.top
 your-dns.run
 yovbak.com
+dns.yrrev.com
 dns.yumenashyi.com
+yuvelirtut.website
 zakaria.website
 princez.uk
 www.zburger.top
@@ -680,6 +686,7 @@ ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com
 dns.52306.org
+89433332.xyz
 doh.978159.xyz
 dns.9999.sg
 ibuki.cgnat.net

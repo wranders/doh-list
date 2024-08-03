@@ -1,4 +1,4 @@
-#e3b92d6c977f12963ebc214044abd5cbe51b0961d5f89dec34120350464e555c
+#257da11638958e0fea0263cb8d95b7d1a2f9d1fe36d00041b392f94c4787625a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -19,7 +19,6 @@
 #	cfdjb.org
 #	cloudflare-dns.com
 #	cubedns.com
-#	delegated-ipfs.dev
 #	doh.sb
 #	dns0.eu
 #	dnsforge.de
@@ -49,7 +48,6 @@
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
 #	lukscasino-542-tr.xyz
-#	maherhost.uk
 #	masters-of-cloud.de
 #	mendozasdelivery.com
 #	mnrv.trade
@@ -203,7 +201,6 @@ get-resolution-ok-cdn.dahi.icu
 ns.00dani.me
 adguard.dantynes.cyou
 ns.data.haus
-delegated-ipfs.dev
 doh.denypradana.com
 dns.olpploiopkuyhiopsfrt.info
 dns.dev-umbrellagov.com
@@ -436,12 +433,10 @@ africadns2.liquidtelecom.net
 dns.lista.my.id
 loadlow.me
 dns.lobbygod.com
-dns1.lothuscorp.com.br
 lukscasino-929-tr.xyz
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 doh.magunyan.com
-maherhost.uk
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh

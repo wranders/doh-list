@@ -1,4 +1,4 @@
-#257da11638958e0fea0263cb8d95b7d1a2f9d1fe36d00041b392f94c4787625a
+#b4d5095c936fabcc1dfdeefe4e1c6291131b94e50a419c2a45ddbea85db7b715
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -19,6 +19,7 @@
 #	cfdjb.org
 #	cloudflare-dns.com
 #	cubedns.com
+#	deep-henchman-excuse.cfd
 #	doh.sb
 #	dns0.eu
 #	dnsforge.de
@@ -50,6 +51,7 @@
 #	lukscasino-542-tr.xyz
 #	masters-of-cloud.de
 #	mendozasdelivery.com
+#	mikezhang.xyz
 #	mnrv.trade
 #	doh.lv
 #	pashagame456.com
@@ -201,6 +203,7 @@ get-resolution-ok-cdn.dahi.icu
 ns.00dani.me
 adguard.dantynes.cyou
 ns.data.haus
+deep-henchman-excuse.cfd
 doh.denypradana.com
 dns.olpploiopkuyhiopsfrt.info
 dns.dev-umbrellagov.com
@@ -387,7 +390,6 @@ dns.inforlogia.com
 qlf-doh.inria.fr
 public.dns.iij.jp
 doh.iucc.ac.il
-dns.cloud.ionutl.ro
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 ivnkn.xyz
@@ -449,6 +451,7 @@ ns.mtsoln.com
 testaghome.meshkov.info
 dns.dallinbryce.com
 dns.mikeliu.org
+mikezhang.xyz
 dns.mikrotikrumahan.my.id
 netcup.mismat.ch
 doh.mmmalia.com

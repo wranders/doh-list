@@ -1,4 +1,4 @@
-#b4d5095c936fabcc1dfdeefe4e1c6291131b94e50a419c2a45ddbea85db7b715
+#7b3e04b20aefa13129fb622c04d08a7062e0f55f4a732a8999fbac300584b317
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -664,7 +664,6 @@ dns.yingroad.top
 your-dns.run
 yovbak.com
 dns.yrrev.com
-dns.yumenashyi.com
 yuvelirtut.website
 zakaria.website
 princez.uk

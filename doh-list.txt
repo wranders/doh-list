@@ -1,4 +1,4 @@
-#7b3e04b20aefa13129fb622c04d08a7062e0f55f4a732a8999fbac300584b317
+#e43f7fcddb35784c50cb6e23993a59d999baace6bb54e62d51a2ebea9011abe4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -96,7 +96,6 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 ahoj.email
-dns.alanpearce.eu
 dns.alidns.com
 doh.kel.pe
 dns.aa.net.uk
@@ -450,7 +449,6 @@ mendozasdelivery.com
 ns.mtsoln.com
 testaghome.meshkov.info
 dns.dallinbryce.com
-dns.mikeliu.org
 mikezhang.xyz
 dns.mikrotikrumahan.my.id
 netcup.mismat.ch
@@ -677,7 +675,6 @@ dns.0x55.net
 003153.xyz
 123000123.xyz
 3dcosas.xyz
-dhlifeus-micro1.dns.3456.kr
 351242444.xyz
 ns2.4netguides.org
 family.5ososea.com

@@ -1,4 +1,4 @@
-#8d27833eb47f1e1a80412f711e570e2aa9e17f91fbc0e26c7ada20737aeebb0c
+#3bd228690d288c0376ec14fc46735e78b92d13935cf681da7e866a77878795fd
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -96,7 +96,9 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 ahoj.email
+adguard.ajinga.net
 dns.alidns.com
+adguard.alu.dog
 doh.kel.pe
 dns.aa.net.uk
 doh.angry.im
@@ -411,12 +413,10 @@ adg.khon.dev
 doh.kidzonet.io
 adguard.avdkishore.dev
 dns.koala.us.to
-doh.kooman.org
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dart.kpsn.org
-dns.kugoapps.com
 dns.kuuhaku.moe
 agh.kyusang.win
 doh.lacontrevoie.fr

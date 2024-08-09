@@ -1,4 +1,4 @@
-#3bd228690d288c0376ec14fc46735e78b92d13935cf681da7e866a77878795fd
+#4c9ea38f0c59332ee06e407e0bda2e24cded28678800e688edd67571d4b612a6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -332,7 +332,6 @@ eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
 dns.engineer.web.id
-dns.esnube.es
 skydragoness.com
 eth.link
 doh.excdn.eu.org
@@ -598,7 +597,6 @@ dns.smartguard.io
 adg.geili.me
 spacedns.org
 adguard.sparshbajaj.me
-adguard.speeddemon.co.za
 squidmall.vip
 dns.startupstack.tech
 dns.stevenz.net

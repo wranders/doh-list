@@ -1,4 +1,4 @@
-#4c9ea38f0c59332ee06e407e0bda2e24cded28678800e688edd67571d4b612a6
+#c15ce590ac3f77f30d581ef0283085cda00a246900d47499d79207bcdf565b6d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -40,7 +40,6 @@
 #	dns.google
 #	8888.google
 #	ikarosalpha.xyz
-#	ivnkn.xyz
 #	jkdns.me
 #	kaiwu.xyz
 #	linkdiscord.xyz
@@ -200,7 +199,6 @@ dns.csa-rz.de
 cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
-get-resolution-ok-cdn.dahi.icu
 ns.00dani.me
 adguard.dantynes.cyou
 ns.data.haus
@@ -390,7 +388,6 @@ public.dns.iij.jp
 doh.iucc.ac.il
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
-ivnkn.xyz
 adguard.izapi4.fr
 dns.janl.eu
 dns.jhangy.us
@@ -583,7 +580,6 @@ dns.scott-smith.us
 dns.seiffert.me
 dns1.server.my.id
 dns.sev.monster
-dns.shaftinc.fr
 dns.shareworx.net
 dns.sheggi.ch
 adguard.shoupperuser.com
@@ -612,7 +608,6 @@ dns.superstefan.win
 dns.svoi.dev
 dns.switch.ch
 doh.syshero.org
-dns.s0ra.asia
 dns.t53.de
 tecdrive.site
 vpn.technicule.info

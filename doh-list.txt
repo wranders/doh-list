@@ -1,4 +1,4 @@
-#c15ce590ac3f77f30d581ef0283085cda00a246900d47499d79207bcdf565b6d
+#b92f4498570f5fe70d3ce42d773b4024a932695c127966255e30f734f5535369
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -31,7 +31,6 @@
 #	3dns.eu
 #	dukun.de
 #	xn--durhre-yxa.de
-#	edgy-dns.com
 #	eliatofani.ovh
 #	skydragoness.com
 #	eth.link
@@ -118,7 +117,6 @@ bazooki-infra.dev
 dns.bebasid.com
 dns.belnet.be
 dns.bmwhocking.com
-dns.benoit.jp.net
 dns.bermeitinger.eu
 bestwon203.com
 dns.bitdefender.net
@@ -321,7 +319,6 @@ dns.d96.info
 adguard.easez.net
 doh.apad.pro
 doh.eddi.net
-edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
 dns.henek.ovh
@@ -427,6 +424,7 @@ linkdiscord.xyz
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 dns.lista.my.id
+dns.listo.click
 loadlow.me
 dns.lobbygod.com
 lukscasino-929-tr.xyz
@@ -544,6 +542,7 @@ dns.pragmasec.nl
 dns.princex.net
 de.dns.privex.io
 nl.dns.privex.io
+dns.propheci.xyz
 dns.psociety.de
 doh.archuser.org
 dns-privacy.puregeni.us
@@ -624,6 +623,7 @@ resolv3.trash.net
 ns.trcnet.fi
 truta.org
 adg.tshost.no
+dns.tsknf.net
 tuskythehusky.tech
 dns.twnic.tw
 anycast.uncensoreddns.org

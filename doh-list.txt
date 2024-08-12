@@ -1,4 +1,4 @@
-#b92f4498570f5fe70d3ce42d773b4024a932695c127966255e30f734f5535369
+#5368bdd8514e6e46952e187620a609bf85cbe645287fc8b3330d074767d9a910
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -57,6 +57,7 @@
 #	squidmall.vip
 #	sunnygyl.com
 #	tecdrive.site
+#	timedns.net
 #	tributh.net
 #	truta.org
 #	tuskythehusky.tech
@@ -319,6 +320,7 @@ dns.d96.info
 adguard.easez.net
 doh.apad.pro
 doh.eddi.net
+dns.edgeburnmedia.com
 dns.edison42.dev
 dns.editechstudio.com
 dns.henek.ovh
@@ -430,7 +432,6 @@ dns.lobbygod.com
 lukscasino-929-tr.xyz
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
-doh.magunyan.com
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -526,6 +527,7 @@ ns1.opennameserver.org
 ns4.opennameserver.org
 dns.ourvau.lt
 dns.paesa.es
+adguard.pangerl.it
 dns.panszelescik.pl
 pashagame456.com
 paulo.nom.za
@@ -567,7 +569,6 @@ sky.rethinkdns.com
 sky.rethinkdns.com
 dns.rjls.me
 dns.rbn.gr
-dns.rotunneling.net
 adguard.ruby.ci
 safeservedns.com
 dns.sarak.as
@@ -614,6 +615,7 @@ dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
 dns.tierradeayala.com
+timedns.net
 dns.tipsy.coffee
 dns.tls-data.de
 tributh.net
@@ -623,7 +625,6 @@ resolv3.trash.net
 ns.trcnet.fi
 truta.org
 adg.tshost.no
-dns.tsknf.net
 tuskythehusky.tech
 dns.twnic.tw
 anycast.uncensoreddns.org
@@ -661,6 +662,7 @@ princez.uk
 www.zburger.top
 zdn.ro
 dns.zemows.industries
+dns.zui.lol
 dns.learningman.top
 dns.0ooo.icu
 dns.0rz.ing

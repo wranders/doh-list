@@ -1,4 +1,4 @@
-#5368bdd8514e6e46952e187620a609bf85cbe645287fc8b3330d074767d9a910
+#677344952572601d26426fe232acd13928067b673420222c145178e2d007ac66
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -345,7 +345,6 @@ dns.flightspace.net
 dns.flymc.cc
 dns.pari.network
 doh.applied-privacy.net
-dns.froth.zone
 adguard.frutuozo.com.br
 dns.fullaccesstointernet.jp.eu.org
 doh.funil.de

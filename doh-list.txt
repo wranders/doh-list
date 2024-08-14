@@ -1,4 +1,4 @@
-#677344952572601d26426fe232acd13928067b673420222c145178e2d007ac66
+#99aeb85e294f8ff517bf2cb483dc01a50aace8ae250e5778b066892635a2ea0a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -566,7 +566,6 @@ dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
-dns.rjls.me
 dns.rbn.gr
 adguard.ruby.ci
 safeservedns.com

@@ -1,4 +1,4 @@
-#99aeb85e294f8ff517bf2cb483dc01a50aace8ae250e5778b066892635a2ea0a
+#c292fc16ddd94edebc5fc283906a63c9ce2c066d66d407cdff1f40a645b6d848
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,7 +15,6 @@
 #	ahoj.email
 #	bazooki-infra.dev
 #	bestwon203.com
-#	catdns.org
 #	cfdjb.org
 #	cloudflare-dns.com
 #	cubedns.com
@@ -141,7 +140,6 @@ dns.b612.me
 doh.aaaab3n.moe
 console.carestyle.org
 dns.carter.me
-catdns.org
 dns.cctld.kg
 dns.cert.ee
 cfdjb.org
@@ -378,6 +376,7 @@ dns.ikataruto.com
 dns.immanuelschaffer.de
 doh.immerda.ch
 dns1.in-berlin.de
+dns2.in-berlin.de
 dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
@@ -386,7 +385,6 @@ public.dns.iij.jp
 doh.iucc.ac.il
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
-adguard.izapi4.fr
 dns.janl.eu
 dns.jhangy.us
 dns.jichi.io
@@ -417,6 +415,7 @@ doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
 dns.levonet.sk
+dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
 lindung.pp.ua
@@ -431,6 +430,7 @@ dns.lobbygod.com
 lukscasino-929-tr.xyz
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+dns.marbledfennec.net
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -602,13 +602,13 @@ sundalandia.pp.ua
 sundalandia.pp.ua
 resolver.sunet.se
 sunnygyl.com
+doh.sunoaki.net
 dns.superstefan.win
 dns.svoi.dev
 dns.switch.ch
 doh.syshero.org
 dns.t53.de
 tecdrive.site
-vpn.technicule.info
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
@@ -631,6 +631,7 @@ dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
 dns.velyn.my.id
+dns.vip-kingstore.xyz
 virga.pp.ua
 virga.pp.ua
 dns.vojtat.cz
@@ -668,6 +669,7 @@ dns.0x55.net
 003153.xyz
 123000123.xyz
 3dcosas.xyz
+dns.3wv.de
 351242444.xyz
 ns2.4netguides.org
 family.5ososea.com

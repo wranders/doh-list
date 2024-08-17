@@ -1,4 +1,4 @@
-#d3006a6ebd95e1e85e03f96af7219d65c183c4d185452a797a6e5d0dea7cc1af
+#f8c7b1528ccdbe7e3c1959fcb04bc1f2d125c8eed2b02d22e3f414677e397f41
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	adfiltro.fun
 #	adfreedns.top
 #	aerodrorne.vip
 #	affcdn.net
@@ -24,6 +23,7 @@
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
+#	dnssilo.top
 #	doh.beauty
 #	doh.buzz
 #	doh.xyz
@@ -37,6 +37,7 @@
 #	doh.li
 #	dns.google
 #	8888.google
+#	hfgx.shop
 #	ikarosalpha.xyz
 #	jkdns.me
 #	kaiwu.xyz
@@ -80,7 +81,6 @@ resolver3.absolight.net
 per.adfilter.net
 syd.adfilter.net
 adl.adfilter.net
-adfiltro.fun
 adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
@@ -113,7 +113,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
-dns.axeleroy.com
 dns.a47.me
 bahopir188.dnshome.de
 bazooki-infra.dev
@@ -155,7 +154,6 @@ doh-02.spectrum.com
 dns.chenu.ch
 dns.chilimac.net
 dns.chmc.ml
-dns.dooks.uk
 dns.christerwaren.fi
 dns.christian.moe
 dns.imchristian.de
@@ -248,6 +246,7 @@ jp01.dns4me.net
 dns.dns-53.us
 dns.dns-53.com
 dns.dns-53.uk
+dns.dnsadguard.co.uk
 abe01.dnscry.pt
 ams01.dnscry.pt
 abn01.dnscry.pt
@@ -320,9 +319,13 @@ waw02.dnscry.pt
 dns1.dnscrypt.ca
 dnsforge.de
 clean.dnsforge.de
+dns1.dns-ga.de
+dns2.dns-ga.de
+dns3.dns-ga.de
 dns.dnshome.de
 dnslow.me
 dns.pub
+dnssilo.top
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
@@ -361,6 +364,7 @@ dns.farshidhakimy.de
 nicsezcheckfbi.gov
 ns0.fdn.fr
 ns1.fdn.fr
+dns.pizzari.me
 dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
@@ -393,12 +397,14 @@ tetty-is.so-gorgeo.us.kg
 luna-is.so-gorgeo.us.kg
 performance.gosami.xyz
 dns.glf.wtf
+dnsblock.grisumedia.de
 dns.guard.io
 dns.gutwe.in
 dns.deadsec.net
 dns.haka.se
 adguard.hartley.cloud
 dns.hellozhao.com
+hfgx.shop
 dns.hinet.net
 dns.lihj.me
 dns.hostux.net
@@ -454,6 +460,7 @@ dart.kpsn.org
 dns.kukal.cz
 dns.kuuhaku.moe
 agh.kyusang.win
+dns.kxy.ink
 dns.k3nny.fr
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
@@ -478,6 +485,7 @@ dns.l337.site
 dns.maitrekuc.fr
 dns.marasov.id
 dns.marbledfennec.net
+dns.technologycage.com
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -486,6 +494,7 @@ dns.mayx.eu.org
 doh.serverhost.no
 dns.hakim.one
 adguard.meddy94.de
+dns.melvin2204.nl
 mendozasdelivery.com
 ns.mtsoln.com
 testaghome.meshkov.info
@@ -497,8 +506,13 @@ netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
 mnrv.trade
+dnstls.mobik.com
 nue2.moderateinfra.net
 naganohara-yoimiya.momokko.moe
+dns.momou.ch
+dns.momou.ch
+dns.momou.ch
+doh.morizt.id
 dns.mtoo.vip
 dns.mullvad.net
 adblock.dns.mullvad.net
@@ -510,6 +524,7 @@ freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
+dns.mzjtechnology.com
 dns.nako.kr
 dns.narl.app
 ae-fuj-w-p-1.nashkan.net
@@ -547,9 +562,12 @@ us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
+dns.neeb.it
 dns.neowutran.ovh
+dns.netraptor.com.au
 dns.netvpn.net
 dns.nextdns.io
+dns.nguyendn.com
 dns.nhtsky.com
 dns.nick-slowinski.de
 doh.lv
@@ -559,6 +577,7 @@ nightlymoon.us.kg
 nightlymoon.us.kg
 doh.niyawe.de
 dns.njal.la
+dns.nodoa.me
 kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
@@ -566,6 +585,7 @@ dns2.nordvpn.com
 2.dns.noridev.moe
 dns.novali.date
 dns.novg.net
+dnscache0.ns71.net
 dns.n23.io
 dns.odinpl.com
 dns.ofdoom.net
@@ -574,6 +594,7 @@ ag.apollohct.com
 ns1.opennameserver.org
 ns4.opennameserver.org
 dns.ourvau.lt
+dns.oxystin.online
 dns.paesa.es
 adguard.pangerl.it
 dns.panszelescik.pl
@@ -582,6 +603,7 @@ paulo.nom.za
 dns.decky.eu
 adguard.pggns.de
 dns.phillipjberry.net
+dns.pierzchlewicz.pl
 dns1.pietjacobs.be
 kronos.plan9-dns.com
 helios.plan9-dns.com
@@ -596,15 +618,23 @@ dns.propheci.xyz
 dns.psociety.de
 doh.archuser.org
 dns-privacy.puregeni.us
+dns.qrtz.club
 doh.qis.io
 dns.quad9.net
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
+dns.quiet.rocks
+ant.dns.qwer.pw
+dog.dns.qwer.pw
+lion.dns.qwer.pw
+frog.dns.qwer.pw
+tiger.dns.qwer.pw
 dns.rabbitdns.org
 security.rabbitdns.org
 family.rabbitdns.org
 ns.ral9005.org
+dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
 dns.renardyre.com
@@ -615,20 +645,24 @@ dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
+dns.rin.sh
 dns.rbn.gr
+dns.roedel.cloud
+dns.rslvr.eu
 adguard.ruby.ci
 safeservedns.com
 dns.sarak.as
+dns.sarakas.net
 dns.sarilouis.com
 dns.sec511.com
 adguard.senthil.us
-dns.scarx.net
 dns.scott-smith.us
 dns.seiffert.me
 dns1.server.my.id
 dns.sev.monster
 dns.shareworx.net
 dns.sheggi.ch
+dns.shimul.me
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
@@ -654,12 +688,14 @@ sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
 dns.svoi.dev
+dns.sv-zauner.at
 dns.switch.ch
 doh.syshero.org
+dns.szpadel.ovh
 dns.t53.de
 tecdrive.site
 dns.telekom.de
-dns.tesem.dog
+dns.soldier.terumi.club
 dns.thebuckners.org
 dns.tierradeayala.com
 timedns.net
@@ -676,16 +712,17 @@ tuskythehusky.tech
 dns.twnic.tw
 anycast.uncensoreddns.org
 resolver.unstoppable.io
+dns.unx.io
 dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
-dns.velyn.my.id
 dns.vip-kingstore.xyz
 virga.pp.ua
 virga.pp.ua
 dns.vojtat.cz
 vorlif.org
 bigora2.vuhai.de
+dns.wang.art
 abel.waringer-atg.de
 doh.webnmail.de
 dns.b72.com
@@ -696,18 +733,21 @@ agh.workfordemo.co.in
 dns.w3ctag.org
 dns.xiumu.org
 dns.xlion.tw
+dns.seia.io
+secondary.dns.seia.io
 dns.xuming.studio
 dns.xusqui.com
 yarp.lefolgoc.net
 dns.yatima.tv
 your-dns.run
 yovbak.com
+dns.yu.dev
 yuvelirtut.website
 zakaria.website
 princez.uk
-www.zburger.top
 zdn.ro
 dns.zemows.industries
+doh.zknt.org
 dns.zui.lol
 dns.learningman.top
 dns.0ooo.icu

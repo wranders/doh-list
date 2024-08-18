@@ -1,4 +1,4 @@
-#f8c7b1528ccdbe7e3c1959fcb04bc1f2d125c8eed2b02d22e3f414677e397f41
+#815faa5319dbbc46b41758b1d0f41dafc1244308ebe172cc6ee71abc6a2c66d0
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -8,7 +8,6 @@
 #   !!! may block regular web access to these services.
 #
 #	adfreedns.top
-#	aerodrorne.vip
 #	affcdn.net
 #	affsoft.cc
 #	ahoj.email
@@ -68,6 +67,8 @@
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
+#	0ms.dev
+#	0ms.dev
 #	003153.xyz
 #	123000123.xyz
 #	3dcosas.xyz
@@ -86,7 +87,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.aeiou.pp.ua
-aerodrorne.vip
 affcdn.net
 affsoft.cc
 blitz.ahadns.com
@@ -216,7 +216,6 @@ ns.data.haus
 dns.datenquark.de
 deep-henchman-excuse.cfd
 doh.denypradana.com
-dns.olpploiopkuyhiopsfrt.info
 dns.dev-umbrellagov.com
 dns.diarbagus.id
 dns.beardic.cn
@@ -412,7 +411,6 @@ dns.hostux.net
 dns.huas.me
 doth.huque.com
 ordns.he.net
-dns.iamanuragh.in
 dns.ian.rocks
 ikarosalpha.xyz
 dns.ikataruto.com
@@ -484,7 +482,7 @@ lukscasino-542-tr.xyz
 dns.l337.site
 dns.maitrekuc.fr
 dns.marasov.id
-dns.marbledfennec.net
+multi.dns.marbledfennec.net
 dns.technologycage.com
 doh.maskab.com
 masters-of-cloud.de
@@ -575,6 +573,8 @@ doh.nic.lv
 adguard-kartoffel.zernico.de
 nightlymoon.us.kg
 nightlymoon.us.kg
+dns.ningkelle.id
+family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
 dns.nodoa.me
@@ -750,6 +750,8 @@ dns.zemows.industries
 doh.zknt.org
 dns.zui.lol
 dns.learningman.top
+0ms.dev
+0ms.dev
 dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net

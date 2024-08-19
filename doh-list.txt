@@ -1,4 +1,4 @@
-#815faa5319dbbc46b41758b1d0f41dafc1244308ebe172cc6ee71abc6a2c66d0
+#206fd3cbb137145b9639d5cdd7b458affa5c797062276b2688f6c820f7609744
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -13,7 +13,6 @@
 #	ahoj.email
 #	bazooki-infra.dev
 #	bestwon203.com
-#	cfdjb.org
 #	cloudflare-dns.com
 #	cubedns.com
 #	deep-henchman-excuse.cfd
@@ -30,7 +29,6 @@
 #	dukun.de
 #	xn--durhre-yxa.de
 #	eliatofani.ovh
-#	skydragoness.com
 #	eth.link
 #	nicsezcheckfbi.gov
 #	doh.li
@@ -62,7 +60,6 @@
 #	vorlif.org
 #	wikimedia-dns.org
 #	your-dns.run
-#	yovbak.com
 #	yuvelirtut.website
 #	zakaria.website
 #	princez.uk
@@ -148,7 +145,6 @@ dns.carter.me
 dns.caspervk.net
 dns.cctld.kg
 dns.cert.ee
-cfdjb.org
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
@@ -199,8 +195,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 doh.cornes.me
-dns.cooluc.com
-dns.cooluc.com
 dns.criena.net
 dns.crystalyx.net
 dns.csaonline.de
@@ -353,7 +347,6 @@ eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
 dns.engineer.web.id
-skydragoness.com
 eth.link
 doh.excdn.eu.org
 dns.faked.org
@@ -449,7 +442,6 @@ pihole.aws.ketan.dev
 dns.keviland.com
 adg.khon.dev
 doh.kidzonet.io
-adguard.avdkishore.dev
 dns.koala.us.to
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
@@ -494,7 +486,6 @@ dns.hakim.one
 adguard.meddy94.de
 dns.melvin2204.nl
 mendozasdelivery.com
-ns.mtsoln.com
 testaghome.meshkov.info
 dns.dallinbryce.com
 dns.mh4ckt3mh4ckt1c4s.xyz
@@ -510,7 +501,6 @@ naganohara-yoimiya.momokko.moe
 dns.momou.ch
 dns.momou.ch
 dns.momou.ch
-doh.morizt.id
 dns.mtoo.vip
 dns.mullvad.net
 adblock.dns.mullvad.net
@@ -740,7 +730,6 @@ dns.xusqui.com
 yarp.lefolgoc.net
 dns.yatima.tv
 your-dns.run
-yovbak.com
 dns.yu.dev
 yuvelirtut.website
 zakaria.website

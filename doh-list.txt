@@ -1,4 +1,4 @@
-#206fd3cbb137145b9639d5cdd7b458affa5c797062276b2688f6c820f7609744
+#65c6607cfea4eb9f5ec440d9500011fe51bea838c70af2687e73052123e47a8f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -47,6 +47,11 @@
 #	mikezhang.xyz
 #	mnrv.trade
 #	doh.lv
+#	ns3.cx
+#	ns3.link
+#	dns8.org
+#	ns3.com
+#	n0.eu
 #	pashagame456.com
 #	safeservedns.com
 #	spacedns.org
@@ -60,7 +65,6 @@
 #	vorlif.org
 #	wikimedia-dns.org
 #	your-dns.run
-#	yuvelirtut.website
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
@@ -196,6 +200,7 @@ freedns.controld.com
 freedns.controld.com
 doh.cornes.me
 dns.criena.net
+dns.cryptomize.com
 dns.crystalyx.net
 dns.csaonline.de
 dns.csa-rz.de
@@ -419,6 +424,8 @@ public.dns.iij.jp
 doh.iucc.ac.il
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
+aqua.is.my.waifu.cz
+yunyun.is.my.waifu.cz
 dns.ishan.pw
 dns.janl.eu
 dns.jhangy.us
@@ -575,6 +582,11 @@ dns2.nordvpn.com
 2.dns.noridev.moe
 dns.novali.date
 dns.novg.net
+ns3.cx
+ns3.link
+dns8.org
+ns3.com
+n0.eu
 dnscache0.ns71.net
 dns.n23.io
 dns.odinpl.com
@@ -648,7 +660,6 @@ dns.sec511.com
 adguard.senthil.us
 dns.scott-smith.us
 dns.seiffert.me
-dns1.server.my.id
 dns.sev.monster
 dns.shareworx.net
 dns.sheggi.ch
@@ -731,13 +742,11 @@ yarp.lefolgoc.net
 dns.yatima.tv
 your-dns.run
 dns.yu.dev
-yuvelirtut.website
 zakaria.website
 princez.uk
 zdn.ro
 dns.zemows.industries
 doh.zknt.org
-dns.zui.lol
 dns.learningman.top
 0ms.dev
 0ms.dev

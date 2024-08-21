@@ -1,4 +1,4 @@
-#65c6607cfea4eb9f5ec440d9500011fe51bea838c70af2687e73052123e47a8f
+#d71cf31c36b26e04bc4513892fd2a7da891b73106c457fd50da92393416169bc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,6 +7,7 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
+#	adblockersite.com
 #	adfreedns.top
 #	affcdn.net
 #	affsoft.cc
@@ -83,6 +84,7 @@ resolver3.absolight.net
 per.adfilter.net
 syd.adfilter.net
 adl.adfilter.net
+adblockersite.com
 adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
@@ -499,6 +501,7 @@ dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
 dns.mikrotikrumahan.my.id
 netcup.mismat.ch
+addns1.m-it.ro
 doh.mmmalia.com
 dns.mnet-online.de
 mnrv.trade
@@ -714,6 +717,7 @@ dns.twnic.tw
 anycast.uncensoreddns.org
 resolver.unstoppable.io
 dns.unx.io
+adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de

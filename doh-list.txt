@@ -1,4 +1,4 @@
-#d71cf31c36b26e04bc4513892fd2a7da891b73106c457fd50da92393416169bc
+#087ae26e1c4045b9c05106103093a9375916af1bd0fcb904f666e6ac7c9e3a02
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -61,7 +61,6 @@
 #	tecdrive.site
 #	timedns.net
 #	tributh.net
-#	truta.org
 #	tuskythehusky.tech
 #	vorlif.org
 #	wikimedia-dns.org
@@ -155,7 +154,6 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
 dns.chilimac.net
-dns.chmc.ml
 dns.christerwaren.fi
 dns.christian.moe
 dns.imchristian.de
@@ -376,7 +374,6 @@ dns.ffnw.de
 dns.freopc.fr
 dns.froth.zone
 adguard.frutuozo.com.br
-dns.fullaccesstointernet.jp.eu.org
 doh.funil.de
 doh.futa.gg
 doh.futa.app
@@ -404,7 +401,6 @@ dns.haka.se
 adguard.hartley.cloud
 dns.hellozhao.com
 hfgx.shop
-dns.hinet.net
 dns.lihj.me
 dns.hostux.net
 dns.hostux.net
@@ -620,7 +616,6 @@ dns.princex.net
 de.dns.privex.io
 nl.dns.privex.io
 dns.propheci.xyz
-dns.psociety.de
 doh.archuser.org
 dns-privacy.puregeni.us
 dns.qrtz.club
@@ -650,7 +645,6 @@ dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
-dns.rin.sh
 dns.rbn.gr
 dns.roedel.cloud
 dns.rslvr.eu
@@ -710,7 +704,6 @@ resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
-truta.org
 adg.tshost.no
 tuskythehusky.tech
 dns.twnic.tw

@@ -1,4 +1,4 @@
-#087ae26e1c4045b9c05106103093a9375916af1bd0fcb904f666e6ac7c9e3a02
+#971644c3488956a1c61e4ed1d66923d5d72f64c3aab1f6f51bcd7fb2203abf61
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -59,7 +59,6 @@
 #	squidmall.vip
 #	sunnygyl.com
 #	tecdrive.site
-#	timedns.net
 #	tributh.net
 #	tuskythehusky.tech
 #	vorlif.org
@@ -95,7 +94,6 @@ blitz.ahadns.com
 blitz.ahadns.com
 doh.nl.ahadns.net
 ahoj.email
-adguard.ajinga.net
 dns.alidns.com
 adguard.alu.dog
 doh.kel.pe
@@ -155,8 +153,6 @@ doh-02.spectrum.com
 dns.chenu.ch
 dns.chilimac.net
 dns.christerwaren.fi
-dns.christian.moe
-dns.imchristian.de
 dns.chriswservers.com
 c.cicitt.ch
 doh.cippapp.com
@@ -492,7 +488,6 @@ adguard.meddy94.de
 dns.melvin2204.nl
 mendozasdelivery.com
 testaghome.meshkov.info
-dns.dallinbryce.com
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
 dns.mikrotikrumahan.my.id
@@ -503,7 +498,6 @@ dns.mnet-online.de
 mnrv.trade
 dnstls.mobik.com
 nue2.moderateinfra.net
-naganohara-yoimiya.momokko.moe
 dns.momou.ch
 dns.momou.ch
 dns.momou.ch
@@ -648,7 +642,6 @@ sky.rethinkdns.com
 dns.rbn.gr
 dns.roedel.cloud
 dns.rslvr.eu
-adguard.ruby.ci
 safeservedns.com
 dns.sarak.as
 dns.sarakas.net
@@ -696,7 +689,6 @@ dns.telekom.de
 dns.soldier.terumi.club
 dns.thebuckners.org
 dns.tierradeayala.com
-timedns.net
 dns.tipsy.coffee
 dns.tls-data.de
 tributh.net
@@ -719,7 +711,6 @@ virga.pp.ua
 virga.pp.ua
 dns.vojtat.cz
 vorlif.org
-bigora2.vuhai.de
 dns.wang.art
 abel.waringer-atg.de
 doh.webnmail.de

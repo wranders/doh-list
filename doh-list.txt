@@ -1,4 +1,4 @@
-#971644c3488956a1c61e4ed1d66923d5d72f64c3aab1f6f51bcd7fb2203abf61
+#b7d5596f001a45e9cf59a896dd29ba72893d2e7b22442fef46d31b6e0a258041
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -23,6 +23,7 @@
 #	dnslow.me
 #	dns.pub
 #	dnssilo.top
+#	dns9.cfd
 #	doh.beauty
 #	doh.buzz
 #	doh.xyz
@@ -323,6 +324,7 @@ dnssilo.top
 dns.dnswarden.com
 dns.dnswarden.com
 dns.dnswarden.com
+dns9.cfd
 doh.beauty
 doh.buzz
 doh.xyz
@@ -451,7 +453,6 @@ dart.kpsn.org
 dns.kukal.cz
 dns.kuuhaku.moe
 agh.kyusang.win
-dns.kxy.ink
 dns.k3nny.fr
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
@@ -589,7 +590,6 @@ ag.apollohct.com
 ns1.opennameserver.org
 ns4.opennameserver.org
 dns.ourvau.lt
-dns.oxystin.online
 dns.paesa.es
 adguard.pangerl.it
 dns.panszelescik.pl

@@ -1,4 +1,4 @@
-#b7d5596f001a45e9cf59a896dd29ba72893d2e7b22442fef46d31b6e0a258041
+#b7c0351b238145aac4ead77b17bfa06332e135bc957be861d23479878773dc0e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -40,6 +40,7 @@
 #	ikarosalpha.xyz
 #	jkdns.me
 #	kaiwu.xyz
+#	kx-97795-tr.xyz
 #	loadlow.me
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
@@ -110,6 +111,7 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dohtrial.att.net
+secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
@@ -408,7 +410,6 @@ ordns.he.net
 dns.ian.rocks
 ikarosalpha.xyz
 dns.ikataruto.com
-dns.immanuelschaffer.de
 doh.immerda.ch
 dns1.in-berlin.de
 dns2.in-berlin.de
@@ -453,6 +454,7 @@ dart.kpsn.org
 dns.kukal.cz
 dns.kuuhaku.moe
 agh.kyusang.win
+kx-97795-tr.xyz
 dns.k3nny.fr
 doh.lacontrevoie.fr
 dns.lars-lehmann.net

@@ -1,4 +1,4 @@
-#b7c0351b238145aac4ead77b17bfa06332e135bc957be861d23479878773dc0e
+#9e3ad146a350e1bf6f8110c0d9ccfc9b98952b86168361480f57b091952c3113
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -753,7 +753,6 @@ family.5ososea.com
 kids.5ososea.com
 dns.52306.org
 89433332.xyz
-doh.978159.xyz
 dns.9999.sg
 ibuki.cgnat.net
 doh-2.seby.io

@@ -1,4 +1,4 @@
-#9e3ad146a350e1bf6f8110c0d9ccfc9b98952b86168361480f57b091952c3113
+#4bd435b6842c6f7476887876e952773542da8de418d6b4aae1f273fbe370fc91
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -28,6 +28,7 @@
 #	doh.buzz
 #	doh.xyz
 #	3dns.eu
+#	do-39574-tr.xyz
 #	dukun.de
 #	xn--durhre-yxa.de
 #	eliatofani.ovh
@@ -40,6 +41,7 @@
 #	ikarosalpha.xyz
 #	jkdns.me
 #	kaiwu.xyz
+#	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
 #	loadlow.me
 #	lukscasino-929-tr.xyz
@@ -65,6 +67,7 @@
 #	tuskythehusky.tech
 #	vorlif.org
 #	wikimedia-dns.org
+#	xholgm.top
 #	your-dns.run
 #	zakaria.website
 #	princez.uk
@@ -108,6 +111,7 @@ dns.applewebkit.dev
 dns.arkbotech.com
 nsec.arnor.org
 dns.artikel10.org
+doh.asagiri.moe
 dns.ashleyjackson.net
 dns.asterimoon.com
 dohtrial.att.net
@@ -333,6 +337,7 @@ doh.xyz
 3dns.eu
 doh.domreg.lt
 ns1.dotls.org
+do-39574-tr.xyz
 agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de
@@ -450,6 +455,7 @@ dns.koala.us.to
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 dns.kosan.moe
+ko-18948-tr.xyz
 dart.kpsn.org
 dns.kukal.cz
 dns.kuuhaku.moe
@@ -558,7 +564,6 @@ dns.neowutran.ovh
 dns.netraptor.com.au
 dns.netvpn.net
 dns.nextdns.io
-dns.nguyendn.com
 dns.nhtsky.com
 dns.nick-slowinski.de
 doh.lv
@@ -708,7 +713,6 @@ adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
-dns.vip-kingstore.xyz
 virga.pp.ua
 virga.pp.ua
 dns.vojtat.cz
@@ -722,6 +726,7 @@ dns-1.wil.cloud
 dns-2.wil.cloud
 agh.workfordemo.co.in
 dns.w3ctag.org
+xholgm.top
 dns.xiumu.org
 dns.xlion.tw
 dns.seia.io
@@ -744,6 +749,7 @@ dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net
 003153.xyz
+dns.000404000.xyz
 123000123.xyz
 3dcosas.xyz
 dns.3wv.de

@@ -1,4 +1,4 @@
-#4bd435b6842c6f7476887876e952773542da8de418d6b4aae1f273fbe370fc91
+#401b25fcf3ffdaa420c3f7a9c233651c45a69a427e28ec0df7e0d2ed9b5a650a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -386,7 +386,6 @@ dns.f4a.fun
 dns.gamban.com
 adguard.gambini.org
 dns.gayanalysing.co.uk
-dns.freyja.pw
 adguard.maison.gifino.fr
 dns.girino.org
 agh.gloom.nexus
@@ -412,7 +411,6 @@ dns.hostux.net
 dns.huas.me
 doth.huque.com
 ordns.he.net
-dns.ian.rocks
 ikarosalpha.xyz
 dns.ikataruto.com
 doh.immerda.ch
@@ -459,7 +457,6 @@ ko-18948-tr.xyz
 dart.kpsn.org
 dns.kukal.cz
 dns.kuuhaku.moe
-agh.kyusang.win
 kx-97795-tr.xyz
 dns.k3nny.fr
 doh.lacontrevoie.fr
@@ -707,7 +704,6 @@ adg.tshost.no
 tuskythehusky.tech
 dns.twnic.tw
 anycast.uncensoreddns.org
-resolver.unstoppable.io
 dns.unx.io
 adfree.usableprivacy.net
 dns.vaioswolke.xyz

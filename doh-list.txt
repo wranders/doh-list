@@ -1,4 +1,4 @@
-#401b25fcf3ffdaa420c3f7a9c233651c45a69a427e28ec0df7e0d2ed9b5a650a
+#080c2c82345883fac8a6ed7ba15d228681c9af07166ace3752bbfc1c18ea3325
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -674,7 +674,6 @@ dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
 muli.stusta.mhn.de
-doh.suche.org
 dns.suhaila.dev
 sundalandia.pp.ua
 sundalandia.pp.ua

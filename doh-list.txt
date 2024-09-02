@@ -1,4 +1,4 @@
-#080c2c82345883fac8a6ed7ba15d228681c9af07166ace3752bbfc1c18ea3325
+#8b52276f7d4aa2ac28554062e5f9ff441a76720120cda40c3d0c1d0c51afa867
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -12,6 +12,7 @@
 #	affcdn.net
 #	affsoft.cc
 #	ahoj.email
+#	atris.cyou
 #	bazooki-infra.dev
 #	bestwon203.com
 #	cloudflare-dns.com
@@ -114,6 +115,7 @@ dns.artikel10.org
 doh.asagiri.moe
 dns.ashleyjackson.net
 dns.asterimoon.com
+atris.cyou
 dohtrial.att.net
 secure.avastdns.com
 awan.ftp.sh
@@ -177,7 +179,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-dns.coderoria.com
 dns.comff.net
 dns.comss.one
 freedns.controld.com
@@ -351,7 +352,6 @@ dns.edison42.dev
 dns.editechstudio.com
 dns.efficientdocuments.com
 dns.henek.ovh
-hole.elbschloss.xyz
 dns.elemental.software
 eliatofani.ovh
 dns.eliv.kr
@@ -472,7 +472,6 @@ lindung.pp.ua
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 dns.lista.my.id
-dns.listo.click
 loadlow.me
 dns.lobbygod.com
 lukscasino-929-tr.xyz
@@ -557,7 +556,6 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neeb.it
-dns.neowutran.ovh
 dns.netraptor.com.au
 dns.netvpn.net
 dns.nextdns.io
@@ -684,7 +682,6 @@ dns.superstefan.win
 dns.svoi.dev
 dns.sv-zauner.at
 dns.switch.ch
-doh.syshero.org
 dns.szpadel.ovh
 dns.t53.de
 tecdrive.site

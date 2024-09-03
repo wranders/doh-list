@@ -1,4 +1,4 @@
-#8b52276f7d4aa2ac28554062e5f9ff441a76720120cda40c3d0c1d0c51afa867
+#254f8b21da569f5c94ec396efd919ca1285352893e9909353cff798272130a0c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -478,7 +478,6 @@ lukscasino-929-tr.xyz
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 dns.l337.site
-dns.maitrekuc.fr
 dns.marasov.id
 multi.dns.marbledfennec.net
 dns.technologycage.com
@@ -671,7 +670,6 @@ squidmall.vip
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
-muli.stusta.mhn.de
 dns.suhaila.dev
 sundalandia.pp.ua
 sundalandia.pp.ua
@@ -732,7 +730,6 @@ dns.yu.dev
 zakaria.website
 princez.uk
 zdn.ro
-dns.zemows.industries
 doh.zknt.org
 dns.learningman.top
 0ms.dev

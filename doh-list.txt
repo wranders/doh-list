@@ -1,4 +1,4 @@
-#254f8b21da569f5c94ec396efd919ca1285352893e9909353cff798272130a0c
+#9d83957df4cbee53306aecb46d35e88f0743475dbb269db41475e75ab47140ce
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -42,6 +42,7 @@
 #	ikarosalpha.xyz
 #	jkdns.me
 #	kaiwu.xyz
+#	kol.lol
 #	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
 #	loadlow.me
@@ -52,6 +53,7 @@
 #	mendozasdelivery.com
 #	mikezhang.xyz
 #	mnrv.trade
+#	myatris.sbs
 #	doh.lv
 #	ns3.cx
 #	ns3.link
@@ -60,7 +62,6 @@
 #	n0.eu
 #	pashagame456.com
 #	safeservedns.com
-#	spacedns.org
 #	squidmall.vip
 #	sunnygyl.com
 #	tecdrive.site
@@ -450,6 +451,7 @@ dns.keviland.com
 adg.khon.dev
 doh.kidzonet.io
 dns.koala.us.to
+kol.lol
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 dns.kosan.moe
@@ -487,7 +489,6 @@ dns.mateo.ovh
 home.wriedts.de
 dns.mayx.eu.org
 doh.serverhost.no
-dns.hakim.one
 adguard.meddy94.de
 dns.melvin2204.nl
 mendozasdelivery.com
@@ -512,6 +513,7 @@ base.dns.mullvad.net
 extended.dns.mullvad.net
 all.dns.mullvad.net
 family.dns.mullvad.net
+myatris.sbs
 freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network
@@ -644,8 +646,6 @@ dns.rbn.gr
 dns.roedel.cloud
 dns.rslvr.eu
 safeservedns.com
-dns.sarak.as
-dns.sarakas.net
 dns.sarilouis.com
 dns.sec511.com
 adguard.senthil.us
@@ -664,8 +664,6 @@ dns.silentlybren.com
 dns.slinkyman.net
 dns.smartguard.io
 adg.geili.me
-spacedns.org
-adguard.sparshbajaj.me
 squidmall.vip
 dns.startupstack.tech
 dns.stevenz.net

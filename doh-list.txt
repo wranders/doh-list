@@ -1,4 +1,4 @@
-#9d83957df4cbee53306aecb46d35e88f0743475dbb269db41475e75ab47140ce
+#d5335f92b1e7173e1e2c1c41800ae547899ae86bbe1a96368fc0ccce77bc5bf4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -52,6 +52,7 @@
 #	masters-of-cloud.de
 #	mendozasdelivery.com
 #	mikezhang.xyz
+#	miniapp.sh
 #	mnrv.trade
 #	myatris.sbs
 #	doh.lv
@@ -496,6 +497,7 @@ testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
 dns.mikrotikrumahan.my.id
+miniapp.sh
 netcup.mismat.ch
 addns1.m-it.ro
 doh.mmmalia.com

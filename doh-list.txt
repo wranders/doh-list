@@ -1,4 +1,4 @@
-#02e88f71f794c10de03ef49bfe8f256d9fbf698d21ac16a1efa97993915f2e97
+#aae4123a2f98696be02183004956cfc5f998a538bfbd56c3d44905f190bcd20b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -508,7 +508,6 @@ nue2.moderateinfra.net
 dns.momou.ch
 dns.momou.ch
 dns.momou.ch
-dns.mtoo.vip
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net

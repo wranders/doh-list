@@ -1,4 +1,4 @@
-#aae4123a2f98696be02183004956cfc5f998a538bfbd56c3d44905f190bcd20b
+#01c2f7d4e35793e5037517d58980566847678b241f9a20726f4ccefccc21426b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -81,7 +81,6 @@
 #	123000123.xyz
 #	3dcosas.xyz
 #	351242444.xyz
-#	89433332.xyz
 #
 
 resolver1.absolight.net
@@ -268,7 +267,6 @@ dtw01.dnscry.pt
 dub01.dnscry.pt
 rdu01.dnscry.pt
 dus01.dnscry.pt
-mru01.dnscry.pt
 eyg01.dnscry.pt
 fnt01.dnscry.pt
 fra01.dnscry.pt
@@ -292,7 +290,6 @@ mad01.dnscry.pt
 mia01.dnscry.pt
 mil01.dnscry.pt
 bom01.dnscry.pt
-muc01.dnscry.pt
 nyc01.dnscry.pt
 nue01.dnscry.pt
 omr01.dnscry.pt
@@ -387,7 +384,6 @@ doh.futa.app
 dns.f4a.fun
 dns.gamban.com
 adguard.gambini.org
-dns.gayanalysing.co.uk
 adguard.maison.gifino.fr
 dns.girino.org
 agh.gloom.nexus
@@ -408,6 +404,7 @@ adguard.hartley.cloud
 dns.hellozhao.com
 hfgx.shop
 dns.lihj.me
+dns.hoody.com
 dns.hostux.net
 dns.hostux.net
 dns.huas.me
@@ -521,7 +518,6 @@ adblock.mydns.network
 family.mydns.network
 dns.mzjtechnology.com
 dns.nako.kr
-dns.narl.app
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -602,7 +598,6 @@ dns.panszelescik.pl
 pashagame456.com
 paulo.nom.za
 dns.decky.eu
-adguard.pggns.de
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
 dns1.pietjacobs.be
@@ -652,7 +647,6 @@ safeservedns.com
 dns.sarilouis.com
 dns.sec511.com
 adguard.senthil.us
-dns.scott-smith.us
 dns.seiffert.me
 dns.sev.monster
 dns.shareworx.net
@@ -671,6 +665,7 @@ squidmall.vip
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
+dns.stormycloud.org
 dns.suhaila.dev
 sundalandia.pp.ua
 sundalandia.pp.ua
@@ -718,7 +713,6 @@ dns-2.wil.cloud
 agh.workfordemo.co.in
 dns.w3ctag.org
 xholgm.top
-dns.xiumu.org
 dns.xlion.tw
 dns.seia.io
 secondary.dns.seia.io
@@ -748,7 +742,6 @@ ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com
 dns.52306.org
-89433332.xyz
 dns.9999.sg
 ibuki.cgnat.net
 doh-2.seby.io

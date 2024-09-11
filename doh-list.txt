@@ -1,4 +1,4 @@
-#d3567c916e78592f21f64e1556cd20c61f3c262deaa295a0a3d6e6dfe1973e60
+#1c30ae8dab3c20b9f622431c5310e984c9a383f34804bd67f125e5e397d27ced
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -24,6 +24,9 @@
 #	dnslow.me
 #	dns.pub
 #	dnssilo.top
+#	dnswarden.com
+#	github.com
+#	dnswarden.com
 #	dns9.cfd
 #	doh.beauty
 #	doh.buzz
@@ -42,7 +45,6 @@
 #	ikarosalpha.xyz
 #	jkdns.me
 #	kaiwu.xyz
-#	kol.lol
 #	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
 #	lesuo.top
@@ -147,7 +149,6 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
-doh.bt.com
 stratus.bugz.fr
 doh1.b-cdn.net
 dns.burgas.pro
@@ -277,7 +278,6 @@ gva01.dnscry.pt
 han01.dnscry.pt
 hel01.dnscry.pt
 sgn01.dnscry.pt
-hkg02.dnscry.pt
 ist01.dnscry.pt
 jkt01.dnscry.pt
 hrk01.dnscry.pt
@@ -328,9 +328,9 @@ dns.dnshome.de
 dnslow.me
 dns.pub
 dnssilo.top
-dns.dnswarden.com
-dns.dnswarden.com
-dns.dnswarden.com
+dnswarden.com
+github.com
+dnswarden.com
 dns9.cfd
 doh.beauty
 doh.buzz
@@ -449,7 +449,6 @@ dns.keviland.com
 adg.khon.dev
 doh.kidzonet.io
 dns.koala.us.to
-kol.lol
 adguard.konikoni428.com
 dns.korzhyk.pp.ua
 dns.kosan.moe
@@ -494,7 +493,6 @@ mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
-dns.mikrotikrumahan.my.id
 miniapp.sh
 netcup.mismat.ch
 addns1.m-it.ro

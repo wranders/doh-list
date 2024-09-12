@@ -1,4 +1,4 @@
-#bd9313825d872b6cde451e9691ccd8db8670f530ec97252607e08b189f34ca74
+#7b74d40741b55ed26427c010291b34b61a06f16e4156a88097f1a1eef855b3cb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,6 +9,7 @@
 #
 #	adblockersite.com
 #	adfreedns.top
+#	adguardhome.cloud
 #	affcdn.net
 #	affsoft.cc
 #	ahoj.email
@@ -94,6 +95,7 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
+adguardhome.cloud
 dns.aeiou.pp.ua
 affcdn.net
 affsoft.cc
@@ -604,6 +606,7 @@ dns.pragmasec.nl
 dns.princex.net
 de.dns.privex.io
 nl.dns.privex.io
+dns.prokits.digital
 dns.propheci.xyz
 doh.archuser.org
 dns-privacy.puregeni.us

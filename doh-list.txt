@@ -1,4 +1,4 @@
-#1c30ae8dab3c20b9f622431c5310e984c9a383f34804bd67f125e5e397d27ced
+#bd9313825d872b6cde451e9691ccd8db8670f530ec97252607e08b189f34ca74
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -24,9 +24,6 @@
 #	dnslow.me
 #	dns.pub
 #	dnssilo.top
-#	dnswarden.com
-#	github.com
-#	dnswarden.com
 #	dns9.cfd
 #	doh.beauty
 #	doh.buzz
@@ -328,9 +325,6 @@ dns.dnshome.de
 dnslow.me
 dns.pub
 dnssilo.top
-dnswarden.com
-github.com
-dnswarden.com
 dns9.cfd
 doh.beauty
 doh.buzz

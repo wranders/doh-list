@@ -1,4 +1,4 @@
-#7b74d40741b55ed26427c010291b34b61a06f16e4156a88097f1a1eef855b3cb
+#4856388c6d10ddf615000f8cfae3924ef9d6380eea9cc9d78e94d291e69ce388
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -53,7 +53,6 @@
 #	masters-of-cloud.de
 #	mendozasdelivery.com
 #	mikezhang.xyz
-#	miniapp.sh
 #	mnrv.trade
 #	myatris.sbs
 #	doh.lv
@@ -119,7 +118,6 @@ doh.asagiri.moe
 dns.ashleyjackson.net
 dns.asterimoon.com
 atris.cyou
-dohtrial.att.net
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -363,6 +361,7 @@ nicsezcheckfbi.gov
 ns0.fdn.fr
 ns1.fdn.fr
 dns.pizzari.me
+dns.feelvm.dev
 dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
@@ -377,7 +376,6 @@ dns.froth.zone
 adguard.frutuozo.com.br
 doh.futa.gg
 doh.futa.app
-dns.f4a.fun
 dns.gamban.com
 adguard.gambini.org
 adguard.maison.gifino.fr
@@ -446,7 +444,6 @@ adg.khon.dev
 doh.kidzonet.io
 dns.koala.us.to
 adguard.konikoni428.com
-dns.korzhyk.pp.ua
 dns.kosan.moe
 ko-18948-tr.xyz
 dart.kpsn.org
@@ -489,7 +486,6 @@ mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
-miniapp.sh
 netcup.mismat.ch
 addns1.m-it.ro
 doh.mmmalia.com
@@ -523,8 +519,6 @@ de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
-gb-cov-w-f-1.nashkan.net
-gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
@@ -580,7 +574,6 @@ dns8.org
 ns3.com
 n0.eu
 dnscache0.ns71.net
-dns.n23.io
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -629,7 +622,6 @@ ns.ral9005.org
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
-dns.renardyre.com
 dns.reckoningslug.name
 dns.repinger.com
 dns.falkenthal.org
@@ -687,7 +679,6 @@ resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
-adg.tshost.no
 tuskythehusky.tech
 dns.twnic.tw
 anycast.uncensoreddns.org

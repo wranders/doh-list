@@ -1,4 +1,4 @@
-#4856388c6d10ddf615000f8cfae3924ef9d6380eea9cc9d78e94d291e69ce388
+#c1ec114bc9754b32fd92a9009f12fb18733c019351d8407b2d89b6b21deea9e7
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -387,6 +387,7 @@ dns64.dns.google
 nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 luna-is.so-gorgeo.us.kg
+mita-is.so-gorgeo.us.kg
 performance.gosami.xyz
 dns.glf.wtf
 dnsblock.grisumedia.de
@@ -681,6 +682,7 @@ resolv3.trash.net
 ns.trcnet.fi
 tuskythehusky.tech
 dns.twnic.tw
+doh.tiar.app
 anycast.uncensoreddns.org
 dns.unx.io
 adfree.usableprivacy.net

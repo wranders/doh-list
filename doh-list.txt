@@ -1,4 +1,4 @@
-#c1ec114bc9754b32fd92a9009f12fb18733c019351d8407b2d89b6b21deea9e7
+#3f731b60cec04a73be4edd4102aaa86c1539d5ebeefc1d599244725e239b3d60
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -135,6 +135,7 @@ dns.bitdefender.net
 dns.bitservices.io
 biying.flymlc.com
 doh-de.blahdns.com
+dns.blaumer.dev
 us1.blissdns.net
 adguard.blogssl.com
 dns.blokada.org
@@ -248,7 +249,6 @@ jp01.dns4me.net
 dns.dns-53.us
 dns.dns-53.com
 dns.dns-53.uk
-dns.dnsadguard.co.uk
 abe01.dnscry.pt
 ams01.dnscry.pt
 abn01.dnscry.pt
@@ -318,6 +318,7 @@ waw02.dnscry.pt
 dns1.dnscrypt.ca
 dnsforge.de
 clean.dnsforge.de
+hard.dnsforge.de
 dns1.dns-ga.de
 dns2.dns-ga.de
 dns3.dns-ga.de
@@ -365,7 +366,6 @@ dns.feelvm.dev
 dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
-dns.fizz.studio
 dns.flightspace.net
 dns.flymc.cc
 dns.pari.network
@@ -375,7 +375,6 @@ dns.freopc.fr
 dns.froth.zone
 adguard.frutuozo.com.br
 doh.futa.gg
-doh.futa.app
 dns.gamban.com
 adguard.gambini.org
 adguard.maison.gifino.fr
@@ -388,6 +387,9 @@ nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 luna-is.so-gorgeo.us.kg
 mita-is.so-gorgeo.us.kg
+yussy-is.so-gorgeo.us.kg
+nova-is.so-gorgeo.us.kg
+nindy-is.so-gorgeo.us.kg
 performance.gosami.xyz
 dns.glf.wtf
 dnsblock.grisumedia.de
@@ -423,7 +425,6 @@ yunyun.is.my.waifu.cz
 dns.ishan.pw
 dns.janl.eu
 dns.jhangy.us
-dns.jichi.io
 dns.jiyi.eu
 jkdns.me
 adguard.johanliebert.top
@@ -723,7 +724,6 @@ dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net
 003153.xyz
-dns.000404000.xyz
 123000123.xyz
 3dcosas.xyz
 dns.3wv.de

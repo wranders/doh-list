@@ -1,4 +1,4 @@
-#3f731b60cec04a73be4edd4102aaa86c1539d5ebeefc1d599244725e239b3d60
+#83f9ba54fe2912da144a5032c9360a6462997a022a88225a353b93ab606985ca
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,6 +7,7 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
+#	ach1.tech
 #	adblockersite.com
 #	adfreedns.top
 #	adguardhome.cloud
@@ -25,7 +26,6 @@
 #	dnslow.me
 #	dns.pub
 #	dnssilo.top
-#	dns9.cfd
 #	doh.beauty
 #	doh.buzz
 #	3dns.eu
@@ -86,6 +86,7 @@
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
+ach1.tech
 per.adfilter.net
 syd.adfilter.net
 adl.adfilter.net
@@ -326,7 +327,6 @@ dns.dnshome.de
 dnslow.me
 dns.pub
 dnssilo.top
-dns9.cfd
 doh.beauty
 doh.buzz
 3dns.eu
@@ -701,7 +701,6 @@ dns.b72.com
 wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
-agh.workfordemo.co.in
 dns.w3ctag.org
 xholgm.top
 dns.xlion.tw

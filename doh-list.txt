@@ -1,4 +1,4 @@
-#83f9ba54fe2912da144a5032c9360a6462997a022a88225a353b93ab606985ca
+#a91f22539bea34a33232c26a5e12dafe400dfd5aaeb50b2d8fe3bc759d94486b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	ach1.tech
 #	adblockersite.com
 #	adfreedns.top
 #	adguardhome.cloud
@@ -55,6 +54,7 @@
 #	mikezhang.xyz
 #	mnrv.trade
 #	myatris.sbs
+#	ngbs.host
 #	doh.lv
 #	ns3.cx
 #	ns3.link
@@ -86,7 +86,6 @@
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
-ach1.tech
 per.adfilter.net
 syd.adfilter.net
 adl.adfilter.net
@@ -138,7 +137,6 @@ biying.flymlc.com
 doh-de.blahdns.com
 dns.blaumer.dev
 us1.blissdns.net
-adguard.blogssl.com
 dns.blokada.org
 doh.linngde.com
 rfree1.blue-shield.at
@@ -549,6 +547,7 @@ dns.nefret.net
 dns.netraptor.com.au
 dns.netvpn.net
 dns.nextdns.io
+ngbs.host
 dns.nhtsky.com
 dns.nick-slowinski.de
 doh.lv

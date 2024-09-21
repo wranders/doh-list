@@ -1,4 +1,4 @@
-#a91f22539bea34a33232c26a5e12dafe400dfd5aaeb50b2d8fe3bc759d94486b
+#9d790b644cc655ec46c117f1542aaf4ea4af797597ab70f8f60b6c8447634dd8
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -32,7 +32,6 @@
 #	dukun.de
 #	xn--durhre-yxa.de
 #	eliatofani.ovh
-#	eth.link
 #	farewellkou.click
 #	nicsezcheckfbi.gov
 #	doh.li
@@ -54,7 +53,6 @@
 #	mikezhang.xyz
 #	mnrv.trade
 #	myatris.sbs
-#	ngbs.host
 #	doh.lv
 #	ns3.cx
 #	ns3.link
@@ -83,6 +81,7 @@
 #	351242444.xyz
 #
 
+dns.aapla.top
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
@@ -138,7 +137,6 @@ doh-de.blahdns.com
 dns.blaumer.dev
 us1.blissdns.net
 dns.blokada.org
-doh.linngde.com
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 adguard.bonis.de
@@ -349,7 +347,6 @@ eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
 dns.engineer.web.id
-eth.link
 doh.excdn.eu.org
 dns.faked.org
 dnsvps.familiamv.net
@@ -464,7 +461,6 @@ lindung.pp.ua
 lindung.pp.ua
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
-dns.lista.my.id
 loadlow.me
 dns.lobbygod.com
 lukscasino-929-tr.xyz
@@ -547,7 +543,6 @@ dns.nefret.net
 dns.netraptor.com.au
 dns.netvpn.net
 dns.nextdns.io
-ngbs.host
 dns.nhtsky.com
 dns.nick-slowinski.de
 doh.lv

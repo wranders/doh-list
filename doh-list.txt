@@ -1,4 +1,4 @@
-#9d790b644cc655ec46c117f1542aaf4ea4af797597ab70f8f60b6c8447634dd8
+#19d2bc66946075825bc6803b56cdf389794e747add505094b0adbc90748750d5
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -418,7 +418,6 @@ darkness.is.my.waifu.cz
 aqua.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.ishan.pw
-dns.janl.eu
 dns.jhangy.us
 dns.jiyi.eu
 jkdns.me

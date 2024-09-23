@@ -1,4 +1,4 @@
-#19d2bc66946075825bc6803b56cdf389794e747add505094b0adbc90748750d5
+#ce10dfa7b1136174f945ff392abc86fe8e13b26b99e25bba545793cbcf7185d2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,6 +15,7 @@
 #	ahoj.email
 #	atris.cyou
 #	bazooki-infra.dev
+#	bereza.lol
 #	bestwon203.com
 #	cloudflare-dns.com
 #	cubedns.com
@@ -128,6 +129,7 @@ bazooki-infra.dev
 dns.bebasid.com
 dns.belnet.be
 dns.bmwhocking.com
+bereza.lol
 dns.bermeitinger.eu
 bestwon203.com
 dns.bitdefender.net
@@ -211,7 +213,6 @@ cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
 ns.00dani.me
-dns.home.daniil.it
 adguard.dantynes.cyou
 ns.data.haus
 dns.datenquark.de

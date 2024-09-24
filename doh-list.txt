@@ -1,4 +1,4 @@
-#ce10dfa7b1136174f945ff392abc86fe8e13b26b99e25bba545793cbcf7185d2
+#d57f2c92d63c28871974fe1875114eae4e6e9a4a7b7332ed6057a79e959e310a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,7 +15,6 @@
 #	ahoj.email
 #	atris.cyou
 #	bazooki-infra.dev
-#	bereza.lol
 #	bestwon203.com
 #	cloudflare-dns.com
 #	cubedns.com
@@ -129,7 +128,6 @@ bazooki-infra.dev
 dns.bebasid.com
 dns.belnet.be
 dns.bmwhocking.com
-bereza.lol
 dns.bermeitinger.eu
 bestwon203.com
 dns.bitdefender.net
@@ -595,7 +593,6 @@ dns.pragmasec.nl
 dns.princex.net
 de.dns.privex.io
 nl.dns.privex.io
-dns.prokits.digital
 dns.propheci.xyz
 doh.archuser.org
 dns-privacy.puregeni.us

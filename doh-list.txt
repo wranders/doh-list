@@ -1,4 +1,4 @@
-#3a65c5b08bd6808bb677953810e3c42165af008c25797daa34886ca34bbe74f3
+#eb36c90e553dbb6fbd67260a78ee8b98fc9de064bacb64be8da8225d3868a313
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -16,6 +16,7 @@
 #	atris.cyou
 #	bazooki-infra.dev
 #	bestwon203.com
+#	catchen121299.top
 #	cloudflare-dns.com
 #	cubedns.com
 #	deep-henchman-excuse.cfd
@@ -153,6 +154,7 @@ doh.aaaab3n.moe
 console.carestyle.org
 dns.carter.me
 dns.caspervk.net
+catchen121299.top
 dns.cctld.kg
 dns.cert.ee
 doh-01.spectrum.com

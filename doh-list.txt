@@ -1,4 +1,4 @@
-#eb36c90e553dbb6fbd67260a78ee8b98fc9de064bacb64be8da8225d3868a313
+#a21a1484203b09d3ebdf476340b9b0fe2592e088fa98b11ef2368536f60a3dcb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,6 +39,7 @@
 #	dns.google
 #	8888.google
 #	hfgx.shop
+#	home-server.store
 #	ikarosalpha.xyz
 #	jkdns.me
 #	kaiwu.xyz
@@ -61,6 +62,8 @@
 #	ns3.com
 #	n0.eu
 #	pashagame456.com
+#	pm1239-bd.xyz
+#	pm9352-bd.xyz
 #	safeservedns.com
 #	squidmall.vip
 #	sunnygyl.com
@@ -76,7 +79,6 @@
 #	zdn.ro
 #	0ms.dev
 #	0ms.dev
-#	003153.xyz
 #	123000123.xyz
 #	3dcosas.xyz
 #	351242444.xyz
@@ -95,7 +97,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 adguardhome.cloud
-dns.aeiou.pp.ua
 affcdn.net
 affsoft.cc
 blitz.ahadns.com
@@ -151,7 +152,6 @@ dns.burgas.pro
 dns.busold.ws
 dns.b612.me
 doh.aaaab3n.moe
-console.carestyle.org
 dns.carter.me
 dns.caspervk.net
 catchen121299.top
@@ -374,7 +374,6 @@ dns.gamban.com
 adguard.gambini.org
 adguard.maison.gifino.fr
 dns.girino.org
-agh.gloom.nexus
 dns.google
 dns64.dns.google
 8888.google
@@ -395,6 +394,7 @@ dns.haka.se
 adguard.hartley.cloud
 dns.hellozhao.com
 hfgx.shop
+home-server.store
 dns.lihj.me
 dns.hoody.com
 dns.hostux.net
@@ -569,6 +569,7 @@ dns8.org
 ns3.com
 n0.eu
 dnscache0.ns71.net
+qdns02.nymterm.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -589,6 +590,9 @@ kronos.plan9-dns.com
 helios.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
+pm1239-bd.xyz
+pm9352-bd.xyz
+dns.pnh.my.id
 pooblet.co.za
 dns.pragmasec.nl
 dns.princex.net
@@ -714,7 +718,7 @@ dns.learningman.top
 dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net
-003153.xyz
+dns.13evl.com
 123000123.xyz
 3dcosas.xyz
 dns.3wv.de

@@ -1,4 +1,4 @@
-#a21a1484203b09d3ebdf476340b9b0fe2592e088fa98b11ef2368536f60a3dcb
+#45fe060024791cbed446b0fc5e02d23ea4c8f2c5a1377cdd900f1106d1e42d7e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -160,7 +160,6 @@ dns.cert.ee
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
-dns.chilimac.net
 dns.christerwaren.fi
 dns.chriswservers.com
 c.cicitt.ch
@@ -212,6 +211,7 @@ dns.csswg.org
 cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
+dns.daarrk.tech
 ns.00dani.me
 adguard.dantynes.cyou
 ns.data.haus
@@ -362,6 +362,7 @@ dns.feelvm.dev
 dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
+dns.fgbk.net
 dns.flightspace.net
 dns.flymc.cc
 dns.pari.network
@@ -559,7 +560,6 @@ dns.nodoa.me
 kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
-1.dns.noridev.moe
 2.dns.noridev.moe
 dns.novali.date
 dns.novg.net

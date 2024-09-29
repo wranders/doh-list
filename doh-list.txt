@@ -1,4 +1,4 @@
-#45fe060024791cbed446b0fc5e02d23ea4c8f2c5a1377cdd900f1106d1e42d7e
+#15dd454279354b5d5e24a0c2975ad19f063ba0392db6534ae2d9b30945a3b7da
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -116,7 +116,6 @@ dns.arkbotech.com
 nsec.arnor.org
 dns.artikel10.org
 doh.asagiri.moe
-dns.ashleyjackson.net
 dns.asterimoon.com
 atris.cyou
 secure.avastdns.com
@@ -420,7 +419,6 @@ aqua.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.ishan.pw
 dns.jhangy.us
-dns.jiyi.eu
 jkdns.me
 adguard.johanliebert.top
 dns.jupitrdns.com
@@ -592,10 +590,17 @@ pluton.plan9-dns.com
 privacy.plumedns.com
 pm1239-bd.xyz
 pm9352-bd.xyz
-dns.pnh.my.id
 pooblet.co.za
 dns.pragmasec.nl
 dns.princex.net
+las-vegas.privacy-dns.pw
+india.privacy-dns.pw
+united-arab-emirates.privacy-dns.pw
+switzerland.privacy-dns.pw
+luxembourg.privacy-dns.pw
+sweden.privacy-dns.pw
+romania.privacy-dns.pw
+hungary.privacy-dns.pw
 de.dns.privex.io
 nl.dns.privex.io
 dns.propheci.xyz

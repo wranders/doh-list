@@ -1,4 +1,4 @@
-#15dd454279354b5d5e24a0c2975ad19f063ba0392db6534ae2d9b30945a3b7da
+#c07932e19e2095c0c3e7b45408ebe6a9d2bcf3bf19ae1edb2fea74950d0b53b0
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -36,6 +36,7 @@
 #	farewellkou.click
 #	nicsezcheckfbi.gov
 #	doh.li
+#	filipinoray.com
 #	dns.google
 #	8888.google
 #	hfgx.shop
@@ -58,12 +59,12 @@
 #	doh.lv
 #	ns3.cx
 #	ns3.link
-#	dns8.org
 #	ns3.com
 #	n0.eu
 #	pashagame456.com
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
+#	pm7051-br.xyz
 #	safeservedns.com
 #	squidmall.vip
 #	sunnygyl.com
@@ -81,7 +82,6 @@
 #	0ms.dev
 #	123000123.xyz
 #	3dcosas.xyz
-#	351242444.xyz
 #
 
 dns.aapla.top
@@ -118,6 +118,7 @@ dns.artikel10.org
 doh.asagiri.moe
 dns.asterimoon.com
 atris.cyou
+dns.auapi.fun
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -212,6 +213,7 @@ dns.cynthialabs.net
 odvr.nic.cz
 dns.daarrk.tech
 ns.00dani.me
+6301s.dangkiem.com
 adguard.dantynes.cyou
 ns.data.haus
 dns.datenquark.de
@@ -222,6 +224,7 @@ dns.diarbagus.id
 dns.beardic.cn
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
+www.dltuykfgp.top
 dns.digitalsize.net
 doh.dns.sb
 doh.sb
@@ -347,6 +350,7 @@ eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
 dns.engineer.web.id
+doh.ersei.net
 doh.excdn.eu.org
 dns.faked.org
 dnsvps.familiamv.net
@@ -362,6 +366,7 @@ dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
 dns.fgbk.net
+filipinoray.com
 dns.flightspace.net
 dns.flymc.cc
 dns.pari.network
@@ -387,12 +392,13 @@ nindy-is.so-gorgeo.us.kg
 performance.gosami.xyz
 dns.glf.wtf
 dnsblock.grisumedia.de
+doh.gs-tests.com
 dns.guard.io
 dns.gutwe.in
 dns.deadsec.net
 dns.haka.se
+dns.hannielzhang.com
 adguard.hartley.cloud
-dns.hellozhao.com
 hfgx.shop
 home-server.store
 dns.lihj.me
@@ -403,7 +409,6 @@ dns.huas.me
 doth.huque.com
 ordns.he.net
 ikarosalpha.xyz
-dns.ikataruto.com
 doh.immerda.ch
 dns1.in-berlin.de
 dns2.in-berlin.de
@@ -418,6 +423,7 @@ darkness.is.my.waifu.cz
 aqua.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.ishan.pw
+doh.jetcafe.org
 dns.jhangy.us
 jkdns.me
 adguard.johanliebert.top
@@ -442,6 +448,7 @@ adguard.konikoni428.com
 dns.kosan.moe
 ko-18948-tr.xyz
 dart.kpsn.org
+adblock.krctech.dev
 dns.kukal.cz
 dns.kuuhaku.moe
 kx-97795-tr.xyz
@@ -471,6 +478,7 @@ dns.technologycage.com
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
+dns.lermer.nl
 home.wriedts.de
 dns.mayx.eu.org
 doh.serverhost.no
@@ -479,6 +487,7 @@ dns.melvin2204.nl
 mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
+michelo.line.pm
 mikezhang.xyz
 netcup.mismat.ch
 addns1.m-it.ro
@@ -563,7 +572,6 @@ dns.novali.date
 dns.novg.net
 ns3.cx
 ns3.link
-dns8.org
 ns3.com
 n0.eu
 dnscache0.ns71.net
@@ -575,6 +583,7 @@ ag.apollohct.com
 ns1.opennameserver.org
 ns4.opennameserver.org
 dns.ourvau.lt
+ha.o51r15.com
 dns.paesa.es
 adguard.pangerl.it
 dns.panszelescik.pl
@@ -590,6 +599,7 @@ pluton.plan9-dns.com
 privacy.plumedns.com
 pm1239-bd.xyz
 pm9352-bd.xyz
+pm7051-br.xyz
 pooblet.co.za
 dns.pragmasec.nl
 dns.princex.net
@@ -672,12 +682,14 @@ dns.szpadel.ovh
 dns.t53.de
 tecdrive.site
 dns.telekom.de
-dns.soldier.terumi.club
 dns.thebuckners.org
+doh.thio.me
 dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
+adb.timnichollsphotography.com
 tributh.net
+dns.jst.gob.ar
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
@@ -727,7 +739,7 @@ dns.13evl.com
 123000123.xyz
 3dcosas.xyz
 dns.3wv.de
-351242444.xyz
+pro.362878.xyz
 ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com

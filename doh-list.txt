@@ -1,4 +1,4 @@
-#5f6b9b8a8cc549eb5544dbba963f635431d9783f5b151f646f224b89ce1414d3
+#41e024782dff3f9d5d46f5392e884e52e19c54796d75515f1d8ef06191a866e9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -35,6 +35,7 @@
 #	farewellkou.click
 #	nicsezcheckfbi.gov
 #	doh.li
+#	fidelius.top
 #	filipinoray.com
 #	dns.google
 #	8888.google
@@ -60,12 +61,14 @@
 #	ns3.link
 #	ns3.com
 #	n0.eu
+#	obscuro.top
 #	pashagame456.com
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
+#	portus.top
+#	revelio.top
 #	safeservedns.com
-#	slyvo.xyz
 #	squidmall.vip
 #	sunnygyl.com
 #	tecdrive.site
@@ -139,16 +142,19 @@ us1.blissdns.net
 dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
+d.bod.lol
 adguard.bonis.de
 dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
+goose.buckyfan.net
 stratus.bugz.fr
 doh1.b-cdn.net
 dns.burgas.pro
 dns.busold.ws
 dns.b612.me
+dns.cahlen.com
 doh.aaaab3n.moe
 dns.carter.me
 dns.caspervk.net
@@ -160,6 +166,7 @@ doh-02.spectrum.com
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
+dns.ch295.ru
 c.cicitt.ch
 doh.cippapp.com
 private.canadianshield.cira.ca
@@ -351,6 +358,7 @@ dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
 dns.fgbk.net
+fidelius.top
 filipinoray.com
 dns.flightspace.net
 dns.flymc.cc
@@ -406,6 +414,7 @@ darkness.is.my.waifu.cz
 aqua.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.ishan.pw
+dns.is0mino.com
 doh.jetcafe.org
 dns.jhangy.us
 jkdns.me
@@ -418,6 +427,7 @@ dns.karadag.me
 dns.kastner-online.de
 dns.kawa.tf
 dns.kebree.fr
+chr.kepegawaiandju.id
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -530,10 +540,13 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neeb.it
 dns.nefret.net
+adguard.neon0404.space
+ns.nerdytechgeeks.co.za
 dns.netraptor.com.au
 dns.netvpn.net
 dns.nextdns.io
 dns.nhtsky.com
+d.niaox.com
 dns.nick-slowinski.de
 doh.lv
 doh.nic.lv
@@ -559,6 +572,7 @@ ns3.com
 n0.eu
 dnscache0.ns71.net
 qdns02.nymterm.com
+obscuro.top
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -584,6 +598,7 @@ pm1239-bd.xyz
 pm9352-bd.xyz
 pm7051-br.xyz
 pooblet.co.za
+portus.top
 dns.pragmasec.nl
 dns.princex.net
 las-vegas.privacy-dns.pw
@@ -623,9 +638,11 @@ dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
+revelio.top
 dns.rbn.gr
 dns.roedel.cloud
 dns.rslvr.eu
+resolve2.r9x.cc
 safeservedns.com
 dns.sarilouis.com
 dns.sec511.com
@@ -642,7 +659,6 @@ dns.sindominio.net
 dns.skrep.eu
 dns.silentlybren.com
 dns.slinkyman.net
-slyvo.xyz
 dns.smartguard.io
 adg.geili.me
 squidmall.vip
@@ -695,6 +711,8 @@ dns.b72.com
 wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
+ns2.wuyouss.com
+ns3.wuyouss.com
 dns.w3ctag.org
 xholgm.top
 dns.xlion.tw
@@ -705,6 +723,7 @@ dns.xusqui.com
 yarp.lefolgoc.net
 dns.yatima.tv
 your-dns.run
+net01.youcef.io
 dns.yu.dev
 zakaria.website
 princez.uk
@@ -725,6 +744,7 @@ ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com
 dns.52306.org
+ayman-dns.731my.com
 dns.9999.sg
 ibuki.cgnat.net
 doh-2.seby.io

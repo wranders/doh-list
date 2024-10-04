@@ -1,4 +1,4 @@
-#41e024782dff3f9d5d46f5392e884e52e19c54796d75515f1d8ef06191a866e9
+#c165dff392b86ec7d660b48049b432fd4b20533dbe4fe718362efae5932d932f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -18,7 +18,6 @@
 #	bestwon203.com
 #	catchen121299.top
 #	cloudflare-dns.com
-#	cubedns.com
 #	deep-henchman-excuse.cfd
 #	doh.sb
 #	dns0.eu
@@ -213,7 +212,6 @@ dns.crystalyx.net
 dns.csaonline.de
 dns.csa-rz.de
 dns.csswg.org
-cubedns.com
 dns.cynthialabs.net
 odvr.nic.cz
 dns.daarrk.tech
@@ -226,7 +224,6 @@ deep-henchman-excuse.cfd
 doh.denypradana.com
 dns.dev-umbrellagov.com
 dns.diarbagus.id
-dns.beardic.cn
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 www.dltuykfgp.top
@@ -382,7 +379,6 @@ mita-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 nindy-is.so-gorgeo.us.kg
-performance.gosami.xyz
 dns.glf.wtf
 dnsblock.grisumedia.de
 dns.guard.io
@@ -415,7 +411,6 @@ aqua.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.ishan.pw
 dns.is0mino.com
-doh.jetcafe.org
 dns.jhangy.us
 jkdns.me
 adguard.johanliebert.top
@@ -518,7 +513,6 @@ fr-gra-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-jp-tyo-w-p-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
@@ -582,7 +576,6 @@ ns4.opennameserver.org
 dns.ourvau.lt
 ha.o51r15.com
 dns.paesa.es
-adguard.pangerl.it
 dns.panszelescik.pl
 pashagame456.com
 paulo.nom.za
@@ -632,7 +625,6 @@ dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
 dns.reckoningslug.name
-dns.repinger.com
 dns.falkenthal.org
 dnspub.restena.lu
 dns.retakecs.com
@@ -724,7 +716,6 @@ yarp.lefolgoc.net
 dns.yatima.tv
 your-dns.run
 net01.youcef.io
-dns.yu.dev
 zakaria.website
 princez.uk
 zdn.ro

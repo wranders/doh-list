@@ -1,4 +1,4 @@
-#c165dff392b86ec7d660b48049b432fd4b20533dbe4fe718362efae5932d932f
+#1d620670f0d1ea84483dfe95b88467d0d07edbdf6bd6c40d8152a7baa53ae78d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -216,7 +216,6 @@ dns.cynthialabs.net
 odvr.nic.cz
 dns.daarrk.tech
 ns.00dani.me
-6301s.dangkiem.com
 adguard.dantynes.cyou
 ns.data.haus
 dns.datenquark.de
@@ -350,7 +349,6 @@ nicsezcheckfbi.gov
 ns0.fdn.fr
 ns1.fdn.fr
 dns.pizzari.me
-dns.feelvm.dev
 dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
@@ -673,6 +671,7 @@ dns.t53.de
 tecdrive.site
 dns.telekom.de
 dns.thebuckners.org
+blocker.thethorsens.org
 doh.thio.me
 dns.tierradeayala.com
 dns.tipsy.coffee
@@ -692,6 +691,7 @@ adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
+doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
 dns.vojtat.cz

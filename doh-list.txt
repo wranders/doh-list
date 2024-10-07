@@ -1,4 +1,4 @@
-#1d620670f0d1ea84483dfe95b88467d0d07edbdf6bd6c40d8152a7baa53ae78d
+#4729e1e40677007e88879e6280901424fed31c77daa3ce2021ca23ca1bbfca6d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -7,7 +7,6 @@
 #   !!! These DoT resolvers are at a base url, so blocking these providers
 #   !!! may block regular web access to these services.
 #
-#	adblockersite.com
 #	adfreedns.top
 #	adguardhome.cloud
 #	affcdn.net
@@ -36,11 +35,13 @@
 #	doh.li
 #	fidelius.top
 #	filipinoray.com
+#	glacius.top
 #	dns.google
 #	8888.google
 #	hfgx.shop
 #	home-server.store
 #	ikarosalpha.xyz
+#	imperio.top
 #	jkdns.me
 #	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
@@ -93,7 +94,6 @@ resolver3.absolight.net
 per.adfilter.net
 syd.adfilter.net
 adl.adfilter.net
-adblockersite.com
 adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
@@ -166,7 +166,6 @@ dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
 dns.ch295.ru
-c.cicitt.ch
 doh.cippapp.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -348,7 +347,6 @@ farewellkou.click
 nicsezcheckfbi.gov
 ns0.fdn.fr
 ns1.fdn.fr
-dns.pizzari.me
 dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
@@ -367,6 +365,7 @@ dns.gamban.com
 adguard.gambini.org
 adguard.maison.gifino.fr
 dns.girino.org
+glacius.top
 dns.google
 dns64.dns.google
 8888.google
@@ -395,6 +394,7 @@ doth.huque.com
 ordns.he.net
 ikarosalpha.xyz
 doh.immerda.ch
+imperio.top
 dns1.in-berlin.de
 dns2.in-berlin.de
 dns.inclusioproject.com
@@ -591,7 +591,6 @@ pm7051-br.xyz
 pooblet.co.za
 portus.top
 dns.pragmasec.nl
-dns.princex.net
 las-vegas.privacy-dns.pw
 india.privacy-dns.pw
 united-arab-emirates.privacy-dns.pw
@@ -603,7 +602,6 @@ hungary.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 doh.archuser.org
-dns.qrtz.club
 doh.qis.io
 dns.quad9.net
 dns10.quad9.net
@@ -643,7 +641,6 @@ dns.shareworx.net
 dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
-adguard.shutgaming.net
 dns.silen.org
 dns.sindominio.net
 dns.skrep.eu
@@ -711,7 +708,6 @@ dns.xlion.tw
 dns.seia.io
 secondary.dns.seia.io
 dns.xuming.studio
-dns.xusqui.com
 yarp.lefolgoc.net
 dns.yatima.tv
 your-dns.run
@@ -730,7 +726,6 @@ dns.13evl.com
 123000123.xyz
 3dcosas.xyz
 dns.3wv.de
-pro.362878.xyz
 ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com

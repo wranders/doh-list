@@ -1,4 +1,4 @@
-#3d0d3003acb3118fe96db9d2418c87156b1e1b5f8d70e5ff8f21bd4379c03e87
+#65a9a8cb84e031fe757ea358ddb84975638bf4d992495ac5b54bb843a8c58047
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -166,7 +166,6 @@ doh-02.spectrum.com
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
-dns.ch295.ru
 doh.cippapp.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -533,7 +532,6 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neeb.it
-dns.nefret.net
 adguard.neon0404.space
 ns.nerdytechgeeks.co.za
 dns.netraptor.com.au

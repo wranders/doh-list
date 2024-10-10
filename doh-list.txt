@@ -1,4 +1,4 @@
-#65a9a8cb84e031fe757ea358ddb84975638bf4d992495ac5b54bb843a8c58047
+#8785c08e3945e991e545c441f90a52b3880e5683d9034d70e9eb5bfb7202fb67
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -154,6 +154,7 @@ doh1.b-cdn.net
 dns.burgas.pro
 dns.busold.ws
 dns.b612.me
+dns.cabbage.zone
 dns.cahlen.com
 doh.aaaab3n.moe
 dns.carter.me

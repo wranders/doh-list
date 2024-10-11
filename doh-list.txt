@@ -1,4 +1,4 @@
-#8785c08e3945e991e545c441f90a52b3880e5683d9034d70e9eb5bfb7202fb67
+#5baf90771414ab26b67eaa41eab3e57d506928d93eb59209903cced0947d2a7e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -8,7 +8,6 @@
 #   !!! may block regular web access to these services.
 #
 #	adfreedns.top
-#	adguardhome.cloud
 #	affcdn.net
 #	affsoft.cc
 #	ahoj.email
@@ -99,7 +98,6 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-adguardhome.cloud
 affcdn.net
 affsoft.cc
 blitz.ahadns.com
@@ -115,6 +113,8 @@ dns.anon.no
 secure.anudeep.me
 dns.hypercute.eu
 dns.applewebkit.dev
+arashi.net.eu.org
+ns.net.kg
 dns.arkbotech.com
 nsec.arnor.org
 dns.artikel10.org
@@ -365,7 +365,6 @@ doh.futa.gg
 dns.gamban.com
 adguard.gambini.org
 gibblets.top
-adguard.maison.gifino.fr
 dns.girino.org
 glacius.top
 dns.google

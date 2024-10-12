@@ -1,4 +1,4 @@
-#5baf90771414ab26b67eaa41eab3e57d506928d93eb59209903cced0947d2a7e
+#94d3bac02fb9831626e661787fb08c3d767dbb78a271294a1834edeb4eebd394
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -33,7 +33,6 @@
 #	nicsezcheckfbi.gov
 #	doh.li
 #	fidelius.top
-#	filipinoray.com
 #	gibblets.top
 #	glacius.top
 #	dns.google
@@ -67,7 +66,6 @@
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
-#	portus.top
 #	revelio.top
 #	safeservedns.com
 #	squidmall.vip
@@ -260,7 +258,6 @@ kiv01.dnscry.pt
 cph01.dnscry.pt
 cvt01.dnscry.pt
 dub01.dnscry.pt
-rdu01.dnscry.pt
 dus01.dnscry.pt
 eyg01.dnscry.pt
 fra01.dnscry.pt
@@ -353,7 +350,6 @@ doh.li
 doh.ffmuc.net
 dns.fgbk.net
 fidelius.top
-filipinoray.com
 dns.flightspace.net
 dns.flymc.cc
 dns.pari.network
@@ -589,7 +585,6 @@ pm1239-bd.xyz
 pm9352-bd.xyz
 pm7051-br.xyz
 pooblet.co.za
-portus.top
 dns.pragmasec.nl
 las-vegas.privacy-dns.pw
 india.privacy-dns.pw
@@ -731,7 +726,6 @@ family.5ososea.com
 kids.5ososea.com
 dns.52306.org
 dns.688447.xyz
-ayman-dns.731my.com
 dns.9999.sg
 ibuki.cgnat.net
 doh-2.seby.io

@@ -1,4 +1,4 @@
-#8b23a6d37d70e5c8164205aeb19e645e4b438fc50162deee58e2174000d64795
+#b8c30a1430b16f9cf4896d1bfe2233c7fc317c55d2aeb128c755f435b1cfd30c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -209,6 +209,8 @@ dns.crystalyx.net
 dns.csaonline.de
 dns.csa-rz.de
 dns.csswg.org
+dns.cybertonic.tech
+newd.rezyro.com
 dns.cynthialabs.net
 odvr.nic.cz
 dns.daarrk.tech
@@ -374,6 +376,7 @@ nindy-is.so-gorgeo.us.kg
 dns.glf.wtf
 dnsblock.grisumedia.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.deadsec.net
 dns.haka.se
@@ -382,6 +385,7 @@ hfgx.shop
 home-server.store
 dns.lihj.me
 dns.hoody.com
+dns.hoservers.com
 dns.hostux.net
 dns.hostux.net
 dns.huas.me
@@ -430,6 +434,7 @@ ko-18948-tr.xyz
 dart.kpsn.org
 adblock.krctech.dev
 dns.kukal.cz
+dns.kumoumi.net
 dns.kuuhaku.moe
 kx-97795-tr.xyz
 dns.k3nny.fr
@@ -451,6 +456,7 @@ dns.lobbygod.com
 lukscasino-929-tr.xyz
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+dns.luma-medien.com
 dns.l337.site
 maqgie.xyz
 dns.marasov.id
@@ -621,6 +627,7 @@ sky.rethinkdns.com
 sky.rethinkdns.com
 revelio.top
 dns.rbn.gr
+vps.robotboard.de
 dns.roedel.cloud
 dns.rslvr.eu
 safeservedns.com
@@ -700,7 +707,6 @@ dns.seia.io
 secondary.dns.seia.io
 dns.xuming.studio
 yarp.lefolgoc.net
-dns.yatima.tv
 your-dns.run
 net01.youcef.io
 zakaria.website
@@ -713,7 +719,6 @@ dns.learningman.top
 dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net
-dns.13evl.com
 123000123.xyz
 3dcosas.xyz
 dns.3wv.de

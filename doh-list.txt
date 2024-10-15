@@ -1,4 +1,4 @@
-#b8c30a1430b16f9cf4896d1bfe2233c7fc317c55d2aeb128c755f435b1cfd30c
+#56a4a0ef9cb0b48d18023e853c963629e7b70c65d42c08c9ec5d1dae557e8779
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,6 +41,7 @@
 #	home-server.store
 #	ikarosalpha.xyz
 #	imperio.top
+#	iozoi.cn
 #	jkdns.me
 #	johneldenring.lol
 #	ko-18948-tr.xyz
@@ -55,6 +56,7 @@
 #	mc-sft.cn
 #	mendozasdelivery.com
 #	mikezhang.xyz
+#	miniapp.global
 #	mnrv.trade
 #	myatris.sbs
 #	doh.lv
@@ -351,6 +353,7 @@ doh.li
 doh.ffmuc.net
 fidelius.top
 dns.flightspace.net
+resolv.flokinet.net
 dns.flymc.cc
 dns.pari.network
 doh.applied-privacy.net
@@ -402,6 +405,7 @@ dns.inforlogia.com
 qlf-doh.inria.fr
 public.dns.iij.jp
 doh.iucc.ac.il
+iozoi.cn
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 aqua.is.my.waifu.cz
@@ -477,6 +481,7 @@ testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 michelo.line.pm
 mikezhang.xyz
+miniapp.global
 netcup.mismat.ch
 addns1.m-it.ro
 doh.mmmalia.com
@@ -569,6 +574,7 @@ obscuro.top
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
+ada.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
 ns4.opennameserver.org
@@ -579,7 +585,6 @@ pashagame456.com
 paulo.nom.za
 dns.decky.eu
 dns.phillipjberry.net
-dns.pierzchlewicz.pl
 dns1.pietjacobs.be
 kronos.plan9-dns.com
 helios.plan9-dns.com
@@ -662,8 +667,10 @@ dns.superstefan.win
 dns.svoi.dev
 dns.sv-zauner.at
 dns.switch.ch
+dns.sy.st
 dns.szpadel.ovh
 dns.t53.de
+dns.taxiway.uk
 tecdrive.site
 dns.telekom.de
 dns.thebuckners.org
@@ -706,6 +713,7 @@ dns.xlion.tw
 dns.seia.io
 secondary.dns.seia.io
 dns.xuming.studio
+dns.yague.me
 yarp.lefolgoc.net
 your-dns.run
 net01.youcef.io

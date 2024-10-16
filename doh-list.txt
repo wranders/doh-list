@@ -1,4 +1,4 @@
-#56a4a0ef9cb0b48d18023e853c963629e7b70c65d42c08c9ec5d1dae557e8779
+#74d3204dde98ed7f1f8c76358b15eb4c3a1eeb649d7db99a5538ba9147e4419e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -84,6 +84,7 @@
 #	zdn.ro
 #	0ms.dev
 #	0ms.dev
+#	052419.xyz
 #	123000123.xyz
 #	3dcosas.xyz
 #
@@ -226,7 +227,6 @@ dns.dev-umbrellagov.com
 dns.diarbagus.id
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
-www.dltuykfgp.top
 dns.digitalsize.net
 doh.dns.sb
 doh.sb
@@ -383,7 +383,6 @@ dns.guardmydns.com
 dns.gutwe.in
 dns.deadsec.net
 dns.haka.se
-dns.hannielzhang.com
 hfgx.shop
 home-server.store
 dns.lihj.me
@@ -579,7 +578,6 @@ ag.apollohct.com
 ns1.opennameserver.org
 ns4.opennameserver.org
 dns.ourvau.lt
-ha.o51r15.com
 dns.paesa.es
 pashagame456.com
 paulo.nom.za
@@ -670,7 +668,6 @@ dns.switch.ch
 dns.sy.st
 dns.szpadel.ovh
 dns.t53.de
-dns.taxiway.uk
 tecdrive.site
 dns.telekom.de
 dns.thebuckners.org
@@ -727,6 +724,7 @@ dns.learningman.top
 dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net
+052419.xyz
 123000123.xyz
 3dcosas.xyz
 dns.3wv.de

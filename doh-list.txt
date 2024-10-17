@@ -1,4 +1,4 @@
-#74d3204dde98ed7f1f8c76358b15eb4c3a1eeb649d7db99a5538ba9147e4419e
+#0e375895cd134402b838d51c7d8bafbbdaa7b46101d5156c4aa838327e40b3fd
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -28,6 +28,7 @@
 #	do-39574-tr.xyz
 #	dukun.de
 #	xn--durhre-yxa.de
+#	dvgarm.com
 #	eliatofani.ovh
 #	farewellkou.click
 #	nicsezcheckfbi.gov
@@ -112,6 +113,7 @@ dns.aa.net.uk
 doh.angry.im
 dns.anon.no
 secure.anudeep.me
+ad.anym0re.ru
 dns.hypercute.eu
 dns.applewebkit.dev
 arashi.net.eu.org
@@ -323,6 +325,7 @@ do-39574-tr.xyz
 agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de
+dvgarm.com
 dns.d94.xyz
 dns.d96.info
 adguard.easez.net
@@ -623,7 +626,7 @@ dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
 dns.reckoningslug.name
-dns.falkenthal.org
+dns.repressoh.it
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
@@ -727,7 +730,6 @@ dns.0x55.net
 052419.xyz
 123000123.xyz
 3dcosas.xyz
-dns.3wv.de
 ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com

@@ -1,4 +1,4 @@
-#0e375895cd134402b838d51c7d8bafbbdaa7b46101d5156c4aa838327e40b3fd
+#64eb9b3d900e4af904d63c7946a1de9675a2bb83ebad289a2fd9bd150bc41f39
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -380,7 +380,6 @@ yussy-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 nindy-is.so-gorgeo.us.kg
 dns.glf.wtf
-dnsblock.grisumedia.de
 dns.guard.io
 dns.guardmydns.com
 dns.gutwe.in
@@ -569,7 +568,6 @@ ns3.cx
 ns3.link
 ns3.com
 n0.eu
-dnscache0.ns71.net
 dns.numerus.com
 qdns02.nymterm.com
 obscuro.top

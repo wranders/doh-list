@@ -1,4 +1,4 @@
-#64eb9b3d900e4af904d63c7946a1de9675a2bb83ebad289a2fd9bd150bc41f39
+#40551d87669ee3656b695e9bd89606718c21047089b11ad489ced19c10dfef50
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -11,6 +11,7 @@
 #	affcdn.net
 #	affsoft.cc
 #	ahoj.email
+#	antstars.win
 #	atris.cyou
 #	bazooki-infra.dev
 #	bestwon203.com
@@ -112,6 +113,7 @@ doh.kel.pe
 dns.aa.net.uk
 doh.angry.im
 dns.anon.no
+antstars.win
 secure.anudeep.me
 ad.anym0re.ru
 dns.hypercute.eu
@@ -357,6 +359,7 @@ doh.ffmuc.net
 fidelius.top
 dns.flightspace.net
 resolv.flokinet.net
+dns.floriantinney.de
 dns.flymc.cc
 dns.pari.network
 doh.applied-privacy.net
@@ -714,7 +717,6 @@ dns.xuming.studio
 dns.yague.me
 yarp.lefolgoc.net
 your-dns.run
-net01.youcef.io
 zakaria.website
 princez.uk
 zdn.ro

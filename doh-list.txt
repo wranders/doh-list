@@ -1,4 +1,4 @@
-#40551d87669ee3656b695e9bd89606718c21047089b11ad489ced19c10dfef50
+#767f7f6daf6d386f66fdd91073cf561cf1d49c08aa28ffecf6b0ffbdc2603128
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -44,7 +44,6 @@
 #	ikarosalpha.xyz
 #	imperio.top
 #	iozoi.cn
-#	jkdns.me
 #	johneldenring.lol
 #	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
@@ -417,7 +416,6 @@ yunyun.is.my.waifu.cz
 dns.ishan.pw
 dns.is0mino.com
 dns.jhangy.us
-jkdns.me
 adguard.johanliebert.top
 johneldenring.lol
 dns.jupitrdns.com
@@ -479,7 +477,6 @@ dns.mayx.eu.org
 doh.serverhost.no
 mc-sft.cn
 adguard.meddy94.de
-dns.melvin2204.nl
 mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz

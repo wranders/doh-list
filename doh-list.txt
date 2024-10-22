@@ -1,4 +1,4 @@
-#767f7f6daf6d386f66fdd91073cf561cf1d49c08aa28ffecf6b0ffbdc2603128
+#96cc7490063ecb08ac5673de99d9eee440801f746a85464c9e1e509406f98c57
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -67,6 +67,7 @@
 #	n0.eu
 #	obscuro.top
 #	pashagame456.com
+#	plushub.pro
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
@@ -281,7 +282,6 @@ lon01.dnscry.pt
 mad01.dnscry.pt
 mil01.dnscry.pt
 bom01.dnscry.pt
-nyc01.dnscry.pt
 nue01.dnscry.pt
 omr01.dnscry.pt
 par01.dnscry.pt
@@ -341,7 +341,6 @@ dns.elemental.software
 eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
-dns.engineer.web.id
 doh.ersei.net
 doh.excdn.eu.org
 dns.faked.org
@@ -589,6 +588,7 @@ kronos.plan9-dns.com
 helios.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
+plushub.pro
 pm1239-bd.xyz
 pm9352-bd.xyz
 pm7051-br.xyz

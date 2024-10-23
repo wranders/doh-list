@@ -1,4 +1,4 @@
-#96cc7490063ecb08ac5673de99d9eee440801f746a85464c9e1e509406f98c57
+#a461d32d9a2992b664fde001724eb08c375d07672ae28ef73b4742c8963d2284
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -43,7 +43,6 @@
 #	home-server.store
 #	ikarosalpha.xyz
 #	imperio.top
-#	iozoi.cn
 #	johneldenring.lol
 #	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
@@ -77,6 +76,7 @@
 #	sunnygyl.com
 #	tecdrive.site
 #	tributh.net
+#	tujenasnaszato.xyz
 #	tuskythehusky.tech
 #	vorlif.org
 #	wikimedia-dns.org
@@ -407,7 +407,6 @@ dns.inforlogia.com
 qlf-doh.inria.fr
 public.dns.iij.jp
 doh.iucc.ac.il
-iozoi.cn
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 aqua.is.my.waifu.cz
@@ -683,6 +682,7 @@ resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
+tujenasnaszato.xyz
 tuskythehusky.tech
 dns.twnic.tw
 doh.tiar.app

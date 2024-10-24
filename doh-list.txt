@@ -1,4 +1,4 @@
-#a461d32d9a2992b664fde001724eb08c375d07672ae28ef73b4742c8963d2284
+#88994b92b853b144e1932237ce1ac2353759eb43609f110731b378e292f7367e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,7 +15,6 @@
 #	atris.cyou
 #	bazooki-infra.dev
 #	bestwon203.com
-#	catchen121299.top
 #	cloudflare-dns.com
 #	deep-henchman-excuse.cfd
 #	doh.sb
@@ -43,7 +42,6 @@
 #	home-server.store
 #	ikarosalpha.xyz
 #	imperio.top
-#	johneldenring.lol
 #	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
 #	lesuo.top
@@ -70,6 +68,21 @@
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
+#	polisitogel.diy
+#	polisitogel.living
+#	polisitogel.beauty
+#	polisitogel.cruises
+#	polisitogel.construction
+#	polisitogel.green
+#	polisitogel.webcam
+#	polisitogel.accountant
+#	polisitogel.hair
+#	polisitogel.luxe
+#	polisitogel.properties
+#	polisitogel.limo
+#	polisitogel.show
+#	polisitogel.contractors
+#	polisitogel.builders
 #	revelio.top
 #	safeservedns.com
 #	squidmall.vip
@@ -164,7 +177,6 @@ dns.cahlen.com
 doh.aaaab3n.moe
 dns.carter.me
 dns.caspervk.net
-catchen121299.top
 dns.cctld.kg
 dns.cert.ee
 doh-01.spectrum.com
@@ -415,7 +427,6 @@ dns.ishan.pw
 dns.is0mino.com
 dns.jhangy.us
 adguard.johanliebert.top
-johneldenring.lol
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kapite.in
@@ -591,6 +602,21 @@ plushub.pro
 pm1239-bd.xyz
 pm9352-bd.xyz
 pm7051-br.xyz
+polisitogel.diy
+polisitogel.living
+polisitogel.beauty
+polisitogel.cruises
+polisitogel.construction
+polisitogel.green
+polisitogel.webcam
+polisitogel.accountant
+polisitogel.hair
+polisitogel.luxe
+polisitogel.properties
+polisitogel.limo
+polisitogel.show
+polisitogel.contractors
+polisitogel.builders
 pooblet.co.za
 dns.pragmasec.nl
 las-vegas.privacy-dns.pw
@@ -718,7 +744,6 @@ zakaria.website
 princez.uk
 zdn.ro
 doh.zknt.org
-dns.learningman.top
 0ms.dev
 0ms.dev
 dns.0ooo.icu

@@ -1,4 +1,4 @@
-#88994b92b853b144e1932237ce1ac2353759eb43609f110731b378e292f7367e
+#7a8dbb76ec19ecfabf0f85e4360d16eae4e7380ce977e99c175495c3dd045fac
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -146,7 +146,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 dns.a47.me
-bahopir188.dnshome.de
 bazooki-infra.dev
 dns.belnet.be
 dns.bmwhocking.com
@@ -238,6 +237,7 @@ adguard.dantynes.cyou
 ns.data.haus
 dns.datenquark.de
 deep-henchman-excuse.cfd
+dns.delpirou.fr
 doh.denypradana.com
 dns.dev-umbrellagov.com
 dns.diarbagus.id
@@ -392,6 +392,9 @@ mita-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 nindy-is.so-gorgeo.us.kg
+mecca-is.so-gorgeo.us.kg
+myrra-is.so-gorgeo.us.kg
+nora-is.so-gorgeo.us.kg
 dns.glf.wtf
 dns.guard.io
 dns.guardmydns.com
@@ -405,6 +408,7 @@ dns.hoody.com
 dns.hoservers.com
 dns.hostux.net
 dns.hostux.net
+dns.hshoe.cn
 dns.huas.me
 doth.huque.com
 ordns.he.net

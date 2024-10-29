@@ -1,4 +1,4 @@
-#7a8dbb76ec19ecfabf0f85e4360d16eae4e7380ce977e99c175495c3dd045fac
+#8b47c3cff076e0e4b6b1bd27333a56b5324778223be142244c004ca854538a27
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -44,7 +44,6 @@
 #	imperio.top
 #	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
-#	lesuo.top
 #	loadlow.me
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
@@ -57,6 +56,7 @@
 #	miniapp.global
 #	mnrv.trade
 #	myatris.sbs
+#	najiakeji.top
 #	doh.lv
 #	ns3.cx
 #	ns3.link
@@ -64,7 +64,6 @@
 #	n0.eu
 #	obscuro.top
 #	pashagame456.com
-#	plushub.pro
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
@@ -139,7 +138,6 @@ dns.artikel10.org
 doh.asagiri.moe
 dns.asterimoon.com
 atris.cyou
-dns.auapi.fun
 secure.avastdns.com
 awan.ftp.sh
 awan.ftp.sh
@@ -378,7 +376,6 @@ dns.froth.zone
 adguard.frutuozo.com.br
 doh.futa.gg
 dns.gamban.com
-adguard.gambini.org
 gibblets.top
 dns.girino.org
 glacius.top
@@ -428,9 +425,7 @@ darkness.is.my.waifu.cz
 aqua.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.ishan.pw
-dns.is0mino.com
 dns.jhangy.us
-adguard.johanliebert.top
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kapite.in
@@ -438,7 +433,6 @@ dns.karadag.me
 dns.kastner-online.de
 dns.kawa.tf
 dns.kebree.fr
-chr.kepegawaiandju.id
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -461,7 +455,6 @@ doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
 dns.lepilleur.com
-lesuo.top
 dns.levonet.sk
 dns.liberador.net
 doh.libredns.gr
@@ -518,6 +511,7 @@ paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
 dns.mzjtechnology.com
+najiakeji.top
 dns.nako.kr
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -602,7 +596,6 @@ kronos.plan9-dns.com
 helios.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
-plushub.pro
 pm1239-bd.xyz
 pm9352-bd.xyz
 pm7051-br.xyz

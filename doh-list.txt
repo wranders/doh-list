@@ -1,4 +1,4 @@
-#8b47c3cff076e0e4b6b1bd27333a56b5324778223be142244c004ca854538a27
+#1fb3b2b81bd7a6fb0db1ff1ad93c7f5533da0c90497076a4f002e1370e9c60ec
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -402,7 +402,6 @@ hfgx.shop
 home-server.store
 dns.lihj.me
 dns.hoody.com
-dns.hoservers.com
 dns.hostux.net
 dns.hostux.net
 dns.hshoe.cn
@@ -480,7 +479,6 @@ dns.mateo.ovh
 dns.lermer.nl
 home.wriedts.de
 dns.mayx.eu.org
-doh.serverhost.no
 mc-sft.cn
 adguard.meddy94.de
 mendozasdelivery.com
@@ -584,6 +582,8 @@ dns.oliviertv.co.za
 ada.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
+ns2.opennameserver.org
+ns3.opennameserver.org
 ns4.opennameserver.org
 dns.ourvau.lt
 dns.paesa.es

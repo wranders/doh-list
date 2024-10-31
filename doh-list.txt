@@ -1,4 +1,4 @@
-#1fb3b2b81bd7a6fb0db1ff1ad93c7f5533da0c90497076a4f002e1370e9c60ec
+#8d1359acb268ec788966f81a2d87ae0fb6551717e6111ad233f6167fc32c9578
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -120,7 +120,6 @@ blitz.ahadns.com
 doh.nl.ahadns.net
 ahoj.email
 dns.alidns.com
-adguard.alu.dog
 doh.kel.pe
 dns.aa.net.uk
 doh.angry.im
@@ -584,7 +583,6 @@ ag.apollohct.com
 ns1.opennameserver.org
 ns2.opennameserver.org
 ns3.opennameserver.org
-ns4.opennameserver.org
 dns.ourvau.lt
 dns.paesa.es
 pashagame456.com
@@ -646,7 +644,6 @@ dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
 dns.reckoningslug.name
-dns.repressoh.it
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com

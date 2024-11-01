@@ -1,4 +1,4 @@
-#8d1359acb268ec788966f81a2d87ae0fb6551717e6111ad233f6167fc32c9578
+#63c5576cf57510833921f18ca12b274af14f1c8854105276198ce4fdd90332d5
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -28,7 +28,6 @@
 #	do-39574-tr.xyz
 #	dukun.de
 #	xn--durhre-yxa.de
-#	dvgarm.com
 #	eliatofani.ovh
 #	farewellkou.click
 #	nicsezcheckfbi.gov
@@ -90,8 +89,10 @@
 #	tributh.net
 #	tujenasnaszato.xyz
 #	tuskythehusky.tech
+#	venum.space
 #	vorlif.org
 #	wikimedia-dns.org
+#	xbcpb668.com
 #	your-dns.run
 #	zakaria.website
 #	princez.uk
@@ -335,7 +336,6 @@ do-39574-tr.xyz
 agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de
-dvgarm.com
 dns.d94.xyz
 dns.d96.info
 adguard.easez.net
@@ -712,6 +712,7 @@ adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
+venum.space
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
@@ -727,6 +728,7 @@ dns-2.wil.cloud
 ns2.wuyouss.com
 ns3.wuyouss.com
 dns.w3ctag.org
+xbcpb668.com
 dns.xlion.tw
 dns.seia.io
 secondary.dns.seia.io

@@ -1,4 +1,4 @@
-#63c5576cf57510833921f18ca12b274af14f1c8854105276198ce4fdd90332d5
+#71981ee7c488fbe52b24b4a62b883e1d66b82e0c4d046808907b5640b82fe445
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -404,7 +404,6 @@ dns.hoody.com
 dns.hostux.net
 dns.hostux.net
 dns.hshoe.cn
-dns.huas.me
 doth.huque.com
 ordns.he.net
 ikarosalpha.xyz

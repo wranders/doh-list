@@ -1,4 +1,4 @@
-#71981ee7c488fbe52b24b4a62b883e1d66b82e0c4d046808907b5640b82fe445
+#4c9610e265dc2e4c2c161c9ef2c3e1fd825e908548c244ac68437eee71ee372a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -81,6 +81,7 @@
 #	polisitogel.show
 #	polisitogel.contractors
 #	polisitogel.builders
+#	qqmcfw.tech
 #	revelio.top
 #	safeservedns.com
 #	squidmall.vip
@@ -102,6 +103,7 @@
 #	052419.xyz
 #	123000123.xyz
 #	3dcosas.xyz
+#	3jjxxl.tech
 #
 
 resolver1.absolight.net
@@ -264,7 +266,6 @@ de01.dns4me.net
 jp01.dns4me.net
 dns.dns-53.us
 dns.dns-53.com
-dns.dns-53.uk
 ams01.dnscry.pt
 abn01.dnscry.pt
 ath01.dnscry.pt
@@ -624,6 +625,7 @@ hungary.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 doh.archuser.org
+qqmcfw.tech
 doh.qis.io
 dns.quad9.net
 dns10.quad9.net
@@ -651,7 +653,6 @@ revelio.top
 dns.rbn.gr
 vps.robotboard.de
 dns.roedel.cloud
-dns.rslvr.eu
 safeservedns.com
 dns.sarilouis.com
 dns.sec511.com
@@ -747,6 +748,7 @@ dns.0x55.net
 052419.xyz
 123000123.xyz
 3dcosas.xyz
+3jjxxl.tech
 ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com

@@ -1,4 +1,4 @@
-#4c9610e265dc2e4c2c161c9ef2c3e1fd825e908548c244ac68437eee71ee372a
+#835d388d90aabe5948a94af4a0f912260eac9aa5096362174b9b8e59b84a681b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -87,7 +87,6 @@
 #	squidmall.vip
 #	sunnygyl.com
 #	tecdrive.site
-#	tributh.net
 #	tujenasnaszato.xyz
 #	tuskythehusky.tech
 #	venum.space
@@ -221,7 +220,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-doh.cornes.me
 dns.criena.net
 dns.crystalyx.net
 dns.csaonline.de
@@ -343,7 +341,6 @@ adguard.easez.net
 doh.apad.pro
 doh.eddi.net
 dns.edgeburnmedia.com
-dns.edison42.dev
 dns.editechstudio.com
 dns.efficientdocuments.com
 dns.henek.ovh
@@ -697,7 +694,6 @@ dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 adb.timnichollsphotography.com
-tributh.net
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net

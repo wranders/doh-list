@@ -1,4 +1,4 @@
-#835d388d90aabe5948a94af4a0f912260eac9aa5096362174b9b8e59b84a681b
+#b3f85d2c12d33f7e36eaf94850ce9a83687c828d049803daebc68b07844e77f5
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -89,6 +89,7 @@
 #	tecdrive.site
 #	tujenasnaszato.xyz
 #	tuskythehusky.tech
+#	tri-dns.net
 #	venum.space
 #	vorlif.org
 #	wikimedia-dns.org
@@ -277,6 +278,7 @@ dub01.dnscry.pt
 dus01.dnscry.pt
 eyg01.dnscry.pt
 fra01.dnscry.pt
+fra02.dnscry.pt
 fjr01.dnscry.pt
 gva01.dnscry.pt
 han01.dnscry.pt
@@ -284,6 +286,7 @@ hel01.dnscry.pt
 sgn01.dnscry.pt
 ist01.dnscry.pt
 jkt01.dnscry.pt
+jhb01.dnscry.pt
 hrk01.dnscry.pt
 las01.dnscry.pt
 lim01.dnscry.pt
@@ -297,6 +300,7 @@ par01.dnscry.pt
 phl01.dnscry.pt
 phx01.dnscry.pt
 pdx01.dnscry.pt
+rdd01.dnscry.pt
 slc01.dnscry.pt
 trf01.dnscry.pt
 sjc01.dnscry.pt
@@ -702,6 +706,7 @@ tujenasnaszato.xyz
 tuskythehusky.tech
 dns.twnic.tw
 doh.tiar.app
+tri-dns.net
 anycast.uncensoreddns.org
 dns.unx.io
 adfree.usableprivacy.net

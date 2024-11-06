@@ -1,4 +1,4 @@
-#b3f85d2c12d33f7e36eaf94850ce9a83687c828d049803daebc68b07844e77f5
+#40a672ac3cb878309f7e698214fba35343f79beddbc816596687c83341116340
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -230,7 +230,6 @@ dns.cybertonic.tech
 newd.rezyro.com
 dns.cynthialabs.net
 odvr.nic.cz
-dns.daarrk.tech
 ns.00dani.me
 adguard.dantynes.cyou
 ns.data.haus
@@ -484,7 +483,6 @@ adguard.meddy94.de
 mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
-michelo.line.pm
 mikezhang.xyz
 miniapp.global
 netcup.mismat.ch

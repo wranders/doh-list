@@ -1,4 +1,4 @@
-#40a672ac3cb878309f7e698214fba35343f79beddbc816596687c83341116340
+#a211500c2363dcfa2b417c1192db960a14274304057abadf2abdef2f320b4d36
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -691,7 +691,6 @@ tecdrive.site
 dns.telekom.de
 dns.thebuckners.org
 blocker.thethorsens.org
-doh.thio.me
 dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
@@ -719,7 +718,6 @@ dns.vojtat.cz
 vorlif.org
 dns.wang.art
 abel.waringer-atg.de
-doh.webnmail.de
 dns.b72.com
 wikimedia-dns.org
 dns-1.wil.cloud

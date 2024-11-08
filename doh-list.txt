@@ -1,4 +1,4 @@
-#a211500c2363dcfa2b417c1192db960a14274304057abadf2abdef2f320b4d36
+#9096d6feb312ad5247ccb90aa3f22e841649a63bc49bcdf8c4016c0f9873cb3f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -43,6 +43,7 @@
 #	imperio.top
 #	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
+#	lewsha.lol
 #	loadlow.me
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
@@ -365,7 +366,6 @@ dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
 fidelius.top
-dns.flightspace.net
 resolv.flokinet.net
 dns.floriantinney.de
 dns.flymc.cc
@@ -435,7 +435,6 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
-dns.keviland.com
 adg.khon.dev
 doh.kidzonet.io
 dns.koala.us.to
@@ -454,6 +453,7 @@ dns.lars-lehmann.net
 eu1.dns.lavate.ch
 dns.lepilleur.com
 dns.levonet.sk
+lewsha.lol
 dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
@@ -704,6 +704,7 @@ tuskythehusky.tech
 dns.twnic.tw
 doh.tiar.app
 tri-dns.net
+eu.tri-dns.net
 anycast.uncensoreddns.org
 dns.unx.io
 adfree.usableprivacy.net

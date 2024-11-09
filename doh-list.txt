@@ -1,4 +1,4 @@
-#9096d6feb312ad5247ccb90aa3f22e841649a63bc49bcdf8c4016c0f9873cb3f
+#65afdeb3ec404a902a017aae989fcb34c85d0fd7a5bc44770acd9cb69f9a4976
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,6 +15,7 @@
 #	atris.cyou
 #	bazooki-infra.dev
 #	bestwon203.com
+#	cloudbenders.fun
 #	cloudflare-dns.com
 #	deep-henchman-excuse.cfd
 #	doh.sb
@@ -77,7 +78,6 @@
 #	polisitogel.accountant
 #	polisitogel.hair
 #	polisitogel.luxe
-#	polisitogel.properties
 #	polisitogel.limo
 #	polisitogel.show
 #	polisitogel.contractors
@@ -160,7 +160,6 @@ us1.blissdns.net
 dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
-d.bod.lol
 adguard.bonis.de
 dns.braene.com
 dns.brahma.world
@@ -194,6 +193,7 @@ doh.umbrella.com
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
+cloudbenders.fun
 cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
@@ -344,15 +344,12 @@ dns.d96.info
 adguard.easez.net
 doh.apad.pro
 doh.eddi.net
-dns.edgeburnmedia.com
-dns.editechstudio.com
 dns.efficientdocuments.com
 dns.henek.ovh
 dns.elemental.software
 eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
-doh.ersei.net
 doh.excdn.eu.org
 dns.faked.org
 dnsvps.familiamv.net
@@ -429,7 +426,6 @@ ad.justincounts.com
 dns.kapite.in
 dns.karadag.me
 dns.kastner-online.de
-dns.kawa.tf
 dns.kebree.fr
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -478,6 +474,7 @@ dns.mateo.ovh
 dns.lermer.nl
 home.wriedts.de
 dns.mayx.eu.org
+dns.mbrjun.cn
 mc-sft.cn
 adguard.meddy94.de
 mendozasdelivery.com
@@ -552,6 +549,8 @@ dns.nick-slowinski.de
 doh.lv
 doh.nic.lv
 adguard-kartoffel.zernico.de
+doh-random-upstream.nicolas-dorriere.fr
+doh-own-recursion.nicolas-dorriere.fr
 nightlymoon.us.kg
 nightlymoon.us.kg
 ns.nwps.fi
@@ -560,11 +559,9 @@ dns.ningkelle.id
 family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
-dns.nodoa.me
 kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
-2.dns.noridev.moe
 dns.novali.date
 dns.novg.net
 ns3.cx
@@ -606,7 +603,6 @@ polisitogel.webcam
 polisitogel.accountant
 polisitogel.hair
 polisitogel.luxe
-polisitogel.properties
 polisitogel.limo
 polisitogel.show
 polisitogel.contractors
@@ -654,7 +650,6 @@ vps.robotboard.de
 dns.roedel.cloud
 safeservedns.com
 dns.sarilouis.com
-dns.sec511.com
 adguard.senthil.us
 dns.seiffert.me
 dns.sev.monster

@@ -1,4 +1,4 @@
-#65afdeb3ec404a902a017aae989fcb34c85d0fd7a5bc44770acd9cb69f9a4976
+#4d52e76dfc0462ede744806d79329f96f22290e1958d896ab8ec90279c2c113f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -64,6 +64,7 @@
 #	ns3.com
 #	n0.eu
 #	obscuro.top
+#	okado.online
 #	pashagame456.com
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
@@ -140,6 +141,7 @@ nsec.arnor.org
 dns.artikel10.org
 doh.asagiri.moe
 dns.asterimoon.com
+dns.asysec.com
 atris.cyou
 secure.avastdns.com
 awan.ftp.sh
@@ -200,7 +202,6 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns.comff.net
-dns.comss.one
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -276,7 +277,6 @@ cph01.dnscry.pt
 cvt01.dnscry.pt
 dub01.dnscry.pt
 dus01.dnscry.pt
-eyg01.dnscry.pt
 fra01.dnscry.pt
 fra02.dnscry.pt
 fjr01.dnscry.pt
@@ -480,7 +480,10 @@ adguard.meddy94.de
 mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
+dns.michelo.cl
+mickedi.isgood.host
 mikezhang.xyz
+dns.mihalcea.eu
 miniapp.global
 netcup.mismat.ch
 addns1.m-it.ro
@@ -573,17 +576,19 @@ qdns02.nymterm.com
 obscuro.top
 dns.odinpl.com
 dns.ofdoom.net
+okado.online
 dns.oliviertv.co.za
 ada.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
 ns2.opennameserver.org
 ns3.opennameserver.org
-dns.ourvau.lt
 dns.paesa.es
 pashagame456.com
 paulo.nom.za
 dns.decky.eu
+dns.peb-schmidt.de
+dns.petqa.ru
 dns.phillipjberry.net
 dns1.pietjacobs.be
 kronos.plan9-dns.com
@@ -620,6 +625,7 @@ hungary.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 doh.archuser.org
+v.qdev.cc
 qqmcfw.tech
 doh.qis.io
 dns.quad9.net
@@ -637,7 +643,6 @@ security.rabbitdns.org
 family.rabbitdns.org
 ns.ral9005.org
 dns.redhosting.com.ar
-dns.redvau.lt
 dns.reitmeier.me
 dns.reckoningslug.name
 dnspub.restena.lu
@@ -650,8 +655,9 @@ vps.robotboard.de
 dns.roedel.cloud
 safeservedns.com
 dns.sarilouis.com
-adguard.senthil.us
 dns.seiffert.me
+adguard.senthil.us
+dns1.serdcebolit.ru
 dns.sev.monster
 dns.shareworx.net
 dns.sheggi.ch
@@ -676,12 +682,14 @@ resolver.sunet.se
 sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
+dns.surobe.com
 dns.svoi.dev
 dns.sv-zauner.at
 dns.switch.ch
 dns.sy.st
 dns.szpadel.ovh
 dns.t53.de
+adguard.taxiora.tn
 tecdrive.site
 dns.telekom.de
 dns.thebuckners.org
@@ -729,6 +737,7 @@ dns.xuming.studio
 dns.yague.me
 yarp.lefolgoc.net
 your-dns.run
+dns.yuu-g.net
 zakaria.website
 princez.uk
 zdn.ro

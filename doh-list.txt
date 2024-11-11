@@ -1,4 +1,4 @@
-#4d52e76dfc0462ede744806d79329f96f22290e1958d896ab8ec90279c2c113f
+#ee7fb9301cf60e39deaf8c7e68d96d0a707f2078262775612f1a20c2e44d21dc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -38,6 +38,7 @@
 #	glacius.top
 #	dns.google
 #	8888.google
+#	greatideasforlife.lol
 #	hfgx.shop
 #	home-server.store
 #	ikarosalpha.xyz
@@ -390,6 +391,7 @@ mecca-is.so-gorgeo.us.kg
 myrra-is.so-gorgeo.us.kg
 nora-is.so-gorgeo.us.kg
 dns.glf.wtf
+greatideasforlife.lol
 dns.guard.io
 dns.guardmydns.com
 dns.gutwe.in
@@ -483,7 +485,6 @@ dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 mickedi.isgood.host
 mikezhang.xyz
-dns.mihalcea.eu
 miniapp.global
 netcup.mismat.ch
 addns1.m-it.ro
@@ -491,7 +492,6 @@ doh.mmmalia.com
 dns.mnet-online.de
 mnrv.trade
 dnstls.mobik.com
-nue2.moderateinfra.net
 dns.momou.ch
 dns.momou.ch
 dns.momou.ch
@@ -581,7 +581,6 @@ dns.oliviertv.co.za
 ada.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
-ns2.opennameserver.org
 ns3.opennameserver.org
 dns.paesa.es
 pashagame456.com
@@ -656,6 +655,7 @@ dns.roedel.cloud
 safeservedns.com
 dns.sarilouis.com
 dns.seiffert.me
+senpai.pp.ua
 adguard.senthil.us
 dns1.serdcebolit.ru
 dns.sev.monster

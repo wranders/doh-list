@@ -1,4 +1,4 @@
-#9b709b4594d30113ef96974897c8a7db269b4fffd2655d63f6dd0a7ea86f43cc
+#926ab43e60e6cfdcbee8febfa9957a4158e74323fb2b1723ad2fcdfaf2700b75
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -551,7 +551,6 @@ us-saj-w-p-1.nashkan.net
 dns.neeb.it
 adguard.neon0404.space
 ns.nerdytechgeeks.co.za
-dns.netraptor.com.au
 dns.netvpn.net
 dns.nextdns.io
 dns.nhtsky.com

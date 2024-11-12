@@ -1,4 +1,4 @@
-#ee7fb9301cf60e39deaf8c7e68d96d0a707f2078262775612f1a20c2e44d21dc
+#9b709b4594d30113ef96974897c8a7db269b4fffd2655d63f6dd0a7ea86f43cc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,7 +39,6 @@
 #	dns.google
 #	8888.google
 #	greatideasforlife.lol
-#	hfgx.shop
 #	home-server.store
 #	ikarosalpha.xyz
 #	imperio.top
@@ -93,7 +92,6 @@
 #	tujenasnaszato.xyz
 #	tuskythehusky.tech
 #	tri-dns.net
-#	venum.space
 #	vorlif.org
 #	wikimedia-dns.org
 #	xbcpb668.com
@@ -271,7 +269,10 @@ ams01.dnscry.pt
 abn01.dnscry.pt
 ath01.dnscry.pt
 atl01.dnscry.pt
+bog01.dnscry.pt
 bts01.dnscry.pt
+bne01.dnscry.pt
+bru01.dnscry.pt
 ord01.dnscry.pt
 kiv01.dnscry.pt
 cph01.dnscry.pt
@@ -282,15 +283,19 @@ fra01.dnscry.pt
 fra02.dnscry.pt
 fjr01.dnscry.pt
 gva01.dnscry.pt
+haf01.dnscry.pt
 han01.dnscry.pt
 hel01.dnscry.pt
 sgn01.dnscry.pt
+isb01.dnscry.pt
 ist01.dnscry.pt
 jkt01.dnscry.pt
 jhb01.dnscry.pt
 hrk01.dnscry.pt
 las01.dnscry.pt
 lim01.dnscry.pt
+lim02.dnscry.pt
+lis01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
 mil01.dnscry.pt
@@ -313,15 +318,19 @@ sof01.dnscry.pt
 geg01.dnscry.pt
 sto01.dnscry.pt
 syd01.dnscry.pt
+syd02.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
 tsm01.dnscry.pt
+tbs01.dnscry.pt
+tlv01.dnscry.pt
 tyo02.dnscry.pt
 yyz01.dnscry.pt
 yvr01.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
+evn01.dnscry.pt
 dns1.dnscrypt.ca
 dnsforge.de
 clean.dnsforge.de
@@ -387,6 +396,7 @@ mita-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 nindy-is.so-gorgeo.us.kg
+sitha-is.so-gorgeo.us.kg
 mecca-is.so-gorgeo.us.kg
 myrra-is.so-gorgeo.us.kg
 nora-is.so-gorgeo.us.kg
@@ -397,7 +407,6 @@ dns.guardmydns.com
 dns.gutwe.in
 dns.deadsec.net
 dns.haka.se
-hfgx.shop
 home-server.store
 dns.lihj.me
 dns.hoody.com
@@ -445,7 +454,6 @@ dns.kukal.cz
 dns.kumoumi.net
 dns.kuuhaku.moe
 kx-97795-tr.xyz
-dns.k3nny.fr
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
@@ -655,7 +663,6 @@ dns.roedel.cloud
 safeservedns.com
 dns.sarilouis.com
 dns.seiffert.me
-senpai.pp.ua
 adguard.senthil.us
 dns1.serdcebolit.ru
 dns.sev.monster
@@ -714,7 +721,6 @@ adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
-venum.space
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua

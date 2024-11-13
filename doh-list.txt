@@ -1,4 +1,4 @@
-#926ab43e60e6cfdcbee8febfa9957a4158e74323fb2b1723ad2fcdfaf2700b75
+#aa450de18d5cf259455c7645a6ef9c91bc8256fce57ec8f8211cece2de399e88
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -409,6 +409,7 @@ dns.deadsec.net
 dns.haka.se
 home-server.store
 dns.lihj.me
+doh.hajekj.net
 dns.hoody.com
 dns.hostux.net
 dns.hostux.net
@@ -531,7 +532,6 @@ gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 kz-pav-w-p-1.nashkan.net
-nl-dro-w-f-1.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
@@ -727,7 +727,6 @@ dns.vojtat.cz
 vorlif.org
 dns.wang.art
 abel.waringer-atg.de
-dns.b72.com
 wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud

@@ -1,4 +1,4 @@
-#aa450de18d5cf259455c7645a6ef9c91bc8256fce57ec8f8211cece2de399e88
+#dc7c540db6c7a4a80a432bb5d08d9c710324ff6abf6727f8cef73a09a8bbf607
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -151,7 +151,6 @@ dns.a47.me
 bazooki-infra.dev
 dns.belnet.be
 dns.bmwhocking.com
-dns.bermeitinger.eu
 bestwon203.com
 dns.bitdefender.net
 dns.bitservices.io
@@ -578,7 +577,6 @@ ns3.cx
 ns3.link
 ns3.com
 n0.eu
-dns.numerus.com
 qdns02.nymterm.com
 obscuro.top
 dns.odinpl.com
@@ -660,6 +658,7 @@ dns.rbn.gr
 vps.robotboard.de
 dns.roedel.cloud
 safeservedns.com
+dns.salonia.it
 dns.sarilouis.com
 dns.seiffert.me
 adguard.senthil.us
@@ -719,7 +718,6 @@ dns.unx.io
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
-dns.vault81.de
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua

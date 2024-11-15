@@ -1,4 +1,4 @@
-#dc7c540db6c7a4a80a432bb5d08d9c710324ff6abf6727f8cef73a09a8bbf607
+#dc3334502987a607f0b264b8c2c771728e2c85111c5f3316e2ea3c873404c738
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -11,7 +11,6 @@
 #	affcdn.net
 #	affsoft.cc
 #	ahoj.email
-#	antstars.win
 #	atris.cyou
 #	bazooki-infra.dev
 #	bestwon203.com
@@ -42,6 +41,7 @@
 #	home-server.store
 #	ikarosalpha.xyz
 #	imperio.top
+#	kavkaz.monster
 #	ko-18948-tr.xyz
 #	kx-97795-tr.xyz
 #	lewsha.lol
@@ -49,6 +49,19 @@
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
 #	lukscasino-542-tr.xyz
+#	mabuktogel.builders
+#	mabuktogel.marketing
+#	mabuktogel.ltd
+#	mabuktogel.degree
+#	mabuktogel.properties
+#	mabuktogel.business
+#	mabuktogel.enterprises
+#	mabuktogel.solutions
+#	mabuktogel.cards
+#	mabuktogel.directory
+#	mabuktogel.limited
+#	mabuktogel.immobilien
+#	mabuktogel.creditcard
 #	maqgie.xyz
 #	masters-of-cloud.de
 #	mc-sft.cn
@@ -73,7 +86,6 @@
 #	polisitogel.living
 #	polisitogel.beauty
 #	polisitogel.cruises
-#	polisitogel.construction
 #	polisitogel.green
 #	polisitogel.webcam
 #	polisitogel.accountant
@@ -128,7 +140,6 @@ doh.kel.pe
 dns.aa.net.uk
 doh.angry.im
 dns.anon.no
-antstars.win
 secure.anudeep.me
 ad.anym0re.ru
 dns.hypercute.eu
@@ -172,7 +183,6 @@ dns.burgas.pro
 dns.busold.ws
 dns.b612.me
 dns.cabbage.zone
-dns.cahlen.com
 doh.aaaab3n.moe
 dns.carter.me
 dns.caspervk.net
@@ -235,7 +245,6 @@ adguard.dantynes.cyou
 ns.data.haus
 dns.datenquark.de
 deep-henchman-excuse.cfd
-dns.delpirou.fr
 doh.denypradana.com
 dns.dev-umbrellagov.com
 dns.diarbagus.id
@@ -437,6 +446,7 @@ ad.justincounts.com
 dns.kapite.in
 dns.karadag.me
 dns.kastner-online.de
+kavkaz.monster
 dns.kebree.fr
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -474,6 +484,19 @@ lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 dns.luma-medien.com
 dns.l337.site
+mabuktogel.builders
+mabuktogel.marketing
+mabuktogel.ltd
+mabuktogel.degree
+mabuktogel.properties
+mabuktogel.business
+mabuktogel.enterprises
+mabuktogel.solutions
+mabuktogel.cards
+mabuktogel.directory
+mabuktogel.limited
+mabuktogel.immobilien
+mabuktogel.creditcard
 maqgie.xyz
 dns.marasov.id
 multi.dns.marbledfennec.net
@@ -606,7 +629,6 @@ polisitogel.diy
 polisitogel.living
 polisitogel.beauty
 polisitogel.cruises
-polisitogel.construction
 polisitogel.green
 polisitogel.webcam
 polisitogel.accountant

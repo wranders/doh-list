@@ -1,4 +1,4 @@
-#dc3334502987a607f0b264b8c2c771728e2c85111c5f3316e2ea3c873404c738
+#2630dc3418dc50614725c4b4ee76461184be6db67844735c2a2a7d6b37dd325d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -181,7 +181,6 @@ stratus.bugz.fr
 doh1.b-cdn.net
 dns.burgas.pro
 dns.busold.ws
-dns.b612.me
 dns.cabbage.zone
 doh.aaaab3n.moe
 dns.carter.me
@@ -272,7 +271,6 @@ ie01.dns4me.net
 de01.dns4me.net
 jp01.dns4me.net
 dns.dns-53.us
-dns.dns-53.com
 ams01.dnscry.pt
 abn01.dnscry.pt
 ath01.dnscry.pt

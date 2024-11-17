@@ -1,4 +1,4 @@
-#2630dc3418dc50614725c4b4ee76461184be6db67844735c2a2a7d6b37dd325d
+#37eb24c5fecc22788bdfc3877dc367d13396e6bb56d9545c5595550dc1fda7e3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -384,7 +384,6 @@ dns.floriantinney.de
 dns.flymc.cc
 dns.pari.network
 doh.applied-privacy.net
-dns.ffnw.de
 dns.froth.zone
 adguard.frutuozo.com.br
 doh.futa.gg

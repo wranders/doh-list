@@ -1,4 +1,4 @@
-#37eb24c5fecc22788bdfc3877dc367d13396e6bb56d9545c5595550dc1fda7e3
+#9f7396c8b136d27faa4c43d9838ccfb7c9d7e513ea9bf5fc9dccb9fa16abce84
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -49,7 +49,6 @@
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
 #	lukscasino-542-tr.xyz
-#	mabuktogel.builders
 #	mabuktogel.marketing
 #	mabuktogel.ltd
 #	mabuktogel.degree
@@ -481,7 +480,6 @@ lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 dns.luma-medien.com
 dns.l337.site
-mabuktogel.builders
 mabuktogel.marketing
 mabuktogel.ltd
 mabuktogel.degree
@@ -677,7 +675,6 @@ dns.rbn.gr
 vps.robotboard.de
 dns.roedel.cloud
 safeservedns.com
-dns.salonia.it
 dns.sarilouis.com
 dns.seiffert.me
 adguard.senthil.us
@@ -713,7 +710,6 @@ dns.switch.ch
 dns.sy.st
 dns.szpadel.ovh
 dns.t53.de
-adguard.taxiora.tn
 tecdrive.site
 dns.telekom.de
 dns.thebuckners.org
@@ -777,6 +773,7 @@ family.5ososea.com
 kids.5ososea.com
 dns.52306.org
 dns.688447.xyz
+dns.853852.xyz
 dns.9999.sg
 ibuki.cgnat.net
 doh-2.seby.io

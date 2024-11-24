@@ -1,4 +1,4 @@
-#9f7396c8b136d27faa4c43d9838ccfb7c9d7e513ea9bf5fc9dccb9fa16abce84
+#98b18e5f37cfcecc6e0d267d60d86acb921437c6f832983588f4394587ff3985
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -42,9 +42,8 @@
 #	ikarosalpha.xyz
 #	imperio.top
 #	kavkaz.monster
-#	ko-18948-tr.xyz
-#	kx-97795-tr.xyz
 #	lewsha.lol
+#	lifeisa.live
 #	loadlow.me
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
@@ -69,7 +68,6 @@
 #	miniapp.global
 #	mnrv.trade
 #	myatris.sbs
-#	najiakeji.top
 #	doh.lv
 #	ns3.cx
 #	ns3.link
@@ -87,14 +85,13 @@
 #	polisitogel.cruises
 #	polisitogel.green
 #	polisitogel.webcam
-#	polisitogel.accountant
 #	polisitogel.hair
 #	polisitogel.luxe
 #	polisitogel.limo
 #	polisitogel.show
 #	polisitogel.contractors
-#	polisitogel.builders
 #	qqmcfw.tech
+#	renardbleu.dev
 #	revelio.top
 #	safeservedns.com
 #	squidmall.vip
@@ -116,6 +113,7 @@
 #	123000123.xyz
 #	3dcosas.xyz
 #	3jjxxl.tech
+#	75747123.xyz
 #
 
 resolver1.absolight.net
@@ -148,7 +146,6 @@ ns.net.kg
 dns.arkbotech.com
 nsec.arnor.org
 dns.artikel10.org
-doh.asagiri.moe
 dns.asterimoon.com
 dns.asysec.com
 atris.cyou
@@ -175,7 +172,6 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
-goose.buckyfan.net
 stratus.bugz.fr
 doh1.b-cdn.net
 dns.burgas.pro
@@ -407,7 +403,6 @@ nora-is.so-gorgeo.us.kg
 dns.glf.wtf
 greatideasforlife.lol
 dns.guard.io
-dns.guardmydns.com
 dns.gutwe.in
 dns.deadsec.net
 dns.haka.se
@@ -417,7 +412,6 @@ doh.hajekj.net
 dns.hoody.com
 dns.hostux.net
 dns.hostux.net
-dns.hshoe.cn
 doth.huque.com
 ordns.he.net
 ikarosalpha.xyz
@@ -453,13 +447,11 @@ doh.kidzonet.io
 dns.koala.us.to
 adguard.konikoni428.com
 dns.kosan.moe
-ko-18948-tr.xyz
 dart.kpsn.org
 adblock.krctech.dev
 dns.kukal.cz
 dns.kumoumi.net
 dns.kuuhaku.moe
-kx-97795-tr.xyz
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
@@ -469,6 +461,7 @@ lewsha.lol
 dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
+lifeisa.live
 lindung.pp.ua
 lindung.pp.ua
 africadns1.liquidtelecom.net
@@ -533,7 +526,6 @@ paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
 dns.mzjtechnology.com
-najiakeji.top
 dns.nako.kr
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -626,13 +618,11 @@ polisitogel.beauty
 polisitogel.cruises
 polisitogel.green
 polisitogel.webcam
-polisitogel.accountant
 polisitogel.hair
 polisitogel.luxe
 polisitogel.limo
 polisitogel.show
 polisitogel.contractors
-polisitogel.builders
 pooblet.co.za
 dns.pragmasec.nl
 las-vegas.privacy-dns.pw
@@ -646,7 +636,6 @@ hungary.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 doh.archuser.org
-v.qdev.cc
 qqmcfw.tech
 doh.qis.io
 dns.quad9.net
@@ -666,13 +655,13 @@ ns.ral9005.org
 dns.redhosting.com.ar
 dns.reitmeier.me
 dns.reckoningslug.name
+renardbleu.dev
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
 revelio.top
 dns.rbn.gr
-vps.robotboard.de
 dns.roedel.cloud
 safeservedns.com
 dns.sarilouis.com
@@ -703,7 +692,6 @@ resolver.sunet.se
 sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
-dns.surobe.com
 dns.svoi.dev
 dns.sv-zauner.at
 dns.switch.ch
@@ -773,6 +761,7 @@ family.5ososea.com
 kids.5ososea.com
 dns.52306.org
 dns.688447.xyz
+75747123.xyz
 dns.853852.xyz
 dns.9999.sg
 ibuki.cgnat.net

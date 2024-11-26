@@ -1,4 +1,4 @@
-#98b18e5f37cfcecc6e0d267d60d86acb921437c6f832983588f4394587ff3985
+#06e008693a5b6b5b7d35b0c47984bf7fd78e82e454bfb2438baf2f2c52a1dc36
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -19,6 +19,7 @@
 #	deep-henchman-excuse.cfd
 #	doh.sb
 #	dns0.eu
+#	dnscrypt.xyz
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
@@ -65,7 +66,6 @@
 #	mc-sft.cn
 #	mendozasdelivery.com
 #	mikezhang.xyz
-#	miniapp.global
 #	mnrv.trade
 #	myatris.sbs
 #	doh.lv
@@ -90,7 +90,7 @@
 #	polisitogel.limo
 #	polisitogel.show
 #	polisitogel.contractors
-#	qqmcfw.tech
+#	regiopolis.cloud
 #	renardbleu.dev
 #	revelio.top
 #	safeservedns.com
@@ -112,7 +112,6 @@
 #	052419.xyz
 #	123000123.xyz
 #	3dcosas.xyz
-#	3jjxxl.tech
 #	75747123.xyz
 #
 
@@ -172,7 +171,6 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
-stratus.bugz.fr
 doh1.b-cdn.net
 dns.burgas.pro
 dns.busold.ws
@@ -333,6 +331,7 @@ vno01.dnscry.pt
 waw02.dnscry.pt
 evn01.dnscry.pt
 dns1.dnscrypt.ca
+dnscrypt.xyz
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
@@ -504,7 +503,6 @@ dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 mickedi.isgood.host
 mikezhang.xyz
-miniapp.global
 netcup.mismat.ch
 addns1.m-it.ro
 doh.mmmalia.com
@@ -636,7 +634,6 @@ hungary.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 doh.archuser.org
-qqmcfw.tech
 doh.qis.io
 dns.quad9.net
 dns10.quad9.net
@@ -655,6 +652,7 @@ ns.ral9005.org
 dns.redhosting.com.ar
 dns.reitmeier.me
 dns.reckoningslug.name
+regiopolis.cloud
 renardbleu.dev
 dnspub.restena.lu
 dns.retakecs.com
@@ -755,7 +753,6 @@ dns.0x55.net
 052419.xyz
 123000123.xyz
 3dcosas.xyz
-3jjxxl.tech
 ns2.4netguides.org
 family.5ososea.com
 kids.5ososea.com

@@ -1,4 +1,4 @@
-#06e008693a5b6b5b7d35b0c47984bf7fd78e82e454bfb2438baf2f2c52a1dc36
+#7ca5c07c5271fdf4b7a5322c5a8e7dc2bc65566533060f045a7e802bc09c511d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -16,6 +16,7 @@
 #	bestwon203.com
 #	cloudbenders.fun
 #	cloudflare-dns.com
+#	da-91614-tr.xyz
 #	deep-henchman-excuse.cfd
 #	doh.sb
 #	dns0.eu
@@ -43,6 +44,8 @@
 #	ikarosalpha.xyz
 #	imperio.top
 #	kavkaz.monster
+#	ke-03060-tr.xyz
+#	kf-49509-tr.xyz
 #	lewsha.lol
 #	lifeisa.live
 #	loadlow.me
@@ -236,6 +239,7 @@ ns.00dani.me
 adguard.dantynes.cyou
 ns.data.haus
 dns.datenquark.de
+da-91614-tr.xyz
 deep-henchman-excuse.cfd
 doh.denypradana.com
 dns.dev-umbrellagov.com
@@ -441,6 +445,8 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
+ke-03060-tr.xyz
+kf-49509-tr.xyz
 adg.khon.dev
 doh.kidzonet.io
 dns.koala.us.to
@@ -538,7 +544,6 @@ fr-gra-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-kz-pav-w-p-1.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
@@ -672,7 +677,6 @@ dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
 dns.silen.org
-dns.sindominio.net
 dns.skrep.eu
 dns.silentlybren.com
 dns.slinkyman.net

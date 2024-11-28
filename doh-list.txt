@@ -1,4 +1,4 @@
-#7ca5c07c5271fdf4b7a5322c5a8e7dc2bc65566533060f045a7e802bc09c511d
+#278a8afd8576624c884fe125e183bfc9c79fa50d8a4e61d3dcc207f24dc57363
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,7 +39,6 @@
 #	glacius.top
 #	dns.google
 #	8888.google
-#	greatideasforlife.lol
 #	home-server.store
 #	ikarosalpha.xyz
 #	imperio.top
@@ -96,6 +95,7 @@
 #	regiopolis.cloud
 #	renardbleu.dev
 #	revelio.top
+#	rockwell.website
 #	safeservedns.com
 #	squidmall.vip
 #	sunnygyl.com
@@ -404,7 +404,6 @@ mecca-is.so-gorgeo.us.kg
 myrra-is.so-gorgeo.us.kg
 nora-is.so-gorgeo.us.kg
 dns.glf.wtf
-greatideasforlife.lol
 dns.guard.io
 dns.gutwe.in
 dns.deadsec.net
@@ -542,7 +541,6 @@ fi-hel-w-f-2.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
-gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
@@ -665,6 +663,7 @@ sky.rethinkdns.com
 sky.rethinkdns.com
 revelio.top
 dns.rbn.gr
+rockwell.website
 dns.roedel.cloud
 safeservedns.com
 dns.sarilouis.com

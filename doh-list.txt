@@ -1,4 +1,4 @@
-#278a8afd8576624c884fe125e183bfc9c79fa50d8a4e61d3dcc207f24dc57363
+#84c288536789f525fecc0dc1017fbf25e695aa30cf11005c16afdb9e65a47a5a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -55,7 +55,6 @@
 #	mabuktogel.ltd
 #	mabuktogel.degree
 #	mabuktogel.properties
-#	mabuktogel.business
 #	mabuktogel.enterprises
 #	mabuktogel.solutions
 #	mabuktogel.cards
@@ -83,7 +82,6 @@
 #	pm7051-br.xyz
 #	polisitogel.diy
 #	polisitogel.living
-#	polisitogel.beauty
 #	polisitogel.cruises
 #	polisitogel.green
 #	polisitogel.webcam
@@ -288,7 +286,6 @@ fjr01.dnscry.pt
 gva01.dnscry.pt
 haf01.dnscry.pt
 han01.dnscry.pt
-hel01.dnscry.pt
 sgn01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
@@ -357,7 +354,6 @@ dns.d94.xyz
 dns.d96.info
 adguard.easez.net
 doh.apad.pro
-doh.eddi.net
 dns.efficientdocuments.com
 dns.henek.ovh
 dns.elemental.software
@@ -481,7 +477,6 @@ mabuktogel.marketing
 mabuktogel.ltd
 mabuktogel.degree
 mabuktogel.properties
-mabuktogel.business
 mabuktogel.enterprises
 mabuktogel.solutions
 mabuktogel.cards
@@ -559,7 +554,6 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neeb.it
-adguard.neon0404.space
 ns.nerdytechgeeks.co.za
 dns.netvpn.net
 dns.nextdns.io
@@ -615,7 +609,6 @@ pm9352-bd.xyz
 pm7051-br.xyz
 polisitogel.diy
 polisitogel.living
-polisitogel.beauty
 polisitogel.cruises
 polisitogel.green
 polisitogel.webcam
@@ -739,7 +732,6 @@ xbcpb668.com
 dns.xlion.tw
 dns.seia.io
 secondary.dns.seia.io
-dns.xuming.studio
 dns.yague.me
 yarp.lefolgoc.net
 your-dns.run

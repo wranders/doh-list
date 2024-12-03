@@ -1,4 +1,4 @@
-#84c288536789f525fecc0dc1017fbf25e695aa30cf11005c16afdb9e65a47a5a
+#446614dd6f7e687bee83e00e6118aed07f302e2570c64d2b057bcc00584cd86b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -14,7 +14,6 @@
 #	atris.cyou
 #	bazooki-infra.dev
 #	bestwon203.com
-#	cloudbenders.fun
 #	cloudflare-dns.com
 #	da-91614-tr.xyz
 #	deep-henchman-excuse.cfd
@@ -42,7 +41,6 @@
 #	home-server.store
 #	ikarosalpha.xyz
 #	imperio.top
-#	kavkaz.monster
 #	ke-03060-tr.xyz
 #	kf-49509-tr.xyz
 #	lewsha.lol
@@ -57,7 +55,6 @@
 #	mabuktogel.properties
 #	mabuktogel.enterprises
 #	mabuktogel.solutions
-#	mabuktogel.cards
 #	mabuktogel.directory
 #	mabuktogel.limited
 #	mabuktogel.immobilien
@@ -89,7 +86,6 @@
 #	polisitogel.luxe
 #	polisitogel.limo
 #	polisitogel.show
-#	polisitogel.contractors
 #	regiopolis.cloud
 #	renardbleu.dev
 #	revelio.top
@@ -98,6 +94,7 @@
 #	squidmall.vip
 #	sunnygyl.com
 #	tecdrive.site
+#	toropyzhka.xyz
 #	tujenasnaszato.xyz
 #	tuskythehusky.tech
 #	tri-dns.net
@@ -162,7 +159,6 @@ bestwon203.com
 dns.bitdefender.net
 dns.bitservices.io
 doh-de.blahdns.com
-dns.blaumer.dev
 us1.blissdns.net
 dns.blokada.org
 rfree1.blue-shield.at
@@ -196,7 +192,6 @@ doh.umbrella.com
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
-cloudbenders.fun
 cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
@@ -241,7 +236,6 @@ da-91614-tr.xyz
 deep-henchman-excuse.cfd
 doh.denypradana.com
 dns.dev-umbrellagov.com
-dns.diarbagus.id
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns.digitalsize.net
@@ -434,7 +428,6 @@ ad.justincounts.com
 dns.kapite.in
 dns.karadag.me
 dns.kastner-online.de
-kavkaz.monster
 dns.kebree.fr
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -479,7 +472,6 @@ mabuktogel.degree
 mabuktogel.properties
 mabuktogel.enterprises
 mabuktogel.solutions
-mabuktogel.cards
 mabuktogel.directory
 mabuktogel.limited
 mabuktogel.immobilien
@@ -535,7 +527,6 @@ de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
-gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
@@ -543,8 +534,6 @@ sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
-us-hil-w-f-1.nashkan.net
-us-hil-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-f-1.nashkan.net
@@ -598,7 +587,6 @@ paulo.nom.za
 dns.decky.eu
 dns.peb-schmidt.de
 dns.petqa.ru
-dns.phillipjberry.net
 dns1.pietjacobs.be
 kronos.plan9-dns.com
 helios.plan9-dns.com
@@ -616,7 +604,6 @@ polisitogel.hair
 polisitogel.luxe
 polisitogel.limo
 polisitogel.show
-polisitogel.contractors
 pooblet.co.za
 dns.pragmasec.nl
 las-vegas.privacy-dns.pw
@@ -700,6 +687,7 @@ dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 adb.timnichollsphotography.com
+toropyzhka.xyz
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net

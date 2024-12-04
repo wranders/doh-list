@@ -1,4 +1,4 @@
-#446614dd6f7e687bee83e00e6118aed07f302e2570c64d2b057bcc00584cd86b
+#e50a742532ba674757eaa83dcc43066594d695d723ed68d5345307c30a35ac73
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -48,10 +48,8 @@
 #	loadlow.me
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
-#	lukscasino-542-tr.xyz
 #	mabuktogel.marketing
 #	mabuktogel.ltd
-#	mabuktogel.degree
 #	mabuktogel.properties
 #	mabuktogel.enterprises
 #	mabuktogel.solutions
@@ -80,7 +78,6 @@
 #	polisitogel.diy
 #	polisitogel.living
 #	polisitogel.cruises
-#	polisitogel.green
 #	polisitogel.webcam
 #	polisitogel.hair
 #	polisitogel.luxe
@@ -463,12 +460,10 @@ loadlow.me
 dns.lobbygod.com
 lukscasino-929-tr.xyz
 lukscasino-479-tr.xyz
-lukscasino-542-tr.xyz
 dns.luma-medien.com
 dns.l337.site
 mabuktogel.marketing
 mabuktogel.ltd
-mabuktogel.degree
 mabuktogel.properties
 mabuktogel.enterprises
 mabuktogel.solutions
@@ -571,7 +566,6 @@ ns3.cx
 ns3.link
 ns3.com
 n0.eu
-qdns02.nymterm.com
 obscuro.top
 dns.odinpl.com
 dns.ofdoom.net
@@ -598,7 +592,6 @@ pm7051-br.xyz
 polisitogel.diy
 polisitogel.living
 polisitogel.cruises
-polisitogel.green
 polisitogel.webcam
 polisitogel.hair
 polisitogel.luxe
@@ -720,7 +713,6 @@ xbcpb668.com
 dns.xlion.tw
 dns.seia.io
 secondary.dns.seia.io
-dns.yague.me
 yarp.lefolgoc.net
 your-dns.run
 dns.yuu-g.net

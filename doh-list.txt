@@ -1,4 +1,4 @@
-#e50a742532ba674757eaa83dcc43066594d695d723ed68d5345307c30a35ac73
+#13b7c784ba917e11e63aa143cbd79ca4039d325e66bf5182fabadb3d3f5e5eb6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -65,9 +65,6 @@
 #	mnrv.trade
 #	myatris.sbs
 #	doh.lv
-#	ns3.cx
-#	ns3.link
-#	ns3.com
 #	n0.eu
 #	obscuro.top
 #	okado.online
@@ -102,6 +99,7 @@
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
+#	zneginnl.website
 #	0ms.dev
 #	0ms.dev
 #	052419.xyz
@@ -388,8 +386,6 @@ nova-is.so-gorgeo.us.kg
 nindy-is.so-gorgeo.us.kg
 sitha-is.so-gorgeo.us.kg
 mecca-is.so-gorgeo.us.kg
-myrra-is.so-gorgeo.us.kg
-nora-is.so-gorgeo.us.kg
 dns.glf.wtf
 dns.guard.io
 dns.gutwe.in
@@ -562,9 +558,6 @@ dns1.nordvpn.com
 dns2.nordvpn.com
 dns.novali.date
 dns.novg.net
-ns3.cx
-ns3.link
-ns3.com
 n0.eu
 obscuro.top
 dns.odinpl.com
@@ -720,6 +713,7 @@ zakaria.website
 princez.uk
 zdn.ro
 doh.zknt.org
+zneginnl.website
 0ms.dev
 0ms.dev
 dns.0ooo.icu

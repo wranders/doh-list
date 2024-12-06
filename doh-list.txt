@@ -1,4 +1,4 @@
-#13b7c784ba917e11e63aa143cbd79ca4039d325e66bf5182fabadb3d3f5e5eb6
+#0513a215da3f5e3ea153bd17e8c28a8a9a42b744e8be6c4db7b002950ee8919b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -59,13 +59,11 @@
 #	mabuktogel.creditcard
 #	maqgie.xyz
 #	masters-of-cloud.de
-#	mc-sft.cn
 #	mendozasdelivery.com
 #	mikezhang.xyz
 #	mnrv.trade
 #	myatris.sbs
 #	doh.lv
-#	n0.eu
 #	obscuro.top
 #	okado.online
 #	pashagame456.com
@@ -393,7 +391,6 @@ dns.deadsec.net
 dns.haka.se
 home-server.store
 dns.lihj.me
-doh.hajekj.net
 dns.hoody.com
 dns.hostux.net
 dns.hostux.net
@@ -478,7 +475,6 @@ dns.lermer.nl
 home.wriedts.de
 dns.mayx.eu.org
 dns.mbrjun.cn
-mc-sft.cn
 adguard.meddy94.de
 mendozasdelivery.com
 testaghome.meshkov.info
@@ -558,7 +554,6 @@ dns1.nordvpn.com
 dns2.nordvpn.com
 dns.novali.date
 dns.novg.net
-n0.eu
 obscuro.top
 dns.odinpl.com
 dns.ofdoom.net
@@ -718,7 +713,6 @@ zneginnl.website
 0ms.dev
 dns.0ooo.icu
 dns.0rz.ing
-dns.0x55.net
 052419.xyz
 123000123.xyz
 3dcosas.xyz

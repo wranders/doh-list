@@ -1,4 +1,4 @@
-#0513a215da3f5e3ea153bd17e8c28a8a9a42b744e8be6c4db7b002950ee8919b
+#fc52d16505c95ffe06890b4d814d5750ce878734ad02db6bdbb0c0697bf65d2a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -19,7 +19,6 @@
 #	deep-henchman-excuse.cfd
 #	doh.sb
 #	dns0.eu
-#	dnscrypt.xyz
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
@@ -161,6 +160,7 @@ dns.braene.com
 dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
+dns.brono.cloud
 doh1.b-cdn.net
 dns.burgas.pro
 dns.busold.ws
@@ -319,7 +319,6 @@ vno01.dnscry.pt
 waw02.dnscry.pt
 evn01.dnscry.pt
 dns1.dnscrypt.ca
-dnscrypt.xyz
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
@@ -511,7 +510,6 @@ at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
 de-fra-w-p-1.nashkan.net
 de-fsn-w-p-1.nashkan.net
-fi-hel-w-f-2.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net

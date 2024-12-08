@@ -1,4 +1,4 @@
-#fc52d16505c95ffe06890b4d814d5750ce878734ad02db6bdbb0c0697bf65d2a
+#eeca16a80db950612cf1d15308c07a78688434b470ab2e313917ba33ffc91a24
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -92,7 +92,6 @@
 #	vorlif.org
 #	wikimedia-dns.org
 #	xbcpb668.com
-#	your-dns.run
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
@@ -479,7 +478,6 @@ mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
-mickedi.isgood.host
 mikezhang.xyz
 netcup.mismat.ch
 addns1.m-it.ro
@@ -700,7 +698,6 @@ dns.xlion.tw
 dns.seia.io
 secondary.dns.seia.io
 yarp.lefolgoc.net
-your-dns.run
 dns.yuu-g.net
 zakaria.website
 princez.uk

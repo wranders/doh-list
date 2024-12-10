@@ -1,4 +1,4 @@
-#eeca16a80db950612cf1d15308c07a78688434b470ab2e313917ba33ffc91a24
+#ca02456484beac02525fa80e8a6b95391b89220275c90207d75684b6aae5c22c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -15,7 +15,6 @@
 #	bazooki-infra.dev
 #	bestwon203.com
 #	cloudflare-dns.com
-#	da-91614-tr.xyz
 #	deep-henchman-excuse.cfd
 #	doh.sb
 #	dns0.eu
@@ -224,7 +223,6 @@ ns.00dani.me
 adguard.dantynes.cyou
 ns.data.haus
 dns.datenquark.de
-da-91614-tr.xyz
 deep-henchman-excuse.cfd
 doh.denypradana.com
 dns.dev-umbrellagov.com
@@ -410,7 +408,6 @@ darkness.is.my.waifu.cz
 aqua.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.ishan.pw
-dns.jhangy.us
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kapite.in

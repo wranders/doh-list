@@ -1,4 +1,4 @@
-#ca02456484beac02525fa80e8a6b95391b89220275c90207d75684b6aae5c22c
+#5dcc8e11b30332790b13978798e57c95926d4808268d7daaf329cabe90cbd48f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -466,7 +466,6 @@ dns.technologycage.com
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
-dns.lermer.nl
 home.wriedts.de
 dns.mayx.eu.org
 dns.mbrjun.cn
@@ -648,7 +647,6 @@ sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
 dns.svoi.dev
-dns.sv-zauner.at
 dns.switch.ch
 dns.sy.st
 dns.szpadel.ovh

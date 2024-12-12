@@ -1,4 +1,4 @@
-#5dcc8e11b30332790b13978798e57c95926d4808268d7daaf329cabe90cbd48f
+#2ce71a5af77a59c9b7b7928bf5cd2bd0dcfb83fc5c18d35a234ad5db1fe196c3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -63,14 +63,12 @@
 #	myatris.sbs
 #	doh.lv
 #	obscuro.top
-#	okado.online
 #	pashagame456.com
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
 #	polisitogel.diy
 #	polisitogel.living
-#	polisitogel.cruises
 #	polisitogel.webcam
 #	polisitogel.hair
 #	polisitogel.luxe
@@ -549,7 +547,6 @@ dns.novg.net
 obscuro.top
 dns.odinpl.com
 dns.ofdoom.net
-okado.online
 dns.oliviertv.co.za
 ada.openbld.net
 ag.apollohct.com
@@ -571,7 +568,6 @@ pm9352-bd.xyz
 pm7051-br.xyz
 polisitogel.diy
 polisitogel.living
-polisitogel.cruises
 polisitogel.webcam
 polisitogel.hair
 polisitogel.luxe

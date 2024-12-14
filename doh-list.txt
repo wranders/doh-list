@@ -1,4 +1,4 @@
-#2ce71a5af77a59c9b7b7928bf5cd2bd0dcfb83fc5c18d35a234ad5db1fe196c3
+#6c0e17c8d4fe769adad7ce8f27f1c374ac4b174b7700ba2253f80b9993f16cd3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,7 +39,6 @@
 #	home-server.store
 #	ikarosalpha.xyz
 #	imperio.top
-#	ke-03060-tr.xyz
 #	kf-49509-tr.xyz
 #	lewsha.lol
 #	lifeisa.live
@@ -54,7 +53,6 @@
 #	mabuktogel.directory
 #	mabuktogel.limited
 #	mabuktogel.immobilien
-#	mabuktogel.creditcard
 #	maqgie.xyz
 #	masters-of-cloud.de
 #	mendozasdelivery.com
@@ -272,7 +270,6 @@ sgn01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
 jkt01.dnscry.pt
-jhb01.dnscry.pt
 hrk01.dnscry.pt
 las01.dnscry.pt
 lim01.dnscry.pt
@@ -416,7 +413,6 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
-ke-03060-tr.xyz
 kf-49509-tr.xyz
 adg.khon.dev
 doh.kidzonet.io
@@ -456,7 +452,6 @@ mabuktogel.solutions
 mabuktogel.directory
 mabuktogel.limited
 mabuktogel.immobilien
-mabuktogel.creditcard
 maqgie.xyz
 dns.marasov.id
 multi.dns.marbledfennec.net

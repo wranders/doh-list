@@ -1,4 +1,4 @@
-#6c0e17c8d4fe769adad7ce8f27f1c374ac4b174b7700ba2253f80b9993f16cd3
+#271286daa8d6a7254265fba36f5bf9d32ee2b66c5ca78a5df0f3d271c5994561
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -25,6 +25,7 @@
 #	doh.buzz
 #	3dns.eu
 #	do-39574-tr.xyz
+#	droyd.top
 #	dukun.de
 #	xn--durhre-yxa.de
 #	eliatofani.ovh
@@ -58,6 +59,7 @@
 #	mendozasdelivery.com
 #	mikezhang.xyz
 #	mnrv.trade
+#	moamao.shop
 #	myatris.sbs
 #	doh.lv
 #	obscuro.top
@@ -155,6 +157,7 @@ dns.brahma.world
 dns.bravoc.one
 dns.brembeck.cloud
 dns.brono.cloud
+dns.butterfly87.sbs
 doh1.b-cdn.net
 dns.burgas.pro
 dns.busold.ws
@@ -325,6 +328,8 @@ doh.buzz
 3dns.eu
 doh.domreg.lt
 do-39574-tr.xyz
+dns.dremaxx.de
+droyd.top
 agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de
@@ -380,6 +385,7 @@ dns.guard.io
 dns.gutwe.in
 dns.deadsec.net
 dns.haka.se
+adguard.hjebbour.top
 home-server.store
 dns.lihj.me
 dns.hoody.com
@@ -407,6 +413,7 @@ dns.jupitrdns.com
 ad.justincounts.com
 dns.kapite.in
 dns.karadag.me
+adguard.kasbot.net
 dns.kastner-online.de
 dns.kebree.fr
 dns.kerekes.xyz
@@ -421,7 +428,6 @@ adguard.konikoni428.com
 dns.kosan.moe
 dart.kpsn.org
 adblock.krctech.dev
-dns.kukal.cz
 dns.kumoumi.net
 dns.kuuhaku.moe
 doh.lacontrevoie.fr
@@ -474,6 +480,7 @@ doh.mmmalia.com
 dns.mnet-online.de
 mnrv.trade
 dnstls.mobik.com
+moamao.shop
 dns.momou.ch
 dns.momou.ch
 dns.momou.ch
@@ -646,6 +653,8 @@ tecdrive.site
 dns.telekom.de
 dns.thebuckners.org
 blocker.thethorsens.org
+dns.thiz.top
+dns.thiz.top
 dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de

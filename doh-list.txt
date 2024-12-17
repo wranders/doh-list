@@ -1,4 +1,4 @@
-#271286daa8d6a7254265fba36f5bf9d32ee2b66c5ca78a5df0f3d271c5994561
+#9b191d19c5e9d695354df22917aa1ee066a5a23877fea120f3a2fff25e51269f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -49,7 +49,6 @@
 #	mabuktogel.marketing
 #	mabuktogel.ltd
 #	mabuktogel.properties
-#	mabuktogel.enterprises
 #	mabuktogel.solutions
 #	mabuktogel.directory
 #	mabuktogel.limited
@@ -272,10 +271,8 @@ han01.dnscry.pt
 sgn01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
-jkt01.dnscry.pt
 hrk01.dnscry.pt
 las01.dnscry.pt
-lim01.dnscry.pt
 lim02.dnscry.pt
 lis01.dnscry.pt
 lon01.dnscry.pt
@@ -335,7 +332,6 @@ dukun.de
 xn--durhre-yxa.de
 dns.d94.xyz
 dns.d96.info
-adguard.easez.net
 doh.apad.pro
 dns.efficientdocuments.com
 dns.henek.ovh
@@ -364,6 +360,8 @@ doh.applied-privacy.net
 dns.froth.zone
 adguard.frutuozo.com.br
 doh.futa.gg
+dns.de.futuredns.eu.org
+dns.us.futuredns.eu.org
 dns.gamban.com
 gibblets.top
 dns.girino.org
@@ -453,7 +451,6 @@ dns.l337.site
 mabuktogel.marketing
 mabuktogel.ltd
 mabuktogel.properties
-mabuktogel.enterprises
 mabuktogel.solutions
 mabuktogel.directory
 mabuktogel.limited
@@ -522,7 +519,6 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neeb.it
-ns.nerdytechgeeks.co.za
 dns.netvpn.net
 dns.nextdns.io
 dns.nhtsky.com

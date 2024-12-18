@@ -1,4 +1,4 @@
-#9b191d19c5e9d695354df22917aa1ee066a5a23877fea120f3a2fff25e51269f
+#bccb00801e4658266a080592618c4a99996fdb462fecea7ad63f11c55f3958c1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -171,6 +171,7 @@ doh-02.spectrum.com
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
+dns.chunghwamc.com
 doh.cippapp.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -352,7 +353,6 @@ dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
 fidelius.top
-resolv.flokinet.net
 dns.floriantinney.de
 dns.flymc.cc
 dns.pari.network
@@ -426,7 +426,6 @@ adguard.konikoni428.com
 dns.kosan.moe
 dart.kpsn.org
 adblock.krctech.dev
-dns.kumoumi.net
 dns.kuuhaku.moe
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
@@ -573,11 +572,9 @@ polisitogel.limo
 polisitogel.show
 pooblet.co.za
 dns.pragmasec.nl
-las-vegas.privacy-dns.pw
 india.privacy-dns.pw
 united-arab-emirates.privacy-dns.pw
 switzerland.privacy-dns.pw
-luxembourg.privacy-dns.pw
 sweden.privacy-dns.pw
 romania.privacy-dns.pw
 hungary.privacy-dns.pw

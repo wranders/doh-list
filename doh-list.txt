@@ -1,4 +1,4 @@
-#bccb00801e4658266a080592618c4a99996fdb462fecea7ad63f11c55f3958c1
+#21d29ce733f880fb745d601fa7259ad8352fc4c987b796c4b5d5457c2afa14da
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -61,8 +61,10 @@
 #	moamao.shop
 #	myatris.sbs
 #	doh.lv
+#	ntwrkh.pro
 #	obscuro.top
 #	pashagame456.com
+#	pepetio.xyz
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
@@ -92,6 +94,7 @@
 #	princez.uk
 #	zdn.ro
 #	zneginnl.website
+#	znegindeh2.top
 #	0ms.dev
 #	0ms.dev
 #	052419.xyz
@@ -380,7 +383,6 @@ sitha-is.so-gorgeo.us.kg
 mecca-is.so-gorgeo.us.kg
 dns.glf.wtf
 dns.guard.io
-dns.gutwe.in
 dns.deadsec.net
 dns.haka.se
 adguard.hjebbour.top
@@ -503,7 +505,6 @@ de-fsn-w-p-1.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
@@ -541,6 +542,7 @@ dns1.nordvpn.com
 dns2.nordvpn.com
 dns.novali.date
 dns.novg.net
+ntwrkh.pro
 obscuro.top
 dns.odinpl.com
 dns.ofdoom.net
@@ -554,6 +556,7 @@ pashagame456.com
 paulo.nom.za
 dns.decky.eu
 dns.peb-schmidt.de
+pepetio.xyz
 dns.petqa.ru
 dns1.pietjacobs.be
 kronos.plan9-dns.com
@@ -692,6 +695,7 @@ princez.uk
 zdn.ro
 doh.zknt.org
 zneginnl.website
+znegindeh2.top
 0ms.dev
 0ms.dev
 dns.0ooo.icu

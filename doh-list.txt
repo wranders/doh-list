@@ -1,4 +1,4 @@
-#21d29ce733f880fb745d601fa7259ad8352fc4c987b796c4b5d5457c2afa14da
+#b1ca8b34ef82e08c1a60b7d6b07a6343d1a67439e87646b9a868df090f12c1b0
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -260,6 +260,7 @@ bog01.dnscry.pt
 bts01.dnscry.pt
 bne01.dnscry.pt
 bru01.dnscry.pt
+yyc01.dnscry.pt
 ord01.dnscry.pt
 kiv01.dnscry.pt
 cph01.dnscry.pt
@@ -271,6 +272,7 @@ fra02.dnscry.pt
 fjr01.dnscry.pt
 gva01.dnscry.pt
 haf01.dnscry.pt
+yhz01.dnscry.pt
 han01.dnscry.pt
 sgn01.dnscry.pt
 isb01.dnscry.pt
@@ -281,6 +283,7 @@ lim02.dnscry.pt
 lis01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
+man01.dnscry.pt
 mil01.dnscry.pt
 bom01.dnscry.pt
 nue01.dnscry.pt

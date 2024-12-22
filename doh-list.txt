@@ -1,4 +1,4 @@
-#b1ca8b34ef82e08c1a60b7d6b07a6343d1a67439e87646b9a868df090f12c1b0
+#017c4badfdd2d839141c749ff263099ea8350c7f4abb17311a3c89edf3877483
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -52,7 +52,6 @@
 #	mabuktogel.solutions
 #	mabuktogel.directory
 #	mabuktogel.limited
-#	mabuktogel.immobilien
 #	maqgie.xyz
 #	masters-of-cloud.de
 #	mendozasdelivery.com
@@ -117,7 +116,6 @@ affcdn.net
 affsoft.cc
 blitz.ahadns.com
 blitz.ahadns.com
-doh.nl.ahadns.net
 ahoj.email
 dns.alidns.com
 doh.kel.pe
@@ -458,7 +456,6 @@ mabuktogel.properties
 mabuktogel.solutions
 mabuktogel.directory
 mabuktogel.limited
-mabuktogel.immobilien
 maqgie.xyz
 dns.marasov.id
 multi.dns.marbledfennec.net
@@ -579,11 +576,8 @@ polisitogel.show
 pooblet.co.za
 dns.pragmasec.nl
 india.privacy-dns.pw
-united-arab-emirates.privacy-dns.pw
 switzerland.privacy-dns.pw
 sweden.privacy-dns.pw
-romania.privacy-dns.pw
-hungary.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 doh.archuser.org

@@ -1,4 +1,4 @@
-#017c4badfdd2d839141c749ff263099ea8350c7f4abb17311a3c89edf3877483
+#890403c90e5a57740e1f7859b5289d238460fe814c5bb704cc6ce664b154f1dc
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -550,7 +550,6 @@ dns.oliviertv.co.za
 ada.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
-ns3.opennameserver.org
 dns.paesa.es
 pashagame456.com
 paulo.nom.za
@@ -575,9 +574,6 @@ polisitogel.limo
 polisitogel.show
 pooblet.co.za
 dns.pragmasec.nl
-india.privacy-dns.pw
-switzerland.privacy-dns.pw
-sweden.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 doh.archuser.org

@@ -1,4 +1,4 @@
-#890403c90e5a57740e1f7859b5289d238460fe814c5bb704cc6ce664b154f1dc
+#f491c9f35899817de2dd37e2e2f542d242725df3e66a9c9ebc0bae3b828ef9ce
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,6 +41,7 @@
 #	ikarosalpha.xyz
 #	imperio.top
 #	kf-49509-tr.xyz
+#	lecker.pizza
 #	lewsha.lol
 #	lifeisa.live
 #	loadlow.me
@@ -99,7 +100,6 @@
 #	052419.xyz
 #	123000123.xyz
 #	3dcosas.xyz
-#	75747123.xyz
 #
 
 resolver1.absolight.net
@@ -140,6 +140,7 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 dns.a47.me
+doh.battle.christmas
 bazooki-infra.dev
 dns.belnet.be
 dns.bmwhocking.com
@@ -433,6 +434,7 @@ dns.kuuhaku.moe
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
+lecker.pizza
 dns.lepilleur.com
 dns.levonet.sk
 lewsha.lol
@@ -697,12 +699,15 @@ dns.0rz.ing
 123000123.xyz
 3dcosas.xyz
 ns2.4netguides.org
+dns.444723.xyz
 family.5ososea.com
 kids.5ososea.com
 dns.52306.org
 dns.688447.xyz
-75747123.xyz
+doh.774445.xyz
+dns.775467.xyz
 dns.853852.xyz
+dns.8887744.xyz
 dns.9999.sg
 ibuki.cgnat.net
 doh-2.seby.io

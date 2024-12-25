@@ -1,4 +1,4 @@
-#f491c9f35899817de2dd37e2e2f542d242725df3e66a9c9ebc0bae3b828ef9ce
+#a8e5648faaa9e975794088d2699e9bb094d6fc635e7a5e4973f2d24db5990a78
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -75,6 +75,7 @@
 #	polisitogel.luxe
 #	polisitogel.limo
 #	polisitogel.show
+#	polisitogel.realty
 #	regiopolis.cloud
 #	renardbleu.dev
 #	revelio.top
@@ -316,7 +317,6 @@ vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
 evn01.dnscry.pt
-dns1.dnscrypt.ca
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
@@ -524,7 +524,6 @@ dns.neeb.it
 dns.netvpn.net
 dns.nextdns.io
 dns.nhtsky.com
-d.niaox.com
 dns.nick-slowinski.de
 doh.lv
 doh.nic.lv
@@ -574,6 +573,7 @@ polisitogel.hair
 polisitogel.luxe
 polisitogel.limo
 polisitogel.show
+polisitogel.realty
 pooblet.co.za
 dns.pragmasec.nl
 nl.dns.privex.io
@@ -694,7 +694,6 @@ znegindeh2.top
 0ms.dev
 0ms.dev
 dns.0ooo.icu
-dns.0rz.ing
 052419.xyz
 123000123.xyz
 3dcosas.xyz

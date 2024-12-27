@@ -1,4 +1,4 @@
-#3faa2e4f61de1b3bf27d2004fc3c5f22c1ad6b3b5a68e6ec0d5414fc7c25d1cb
+#19443415e3e70fbccc8b53f789bc23385cfbb6144aefd351586ce093ae67f443
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,7 +41,6 @@
 #	ikarosalpha.xyz
 #	imperio.top
 #	kf-49509-tr.xyz
-#	lecker.pizza
 #	lewsha.lol
 #	lifeisa.live
 #	loadlow.me
@@ -81,6 +80,7 @@
 #	revelio.top
 #	rockwell.website
 #	safeservedns.com
+#	solaxy.live
 #	squidmall.vip
 #	sunnygyl.com
 #	tecdrive.site
@@ -425,7 +425,6 @@ dns.kuuhaku.moe
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
-lecker.pizza
 dns.lepilleur.com
 dns.levonet.sk
 lewsha.lol
@@ -570,6 +569,7 @@ dns.propheci.xyz
 doh.archuser.org
 doh.qis.io
 dns.quad9.net
+dns9.quad9.net
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -612,6 +612,7 @@ dns.silentlybren.com
 dns.slinkyman.net
 dns.smartguard.io
 adg.geili.me
+solaxy.live
 squidmall.vip
 dns.startupstack.tech
 dns.stevenz.net
@@ -626,7 +627,6 @@ doh.sunoaki.net
 dns.superstefan.win
 dns.svoi.dev
 dns.switch.ch
-dns.sy.st
 dns.szpadel.ovh
 dns.t53.de
 tecdrive.site

@@ -1,4 +1,4 @@
-#19443415e3e70fbccc8b53f789bc23385cfbb6144aefd351586ce093ae67f443
+#acc161263c82901b50cec1351d72cdf2ad7c472e3fdefc5075eaeb6c1fbf5ff9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -12,6 +12,7 @@
 #	affsoft.cc
 #	ahoj.email
 #	atris.cyou
+#	bakamh.news
 #	bazooki-infra.dev
 #	bestwon203.com
 #	cloudflare-dns.com
@@ -41,7 +42,6 @@
 #	ikarosalpha.xyz
 #	imperio.top
 #	kf-49509-tr.xyz
-#	lewsha.lol
 #	lifeisa.live
 #	loadlow.me
 #	lukscasino-929-tr.xyz
@@ -94,7 +94,6 @@
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
-#	zneginnl.website
 #	znegindeh2.top
 #	0ms.dev
 #	0ms.dev
@@ -141,6 +140,7 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 dns.a47.me
+bakamh.news
 doh.battle.christmas
 bazooki-infra.dev
 dns.belnet.be
@@ -427,7 +427,6 @@ dns.lars-lehmann.net
 eu1.dns.lavate.ch
 dns.lepilleur.com
 dns.levonet.sk
-lewsha.lol
 dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
@@ -563,7 +562,6 @@ polisitogel.limo
 polisitogel.show
 polisitogel.realty
 pooblet.co.za
-dns.pragmasec.nl
 nl.dns.privex.io
 dns.propheci.xyz
 doh.archuser.org
@@ -678,7 +676,6 @@ zakaria.website
 princez.uk
 zdn.ro
 doh.zknt.org
-zneginnl.website
 znegindeh2.top
 0ms.dev
 0ms.dev

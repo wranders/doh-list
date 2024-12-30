@@ -1,4 +1,4 @@
-#c58248b6b001d7227fe65dd24734e51230809abaf2a64032fa50d7132566d02e
+#629b0f64d7be1c269391bc4c388c8419a36af10765809c015f0d620b6f58cd36
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -458,7 +458,7 @@ mabuktogel.directory
 mabuktogel.limited
 maqgie.xyz
 dns.marasov.id
-multi.dns.marbledfennec.net
+dns.marbledfennec.net
 dns.technologycage.com
 doh.maskab.com
 masters-of-cloud.de

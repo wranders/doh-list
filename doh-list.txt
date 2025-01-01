@@ -1,4 +1,4 @@
-#629b0f64d7be1c269391bc4c388c8419a36af10765809c015f0d620b6f58cd36
+#693c654d7bf0e4d7469dd019f81bb0658a9ac9092fe74cb020ea5e3994161c5c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -51,7 +51,6 @@
 #	mabuktogel.properties
 #	mabuktogel.solutions
 #	mabuktogel.directory
-#	mabuktogel.limited
 #	maqgie.xyz
 #	masters-of-cloud.de
 #	mendozasdelivery.com
@@ -59,6 +58,7 @@
 #	mnrv.trade
 #	moamao.shop
 #	myatris.sbs
+#	nekosama.store
 #	doh.lv
 #	ntwrkh.pro
 #	obscuro.top
@@ -455,7 +455,6 @@ mabuktogel.ltd
 mabuktogel.properties
 mabuktogel.solutions
 mabuktogel.directory
-mabuktogel.limited
 maqgie.xyz
 dns.marasov.id
 dns.marbledfennec.net
@@ -519,6 +518,7 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neeb.it
+nekosama.store
 dns.netvpn.net
 dns.nextdns.io
 dns.nhtsky.com

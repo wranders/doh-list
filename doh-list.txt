@@ -1,4 +1,4 @@
-#693c654d7bf0e4d7469dd019f81bb0658a9ac9092fe74cb020ea5e3994161c5c
+#70d9f91cc00b2cf448dc30a98d3304d1b6ca6e06bbaa23a9b6d730f65d2167cb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,7 +41,6 @@
 #	home-server.store
 #	ikarosalpha.xyz
 #	imperio.top
-#	kf-49509-tr.xyz
 #	lifeisa.live
 #	loadlow.me
 #	lukscasino-929-tr.xyz
@@ -80,6 +79,7 @@
 #	revelio.top
 #	rockwell.website
 #	safeservedns.com
+#	simsim.lol
 #	solaxy.live
 #	squidmall.vip
 #	sunnygyl.com
@@ -94,7 +94,6 @@
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
-#	znegindeh2.top
 #	0ms.dev
 #	0ms.dev
 #	052419.xyz
@@ -156,7 +155,6 @@ rfree2.blue-shield.at
 adguard.bonis.de
 dns.braene.com
 dns.brahma.world
-dns.bravoc.one
 dns.brembeck.cloud
 dns.brono.cloud
 dns.butterfly87.sbs
@@ -422,11 +420,9 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
-kf-49509-tr.xyz
 adg.khon.dev
 doh.kidzonet.io
 dns.koala.us.to
-adguard.konikoni428.com
 dns.kosan.moe
 dart.kpsn.org
 adblock.krctech.dev
@@ -607,15 +603,14 @@ rockwell.website
 dns.roedel.cloud
 safeservedns.com
 dns.sarilouis.com
-dns.seiffert.me
 adguard.senthil.us
 dns1.serdcebolit.ru
 dns.sev.monster
-dns.shareworx.net
 dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
 dns.silen.org
+simsim.lol
 dns.skrep.eu
 dns.silentlybren.com
 dns.slinkyman.net
@@ -667,6 +662,7 @@ tor.vasi.li
 doh.viatech.com.tw
 virga.pp.ua
 virga.pp.ua
+dns.vod11.xyz
 dns.vojtat.cz
 vorlif.org
 dns.wang.art
@@ -687,7 +683,6 @@ zakaria.website
 princez.uk
 zdn.ro
 doh.zknt.org
-znegindeh2.top
 0ms.dev
 0ms.dev
 dns.0ooo.icu

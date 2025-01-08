@@ -1,4 +1,4 @@
-#70d9f91cc00b2cf448dc30a98d3304d1b6ca6e06bbaa23a9b6d730f65d2167cb
+#dc507cd86bc7a23a3eb5b833b588288022625250f724e84d579d419f71687d7b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -66,7 +66,6 @@
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
-#	polisitogel.diy
 #	polisitogel.living
 #	polisitogel.webcam
 #	polisitogel.hair
@@ -79,7 +78,6 @@
 #	revelio.top
 #	rockwell.website
 #	safeservedns.com
-#	simsim.lol
 #	solaxy.live
 #	squidmall.vip
 #	sunnygyl.com
@@ -387,7 +385,6 @@ dns.deadsec.net
 dns.haka.se
 adguard.hjebbour.top
 home-server.store
-dns.lihj.me
 dns.hoody.com
 dns.hostux.net
 dns.hostux.net
@@ -526,8 +523,8 @@ doh-random-upstream.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
 nightlymoon.us.kg
 nightlymoon.us.kg
-ns.nwps.fi
-ns.nwps.fi
+public.ns.nwps.fi
+kids.ns.nwps.fi
 dns.ningkelle.id
 family.dns.ningkelle.id
 doh.niyawe.de
@@ -535,7 +532,6 @@ dns.njal.la
 kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
-dns.novali.date
 dns.novg.net
 ntwrkh.pro
 obscuro.top
@@ -560,7 +556,6 @@ privacy.plumedns.com
 pm1239-bd.xyz
 pm9352-bd.xyz
 pm7051-br.xyz
-polisitogel.diy
 polisitogel.living
 polisitogel.webcam
 polisitogel.hair
@@ -602,7 +597,6 @@ dns.rbn.gr
 rockwell.website
 dns.roedel.cloud
 safeservedns.com
-dns.sarilouis.com
 adguard.senthil.us
 dns1.serdcebolit.ru
 dns.sev.monster
@@ -610,7 +604,6 @@ dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
 dns.silen.org
-simsim.lol
 dns.skrep.eu
 dns.silentlybren.com
 dns.slinkyman.net
@@ -654,6 +647,7 @@ dns.twnic.tw
 doh.tiar.app
 tri-dns.net
 eu.tri-dns.net
+asia.tri-dns.net
 anycast.uncensoreddns.org
 dns.unx.io
 adfree.usableprivacy.net

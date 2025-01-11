@@ -1,4 +1,4 @@
-#dc507cd86bc7a23a3eb5b833b588288022625250f724e84d579d419f71687d7b
+#9a672be8555be0879b4a664c6603755137417528c07563bd9e253f2e77338b42
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -46,7 +46,6 @@
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
 #	mabuktogel.marketing
-#	mabuktogel.ltd
 #	mabuktogel.properties
 #	mabuktogel.solutions
 #	mabuktogel.directory
@@ -82,6 +81,7 @@
 #	squidmall.vip
 #	sunnygyl.com
 #	tecdrive.site
+#	tensents.shop
 #	toropyzhka.xyz
 #	tujenasnaszato.xyz
 #	tuskythehusky.tech
@@ -444,7 +444,6 @@ lukscasino-479-tr.xyz
 dns.luma-medien.com
 dns.l337.site
 mabuktogel.marketing
-mabuktogel.ltd
 mabuktogel.properties
 mabuktogel.solutions
 mabuktogel.directory
@@ -493,7 +492,6 @@ ae-fuj-w-p-3.nashkan.net
 at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
 de-fra-w-p-1.nashkan.net
-de-fsn-w-p-1.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
@@ -615,6 +613,7 @@ dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
 dns.stormycloud.org
+doh.sublime9.xyz
 dns.suhaila.dev
 sundalandia.pp.ua
 sundalandia.pp.ua
@@ -628,6 +627,7 @@ dns.szpadel.ovh
 dns.t53.de
 tecdrive.site
 dns.telekom.de
+tensents.shop
 dns.thebuckners.org
 blocker.thethorsens.org
 dns.thiz.top

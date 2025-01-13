@@ -1,4 +1,4 @@
-#9a672be8555be0879b4a664c6603755137417528c07563bd9e253f2e77338b42
+#356a3b47ad5b63fea2b31d78b65b3894ff565f6508fde487b82f53892a58a26b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,7 +10,6 @@
 #	adfreedns.top
 #	affcdn.net
 #	affsoft.cc
-#	ahoj.email
 #	atris.cyou
 #	bakamh.news
 #	bazooki-infra.dev
@@ -60,6 +59,7 @@
 #	doh.lv
 #	ntwrkh.pro
 #	obscuro.top
+#	paradise-human.shop
 #	pashagame456.com
 #	pepetio.xyz
 #	pm1239-bd.xyz
@@ -113,14 +113,12 @@ affcdn.net
 affsoft.cc
 blitz.ahadns.com
 blitz.ahadns.com
-ahoj.email
 dns.alidns.com
 doh.kel.pe
 dns.aa.net.uk
 doh.angry.im
 dns.anon.no
 secure.anudeep.me
-ad.anym0re.ru
 dns.hypercute.eu
 dns.applewebkit.dev
 arashi.net.eu.org
@@ -540,6 +538,7 @@ ada.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
 dns.paesa.es
+paradise-human.shop
 pashagame456.com
 paulo.nom.za
 dns.decky.eu
@@ -662,8 +661,6 @@ vorlif.org
 dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
-dns-1.wil.cloud
-dns-2.wil.cloud
 ns2.wuyouss.com
 ns3.wuyouss.com
 dns.w3ctag.org

@@ -1,4 +1,4 @@
-#356a3b47ad5b63fea2b31d78b65b3894ff565f6508fde487b82f53892a58a26b
+#e0225be72d86cd1717a2b197bb0a05ca773d261fde4f13afcb9ebcf4e39e3cfb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -11,7 +11,6 @@
 #	affcdn.net
 #	affsoft.cc
 #	atris.cyou
-#	bakamh.news
 #	bazooki-infra.dev
 #	bestwon203.com
 #	cloudflare-dns.com
@@ -44,7 +43,6 @@
 #	loadlow.me
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
-#	mabuktogel.marketing
 #	mabuktogel.properties
 #	mabuktogel.solutions
 #	mabuktogel.directory
@@ -67,7 +65,6 @@
 #	pm7051-br.xyz
 #	polisitogel.living
 #	polisitogel.webcam
-#	polisitogel.hair
 #	polisitogel.luxe
 #	polisitogel.limo
 #	polisitogel.show
@@ -81,8 +78,6 @@
 #	squidmall.vip
 #	sunnygyl.com
 #	tecdrive.site
-#	tensents.shop
-#	toropyzhka.xyz
 #	tujenasnaszato.xyz
 #	tuskythehusky.tech
 #	tri-dns.net
@@ -135,7 +130,6 @@ awan.ftp.sh
 awan.ftp.sh
 awan.ftp.sh
 dns.a47.me
-bakamh.news
 doh.battle.christmas
 bazooki-infra.dev
 dns.belnet.be
@@ -403,7 +397,6 @@ megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 aqua.is.my.waifu.cz
 yunyun.is.my.waifu.cz
-dns.ishan.pw
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kapite.in
@@ -441,7 +434,6 @@ lukscasino-929-tr.xyz
 lukscasino-479-tr.xyz
 dns.luma-medien.com
 dns.l337.site
-mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
 mabuktogel.directory
@@ -494,7 +486,6 @@ fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 ro-buc-w-p-1.nashkan.net
-sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
@@ -555,7 +546,6 @@ pm9352-bd.xyz
 pm7051-br.xyz
 polisitogel.living
 polisitogel.webcam
-polisitogel.hair
 polisitogel.luxe
 polisitogel.limo
 polisitogel.show
@@ -626,7 +616,6 @@ dns.szpadel.ovh
 dns.t53.de
 tecdrive.site
 dns.telekom.de
-tensents.shop
 dns.thebuckners.org
 blocker.thethorsens.org
 dns.thiz.top
@@ -635,7 +624,6 @@ dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 adb.timnichollsphotography.com
-toropyzhka.xyz
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net

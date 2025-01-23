@@ -1,4 +1,4 @@
-#e0225be72d86cd1717a2b197bb0a05ca773d261fde4f13afcb9ebcf4e39e3cfb
+#a7749ad9c93e3c8dfa189c760037ff557baeaa2b77f2c6ab255ff88f88c897d1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -125,10 +125,6 @@ dns.asterimoon.com
 dns.asysec.com
 atris.cyou
 secure.avastdns.com
-awan.ftp.sh
-awan.ftp.sh
-awan.ftp.sh
-awan.ftp.sh
 dns.a47.me
 doh.battle.christmas
 bazooki-infra.dev
@@ -362,9 +358,6 @@ glacius.top
 dns.google
 dns64.dns.google
 8888.google
-nana-is.so-gorgeo.us.kg
-tetty-is.so-gorgeo.us.kg
-luna-is.so-gorgeo.us.kg
 mita-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
@@ -424,8 +417,6 @@ dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
 lifeisa.live
-lindung.pp.ua
-lindung.pp.ua
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 loadlow.me
@@ -604,8 +595,6 @@ dns.stirringphoto.com
 dns.stormycloud.org
 doh.sublime9.xyz
 dns.suhaila.dev
-sundalandia.pp.ua
-sundalandia.pp.ua
 resolver.sunet.se
 sunnygyl.com
 doh.sunoaki.net
@@ -641,8 +630,6 @@ adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
 doh.viatech.com.tw
-virga.pp.ua
-virga.pp.ua
 dns.vod11.xyz
 dns.vojtat.cz
 vorlif.org

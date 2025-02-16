@@ -1,4 +1,4 @@
-#a7749ad9c93e3c8dfa189c760037ff557baeaa2b77f2c6ab255ff88f88c897d1
+#e3fc9b6ebc8ee9a13cad9696205420212b4974da5b5527fe5632871f2862bce3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -43,8 +43,6 @@
 #	loadlow.me
 #	lukscasino-929-tr.xyz
 #	lukscasino-479-tr.xyz
-#	mabuktogel.properties
-#	mabuktogel.solutions
 #	mabuktogel.directory
 #	maqgie.xyz
 #	masters-of-cloud.de
@@ -53,7 +51,6 @@
 #	mnrv.trade
 #	moamao.shop
 #	myatris.sbs
-#	nekosama.store
 #	doh.lv
 #	ntwrkh.pro
 #	obscuro.top
@@ -63,12 +60,7 @@
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
-#	polisitogel.living
 #	polisitogel.webcam
-#	polisitogel.luxe
-#	polisitogel.limo
-#	polisitogel.show
-#	polisitogel.realty
 #	regiopolis.cloud
 #	renardbleu.dev
 #	revelio.top
@@ -89,7 +81,6 @@
 #	zdn.ro
 #	0ms.dev
 #	0ms.dev
-#	052419.xyz
 #	123000123.xyz
 #	3dcosas.xyz
 #
@@ -114,7 +105,6 @@ dns.aa.net.uk
 doh.angry.im
 dns.anon.no
 secure.anudeep.me
-dns.hypercute.eu
 dns.applewebkit.dev
 arashi.net.eu.org
 ns.net.kg
@@ -134,7 +124,6 @@ bestwon203.com
 dns.bitdefender.net
 dns.bitservices.io
 doh-de.blahdns.com
-us1.blissdns.net
 dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
@@ -144,12 +133,10 @@ dns.brahma.world
 dns.brembeck.cloud
 dns.brono.cloud
 dns.butterfly87.sbs
-doh1.b-cdn.net
 dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 doh.aaaab3n.moe
-dns.carter.me
 dns.caspervk.net
 dns.cctld.kg
 dns.cert.ee
@@ -159,7 +146,6 @@ dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
 dns.chunghwamc.com
-doh.cippapp.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 family.canadianshield.cira.ca
@@ -368,7 +354,6 @@ dns.glf.wtf
 dns.guard.io
 dns.deadsec.net
 dns.haka.se
-adguard.hjebbour.top
 home-server.store
 dns.hoody.com
 dns.hostux.net
@@ -393,7 +378,6 @@ yunyun.is.my.waifu.cz
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kapite.in
-dns.karadag.me
 adguard.kasbot.net
 dns.kastner-online.de
 dns.kebree.fr
@@ -407,12 +391,10 @@ dns.koala.us.to
 dns.kosan.moe
 dart.kpsn.org
 adblock.krctech.dev
-dns.kuuhaku.moe
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
 dns.lepilleur.com
-dns.levonet.sk
 dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
@@ -425,8 +407,6 @@ lukscasino-929-tr.xyz
 lukscasino-479-tr.xyz
 dns.luma-medien.com
 dns.l337.site
-mabuktogel.properties
-mabuktogel.solutions
 mabuktogel.directory
 maqgie.xyz
 dns.marasov.id
@@ -435,7 +415,6 @@ dns.technologycage.com
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
-home.wriedts.de
 dns.mayx.eu.org
 dns.mbrjun.cn
 adguard.meddy94.de
@@ -472,9 +451,6 @@ ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
-de-fra-w-p-1.nashkan.net
-fr-gra-w-f-1.nashkan.net
-fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-p-1.nashkan.net
@@ -489,18 +465,15 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neeb.it
-nekosama.store
 dns.netvpn.net
 dns.nextdns.io
-dns.nhtsky.com
 dns.nick-slowinski.de
 doh.lv
 doh.nic.lv
 adguard-kartoffel.zernico.de
 doh-random-upstream.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
-nightlymoon.us.kg
-nightlymoon.us.kg
+dns.nightlymoon.us.kg
 public.ns.nwps.fi
 kids.ns.nwps.fi
 dns.ningkelle.id
@@ -522,7 +495,7 @@ ns1.opennameserver.org
 dns.paesa.es
 paradise-human.shop
 pashagame456.com
-paulo.nom.za
+dns.paulo.nom.za
 dns.decky.eu
 dns.peb-schmidt.de
 pepetio.xyz
@@ -535,12 +508,7 @@ privacy.plumedns.com
 pm1239-bd.xyz
 pm9352-bd.xyz
 pm7051-br.xyz
-polisitogel.living
 polisitogel.webcam
-polisitogel.luxe
-polisitogel.limo
-polisitogel.show
-polisitogel.realty
 pooblet.co.za
 nl.dns.privex.io
 dns.propheci.xyz
@@ -636,8 +604,6 @@ vorlif.org
 dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
-ns2.wuyouss.com
-ns3.wuyouss.com
 dns.w3ctag.org
 xbcpb668.com
 dns.xlion.tw
@@ -652,13 +618,10 @@ doh.zknt.org
 0ms.dev
 0ms.dev
 dns.0ooo.icu
-052419.xyz
 123000123.xyz
 3dcosas.xyz
 ns2.4netguides.org
 dns.444723.xyz
-family.5ososea.com
-kids.5ososea.com
 dns.52306.org
 dns.688447.xyz
 doh.774445.xyz

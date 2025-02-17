@@ -1,4 +1,4 @@
-#e3fc9b6ebc8ee9a13cad9696205420212b4974da5b5527fe5632871f2862bce3
+#2ad0a97a254c55caa8dcadadbe58a47e3f90ee0d1c3d48d06d84f736fff53847
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -98,7 +98,6 @@ unfiltered.adguard-dns.com
 affcdn.net
 affsoft.cc
 blitz.ahadns.com
-blitz.ahadns.com
 dns.alidns.com
 doh.kel.pe
 dns.aa.net.uk
@@ -144,7 +143,6 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 dns.chenu.ch
 dns.christerwaren.fi
-dns.chriswservers.com
 dns.chunghwamc.com
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -231,7 +229,6 @@ bts01.dnscry.pt
 bne01.dnscry.pt
 bru01.dnscry.pt
 yyc01.dnscry.pt
-ord01.dnscry.pt
 kiv01.dnscry.pt
 cph01.dnscry.pt
 cvt01.dnscry.pt
@@ -324,7 +321,6 @@ farewellkou.click
 nicsezcheckfbi.gov
 ns0.fdn.fr
 ns1.fdn.fr
-dns.fehlsprache.de
 doh.li
 doh.ffmuc.net
 fidelius.top

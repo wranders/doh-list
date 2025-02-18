@@ -1,4 +1,4 @@
-#2ad0a97a254c55caa8dcadadbe58a47e3f90ee0d1c3d48d06d84f736fff53847
+#c1dae0ae3424673f5c0d5cf5af7860e3033d86fe90000d581407d13da2a2efab
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -289,7 +289,6 @@ clean.dnsforge.de
 hard.dnsforge.de
 dns1.dns-ga.de
 dns2.dns-ga.de
-dns3.dns-ga.de
 dns.dnshome.de
 dnslow.me
 dns.pub
@@ -406,7 +405,6 @@ dns.l337.site
 mabuktogel.directory
 maqgie.xyz
 dns.marasov.id
-dns.marbledfennec.net
 dns.technologycage.com
 doh.maskab.com
 masters-of-cloud.de
@@ -592,7 +590,6 @@ anycast.uncensoreddns.org
 dns.unx.io
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
-tor.vasi.li
 doh.viatech.com.tw
 dns.vod11.xyz
 dns.vojtat.cz

@@ -1,4 +1,4 @@
-#c1dae0ae3424673f5c0d5cf5af7860e3033d86fe90000d581407d13da2a2efab
+#f7506828b453913638c025486fcc7eefa52702b1d87af5d285e61bdd09344c99
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -37,7 +37,6 @@
 #	dns.google
 #	8888.google
 #	home-server.store
-#	ikarosalpha.xyz
 #	imperio.top
 #	lifeisa.live
 #	loadlow.me
@@ -53,7 +52,6 @@
 #	myatris.sbs
 #	doh.lv
 #	ntwrkh.pro
-#	obscuro.top
 #	paradise-human.shop
 #	pashagame456.com
 #	pepetio.xyz
@@ -64,7 +62,6 @@
 #	regiopolis.cloud
 #	renardbleu.dev
 #	revelio.top
-#	rockwell.website
 #	safeservedns.com
 #	solaxy.live
 #	squidmall.vip
@@ -76,6 +73,7 @@
 #	vorlif.org
 #	wikimedia-dns.org
 #	xbcpb668.com
+#	xmr.land
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
@@ -130,7 +128,6 @@ adguard.bonis.de
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
-dns.brono.cloud
 dns.butterfly87.sbs
 dns.burgas.pro
 dns.busold.ws
@@ -302,6 +299,8 @@ droyd.top
 agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de
+dns.dynx.pro
+dns.dynx.pro
 dns.d94.xyz
 dns.d96.info
 doh.apad.pro
@@ -355,7 +354,6 @@ dns.hostux.net
 dns.hostux.net
 doth.huque.com
 ordns.he.net
-ikarosalpha.xyz
 doh.immerda.ch
 imperio.top
 dns1.in-berlin.de
@@ -389,7 +387,6 @@ adblock.krctech.dev
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 eu1.dns.lavate.ch
-dns.lepilleur.com
 dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
@@ -479,7 +476,6 @@ dns1.nordvpn.com
 dns2.nordvpn.com
 dns.novg.net
 ntwrkh.pro
-obscuro.top
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -534,7 +530,6 @@ sky.rethinkdns.com
 sky.rethinkdns.com
 revelio.top
 dns.rbn.gr
-rockwell.website
 dns.roedel.cloud
 safeservedns.com
 adguard.senthil.us
@@ -591,7 +586,6 @@ dns.unx.io
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
 doh.viatech.com.tw
-dns.vod11.xyz
 dns.vojtat.cz
 vorlif.org
 dns.wang.art
@@ -599,6 +593,7 @@ abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org
 xbcpb668.com
+xmr.land
 dns.xlion.tw
 dns.seia.io
 secondary.dns.seia.io

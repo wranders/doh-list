@@ -1,4 +1,4 @@
-#f7506828b453913638c025486fcc7eefa52702b1d87af5d285e61bdd09344c99
+#2004f91c1d14b231e3bc3b15d45a175c24ef09500b9e27781cca0dc3514c99b1
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -47,7 +47,6 @@
 #	masters-of-cloud.de
 #	mendozasdelivery.com
 #	mikezhang.xyz
-#	mnrv.trade
 #	moamao.shop
 #	myatris.sbs
 #	doh.lv
@@ -58,7 +57,6 @@
 #	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
-#	polisitogel.webcam
 #	regiopolis.cloud
 #	renardbleu.dev
 #	revelio.top
@@ -303,7 +301,6 @@ dns.dynx.pro
 dns.dynx.pro
 dns.d94.xyz
 dns.d96.info
-doh.apad.pro
 dns.efficientdocuments.com
 dns.henek.ovh
 dns.elemental.software
@@ -372,7 +369,6 @@ dns.jupitrdns.com
 ad.justincounts.com
 dns.kapite.in
 adguard.kasbot.net
-dns.kastner-online.de
 dns.kebree.fr
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -410,7 +406,6 @@ dns.mayx.eu.org
 dns.mbrjun.cn
 adguard.meddy94.de
 mendozasdelivery.com
-testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 mikezhang.xyz
@@ -418,7 +413,6 @@ netcup.mismat.ch
 addns1.m-it.ro
 doh.mmmalia.com
 dns.mnet-online.de
-mnrv.trade
 dnstls.mobik.com
 moamao.shop
 dns.momou.ch
@@ -451,7 +445,6 @@ us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-f-1.nashkan.net
 us-kan-w-p-1.nashkan.net
-us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
@@ -498,7 +491,6 @@ privacy.plumedns.com
 pm1239-bd.xyz
 pm9352-bd.xyz
 pm7051-br.xyz
-polisitogel.webcam
 pooblet.co.za
 nl.dns.privex.io
 dns.propheci.xyz
@@ -614,7 +606,6 @@ dns.52306.org
 dns.688447.xyz
 doh.774445.xyz
 dns.775467.xyz
-dns.853852.xyz
 dns.8887744.xyz
 dns.9999.sg
 ibuki.cgnat.net

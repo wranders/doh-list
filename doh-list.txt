@@ -1,4 +1,4 @@
-#d5a5b15e6f2258328518457c259d6a88996e324a121a77191e99b17da3c5ebf6
+#809085bc92bfd576e06433d225ab54a6b9d48dbcc8ddb00dcbcbbafa7e7a06f4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -335,12 +335,6 @@ glacius.top
 dns.google
 dns64.dns.google
 8888.google
-mita-is.so-gorgeo.us.kg
-yussy-is.so-gorgeo.us.kg
-nova-is.so-gorgeo.us.kg
-nindy-is.so-gorgeo.us.kg
-sitha-is.so-gorgeo.us.kg
-mecca-is.so-gorgeo.us.kg
 dns.glf.wtf
 dns.guard.io
 dns.deadsec.net
@@ -458,7 +452,6 @@ doh.nic.lv
 adguard-kartoffel.zernico.de
 doh-random-upstream.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
-dns.nightlymoon.us.kg
 public.ns.nwps.fi
 kids.ns.nwps.fi
 dns.ningkelle.id

@@ -1,4 +1,4 @@
-#809085bc92bfd576e06433d225ab54a6b9d48dbcc8ddb00dcbcbbafa7e7a06f4
+#7ff9467df06d04bcd55e01b4e7959c8e6bd44b5a1ad7d67a847bf3447d26428a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -54,7 +54,6 @@
 #	paradise-human.shop
 #	pashagame456.com
 #	pepetio.xyz
-#	pm1239-bd.xyz
 #	pm9352-bd.xyz
 #	pm7051-br.xyz
 #	regiopolis.cloud
@@ -70,7 +69,6 @@
 #	tri-dns.net
 #	vorlif.org
 #	wikimedia-dns.org
-#	xbcpb668.com
 #	xmr.land
 #	zakaria.website
 #	princez.uk
@@ -103,11 +101,9 @@ secure.anudeep.me
 dns.applewebkit.dev
 arashi.net.eu.org
 ns.net.kg
-dns.arkbotech.com
 nsec.arnor.org
 dns.artikel10.org
 dns.asterimoon.com
-dns.asysec.com
 atris.cyou
 secure.avastdns.com
 dns.a47.me
@@ -175,13 +171,10 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-dns.criena.net
 dns.crystalyx.net
 dns.csaonline.de
 dns.csa-rz.de
 dns.csswg.org
-dns.cybertonic.tech
-newd.rezyro.com
 dns.cynthialabs.net
 odvr.nic.cz
 ns.00dani.me
@@ -239,7 +232,6 @@ han01.dnscry.pt
 sgn01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
-hrk01.dnscry.pt
 las01.dnscry.pt
 lim02.dnscry.pt
 lis01.dnscry.pt
@@ -306,8 +298,6 @@ dns.henek.ovh
 dns.elemental.software
 eliatofani.ovh
 dns.eliv.kr
-dns.emiliyan.com
-doh.excdn.eu.org
 dns.faked.org
 dnsvps.familiamv.net
 dns.fancyorg.at
@@ -324,7 +314,6 @@ dns.flymc.cc
 dns.pari.network
 doh.applied-privacy.net
 dns.froth.zone
-adguard.frutuozo.com.br
 doh.futa.gg
 dns.de.futuredns.eu.org
 dns.us.futuredns.eu.org
@@ -350,11 +339,9 @@ imperio.top
 dns1.in-berlin.de
 dns2.in-berlin.de
 dns.inclusioproject.com
-dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
 public.dns.iij.jp
-doh.iucc.ac.il
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
 aqua.is.my.waifu.cz
@@ -425,7 +412,6 @@ paranoia.mydns.network
 adblock.mydns.network
 family.mydns.network
 dns.mzjtechnology.com
-dns.nako.kr
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
@@ -463,7 +449,6 @@ dns1.nordvpn.com
 dns2.nordvpn.com
 dns.novg.net
 ntwrkh.pro
-dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 ada.openbld.net
@@ -482,7 +467,6 @@ kronos.plan9-dns.com
 helios.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
-pm1239-bd.xyz
 pm9352-bd.xyz
 pm7051-br.xyz
 pooblet.co.za
@@ -504,7 +488,6 @@ tiger.dns.qwer.pw
 dns.rabbitdns.org
 security.rabbitdns.org
 family.rabbitdns.org
-ns.ral9005.org
 dns.redhosting.com.ar
 dns.reitmeier.me
 dns.reckoningslug.name
@@ -533,7 +516,6 @@ adg.geili.me
 solaxy.live
 squidmall.vip
 dns.startupstack.tech
-dns.stevenz.net
 dns.stirringphoto.com
 dns.stormycloud.org
 doh.sublime9.xyz
@@ -552,7 +534,6 @@ dns.thebuckners.org
 blocker.thethorsens.org
 dns.thiz.top
 dns.thiz.top
-dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 adb.timnichollsphotography.com
@@ -572,13 +553,11 @@ dns.unx.io
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
 doh.viatech.com.tw
-dns.vojtat.cz
 vorlif.org
 dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org
-xbcpb668.com
 xmr.land
 dns.xlion.tw
 dns.seia.io
@@ -596,7 +575,6 @@ dns.0ooo.icu
 3dcosas.xyz
 ns2.4netguides.org
 dns.444723.xyz
-dns.52306.org
 dns.688447.xyz
 doh.774445.xyz
 dns.775467.xyz

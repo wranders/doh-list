@@ -1,4 +1,4 @@
-#7ff9467df06d04bcd55e01b4e7959c8e6bd44b5a1ad7d67a847bf3447d26428a
+#18e8aa5b21eac946dd980dc527afa17208ed042a2550931f86e79f4dd1df5e16
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -28,7 +28,6 @@
 #	dukun.de
 #	xn--durhre-yxa.de
 #	eliatofani.ovh
-#	farewellkou.click
 #	nicsezcheckfbi.gov
 #	doh.li
 #	fidelius.top
@@ -51,7 +50,6 @@
 #	myatris.sbs
 #	doh.lv
 #	ntwrkh.pro
-#	paradise-human.shop
 #	pashagame456.com
 #	pepetio.xyz
 #	pm9352-bd.xyz
@@ -274,7 +272,6 @@ evn01.dnscry.pt
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
-dns1.dns-ga.de
 dns2.dns-ga.de
 dns.dnshome.de
 dnslow.me
@@ -302,7 +299,6 @@ dns.faked.org
 dnsvps.familiamv.net
 dns.fancyorg.at
 dns.farshidhakimy.de
-farewellkou.click
 nicsezcheckfbi.gov
 ns0.fdn.fr
 ns1.fdn.fr
@@ -368,8 +364,6 @@ dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
 lifeisa.live
-africadns1.liquidtelecom.net
-africadns2.liquidtelecom.net
 loadlow.me
 dns.lobbygod.com
 lukscasino-929-tr.xyz
@@ -455,7 +449,6 @@ ada.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
 dns.paesa.es
-paradise-human.shop
 pashagame456.com
 dns.paulo.nom.za
 dns.decky.eu
@@ -480,7 +473,6 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns.quiet.rocks
-ant.dns.qwer.pw
 dog.dns.qwer.pw
 lion.dns.qwer.pw
 frog.dns.qwer.pw

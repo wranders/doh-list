@@ -1,4 +1,4 @@
-#18e8aa5b21eac946dd980dc527afa17208ed042a2550931f86e79f4dd1df5e16
+#0e08afe36976c13362ccde1a3a81c190b0a6eda98bcee15789e211f20a943709
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -67,7 +67,6 @@
 #	tri-dns.net
 #	vorlif.org
 #	wikimedia-dns.org
-#	xmr.land
 #	zakaria.website
 #	princez.uk
 #	zdn.ro
@@ -180,7 +179,6 @@ adguard.dantynes.cyou
 ns.data.haus
 dns.datenquark.de
 deep-henchman-excuse.cfd
-doh.denypradana.com
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
@@ -272,7 +270,6 @@ evn01.dnscry.pt
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
-dns2.dns-ga.de
 dns.dnshome.de
 dnslow.me
 dns.pub
@@ -418,7 +415,6 @@ us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
-us-kan-w-f-1.nashkan.net
 us-kan-w-p-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
@@ -550,7 +546,6 @@ dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org
-xmr.land
 dns.xlion.tw
 dns.seia.io
 secondary.dns.seia.io
@@ -562,7 +557,6 @@ zdn.ro
 doh.zknt.org
 0ms.dev
 0ms.dev
-dns.0ooo.icu
 123000123.xyz
 3dcosas.xyz
 ns2.4netguides.org

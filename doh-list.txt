@@ -1,4 +1,4 @@
-#0e08afe36976c13362ccde1a3a81c190b0a6eda98bcee15789e211f20a943709
+#fb44895610fcaa951fd3500b3b3d1b649c32f03cfdfb45b27420d91060f035ac
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -27,7 +27,6 @@
 #	droyd.top
 #	dukun.de
 #	xn--durhre-yxa.de
-#	eliatofani.ovh
 #	nicsezcheckfbi.gov
 #	doh.li
 #	fidelius.top
@@ -290,7 +289,6 @@ dns.d96.info
 dns.efficientdocuments.com
 dns.henek.ovh
 dns.elemental.software
-eliatofani.ovh
 dns.eliv.kr
 dns.faked.org
 dnsvps.familiamv.net
@@ -333,7 +331,6 @@ dns1.in-berlin.de
 dns2.in-berlin.de
 dns.inclusioproject.com
 dns.inforlogia.com
-qlf-doh.inria.fr
 public.dns.iij.jp
 megumin.is.my.waifu.cz
 darkness.is.my.waifu.cz
@@ -388,9 +385,6 @@ doh.mmmalia.com
 dns.mnet-online.de
 dnstls.mobik.com
 moamao.shop
-dns.momou.ch
-dns.momou.ch
-dns.momou.ch
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -462,7 +456,6 @@ pooblet.co.za
 nl.dns.privex.io
 dns.propheci.xyz
 doh.archuser.org
-doh.qis.io
 dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net

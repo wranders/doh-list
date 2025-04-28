@@ -1,4 +1,4 @@
-#fb44895610fcaa951fd3500b3b3d1b649c32f03cfdfb45b27420d91060f035ac
+#ab3d099a668ef6380649e69448f9fa22001ab47f62541472edd575a9fae405ba
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -146,6 +146,8 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns.comff.net
+dns.comss.one
+router.comss.one
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com

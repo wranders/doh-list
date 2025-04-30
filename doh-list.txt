@@ -1,4 +1,4 @@
-#ab3d099a668ef6380649e69448f9fa22001ab47f62541472edd575a9fae405ba
+#8ae01bffd3d682af23957821551505b78be2e6c0ecf753c9f65f29ca3f175a86
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -8,7 +8,6 @@
 #   !!! may block regular web access to these services.
 #
 #	adfreedns.top
-#	affcdn.net
 #	affsoft.cc
 #	atris.cyou
 #	bazooki-infra.dev
@@ -85,7 +84,6 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-affcdn.net
 affsoft.cc
 blitz.ahadns.com
 dns.alidns.com
@@ -326,7 +324,6 @@ dns.hoody.com
 dns.hostux.net
 dns.hostux.net
 doth.huque.com
-ordns.he.net
 doh.immerda.ch
 imperio.top
 dns1.in-berlin.de

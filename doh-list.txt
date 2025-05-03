@@ -1,4 +1,4 @@
-#8ae01bffd3d682af23957821551505b78be2e6c0ecf753c9f65f29ca3f175a86
+#ec07417c3e92527480423adb22e618aed557686a0ec35b7e8e2c97fcdb1206f9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -44,7 +44,6 @@
 #	masters-of-cloud.de
 #	mendozasdelivery.com
 #	mikezhang.xyz
-#	moamao.shop
 #	myatris.sbs
 #	doh.lv
 #	ntwrkh.pro
@@ -219,7 +218,6 @@ dub01.dnscry.pt
 dus01.dnscry.pt
 fra01.dnscry.pt
 fra02.dnscry.pt
-fjr01.dnscry.pt
 gva01.dnscry.pt
 haf01.dnscry.pt
 yhz01.dnscry.pt
@@ -383,7 +381,6 @@ addns1.m-it.ro
 doh.mmmalia.com
 dns.mnet-online.de
 dnstls.mobik.com
-moamao.shop
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -483,7 +480,6 @@ dns.roedel.cloud
 safeservedns.com
 adguard.senthil.us
 dns1.serdcebolit.ru
-dns.sev.monster
 dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
@@ -517,9 +513,6 @@ dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
 adb.timnichollsphotography.com
-resolv1.trash.net
-resolv2.trash.net
-resolv3.trash.net
 ns.trcnet.fi
 tujenasnaszato.xyz
 tuskythehusky.tech

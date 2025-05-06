@@ -1,4 +1,4 @@
-#ec07417c3e92527480423adb22e618aed557686a0ec35b7e8e2c97fcdb1206f9
+#df944fa110dab876c99de7620baa3a7fec3d7a224597f64b73b021efd14c88d9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -64,11 +64,7 @@
 #	tri-dns.net
 #	vorlif.org
 #	wikimedia-dns.org
-#	zakaria.website
-#	princez.uk
 #	zdn.ro
-#	0ms.dev
-#	0ms.dev
 #	123000123.xyz
 #	3dcosas.xyz
 #
@@ -84,7 +80,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 affsoft.cc
-blitz.ahadns.com
 dns.alidns.com
 doh.kel.pe
 dns.aa.net.uk
@@ -223,7 +218,6 @@ haf01.dnscry.pt
 yhz01.dnscry.pt
 han01.dnscry.pt
 sgn01.dnscry.pt
-isb01.dnscry.pt
 ist01.dnscry.pt
 las01.dnscry.pt
 lim02.dnscry.pt
@@ -513,7 +507,6 @@ dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
 adb.timnichollsphotography.com
-ns.trcnet.fi
 tujenasnaszato.xyz
 tuskythehusky.tech
 dns.twnic.tw
@@ -536,12 +529,8 @@ dns.seia.io
 secondary.dns.seia.io
 yarp.lefolgoc.net
 dns.yuu-g.net
-zakaria.website
-princez.uk
 zdn.ro
 doh.zknt.org
-0ms.dev
-0ms.dev
 123000123.xyz
 3dcosas.xyz
 ns2.4netguides.org

@@ -1,4 +1,4 @@
-#df944fa110dab876c99de7620baa3a7fec3d7a224597f64b73b021efd14c88d9
+#321535351825597c98d1776ceedb99a6f7bbfee1e5c28fa8a68a7e2e19432d40
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -168,7 +168,6 @@ dns.csswg.org
 dns.cynthialabs.net
 odvr.nic.cz
 ns.00dani.me
-adguard.dantynes.cyou
 ns.data.haus
 dns.datenquark.de
 deep-henchman-excuse.cfd
@@ -298,8 +297,6 @@ dns.pari.network
 doh.applied-privacy.net
 dns.froth.zone
 doh.futa.gg
-dns.de.futuredns.eu.org
-dns.us.futuredns.eu.org
 dns.gamban.com
 gibblets.top
 dns.girino.org
@@ -324,8 +321,6 @@ dns.inclusioproject.com
 dns.inforlogia.com
 public.dns.iij.jp
 megumin.is.my.waifu.cz
-darkness.is.my.waifu.cz
-aqua.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.jupitrdns.com
 ad.justincounts.com
@@ -343,7 +338,6 @@ dns.kosan.moe
 dart.kpsn.org
 adblock.krctech.dev
 doh.lacontrevoie.fr
-dns.lars-lehmann.net
 eu1.dns.lavate.ch
 dns.liberador.net
 doh.libredns.gr
@@ -418,7 +412,6 @@ dns.ningkelle.id
 family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
-kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
 dns.novg.net

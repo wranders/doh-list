@@ -1,4 +1,4 @@
-#321535351825597c98d1776ceedb99a6f7bbfee1e5c28fa8a68a7e2e19432d40
+#9b1699dd37795431a2d2a46ce152c998893bce4b54b2dee93d0f9d7bd9bd2609
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -182,6 +182,11 @@ dns0.eu
 zero.dns0.eu
 kids.dns0.eu
 doh.dns4all.eu
+protective.joindns4.eu
+child.joindns4.eu
+noads.joindns4.eu
+child-noads.joindns4.eu
+unfiltered.joindns4.eu
 ca01.dns4me.net
 ca02.dns4me.net
 us01.dns4me.net

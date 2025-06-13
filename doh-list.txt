@@ -1,4 +1,4 @@
-#9b1699dd37795431a2d2a46ce152c998893bce4b54b2dee93d0f9d7bd9bd2609
+#2cbef06a797104bcfa5573d4ccbb88681e103281d0475aadf15c5a6d0352c897
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -80,6 +80,7 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 affsoft.cc
+dns.akbxr.com
 dns.alidns.com
 doh.kel.pe
 dns.aa.net.uk
@@ -267,6 +268,12 @@ clean.dnsforge.de
 hard.dnsforge.de
 dns.dnshome.de
 dnslow.me
+hongkong.dnsovertor.cc
+japan.dnsovertor.cc
+chuncheon.dnsovertor.cc
+chuncheon1.dnsovertor.cc
+seoul.dnsovertor.cc
+singapore.dnsovertor.cc
 dns.pub
 doh.beauty
 doh.buzz
@@ -328,6 +335,10 @@ public.dns.iij.jp
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.jupitrdns.com
+doh0.jusprogdns.com
+doh6.jusprogdns.com
+doh12.jusprogdns.com
+doh16.jusprogdns.com
 ad.justincounts.com
 dns.kapite.in
 adguard.kasbot.net
@@ -487,6 +498,7 @@ dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
 doh.sublime9.xyz
+dns.surfsharkdns.com
 dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com

@@ -1,4 +1,4 @@
-#2cbef06a797104bcfa5573d4ccbb88681e103281d0475aadf15c5a6d0352c897
+#4f16677ce3b9f9f55a72a178a8a488d5c29ea844e23d110e67e213f755fe7f90
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,7 +9,6 @@
 #
 #	adfreedns.top
 #	affsoft.cc
-#	atris.cyou
 #	bazooki-infra.dev
 #	bestwon203.com
 #	cloudflare-dns.com
@@ -49,8 +48,6 @@
 #	ntwrkh.pro
 #	pashagame456.com
 #	pepetio.xyz
-#	pm9352-bd.xyz
-#	pm7051-br.xyz
 #	regiopolis.cloud
 #	renardbleu.dev
 #	revelio.top
@@ -91,19 +88,15 @@ dns.applewebkit.dev
 arashi.net.eu.org
 ns.net.kg
 nsec.arnor.org
-dns.artikel10.org
 dns.asterimoon.com
-atris.cyou
 secure.avastdns.com
 dns.a47.me
-doh.battle.christmas
 bazooki-infra.dev
 dns.belnet.be
 dns.bmwhocking.com
 bestwon203.com
 dns.bitdefender.net
 dns.bitservices.io
-doh-de.blahdns.com
 dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
@@ -112,7 +105,6 @@ dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.butterfly87.sbs
-dns.burgas.pro
 dns.busold.ws
 dns.cabbage.zone
 doh.aaaab3n.moe
@@ -200,7 +192,6 @@ uk01.dns4me.net
 nz01.dns4me.net
 ie01.dns4me.net
 de01.dns4me.net
-jp01.dns4me.net
 dns.dns-53.us
 ams01.dnscry.pt
 abn01.dnscry.pt
@@ -229,7 +220,6 @@ lim02.dnscry.pt
 lis01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
-man01.dnscry.pt
 mil01.dnscry.pt
 bom01.dnscry.pt
 nue01.dnscry.pt
@@ -249,14 +239,12 @@ sin02.dnscry.pt
 sof01.dnscry.pt
 geg01.dnscry.pt
 sto01.dnscry.pt
-syd01.dnscry.pt
 syd02.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
 tsm01.dnscry.pt
 tbs01.dnscry.pt
 tlv01.dnscry.pt
-tyo02.dnscry.pt
 yyz01.dnscry.pt
 yvr01.dnscry.pt
 vie01.dnscry.pt
@@ -268,12 +256,10 @@ clean.dnsforge.de
 hard.dnsforge.de
 dns.dnshome.de
 dnslow.me
-hongkong.dnsovertor.cc
 japan.dnsovertor.cc
 chuncheon.dnsovertor.cc
 chuncheon1.dnsovertor.cc
 seoul.dnsovertor.cc
-singapore.dnsovertor.cc
 dns.pub
 doh.beauty
 doh.buzz
@@ -305,7 +291,6 @@ doh.ffmuc.net
 fidelius.top
 dns.floriantinney.de
 dns.flymc.cc
-dns.pari.network
 doh.applied-privacy.net
 dns.froth.zone
 doh.futa.gg
@@ -318,7 +303,6 @@ dns64.dns.google
 8888.google
 dns.glf.wtf
 dns.guard.io
-dns.deadsec.net
 dns.haka.se
 home-server.store
 dns.hoody.com
@@ -335,10 +319,6 @@ public.dns.iij.jp
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.jupitrdns.com
-doh0.jusprogdns.com
-doh6.jusprogdns.com
-doh12.jusprogdns.com
-doh16.jusprogdns.com
 ad.justincounts.com
 dns.kapite.in
 adguard.kasbot.net
@@ -370,7 +350,6 @@ maqgie.xyz
 dns.marasov.id
 dns.technologycage.com
 dns.marbledfennec.net
-doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
 dns.mayx.eu.org
@@ -380,11 +359,9 @@ mendozasdelivery.com
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 mikezhang.xyz
-netcup.mismat.ch
 addns1.m-it.ro
 doh.mmmalia.com
 dns.mnet-online.de
-dnstls.mobik.com
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -400,7 +377,6 @@ dns.mzjtechnology.com
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
-at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 ro-buc-w-p-1.nashkan.net
@@ -414,7 +390,6 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.neeb.it
-dns.netvpn.net
 dns.nextdns.io
 dns.nick-slowinski.de
 doh.lv
@@ -441,7 +416,6 @@ dns.paesa.es
 pashagame456.com
 dns.paulo.nom.za
 dns.decky.eu
-dns.peb-schmidt.de
 pepetio.xyz
 dns.petqa.ru
 dns1.pietjacobs.be
@@ -449,8 +423,6 @@ kronos.plan9-dns.com
 helios.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
-pm9352-bd.xyz
-pm7051-br.xyz
 pooblet.co.za
 nl.dns.privex.io
 dns.propheci.xyz
@@ -484,7 +456,6 @@ safeservedns.com
 adguard.senthil.us
 dns1.serdcebolit.ru
 dns.sheggi.ch
-dns.shimul.me
 adguard.shoupperuser.com
 dns.silen.org
 dns.skrep.eu
@@ -497,7 +468,6 @@ squidmall.vip
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-doh.sublime9.xyz
 dns.surfsharkdns.com
 dns.suhaila.dev
 resolver.sunet.se
@@ -535,8 +505,6 @@ abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org
 dns.xlion.tw
-dns.seia.io
-secondary.dns.seia.io
 yarp.lefolgoc.net
 dns.yuu-g.net
 zdn.ro
@@ -544,11 +512,6 @@ doh.zknt.org
 123000123.xyz
 3dcosas.xyz
 ns2.4netguides.org
-dns.444723.xyz
 dns.688447.xyz
-doh.774445.xyz
-dns.775467.xyz
-dns.8887744.xyz
-dns.9999.sg
 ibuki.cgnat.net
 doh-2.seby.io

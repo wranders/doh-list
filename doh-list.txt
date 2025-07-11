@@ -1,4 +1,4 @@
-#4f16677ce3b9f9f55a72a178a8a488d5c29ea844e23d110e67e213f755fe7f90
+#d1585e87f76f496ded138f9610fd5016e3145d7d304d5497e96fbd800d8a69a4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -466,6 +466,7 @@ adg.geili.me
 solaxy.live
 squidmall.vip
 dns.startupstack.tech
+doh.sz-dns.com
 dns.stirringphoto.com
 dns.stormycloud.org
 dns.surfsharkdns.com

@@ -1,4 +1,4 @@
-#d1585e87f76f496ded138f9610fd5016e3145d7d304d5497e96fbd800d8a69a4
+#c750ed966660e2a0a4374e6129321f09837921322c216c1ebbcd48dad8b61256
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -255,6 +255,7 @@ dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
 dns.dnshome.de
+dnsguard
 dnslow.me
 japan.dnsovertor.cc
 chuncheon.dnsovertor.cc

@@ -1,4 +1,4 @@
-#be08a50c09e0dd33154c7e765161e059e07b74efb22bd577d03249c3aecd6c18
+#8f59055d2e3d160f811e02b10e41a99e7a33b3cfc169e1614fe68015b87d559c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,12 +10,12 @@
 #	adfreedns.top
 #	affsoft.cc
 #	bazooki-infra.dev
-#	bestwon203.com
 #	cloudflare-dns.com
 #	deep-henchman-excuse.cfd
 #	doh.sb
 #	dns0.eu
 #	dnsforge.de
+#	dnsguard.pub
 #	dnslow.me
 #	dns.pub
 #	doh.beauty
@@ -46,7 +46,6 @@
 #	myatris.sbs
 #	doh.lv
 #	ntwrkh.pro
-#	pashagame456.com
 #	pepetio.xyz
 #	regiopolis.cloud
 #	renardbleu.dev
@@ -57,13 +56,10 @@
 #	sunnygyl.com
 #	tecdrive.site
 #	tujenasnaszato.xyz
-#	tuskythehusky.tech
 #	tri-dns.net
-#	vorlif.org
 #	wikimedia-dns.org
 #	zdn.ro
 #	123000123.xyz
-#	3dcosas.xyz
 #
 
 resolver1.absolight.net
@@ -94,7 +90,6 @@ dns.a47.me
 bazooki-infra.dev
 dns.belnet.be
 dns.bmwhocking.com
-bestwon203.com
 dns.bitdefender.net
 dns.bitservices.io
 dns.blokada.org
@@ -255,7 +250,7 @@ dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
 dns.dnshome.de
-dnsguard
+dnsguard.pub
 dnslow.me
 japan.dnsovertor.cc
 chuncheon.dnsovertor.cc
@@ -276,7 +271,6 @@ dns.dynx.pro
 dns.dynx.pro
 dns.d94.xyz
 dns.d96.info
-dns.efficientdocuments.com
 dns.henek.ovh
 dns.elemental.software
 dns.eliv.kr
@@ -308,23 +302,19 @@ dns.haka.se
 home-server.store
 dns.hoody.com
 dns.hostux.net
-dns.hostux.net
 doth.huque.com
 doh.immerda.ch
 imperio.top
 dns1.in-berlin.de
 dns2.in-berlin.de
-dns.inclusioproject.com
 dns.inforlogia.com
 public.dns.iij.jp
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.jupitrdns.com
-ad.justincounts.com
 dns.kapite.in
 adguard.kasbot.net
 dns.kebree.fr
-dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
@@ -414,7 +404,6 @@ ada.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org
 dns.paesa.es
-pashagame456.com
 dns.paulo.nom.za
 dns.decky.eu
 pepetio.xyz
@@ -454,7 +443,6 @@ revelio.top
 dns.rbn.gr
 dns.roedel.cloud
 safeservedns.com
-adguard.senthil.us
 dns1.serdcebolit.ru
 dns.sheggi.ch
 adguard.shoupperuser.com
@@ -488,9 +476,7 @@ dns.thiz.top
 dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
-adb.timnichollsphotography.com
 tujenasnaszato.xyz
-tuskythehusky.tech
 dns.twnic.tw
 doh.tiar.app
 tri-dns.net
@@ -501,7 +487,6 @@ dns.unx.io
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
 doh.viatech.com.tw
-vorlif.org
 dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
@@ -512,7 +497,6 @@ dns.yuu-g.net
 zdn.ro
 doh.zknt.org
 123000123.xyz
-3dcosas.xyz
 ns2.4netguides.org
 dns.688447.xyz
 ibuki.cgnat.net

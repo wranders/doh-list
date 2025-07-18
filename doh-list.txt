@@ -1,4 +1,4 @@
-#8f59055d2e3d160f811e02b10e41a99e7a33b3cfc169e1614fe68015b87d559c
+#517e347c0186194f166032f2cf3877ac8dbbd2f885c9bed3967bfa5b97c05250
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -297,6 +297,7 @@ dns.google
 dns64.dns.google
 8888.google
 dns.glf.wtf
+dns.green-ping.lol
 dns.guard.io
 dns.haka.se
 home-server.store

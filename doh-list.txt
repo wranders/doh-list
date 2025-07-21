@@ -1,4 +1,4 @@
-#517e347c0186194f166032f2cf3877ac8dbbd2f885c9bed3967bfa5b97c05250
+#f13e972d79ccfd526cb4c9174b84250fa3812d8b2ff944ee036cfcf9149dba1f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -8,7 +8,6 @@
 #   !!! may block regular web access to these services.
 #
 #	adfreedns.top
-#	affsoft.cc
 #	bazooki-infra.dev
 #	cloudflare-dns.com
 #	deep-henchman-excuse.cfd
@@ -72,7 +71,6 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-affsoft.cc
 dns.akbxr.com
 dns.alidns.com
 doh.kel.pe
@@ -254,7 +252,6 @@ dnsguard.pub
 dnslow.me
 japan.dnsovertor.cc
 chuncheon.dnsovertor.cc
-chuncheon1.dnsovertor.cc
 seoul.dnsovertor.cc
 dns.pub
 doh.beauty
@@ -400,7 +397,6 @@ dns2.nordvpn.com
 dns.novg.net
 ntwrkh.pro
 dns.ofdoom.net
-dns.oliviertv.co.za
 ada.openbld.net
 ag.apollohct.com
 ns1.opennameserver.org

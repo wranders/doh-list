@@ -1,4 +1,4 @@
-#f13e972d79ccfd526cb4c9174b84250fa3812d8b2ff944ee036cfcf9149dba1f
+#13e85e342eee1004a08061566501b94d754178552bbb6febe356294c9e8f2468
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -35,8 +35,6 @@
 #	imperio.top
 #	lifeisa.live
 #	loadlow.me
-#	lukscasino-929-tr.xyz
-#	lukscasino-479-tr.xyz
 #	mabuktogel.directory
 #	maqgie.xyz
 #	masters-of-cloud.de
@@ -330,8 +328,6 @@ doh.libredns.gr
 lifeisa.live
 loadlow.me
 dns.lobbygod.com
-lukscasino-929-tr.xyz
-lukscasino-479-tr.xyz
 dns.luma-medien.com
 dns.l337.site
 mabuktogel.directory

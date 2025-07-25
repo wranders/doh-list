@@ -1,4 +1,4 @@
-#13e85e342eee1004a08061566501b94d754178552bbb6febe356294c9e8f2468
+#321ae4a811191d518b54c6c12fb71ff3fc985efc36f2002a4cfcb36533ec41c2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -51,7 +51,6 @@
 #	solaxy.live
 #	squidmall.vip
 #	sunnygyl.com
-#	tecdrive.site
 #	tujenasnaszato.xyz
 #	tri-dns.net
 #	wikimedia-dns.org
@@ -461,7 +460,6 @@ dns.svoi.dev
 dns.switch.ch
 dns.szpadel.ovh
 dns.t53.de
-tecdrive.site
 dns.telekom.de
 dns.thebuckners.org
 blocker.thethorsens.org

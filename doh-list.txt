@@ -1,4 +1,4 @@
-#321ae4a811191d518b54c6c12fb71ff3fc985efc36f2002a4cfcb36533ec41c2
+#56527278a64ba95ffd17a590e222e41fd640aad96ce6486dde2ace5737fdc229
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,8 +10,6 @@
 #	adfreedns.top
 #	bazooki-infra.dev
 #	cloudflare-dns.com
-#	deep-henchman-excuse.cfd
-#	doh.sb
 #	dns0.eu
 #	dnsforge.de
 #	dnsguard.pub
@@ -38,7 +36,6 @@
 #	mabuktogel.directory
 #	maqgie.xyz
 #	masters-of-cloud.de
-#	mendozasdelivery.com
 #	mikezhang.xyz
 #	myatris.sbs
 #	doh.lv
@@ -49,7 +46,6 @@
 #	revelio.top
 #	safeservedns.com
 #	solaxy.live
-#	squidmall.vip
 #	sunnygyl.com
 #	tujenasnaszato.xyz
 #	tri-dns.net
@@ -94,7 +90,6 @@ adguard.bonis.de
 dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
-dns.butterfly87.sbs
 dns.busold.ws
 dns.cabbage.zone
 doh.aaaab3n.moe
@@ -144,7 +139,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-dns.crystalyx.net
 dns.csaonline.de
 dns.csa-rz.de
 dns.csswg.org
@@ -153,13 +147,11 @@ odvr.nic.cz
 ns.00dani.me
 ns.data.haus
 dns.datenquark.de
-deep-henchman-excuse.cfd
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns.digitalsize.net
 doh.dns.sb
-doh.sb
 open.dns0.eu
 dns0.eu
 zero.dns0.eu
@@ -225,7 +217,6 @@ sjc01.dnscry.pt
 gru01.dnscry.pt
 sea01.dnscry.pt
 sin03.dnscry.pt
-sin02.dnscry.pt
 sof01.dnscry.pt
 geg01.dnscry.pt
 sto01.dnscry.pt
@@ -339,7 +330,6 @@ dns.mateo.ovh
 dns.mayx.eu.org
 dns.mbrjun.cn
 adguard.meddy94.de
-mendozasdelivery.com
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 mikezhang.xyz
@@ -407,7 +397,6 @@ pluton.plan9-dns.com
 privacy.plumedns.com
 pooblet.co.za
 nl.dns.privex.io
-dns.propheci.xyz
 doh.archuser.org
 dns.quad9.net
 dns9.quad9.net
@@ -440,12 +429,10 @@ dns.sheggi.ch
 adguard.shoupperuser.com
 dns.silen.org
 dns.skrep.eu
-dns.silentlybren.com
 dns.slinkyman.net
 dns.smartguard.io
 adg.geili.me
 solaxy.live
-squidmall.vip
 dns.startupstack.tech
 doh.sz-dns.com
 dns.stirringphoto.com
@@ -454,7 +441,6 @@ dns.surfsharkdns.com
 dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
-doh.sunoaki.net
 dns.superstefan.win
 dns.svoi.dev
 dns.switch.ch
@@ -489,6 +475,5 @@ zdn.ro
 doh.zknt.org
 123000123.xyz
 ns2.4netguides.org
-dns.688447.xyz
 ibuki.cgnat.net
 doh-2.seby.io

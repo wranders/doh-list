@@ -1,4 +1,4 @@
-#56527278a64ba95ffd17a590e222e41fd640aad96ce6486dde2ace5737fdc229
+#ca979e25011397b1615f009c1f2ae752025921ec039e74672401227638ce76a3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -36,7 +36,6 @@
 #	mabuktogel.directory
 #	maqgie.xyz
 #	masters-of-cloud.de
-#	mikezhang.xyz
 #	myatris.sbs
 #	doh.lv
 #	ntwrkh.pro
@@ -332,7 +331,6 @@ dns.mbrjun.cn
 adguard.meddy94.de
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
-mikezhang.xyz
 addns1.m-it.ro
 doh.mmmalia.com
 dns.mnet-online.de

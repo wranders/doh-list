@@ -1,4 +1,4 @@
-#ca979e25011397b1615f009c1f2ae752025921ec039e74672401227638ce76a3
+#a200b11d956bc4f9a077026b74e6d33b8a40a860ee0bcb59caecc7e380818cfb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -18,7 +18,6 @@
 #	doh.beauty
 #	doh.buzz
 #	3dns.eu
-#	do-39574-tr.xyz
 #	droyd.top
 #	dukun.de
 #	xn--durhre-yxa.de
@@ -245,7 +244,6 @@ doh.beauty
 doh.buzz
 3dns.eu
 doh.domreg.lt
-do-39574-tr.xyz
 dns.dremaxx.de
 droyd.top
 agh.dshubham.xyz
@@ -286,7 +284,6 @@ dns.guard.io
 dns.haka.se
 home-server.store
 dns.hoody.com
-dns.hostux.net
 doth.huque.com
 doh.immerda.ch
 imperio.top
@@ -330,7 +327,6 @@ dns.mayx.eu.org
 dns.mbrjun.cn
 adguard.meddy94.de
 dns.mh4ckt3mh4ckt1c4s.xyz
-dns.michelo.cl
 addns1.m-it.ro
 doh.mmmalia.com
 dns.mnet-online.de

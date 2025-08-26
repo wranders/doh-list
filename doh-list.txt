@@ -1,4 +1,4 @@
-#a200b11d956bc4f9a077026b74e6d33b8a40a860ee0bcb59caecc7e380818cfb
+#36a9399eceb41f6152ff40b7d33eb5358f01d34965893e83b21a1fb719781970
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -12,7 +12,6 @@
 #	cloudflare-dns.com
 #	dns0.eu
 #	dnsforge.de
-#	dnsguard.pub
 #	dnslow.me
 #	dns.pub
 #	doh.beauty
@@ -28,7 +27,6 @@
 #	glacius.top
 #	dns.google
 #	8888.google
-#	home-server.store
 #	imperio.top
 #	lifeisa.live
 #	loadlow.me
@@ -234,7 +232,6 @@ dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
 dns.dnshome.de
-dnsguard.pub
 dnslow.me
 japan.dnsovertor.cc
 chuncheon.dnsovertor.cc
@@ -282,10 +279,8 @@ dns.glf.wtf
 dns.green-ping.lol
 dns.guard.io
 dns.haka.se
-home-server.store
 dns.hoody.com
 doth.huque.com
-doh.immerda.ch
 imperio.top
 dns1.in-berlin.de
 dns2.in-berlin.de
@@ -453,6 +448,7 @@ doh.tiar.app
 tri-dns.net
 eu.tri-dns.net
 asia.tri-dns.net
+resolver.dnsprivacy.org.uk
 anycast.uncensoreddns.org
 dns.unx.io
 adfree.usableprivacy.net

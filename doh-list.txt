@@ -1,4 +1,4 @@
-#36a9399eceb41f6152ff40b7d33eb5358f01d34965893e83b21a1fb719781970
+#ae25b01e8882abc4a445b3e6aa6043ed72a5a1aeb3f64aa36fd10fcf9dd13239
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -45,6 +45,9 @@
 #	sunnygyl.com
 #	tujenasnaszato.xyz
 #	tri-dns.net
+#	v.recipes
+#	v.recipes
+#	v.recipes
 #	wikimedia-dns.org
 #	zdn.ro
 #	123000123.xyz
@@ -452,6 +455,9 @@ resolver.dnsprivacy.org.uk
 anycast.uncensoreddns.org
 dns.unx.io
 adfree.usableprivacy.net
+v.recipes
+v.recipes
+v.recipes
 dns.vaioswolke.xyz
 doh.viatech.com.tw
 dns.wang.art

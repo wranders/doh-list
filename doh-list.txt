@@ -1,4 +1,4 @@
-#eb186bd68a251315c7900dc231ad4bcad91a7e1675fda867c7bf4deb30e2027e
+#2b688873ef6b3dcbd12567da5bf58c03741be45c406c4634f1c5f9ec56d53d43
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -173,7 +173,6 @@ nz01.dns4me.net
 ie01.dns4me.net
 de01.dns4me.net
 dns.dns-53.us
-ams01.dnscry.pt
 abn01.dnscry.pt
 ath01.dnscry.pt
 atl01.dnscry.pt
@@ -196,7 +195,6 @@ han01.dnscry.pt
 sgn01.dnscry.pt
 ist01.dnscry.pt
 las01.dnscry.pt
-lim02.dnscry.pt
 lis01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
@@ -365,8 +363,6 @@ dns.ningkelle.id
 family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
-dns1.nordvpn.com
-dns2.nordvpn.com
 dns.novg.net
 ntwrkh.pro
 dns.ofdoom.net

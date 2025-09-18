@@ -1,4 +1,4 @@
-#2b688873ef6b3dcbd12567da5bf58c03741be45c406c4634f1c5f9ec56d53d43
+#e43b8c3a41c08a101b64a48780b6891c3fd80fc9dc9a668821245dc6b068b3e7
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -357,8 +357,6 @@ doh.nic.lv
 adguard-kartoffel.zernico.de
 doh-random-upstream.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
-public.ns.nwps.fi
-kids.ns.nwps.fi
 dns.ningkelle.id
 family.dns.ningkelle.id
 doh.niyawe.de

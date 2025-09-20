@@ -1,4 +1,4 @@
-#e43b8c3a41c08a101b64a48780b6891c3fd80fc9dc9a668821245dc6b068b3e7
+#b60b3cd8133cd367a1ff8db09864f56d80f8b13e0a4b4c8dd62434af4d81d649
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -285,8 +285,6 @@ dns1.in-berlin.de
 dns2.in-berlin.de
 dns.inforlogia.com
 public.dns.iij.jp
-megumin.is.my.waifu.cz
-yunyun.is.my.waifu.cz
 dns.jupitrdns.com
 dns.kapite.in
 adguard.kasbot.net
@@ -427,7 +425,6 @@ dns.switch.ch
 dns.szpadel.ovh
 dns.t53.de
 dns.telekom.de
-blocker.thethorsens.org
 dns.tipsy.coffee
 dns.tls-data.de
 tujenasnaszato.xyz

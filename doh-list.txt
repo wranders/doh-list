@@ -1,4 +1,4 @@
-#b60b3cd8133cd367a1ff8db09864f56d80f8b13e0a4b4c8dd62434af4d81d649
+#7c0aba55314ba42bf6820901760943624a3949ff8cd40af7e73e0041b821d3bb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -195,7 +195,6 @@ han01.dnscry.pt
 sgn01.dnscry.pt
 ist01.dnscry.pt
 las01.dnscry.pt
-lis01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
 mil01.dnscry.pt

@@ -1,4 +1,4 @@
-#7c0aba55314ba42bf6820901760943624a3949ff8cd40af7e73e0041b821d3bb
+#d8f05371e0b489e27394b2fbd74c9b99aa96212dbf8097dca18811718b2c9801
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -31,7 +31,6 @@
 #	lifeisa.live
 #	loadlow.me
 #	mabuktogel.directory
-#	maqgie.xyz
 #	masters-of-cloud.de
 #	doh.lv
 #	ntwrkh.pro
@@ -274,7 +273,6 @@ dns.google
 dns64.dns.google
 8888.google
 dns.glf.wtf
-dns.green-ping.lol
 dns.guard.io
 dns.haka.se
 dns.hoody.com
@@ -308,7 +306,6 @@ dns.lobbygod.com
 dns.luma-medien.com
 dns.l337.site
 mabuktogel.directory
-maqgie.xyz
 dns.marasov.id
 dns.technologycage.com
 dns.marbledfennec.net

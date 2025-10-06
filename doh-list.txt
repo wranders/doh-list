@@ -1,4 +1,4 @@
-#d8f05371e0b489e27394b2fbd74c9b99aa96212dbf8097dca18811718b2c9801
+#d00617be632ef61018de7234c1369f3eff9d30793e64ffb94b5276fdc7a4248f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -88,7 +88,6 @@ dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.busold.ws
-dns.cabbage.zone
 doh.aaaab3n.moe
 dns.caspervk.net
 dns.cctld.kg
@@ -247,7 +246,6 @@ xn--durhre-yxa.de
 dns.dynx.pro
 dns.dynx.pro
 dns.d94.xyz
-dns.d96.info
 dns.elemental.software
 dns.eliv.kr
 dns.faked.org
@@ -387,7 +385,6 @@ security.rabbitdns.org
 family.rabbitdns.org
 dns.redhosting.com.ar
 dns.reitmeier.me
-dns.reckoningslug.name
 regiopolis.cloud
 renardbleu.dev
 dnspub.restena.lu
@@ -450,4 +447,4 @@ doh.zknt.org
 123000123.xyz
 ns2.4netguides.org
 ibuki.cgnat.net
-doh-2.seby.io
+doh.seby.io

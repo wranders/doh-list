@@ -1,4 +1,4 @@
-#8e2cacee3ddbdb699e15cbea022d18db0f03e5641665b145bde9a05744b57cd9
+#6ef6c10fd02e6f4d96c7da59dca70d4f43585eb08b96e8289fd71f97b6670346
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -79,7 +79,6 @@ dns.a47.me
 bazooki-infra.dev
 dns.belnet.be
 dns.bmwhocking.com
-dns.bibica.net
 dns.bitdefender.net
 dns.bitservices.io
 dns.blokada.org
@@ -142,7 +141,6 @@ dns.csa-rz.de
 dns.csswg.org
 dns.cynthialabs.net
 odvr.nic.cz
-ns.00dani.me
 ns.data.haus
 dns.datenquark.de
 dns.dev-umbrellagov.com

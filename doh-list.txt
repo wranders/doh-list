@@ -1,4 +1,4 @@
-#74efb70c37518934173d3484f0d6c6711dda8283b127a8c1cfb2d1a8215b952f
+#c69c21aa4f59cf0edff2edddc0594ffc9201b36c8eb32638382000d437750d42
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -42,7 +42,6 @@
 #	safeservedns.com
 #	solaxy.live
 #	sunnygyl.com
-#	tujenasnaszato.xyz
 #	tri-dns.net
 #	v.recipes
 #	v.recipes
@@ -183,7 +182,6 @@ kiv01.dnscry.pt
 cph01.dnscry.pt
 cvt01.dnscry.pt
 dub01.dnscry.pt
-dus01.dnscry.pt
 fra01.dnscry.pt
 fra02.dnscry.pt
 gva01.dnscry.pt
@@ -431,7 +429,6 @@ dns.t53.de
 dns.telekom.de
 dns.tipsy.coffee
 dns.tls-data.de
-tujenasnaszato.xyz
 dns.twnic.tw
 doh.tiar.app
 tri-dns.net
@@ -446,7 +443,6 @@ v.recipes
 v.recipes
 dns.vaioswolke.xyz
 doh.viatech.com.tw
-dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org

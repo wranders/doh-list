@@ -1,4 +1,4 @@
-#c69c21aa4f59cf0edff2edddc0594ffc9201b36c8eb32638382000d437750d42
+#002ff1fa59e97ab596c5c073ba71366641820db7c5f41b16a16ca1b0d9adc5e9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,7 +10,6 @@
 #	adfreedns.top
 #	bazooki-infra.dev
 #	cloudflare-dns.com
-#	dns0.eu
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
@@ -147,10 +146,6 @@ dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns.digitalsize.net
 doh.dns.sb
-open.dns0.eu
-dns0.eu
-zero.dns0.eu
-kids.dns0.eu
 doh.dns4all.eu
 protective.joindns4.eu
 child.joindns4.eu
@@ -216,7 +211,6 @@ tll01.dnscry.pt
 tpa01.dnscry.pt
 tsm01.dnscry.pt
 tbs01.dnscry.pt
-tlv01.dnscry.pt
 yyz01.dnscry.pt
 yvr01.dnscry.pt
 vie01.dnscry.pt

@@ -1,4 +1,4 @@
-#002ff1fa59e97ab596c5c073ba71366641820db7c5f41b16a16ca1b0d9adc5e9
+#a1a975826a7530134d235302bcd063a9ae87c9d7b0c4b750bdb6bcc4b2e61efb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,7 +41,6 @@
 #	safeservedns.com
 #	solaxy.live
 #	sunnygyl.com
-#	tri-dns.net
 #	v.recipes
 #	v.recipes
 #	v.recipes
@@ -66,7 +65,6 @@ doh.kel.pe
 dns.aa.net.uk
 doh.angry.im
 dns.anon.no
-secure.anudeep.me
 dns.applewebkit.dev
 arashi.net.eu.org
 ns.net.kg
@@ -82,8 +80,6 @@ dns.bitservices.io
 dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
-adguard.bonis.de
-dns.braene.com
 dns.brahma.world
 dns.brembeck.cloud
 dns.busold.ws
@@ -110,7 +106,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-dns.comff.net
 dns.comss.one
 router.comss.one
 freedns.controld.com
@@ -259,7 +254,6 @@ de-d2.foxyfy.net
 de-f1.foxyfy.net
 ro-bu.foxyfy.net
 es-ma.foxyfy.net
-us-ny.foxyfy.net
 us-sj.foxyfy.net
 jp-to.foxyfy.net
 dns.froth.zone
@@ -282,7 +276,6 @@ dns1.in-berlin.de
 dns2.in-berlin.de
 dns.inforlogia.com
 public.dns.iij.jp
-dns.jupitrdns.com
 dns.kapite.in
 adguard.kasbot.net
 dns.kebree.fr
@@ -425,9 +418,6 @@ dns.tipsy.coffee
 dns.tls-data.de
 dns.twnic.tw
 doh.tiar.app
-tri-dns.net
-eu.tri-dns.net
-asia.tri-dns.net
 resolver.dnsprivacy.org.uk
 anycast.uncensoreddns.org
 dns.unx.io
@@ -443,7 +433,6 @@ dns.w3ctag.org
 dns.xlion.tw
 yarp.lefolgoc.net
 dns.yuu-g.net
-dns.yuzia.cc
 zdn.ro
 doh.zknt.org
 123000123.xyz

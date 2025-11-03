@@ -1,4 +1,4 @@
-#a1a975826a7530134d235302bcd063a9ae87c9d7b0c4b750bdb6bcc4b2e61efb
+#694eb342e9d13a0cde09acac007deb712b5098825627df04b925d3db5a36c236
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -255,7 +255,6 @@ de-f1.foxyfy.net
 ro-bu.foxyfy.net
 es-ma.foxyfy.net
 us-sj.foxyfy.net
-jp-to.foxyfy.net
 dns.froth.zone
 doh.futa.gg
 dns.gamban.com
@@ -277,7 +276,6 @@ dns2.in-berlin.de
 dns.inforlogia.com
 public.dns.iij.jp
 dns.kapite.in
-adguard.kasbot.net
 dns.kebree.fr
 dns.kernel-error.de
 dns.kescher.at

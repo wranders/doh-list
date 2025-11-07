@@ -1,4 +1,4 @@
-#694eb342e9d13a0cde09acac007deb712b5098825627df04b925d3db5a36c236
+#e5ae8c6acb0e25cb9b37a86f82f63bc2fec6ae9d8ab81bf498b86adc34c057a3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -159,7 +159,6 @@ uk01.dns4me.net
 nz01.dns4me.net
 ie01.dns4me.net
 de01.dns4me.net
-dns.dns-53.us
 abn01.dnscry.pt
 ath01.dnscry.pt
 atl01.dnscry.pt

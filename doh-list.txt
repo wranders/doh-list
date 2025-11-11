@@ -1,4 +1,4 @@
-#e5ae8c6acb0e25cb9b37a86f82f63bc2fec6ae9d8ab81bf498b86adc34c057a3
+#048a0a237d23d88ee7112a212172b973ec4f184ac6f39cca778a19967f20de8f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -388,7 +388,6 @@ revelio.top
 dns.rbn.gr
 dns.roedel.cloud
 safeservedns.com
-dns1.serdcebolit.ru
 dns.sheggi.ch
 adguard.shoupperuser.com
 dns.silen.org
@@ -406,7 +405,6 @@ dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
-dns.svoi.dev
 dns.switch.ch
 dns.szpadel.ovh
 dns.t53.de

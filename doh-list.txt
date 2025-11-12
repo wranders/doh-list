@@ -1,4 +1,4 @@
-#048a0a237d23d88ee7112a212172b973ec4f184ac6f39cca778a19967f20de8f
+#3d273f4c3965b9c457085a22fb7ec1160c0bdca35c44e6474330e297987552e7
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -29,7 +29,6 @@
 #	imperio.top
 #	lifeisa.live
 #	loadlow.me
-#	mabuktogel.directory
 #	masters-of-cloud.de
 #	doh.lv
 #	ntwrkh.pro
@@ -267,7 +266,6 @@ dns.glf.wtf
 dns.guard.io
 secure.hafnova.com
 dns.haka.se
-dns.hoody.com
 doth.huque.com
 imperio.top
 dns1.in-berlin.de
@@ -295,7 +293,6 @@ loadlow.me
 dns.lobbygod.com
 dns.luma-medien.com
 dns.l337.site
-mabuktogel.directory
 dns.marasov.id
 dns.technologycage.com
 dns.marbledfennec.net

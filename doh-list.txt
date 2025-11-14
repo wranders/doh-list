@@ -1,4 +1,4 @@
-#3d273f4c3965b9c457085a22fb7ec1160c0bdca35c44e6474330e297987552e7
+#3e1d354a54507c34e6b7399c2434cca14dd703c76d70179ad738317c7bab7fc9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -273,12 +273,10 @@ dns2.in-berlin.de
 dns.inforlogia.com
 public.dns.iij.jp
 dns.kapite.in
-dns.kebree.fr
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
 adg.khon.dev
-doh.kidzonet.io
 dns.koala.us.to
 dns.kosan.moe
 dart.kpsn.org

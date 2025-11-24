@@ -1,4 +1,4 @@
-#ffb9b7ceb8f61b5f38d1a15a71f3c6225f6d9d63e4311d480c14901fc8c477eb
+#a09603c5962b0f14d49383572fa966f671e0ec8462019976414e3f50275db9ad
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -27,7 +27,6 @@
 #	dns.google
 #	8888.google
 #	imperio.top
-#	lifeisa.live
 #	loadlow.me
 #	masters-of-cloud.de
 #	doh.lv
@@ -285,7 +284,6 @@ eu1.dns.lavate.ch
 dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
-lifeisa.live
 loadlow.me
 dns.lobbygod.com
 dns.luma-medien.com

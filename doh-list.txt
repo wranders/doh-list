@@ -1,4 +1,4 @@
-#a09603c5962b0f14d49383572fa966f671e0ec8462019976414e3f50275db9ad
+#da4463c35e712e971a653062147955143245f3818a6e64b589dd09f969149831
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -30,7 +30,6 @@
 #	loadlow.me
 #	masters-of-cloud.de
 #	doh.lv
-#	ntwrkh.pro
 #	dns4eu.online
 #	pepetio.xyz
 #	regiopolis.cloud
@@ -211,7 +210,6 @@ evn01.dnscry.pt
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
-dns.dnsguard.pub
 dns.dnshome.de
 dnslow.me
 japan.dnsovertor.cc
@@ -248,9 +246,7 @@ doh.applied-privacy.net
 dns.foxyfy.net
 de-d2.foxyfy.net
 de-f1.foxyfy.net
-ro-bu.foxyfy.net
 es-ma.foxyfy.net
-us-sj.foxyfy.net
 dns.froth.zone
 doh.futa.gg
 dns.gamban.com
@@ -263,6 +259,9 @@ dns64.dns.google
 dns.glf.wtf
 dns.guard.io
 secure.hafnova.com
+root.hagezi.org
+wurzn.hagezi.org
+juuri.hagezi.org
 dns.haka.se
 doth.huque.com
 imperio.top
@@ -323,14 +322,11 @@ us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-p-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
-us-saj-w-f-1.nashkan.net
-us-saj-w-p-1.nashkan.net
 dns.neeb.it
 dns.nextdns.io
 dns.nick-slowinski.de
 doh.lv
 doh.nic.lv
-adguard-kartoffel.zernico.de
 doh-random-upstream.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
 dns.ningkelle.id
@@ -338,7 +334,6 @@ family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
 dns.novg.net
-ntwrkh.pro
 dns.ofdoom.net
 ada.openbld.net
 ag.apollohct.com

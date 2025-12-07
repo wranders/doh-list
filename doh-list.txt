@@ -1,4 +1,4 @@
-#da4463c35e712e971a653062147955143245f3818a6e64b589dd09f969149831
+#fbf2d42061affcb5ef90d0bc04f4e3f5cfb51dfb396160fdacef6e2ae62a267a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,6 +10,7 @@
 #	adfreedns.top
 #	bazooki-infra.dev
 #	cloudflare-dns.com
+#	dnsdoh.art
 #	dnsforge.de
 #	dnslow.me
 #	dns.pub
@@ -207,6 +208,7 @@ vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
 evn01.dnscry.pt
+dnsdoh.art
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de

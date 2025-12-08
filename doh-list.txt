@@ -1,4 +1,4 @@
-#fbf2d42061affcb5ef90d0bc04f4e3f5cfb51dfb396160fdacef6e2ae62a267a
+#ab919d2296423817d478a68dda1b4d8d28630aab7c0f85f2000796970f92960d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -246,7 +246,6 @@ dns.floriantinney.de
 dns.flymc.cc
 doh.applied-privacy.net
 dns.foxyfy.net
-de-d2.foxyfy.net
 de-f1.foxyfy.net
 es-ma.foxyfy.net
 dns.froth.zone

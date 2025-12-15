@@ -1,4 +1,4 @@
-#ab919d2296423817d478a68dda1b4d8d28630aab7c0f85f2000796970f92960d
+#553f800259fb78f72c612499a16708bae1bcc4784a0a603431154b8886a0f88a
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -17,7 +17,6 @@
 #	doh.beauty
 #	doh.buzz
 #	3dns.eu
-#	droyd.top
 #	dukun.de
 #	xn--durhre-yxa.de
 #	nicsezcheckfbi.gov
@@ -223,7 +222,6 @@ doh.buzz
 3dns.eu
 doh.domreg.lt
 dns.dremaxx.de
-droyd.top
 agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de
@@ -277,7 +275,6 @@ pihole.aws.ketan.dev
 adg.khon.dev
 dns.koala.us.to
 dns.kosan.moe
-dart.kpsn.org
 adblock.krctech.dev
 doh.lacontrevoie.fr
 eu1.dns.lavate.ch

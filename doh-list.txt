@@ -1,4 +1,4 @@
-#553f800259fb78f72c612499a16708bae1bcc4784a0a603431154b8886a0f88a
+#aea34882fa0d4b59984e03cbcb9ba576f6b20a01ef32d8a179f65d381fc37cf3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -31,7 +31,6 @@
 #	masters-of-cloud.de
 #	doh.lv
 #	dns4eu.online
-#	pepetio.xyz
 #	regiopolis.cloud
 #	renardbleu.dev
 #	revelio.top
@@ -340,7 +339,6 @@ dns4eu.online
 dns.paesa.es
 dns.paulo.nom.za
 dns.decky.eu
-pepetio.xyz
 dns.petqa.ru
 kronos.plan9-dns.com
 helios.plan9-dns.com

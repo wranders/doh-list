@@ -1,4 +1,4 @@
-#aea34882fa0d4b59984e03cbcb9ba576f6b20a01ef32d8a179f65d381fc37cf3
+#88e16c2f9eed74d16280cf8ab405dd0e8fedfdd2881e0fc9e6c0402e724518ff
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,6 +10,7 @@
 #	adfreedns.top
 #	bazooki-infra.dev
 #	cloudflare-dns.com
+#	cryptostorm.is
 #	dnsdoh.art
 #	dnsforge.de
 #	dnslow.me
@@ -124,6 +125,7 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
+cryptostorm.is
 dns.csaonline.de
 dns.csa-rz.de
 dns.csswg.org

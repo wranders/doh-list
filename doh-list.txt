@@ -1,4 +1,4 @@
-#88e16c2f9eed74d16280cf8ab405dd0e8fedfdd2881e0fc9e6c0402e724518ff
+#632f6e3301a761388e85ef50b9733154971570c6a41e7fa620c9ee3a1cc2e985
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -12,7 +12,6 @@
 #	cloudflare-dns.com
 #	cryptostorm.is
 #	dnsdoh.art
-#	dnsforge.de
 #	dnslow.me
 #	dns.pub
 #	doh.beauty
@@ -209,9 +208,7 @@ vno01.dnscry.pt
 waw02.dnscry.pt
 evn01.dnscry.pt
 dnsdoh.art
-dnsforge.de
-clean.dnsforge.de
-hard.dnsforge.de
+dns.flatuslifir.is
 dns.dnshome.de
 dnslow.me
 japan.dnsovertor.cc

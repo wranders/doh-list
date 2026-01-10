@@ -1,4 +1,4 @@
-#632f6e3301a761388e85ef50b9733154971570c6a41e7fa620c9ee3a1cc2e985
+#077eba514b5f17326e1fa42d246d0fa6a6a7b6ba04f432e175b2ecc3676e39b8
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -35,7 +35,6 @@
 #	renardbleu.dev
 #	revelio.top
 #	safeservedns.com
-#	solaxy.live
 #	sunnygyl.com
 #	v.recipes
 #	v.recipes
@@ -376,7 +375,6 @@ dns.skrep.eu
 dns.slinkyman.net
 dns.smartguard.io
 adg.geili.me
-solaxy.live
 dns.startupstack.tech
 doh.sz-dns.com
 dns.stirringphoto.com

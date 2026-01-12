@@ -1,4 +1,4 @@
-#077eba514b5f17326e1fa42d246d0fa6a6a7b6ba04f432e175b2ecc3676e39b8
+#1639c02afe54fa2b850c4324c521b55d0d6e8e08c2df8864c14e8a0712660aea
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -95,6 +95,7 @@ doh.umbrella.com
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
 doh.cleanbrowsing.org
+dns1.techniverse.net
 cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com

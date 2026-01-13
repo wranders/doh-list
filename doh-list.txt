@@ -1,4 +1,4 @@
-#1639c02afe54fa2b850c4324c521b55d0d6e8e08c2df8864c14e8a0712660aea
+#5d08e479d7aaf53dac9be1bc20eef6b3d0899e3e74f41b2d35212c17798ba16c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -355,9 +355,6 @@ dog.dns.qwer.pw
 lion.dns.qwer.pw
 frog.dns.qwer.pw
 tiger.dns.qwer.pw
-dns.rabbitdns.org
-security.rabbitdns.org
-family.rabbitdns.org
 dns.redhosting.com.ar
 regiopolis.cloud
 renardbleu.dev

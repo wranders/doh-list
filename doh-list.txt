@@ -1,4 +1,4 @@
-#5d08e479d7aaf53dac9be1bc20eef6b3d0899e3e74f41b2d35212c17798ba16c
+#8edfbf825a60e6eb16c99ce3cf1009d2938ffa7d0d6a0d583c185e885b127a77
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -79,7 +79,6 @@ dns.brembeck.cloud
 dns.busold.ws
 doh.aaaab3n.moe
 dns.caspervk.net
-dns.cctld.kg
 dns.cert.ee
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -223,14 +222,11 @@ dns.dremaxx.de
 agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de
-dns.dynx.pro
-dns.dynx.pro
 dns.d94.xyz
 dns.elemental.software
 dns.eliv.kr
 dns.faked.org
 dnsvps.familiamv.net
-dns.fancyorg.at
 dns.farshidhakimy.de
 nicsezcheckfbi.gov
 ns0.fdn.fr
@@ -248,7 +244,6 @@ dns.froth.zone
 doh.futa.gg
 dns.gamban.com
 gibblets.top
-dns.girino.org
 glacius.top
 dns.google
 dns64.dns.google
@@ -284,7 +279,6 @@ dns.lobbygod.com
 dns.luma-medien.com
 dns.l337.site
 dns.marasov.id
-dns.technologycage.com
 dns.marbledfennec.net
 masters-of-cloud.de
 dns.mateo.ovh
@@ -388,7 +382,6 @@ dns.t53.de
 dns.telekom.de
 dns.tipsy.coffee
 dns.tls-data.de
-dns.twnic.tw
 doh.tiar.app
 resolver.dnsprivacy.org.uk
 anycast.uncensoreddns.org

@@ -1,4 +1,4 @@
-#8edfbf825a60e6eb16c99ce3cf1009d2938ffa7d0d6a0d583c185e885b127a77
+#171792f0b1d97820acec63063cfc4bfe50df0d96375eae4694b8a838aad1fa03
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -64,7 +64,6 @@ arashi.net.eu.org
 ns.net.kg
 nsec.arnor.org
 dns.asterimoon.com
-secure.avastdns.com
 dns.a47.me
 bazooki-infra.dev
 dns.belnet.be
@@ -225,6 +224,7 @@ xn--durhre-yxa.de
 dns.d94.xyz
 dns.elemental.software
 dns.eliv.kr
+dns.envs.net
 dns.faked.org
 dnsvps.familiamv.net
 dns.farshidhakimy.de
@@ -287,7 +287,6 @@ adguard.meddy94.de
 dns.mh4ckt3mh4ckt1c4s.xyz
 addns1.m-it.ro
 doh.mmmalia.com
-dns.mnet-online.de
 dns.mullvad.net
 adblock.dns.mullvad.net
 base.dns.mullvad.net
@@ -383,7 +382,6 @@ dns.telekom.de
 dns.tipsy.coffee
 dns.tls-data.de
 doh.tiar.app
-resolver.dnsprivacy.org.uk
 anycast.uncensoreddns.org
 dns.unx.io
 adfree.usableprivacy.net
@@ -396,7 +394,6 @@ abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org
 dns.xlion.tw
-yarp.lefolgoc.net
 dns.yuu-g.net
 zdn.ro
 doh.zknt.org

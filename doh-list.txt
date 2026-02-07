@@ -1,4 +1,4 @@
-#171792f0b1d97820acec63063cfc4bfe50df0d96375eae4694b8a838aad1fa03
+#e7d36b11a9a7208c3d389608e9c0a283f4c231cc52f9d9329961e911d7b36358
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -60,8 +60,6 @@ dns.aa.net.uk
 doh.angry.im
 dns.anon.no
 dns.applewebkit.dev
-arashi.net.eu.org
-ns.net.kg
 nsec.arnor.org
 dns.asterimoon.com
 dns.a47.me
@@ -204,7 +202,6 @@ yvr01.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
-evn01.dnscry.pt
 dnsdoh.art
 dns.flatuslifir.is
 dns.dnshome.de
@@ -337,6 +334,7 @@ helios.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
 pooblet.co.za
+dns.practicallyunhackable.com
 doh.archuser.org
 dns.quad9.net
 dns9.quad9.net

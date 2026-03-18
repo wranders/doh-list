@@ -1,4 +1,4 @@
-#e7d36b11a9a7208c3d389608e9c0a283f4c231cc52f9d9329961e911d7b36358
+#acb901a816282a92762bc90d3e957279c997d551eb135f9d8919af9c0ad5fb1f
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -39,6 +39,7 @@
 #	v.recipes
 #	v.recipes
 #	v.recipes
+#	v0dka.ru
 #	wikimedia-dns.org
 #	zdn.ro
 #	123000123.xyz
@@ -388,6 +389,7 @@ v.recipes
 v.recipes
 dns.vaioswolke.xyz
 doh.viatech.com.tw
+v0dka.ru
 abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org

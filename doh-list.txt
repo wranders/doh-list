@@ -1,4 +1,4 @@
-#353a7943ad1ea3e7e6a552cd0de21276b3cdc200f17726c7653d9ab1d8522d9d
+#4814ab5af1504e95d0c5d20f3f25865966a3b6497a634f2b854944ef3fada23e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -54,6 +54,7 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
+dns.adnull.com
 dns.akbxr.com
 dns.alidns.com
 doh.kel.pe

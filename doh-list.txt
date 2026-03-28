@@ -1,4 +1,4 @@
-#4814ab5af1504e95d0c5d20f3f25865966a3b6497a634f2b854944ef3fada23e
+#30b67019647828bcdc4784ea9a2780dbb2c0ca3bb705bd9d67ba0820cad60b83
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -11,7 +11,6 @@
 #	bazooki-infra.dev
 #	cloudflare-dns.com
 #	cryptostorm.is
-#	dnsdoh.art
 #	dnslow.me
 #	dns.pub
 #	doh.beauty
@@ -125,7 +124,6 @@ freedns.controld.com
 cryptostorm.is
 dns.csaonline.de
 dns.csa-rz.de
-dns.csswg.org
 dns.cynthialabs.net
 odvr.nic.cz
 ns.data.haus
@@ -171,7 +169,6 @@ gva01.dnscry.pt
 haf01.dnscry.pt
 yhz01.dnscry.pt
 han01.dnscry.pt
-sgn01.dnscry.pt
 ist01.dnscry.pt
 las01.dnscry.pt
 lon01.dnscry.pt
@@ -204,7 +201,6 @@ yvr01.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
-dnsdoh.art
 dns.flatuslifir.is
 dns.dnshome.de
 dnslow.me
@@ -222,7 +218,6 @@ dukun.de
 xn--durhre-yxa.de
 dns.d94.xyz
 dns.elemental.software
-dns.eliv.kr
 dns.envs.net
 dns.faked.org
 dnsvps.familiamv.net
@@ -239,7 +234,6 @@ doh.applied-privacy.net
 dns.foxyfy.net
 de-f1.foxyfy.net
 es-ma.foxyfy.net
-dns.froth.zone
 doh.futa.gg
 dns.gamban.com
 gibblets.top
@@ -264,7 +258,6 @@ dns.kapite.in
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
-adg.khon.dev
 dns.koala.us.to
 dns.kosan.moe
 adblock.krctech.dev
@@ -317,8 +310,6 @@ doh.lv
 doh.nic.lv
 doh-random-upstream.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
-dns.ningkelle.id
-family.dns.ningkelle.id
 doh.niyawe.de
 dns.njal.la
 dns.novg.net
@@ -346,7 +337,6 @@ dns12.quad9.net
 dns.quiet.rocks
 dog.dns.qwer.pw
 lion.dns.qwer.pw
-frog.dns.qwer.pw
 tiger.dns.qwer.pw
 dns.redhosting.com.ar
 regiopolis.cloud

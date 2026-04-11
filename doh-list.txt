@@ -1,4 +1,4 @@
-#15c66cb3e7e63eba9c389e2f072a9e3615a3e6604a1ecab3208f1e5ab73411a0
+#57471504bb44f5e3c3497695ca78ae1e520a3aab8c7953bd993c249ef8ecdaeb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -248,6 +248,8 @@ root.hagezi.org
 wurzn.hagezi.org
 juuri.hagezi.org
 dns.haka.se
+dns.hostux.net
+dns.hostux.net
 doth.huque.com
 imperio.top
 dns1.in-berlin.de

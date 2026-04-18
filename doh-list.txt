@@ -1,4 +1,4 @@
-#57471504bb44f5e3c3497695ca78ae1e520a3aab8c7953bd993c249ef8ecdaeb
+#40a192450888771be2b6f4508e131a937e4814b92e5b0964e4a8d303be88aee9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -34,6 +34,7 @@
 #	renardbleu.dev
 #	revelio.top
 #	safeservedns.com
+#	shitblocker.com
 #	sunnygyl.com
 #	v.recipes
 #	v.recipes
@@ -352,6 +353,7 @@ dns.rbn.gr
 dns.roedel.cloud
 safeservedns.com
 dns.sheggi.ch
+shitblocker.com
 adguard.shoupperuser.com
 dns.silen.org
 dns.skrep.eu

@@ -1,4 +1,4 @@
-#40a192450888771be2b6f4508e131a937e4814b92e5b0964e4a8d303be88aee9
+#c8c80a142bc6fb59a77936422e9b92fb41e2f67ba82c7920691ecd7c1252ad03
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -124,7 +124,6 @@ freedns.controld.com
 freedns.controld.com
 cryptostorm.is
 dns.csaonline.de
-dns.csa-rz.de
 dns.cynthialabs.net
 odvr.nic.cz
 ns.data.haus
@@ -147,7 +146,6 @@ us02.dns4me.net
 sg01.dns4me.net
 sa01.dns4me.net
 au01.dns4me.net
-au02.dns4me.net
 uk01.dns4me.net
 nz01.dns4me.net
 ie01.dns4me.net
@@ -179,7 +177,6 @@ bom01.dnscry.pt
 nue01.dnscry.pt
 omr01.dnscry.pt
 par01.dnscry.pt
-phl01.dnscry.pt
 phx01.dnscry.pt
 pdx01.dnscry.pt
 rdd01.dnscry.pt
@@ -232,7 +229,6 @@ fidelius.top
 dns.floriantinney.de
 dns.flymc.cc
 doh.applied-privacy.net
-dns.foxyfy.net
 de-f1.foxyfy.net
 es-ma.foxyfy.net
 doh.futa.gg
@@ -265,7 +261,6 @@ dns.koala.us.to
 dns.kosan.moe
 adblock.krctech.dev
 doh.lacontrevoie.fr
-eu1.dns.lavate.ch
 dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
@@ -391,7 +386,6 @@ dns.w3ctag.org
 dns.xlion.tw
 dns.yuu-g.net
 zdn.ro
-doh.zknt.org
 123000123.xyz
 ns2.4netguides.org
 ibuki.cgnat.net

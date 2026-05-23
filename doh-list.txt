@@ -1,4 +1,4 @@
-#c8c80a142bc6fb59a77936422e9b92fb41e2f67ba82c7920691ecd7c1252ad03
+#bd30ff248647b2126954bd76704b5515af87711ead2439b1a472390056dcff0c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -231,6 +231,7 @@ dns.flymc.cc
 doh.applied-privacy.net
 de-f1.foxyfy.net
 es-ma.foxyfy.net
+dns.furrix.zone
 doh.futa.gg
 dns.gamban.com
 gibblets.top
@@ -269,7 +270,6 @@ dns.lobbygod.com
 dns.luma-medien.com
 dns.l337.site
 dns.marasov.id
-dns.marbledfennec.net
 masters-of-cloud.de
 dns.mateo.ovh
 dns.mayx.eu.org

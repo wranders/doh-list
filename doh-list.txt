@@ -1,4 +1,4 @@
-#bd30ff248647b2126954bd76704b5515af87711ead2439b1a472390056dcff0c
+#5e90fb28e19419c03d399cfe3292212b0304067788894e10af60a21270a6cc8d
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -34,7 +34,6 @@
 #	renardbleu.dev
 #	revelio.top
 #	safeservedns.com
-#	shitblocker.com
 #	sunnygyl.com
 #	v.recipes
 #	v.recipes
@@ -227,7 +226,6 @@ doh.li
 doh.ffmuc.net
 fidelius.top
 dns.floriantinney.de
-dns.flymc.cc
 doh.applied-privacy.net
 de-f1.foxyfy.net
 es-ma.foxyfy.net
@@ -306,8 +304,8 @@ dns.nextdns.io
 dns.nick-slowinski.de
 doh.lv
 doh.nic.lv
-doh-random-upstream.nicolas-dorriere.fr
-doh-own-recursion.nicolas-dorriere.fr
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
+doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh.niyawe.de
 dns.njal.la
 dns.novg.net
@@ -347,8 +345,6 @@ revelio.top
 dns.rbn.gr
 dns.roedel.cloud
 safeservedns.com
-dns.sheggi.ch
-shitblocker.com
 adguard.shoupperuser.com
 dns.silen.org
 dns.skrep.eu
@@ -360,7 +356,6 @@ doh.sz-dns.com
 dns.stirringphoto.com
 dns.stormycloud.org
 dns.surfsharkdns.com
-dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win

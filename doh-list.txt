@@ -1,4 +1,4 @@
-#5e90fb28e19419c03d399cfe3292212b0304067788894e10af60a21270a6cc8d
+#59b48b55362c7c309a69ee35248ae6a9718d62ed371d596b7b6d37dd11a9d963
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -44,8 +44,6 @@
 #	123000123.xyz
 #
 
-resolver1.absolight.net
-resolver2.absolight.net
 per.adfilter.net
 syd.adfilter.net
 adl.adfilter.net
@@ -281,10 +279,6 @@ base.dns.mullvad.net
 extended.dns.mullvad.net
 all.dns.mullvad.net
 family.dns.mullvad.net
-freedom.mydns.network
-paranoia.mydns.network
-adblock.mydns.network
-family.mydns.network
 dns.mzjtechnology.com
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -350,7 +344,6 @@ dns.silen.org
 dns.skrep.eu
 dns.slinkyman.net
 dns.smartguard.io
-adg.geili.me
 dns.startupstack.tech
 doh.sz-dns.com
 dns.stirringphoto.com

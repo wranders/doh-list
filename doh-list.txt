@@ -1,4 +1,4 @@
-#59b48b55362c7c309a69ee35248ae6a9718d62ed371d596b7b6d37dd11a9d963
+#8d12f0b6a116e47d71f36a2311d98df67843a0800af4a3378dcbc77769c34020
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -207,7 +207,6 @@ doh.beauty
 doh.buzz
 3dns.eu
 doh.domreg.lt
-dns.dremaxx.de
 agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de

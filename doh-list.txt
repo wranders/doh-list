@@ -1,4 +1,4 @@
-#8d12f0b6a116e47d71f36a2311d98df67843a0800af4a3378dcbc77769c34020
+#7b1b397ece6e0a8346173e5948c0ad2a09613a27f856d6341ba47c2e9c673567
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -298,7 +298,6 @@ dns.nick-slowinski.de
 doh.lv
 doh.nic.lv
 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
-doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh.niyawe.de
 dns.njal.la
 dns.novg.net
@@ -371,7 +370,6 @@ abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org
 dns.xlion.tw
-dns.yuu-g.net
 zdn.ro
 123000123.xyz
 ns2.4netguides.org

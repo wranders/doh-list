@@ -1,4 +1,4 @@
-#7b1b397ece6e0a8346173e5948c0ad2a09613a27f856d6341ba47c2e9c673567
+#f0fb7771347b1790834f3d8e64e23553a2d87d08e9973df41246ba6737b1a81b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -41,7 +41,6 @@
 #	v0dka.ru
 #	wikimedia-dns.org
 #	zdn.ro
-#	123000123.xyz
 #
 
 per.adfilter.net
@@ -371,7 +370,6 @@ wikimedia-dns.org
 dns.w3ctag.org
 dns.xlion.tw
 zdn.ro
-123000123.xyz
 ns2.4netguides.org
 ibuki.cgnat.net
 doh.seby.io

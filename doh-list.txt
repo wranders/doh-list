@@ -1,4 +1,4 @@
-#f0fb7771347b1790834f3d8e64e23553a2d87d08e9973df41246ba6737b1a81b
+#2deeba0de62ab3a524df0647ccd23e88ebbdbebd1d41b40f644273cee7c71331
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -303,7 +303,6 @@ dns.novg.net
 dns.ofdoom.net
 ada.openbld.net
 ag.apollohct.com
-ns1.opennameserver.org
 dns4eu.online
 dns.paesa.es
 dns.paulo.nom.za

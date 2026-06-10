@@ -1,4 +1,4 @@
-#2deeba0de62ab3a524df0647ccd23e88ebbdbebd1d41b40f644273cee7c71331
+#731f07a429d732d87f3cf7547a49843e3cf38c984866dcf78fddf706c670cd30
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -147,7 +147,6 @@ nz01.dns4me.net
 ie01.dns4me.net
 de01.dns4me.net
 abn01.dnscry.pt
-ath01.dnscry.pt
 atl01.dnscry.pt
 bog01.dnscry.pt
 bts01.dnscry.pt
@@ -367,7 +366,6 @@ v0dka.ru
 abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org
-dns.xlion.tw
 zdn.ro
 ns2.4netguides.org
 ibuki.cgnat.net

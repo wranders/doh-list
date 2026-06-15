@@ -1,4 +1,4 @@
-#731f07a429d732d87f3cf7547a49843e3cf38c984866dcf78fddf706c670cd30
+#4b3084233460469fcb19905e8bcf45b61268eb986d9111318e5eeee3e44d21d2
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -64,7 +64,6 @@ dns.a47.me
 bazooki-infra.dev
 dns.belnet.be
 dns.bmwhocking.com
-dns.bitdefender.net
 dns.bitservices.io
 dns.blokada.org
 rfree1.blue-shield.at
@@ -309,7 +308,6 @@ dns.decky.eu
 dns.petqa.ru
 kronos.plan9-dns.com
 helios.plan9-dns.com
-pluton.plan9-dns.com
 privacy.plumedns.com
 pooblet.co.za
 dns.practicallyunhackable.com

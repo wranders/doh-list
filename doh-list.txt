@@ -1,4 +1,4 @@
-#4b3084233460469fcb19905e8bcf45b61268eb986d9111318e5eeee3e44d21d2
+#ef15a00f520bcd1c1147e307970744831499f7ef958d785799142ad37504fe00
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -118,7 +118,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 cryptostorm.is
-dns.csaonline.de
 dns.cynthialabs.net
 odvr.nic.cz
 ns.data.haus

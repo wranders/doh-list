@@ -1,4 +1,4 @@
-#ef15a00f520bcd1c1147e307970744831499f7ef958d785799142ad37504fe00
+#5bb8ec7dab0f8f0a270ff047f90bcc72c9d64409776771748d00fed3da684ec8
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -95,7 +95,6 @@ security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
 dns.comss.one
-router.comss.one
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -176,7 +175,6 @@ rdd01.dnscry.pt
 slc01.dnscry.pt
 trf01.dnscry.pt
 sjc01.dnscry.pt
-gru01.dnscry.pt
 sea01.dnscry.pt
 sin03.dnscry.pt
 sof01.dnscry.pt

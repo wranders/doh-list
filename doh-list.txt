@@ -1,4 +1,4 @@
-#5bb8ec7dab0f8f0a270ff047f90bcc72c9d64409776771748d00fed3da684ec8
+#2b42b1963fe22fa20623e103074ebdcdd2c5bd3c9be37645163f1ff6106dde5e
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -53,7 +53,6 @@ unfiltered.adguard-dns.com
 dns.adnull.com
 dns.akbxr.com
 dns.alidns.com
-doh.kel.pe
 dns.aa.net.uk
 doh.angry.im
 dns.anon.no
@@ -183,7 +182,6 @@ sto01.dnscry.pt
 syd02.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
-tsm01.dnscry.pt
 tbs01.dnscry.pt
 yyz01.dnscry.pt
 yvr01.dnscry.pt
@@ -272,6 +270,10 @@ base.dns.mullvad.net
 extended.dns.mullvad.net
 all.dns.mullvad.net
 family.dns.mullvad.net
+freedom.mydns.network
+paranoia.mydns.network
+adblock.mydns.network
+family.mydns.network
 dns.mzjtechnology.com
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -341,7 +343,6 @@ dns.stormycloud.org
 dns.surfsharkdns.com
 resolver.sunet.se
 sunnygyl.com
-dns.superstefan.win
 dns.switch.ch
 dns.szpadel.ovh
 dns.t53.de

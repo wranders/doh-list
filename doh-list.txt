@@ -1,4 +1,4 @@
-#de6c158c7c989a288dd4c9c692b35fdf48b3dda3cb9fda81692994e469f0651f
+#bf3c4c8ef7041f20b89d0e343ec68096115f38cfb4ff5b60948a695997edb1ad
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -164,7 +164,6 @@ las01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
 mil01.dnscry.pt
-bom01.dnscry.pt
 nue01.dnscry.pt
 omr01.dnscry.pt
 par01.dnscry.pt
@@ -244,7 +243,6 @@ public.dns.iij.jp
 dns.kapite.in
 dns.kernel-error.de
 dns.kescher.at
-pihole.aws.ketan.dev
 dns.koala.us.to
 dns.kosan.moe
 adblock.krctech.dev
@@ -318,7 +316,6 @@ dns11.quad9.net
 dns12.quad9.net
 dns.quiet.rocks
 dog.dns.qwer.pw
-lion.dns.qwer.pw
 tiger.dns.qwer.pw
 dns.redhosting.com.ar
 regiopolis.cloud

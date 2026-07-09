@@ -1,4 +1,4 @@
-#bf3c4c8ef7041f20b89d0e343ec68096115f38cfb4ff5b60948a695997edb1ad
+#dc6ad11924c87f40e060d3e8b8c7faefe50281999fa0c1822eeb83523fa3302b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -63,6 +63,7 @@ dns.a47.me
 bazooki-infra.dev
 dns.belnet.be
 dns.bmwhocking.com
+dns.bezmezhau.com
 dns.bitservices.io
 dns.blokada.org
 rfree1.blue-shield.at
@@ -177,7 +178,6 @@ sea01.dnscry.pt
 sin03.dnscry.pt
 sof01.dnscry.pt
 geg01.dnscry.pt
-sto01.dnscry.pt
 syd02.dnscry.pt
 tll01.dnscry.pt
 tpa01.dnscry.pt
@@ -341,7 +341,6 @@ dns.surfsharkdns.com
 resolver.sunet.se
 sunnygyl.com
 dns.switch.ch
-dns.szpadel.ovh
 dns.t53.de
 dns.telekom.de
 dns.tipsy.coffee

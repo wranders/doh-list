@@ -1,4 +1,4 @@
-#147be8168b603be4a9a507ac0fd52cf37a1768d1cc83a589a1c6267b7310a0c3
+#e75518fd1da7bf560d5b2af64f68039cba7eb0de803e2ea8e5c318cb06272da6
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -63,12 +63,10 @@ dns.a47.me
 bazooki-infra.dev
 dns.belnet.be
 dns.bmwhocking.com
-dns.bezmezhau.com
 dns.bitservices.io
 dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
-dns.brahma.world
 dns.brembeck.cloud
 dns.busold.ws
 doh.aaaab3n.moe
@@ -263,7 +261,6 @@ helios.plan9-dns.com
 privacy.plumedns.com
 pooblet.co.za
 dns.practicallyunhackable.com
-doh.archuser.org
 dns.quad9.net
 dns9.quad9.net
 dns10.quad9.net
@@ -291,7 +288,6 @@ dns.smartguard.io
 dns.startupstack.tech
 doh.sz-dns.com
 dns.stirringphoto.com
-dns.stormycloud.org
 dns.surfsharkdns.com
 resolver.sunet.se
 sunnygyl.com

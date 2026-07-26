@@ -1,4 +1,4 @@
-#e75518fd1da7bf560d5b2af64f68039cba7eb0de803e2ea8e5c318cb06272da6
+#6dd473561905ca7f28e5a981bcbc0cd7bcd4f5776121fda878fcd7747c918d02
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -282,6 +282,7 @@ dns.roedel.cloud
 safeservedns.com
 adguard.shoupperuser.com
 dns.silen.org
+dns.simplylinux.ch
 dns.skrep.eu
 dns.slinkyman.net
 dns.smartguard.io

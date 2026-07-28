@@ -1,4 +1,4 @@
-#6dd473561905ca7f28e5a981bcbc0cd7bcd4f5776121fda878fcd7747c918d02
+#5c8c64f0e62118f172e07443a081384d4742e3e0a9c078f581c4219d15572bf3
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -10,7 +10,6 @@
 #	adfreedns.top
 #	bazooki-infra.dev
 #	cloudflare-dns.com
-#	cryptostorm.is
 #	dnslow.me
 #	dns.pub
 #	doh.beauty
@@ -114,7 +113,6 @@ freedns.controld.com
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
-cryptostorm.is
 dns.cynthialabs.net
 odvr.nic.cz
 ns.data.haus

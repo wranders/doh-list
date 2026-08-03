@@ -1,4 +1,4 @@
-#5c8c64f0e62118f172e07443a081384d4742e3e0a9c078f581c4219d15572bf3
+#d0c858deea56744b3a67721d31cbf01bc71f0e1be751aa929a44a4ebbc52e978
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -14,7 +14,6 @@
 #	dns.pub
 #	doh.beauty
 #	doh.buzz
-#	3dns.eu
 #	dukun.de
 #	xn--durhre-yxa.de
 #	nicsezcheckfbi.gov
@@ -148,7 +147,6 @@ seoul.dnsovertor.cc
 dns.pub
 doh.beauty
 doh.buzz
-3dns.eu
 doh.domreg.lt
 agh.dshubham.xyz
 dukun.de

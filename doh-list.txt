@@ -1,4 +1,4 @@
-#d0c858deea56744b3a67721d31cbf01bc71f0e1be751aa929a44a4ebbc52e978
+#ecaaa03bd510c4d8cf222c980ea8146207b6ac06f6eb1dfb57acc627776cee62
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -32,7 +32,6 @@
 #	renardbleu.dev
 #	revelio.top
 #	safeservedns.com
-#	sunnygyl.com
 #	v.recipes
 #	v.recipes
 #	v.recipes
@@ -48,7 +47,6 @@ adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-dns.adnull.com
 dns.akbxr.com
 dns.alidns.com
 dns.aa.net.uk
@@ -287,7 +285,6 @@ doh.sz-dns.com
 dns.stirringphoto.com
 dns.surfsharkdns.com
 resolver.sunet.se
-sunnygyl.com
 dns.switch.ch
 dns.t53.de
 dns.telekom.de

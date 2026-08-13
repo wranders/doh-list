@@ -1,4 +1,4 @@
-#ecaaa03bd510c4d8cf222c980ea8146207b6ac06f6eb1dfb57acc627776cee62
+#bd99a8296f31e86716f3b5c7bf131c959eb3bb17abc2fdfe2e9581f568d7f052
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -23,6 +23,7 @@
 #	glacius.top
 #	dns.google
 #	8888.google
+#	hnsdoh.com
 #	imperio.top
 #	loadlow.me
 #	masters-of-cloud.de
@@ -150,6 +151,7 @@ agh.dshubham.xyz
 dukun.de
 xn--durhre-yxa.de
 dns.d94.xyz
+dns.easyhns.com
 dns.elemental.software
 dns.envs.net
 dns.faked.org
@@ -179,6 +181,7 @@ root.hagezi.org
 wurzn.hagezi.org
 juuri.hagezi.org
 dns.haka.se
+hnsdoh.com
 dns.hostux.net
 dns.hostux.net
 doth.huque.com

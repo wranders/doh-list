@@ -1,4 +1,4 @@
-#e5af2687a0defdd1bb8a00a901905a2151e31d42ad0c957acea15d314e95d0ee
+#1d33dfe83ef12c941af6b64c2a4f8d831a415b786bc821949b4f1e0607b11f0b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -16,7 +16,6 @@
 #	doh.buzz
 #	dukun.de
 #	xn--durhre-yxa.de
-#	nicsezcheckfbi.gov
 #	doh.li
 #	fidelius.top
 #	gibblets.top
@@ -30,7 +29,6 @@
 #	doh.lv
 #	dns4eu.online
 #	regiopolis.cloud
-#	renardbleu.dev
 #	revelio.top
 #	safeservedns.com
 #	v.recipes
@@ -42,13 +40,11 @@
 #
 
 per.adfilter.net
-syd.adfilter.net
 adl.adfilter.net
 adfreedns.top
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-dns.akbxr.com
 dns.alidns.com
 dns.aa.net.uk
 doh.angry.im
@@ -157,7 +153,6 @@ dns.envs.net
 dns.faked.org
 dnsvps.familiamv.net
 dns.farshidhakimy.de
-nicsezcheckfbi.gov
 ns0.fdn.fr
 ns1.fdn.fr
 doh.li
@@ -245,7 +240,6 @@ doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh.niyawe.de
 dns.njal.la
 dns.novg.net
-dns.ofdoom.net
 dns.omada.cafe
 ada.openbld.net
 ag.apollohct.com
@@ -269,7 +263,6 @@ dog.dns.qwer.pw
 tiger.dns.qwer.pw
 dns.redhosting.com.ar
 regiopolis.cloud
-renardbleu.dev
 dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com

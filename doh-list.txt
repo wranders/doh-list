@@ -1,4 +1,4 @@
-#1d33dfe83ef12c941af6b64c2a4f8d831a415b786bc821949b4f1e0607b11f0b
+#690c826b818126566dab8a4801d8d3fcf2934a88efb9317b3d9de3fbdee6c5c4
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -247,7 +247,6 @@ dns4eu.online
 dns.paesa.es
 dns.paulo.nom.za
 dns.decky.eu
-dns.petqa.ru
 kronos.plan9-dns.com
 helios.plan9-dns.com
 privacy.plumedns.com

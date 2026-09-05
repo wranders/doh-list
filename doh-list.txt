@@ -1,4 +1,4 @@
-#6346b441df95dafaa9bb46710f6d3dd4287e8f04e1d28224e3fdf114ccec5c2b
+#930635aaff662fbf5b6f97cc1690df25c1872322c72d6850325be7fec5340282
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -207,12 +207,6 @@ adguard.meddy94.de
 dns.mh4ckt3mh4ckt1c4s.xyz
 addns1.m-it.ro
 doh.mmmalia.com
-dns.mullvad.net
-adblock.dns.mullvad.net
-base.dns.mullvad.net
-extended.dns.mullvad.net
-all.dns.mullvad.net
-family.dns.mullvad.net
 freedom.mydns.network
 paranoia.mydns.network
 adblock.mydns.network

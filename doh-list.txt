@@ -1,4 +1,4 @@
-#930635aaff662fbf5b6f97cc1690df25c1872322c72d6850325be7fec5340282
+#1e54ce0730a50fe21cffcaf56af038444960304d9d1214b672350821dce2ea5b
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -293,6 +293,8 @@ v0dka.ru
 abel.waringer-atg.de
 wikimedia-dns.org
 dns.w3ctag.org
+dns.yunzheng.space
+filter.dns.yunzheng.space
 zdn.ro
 ns2.4netguides.org
 ibuki.cgnat.net

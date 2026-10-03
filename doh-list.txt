@@ -1,4 +1,4 @@
-#1e54ce0730a50fe21cffcaf56af038444960304d9d1214b672350821dce2ea5b
+#351fb5be755ff27b3d1a724574cdfb99fcbb5169148f84c72d7b5e7c52d55772
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -179,6 +179,7 @@ dns.haka.se
 hnsdoh.com
 dns.hostux.net
 dns.hostux.net
+dns.hqdns.sarl
 doth.huque.com
 imperio.top
 dns1.in-berlin.de

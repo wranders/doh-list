@@ -1,4 +1,4 @@
-#351fb5be755ff27b3d1a724574cdfb99fcbb5169148f84c72d7b5e7c52d55772
+#85e0bab0ef56c79c06ddd7886967b395f65c65daf7f7dfa6097abdccc6427c67
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -11,6 +11,7 @@
 #	bazooki-infra.dev
 #	cloudflare-dns.com
 #	dnslow.me
+#	dnsdoh.art
 #	dns.pub
 #	doh.beauty
 #	doh.buzz
@@ -139,6 +140,7 @@ dnslow.me
 japan.dnsovertor.cc
 chuncheon.dnsovertor.cc
 seoul.dnsovertor.cc
+dnsdoh.art
 dns.pub
 doh.beauty
 doh.buzz

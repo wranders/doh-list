@@ -1,4 +1,4 @@
-#982c2ab83ae941f05edb439967d5391f6588eb5e57b6af735fccfb59505f9c2e
+#d3f273d932e8c27d77ff5ff1bae5f5896ea6dd0beadd13b69715e57e1ecd29bb
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -18,19 +18,12 @@
 #	dukun.de
 #	xn--durhre-yxa.de
 #	doh.li
-#	fidelius.top
-#	gibblets.top
-#	glacius.top
 #	dns.google
 #	8888.google
 #	hnsdoh.com
-#	imperio.top
 #	loadlow.me
 #	masters-of-cloud.de
-#	doh.lv
-#	dns4eu.online
 #	regiopolis.cloud
-#	revelio.top
 #	safeservedns.com
 #	v.recipes
 #	v.recipes
@@ -66,8 +59,6 @@ dns.busold.ws
 doh.aaaab3n.moe
 dns.caspervk.net
 dns.cert.ee
-doh-01.spectrum.com
-doh-02.spectrum.com
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chunghwamc.com
@@ -110,7 +101,6 @@ freedns.controld.com
 freedns.controld.com
 dns.cynthialabs.net
 odvr.nic.cz
-ns.data.haus
 dns.datenquark.de
 dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
@@ -134,7 +124,6 @@ uk01.dns4me.net
 nz01.dns4me.net
 ie01.dns4me.net
 de01.dns4me.net
-dns.flatuslifir.is
 dns.dnshome.de
 dnslow.me
 japan.dnsovertor.cc
@@ -159,15 +148,11 @@ ns0.fdn.fr
 ns1.fdn.fr
 doh.li
 doh.ffmuc.net
-fidelius.top
 dns.floriantinney.de
 doh.applied-privacy.net
-es-ma.foxyfy.net
 dns.furrix.zone
 doh.futa.gg
 dns.gamban.com
-gibblets.top
-glacius.top
 dns.google
 dns64.dns.google
 8888.google
@@ -181,9 +166,7 @@ dns.haka.se
 hnsdoh.com
 dns.hostux.net
 dns.hostux.net
-dns.hqdns.sarl
 doth.huque.com
-imperio.top
 dns1.in-berlin.de
 dns2.in-berlin.de
 dns.inforlogia.com
@@ -231,8 +214,6 @@ us-nyc-w-p-1.nashkan.net
 dns.neeb.it
 dns.nextdns.io
 dns.nick-slowinski.de
-doh.lv
-doh.nic.lv
 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh.niyawe.de
 dns.njal.la
@@ -240,14 +221,12 @@ dns.novg.net
 dns.omada.cafe
 ada.openbld.net
 ag.apollohct.com
-dns4eu.online
 dns.paesa.es
 dns.paulo.nom.za
 dns.decky.eu
 kronos.plan9-dns.com
 helios.plan9-dns.com
 privacy.plumedns.com
-pooblet.co.za
 dns.practicallyunhackable.com
 dns.quad9.net
 dns9.quad9.net
@@ -263,7 +242,6 @@ dnspub.restena.lu
 dns.retakecs.com
 sky.rethinkdns.com
 sky.rethinkdns.com
-revelio.top
 dns.rbn.gr
 dns.roedel.cloud
 safeservedns.com
@@ -276,7 +254,6 @@ dns.smartguard.io
 dns.startupstack.tech
 doh.sz-dns.com
 dns.stirringphoto.com
-dns.surfsharkdns.com
 resolver.sunet.se
 dns.switch.ch
 dns.t53.de

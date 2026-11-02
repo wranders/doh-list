@@ -1,4 +1,4 @@
-#d3f273d932e8c27d77ff5ff1bae5f5896ea6dd0beadd13b69715e57e1ecd29bb
+#539b324cb712a463a78ab8c1d2e7eb6d2d6e595626b2ec32b3cf0018c419df5c
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -9,6 +9,7 @@
 #
 #	adfreedns.top
 #	bazooki-infra.dev
+#	beatquantum.com
 #	cloudflare-dns.com
 #	dnslow.me
 #	dnsdoh.art
@@ -48,6 +49,7 @@ nsec.arnor.org
 dns.asterimoon.com
 dns.a47.me
 bazooki-infra.dev
+beatquantum.com
 dns.belnet.be
 dns.bmwhocking.com
 dns.bitservices.io

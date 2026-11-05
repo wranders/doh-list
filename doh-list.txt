@@ -1,4 +1,4 @@
-#9e09e7eae74d6a64052729d3769abc4cd1d73b2b6efd9922bd5dbec3908d4ba1
+#e0673453f9d2af30d4d1b0e1cebdad622cce7c895cddcc2540625cf140832735
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -158,7 +158,6 @@ dns.gamban.com
 dns.google
 dns64.dns.google
 8888.google
-dns.glf.wtf
 dns.guard.io
 secure.hafnova.com
 root.hagezi.org
@@ -270,7 +269,6 @@ v.recipes
 v.recipes
 v.recipes
 dns.vaioswolke.xyz
-doh.viatech.com.tw
 v0dka.ru
 abel.waringer-atg.de
 wikimedia-dns.org

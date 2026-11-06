@@ -1,4 +1,4 @@
-#e0673453f9d2af30d4d1b0e1cebdad622cce7c895cddcc2540625cf140832735
+#a841ff262c61f17aa68f0b68e8fc8e905b5481f01a2a0eed9382bb58866ca8a9
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -108,6 +108,7 @@ dns.dev-umbrellagov.com
 dns.digitale-gesellschaft.ch
 doh.disconnect.app
 dns.digitalsize.net
+dns.dnsguard.pub
 doh.dns.sb
 doh.dns4all.eu
 protective.joindns4.eu
@@ -250,6 +251,7 @@ adguard.shoupperuser.com
 dns.silen.org
 dns.simplylinux.ch
 dns.skrep.eu
+dns.sktr.com.tr
 dns.slinkyman.net
 dns.smartguard.io
 dns.startupstack.tech

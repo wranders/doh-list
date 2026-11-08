@@ -1,4 +1,4 @@
-#a841ff262c61f17aa68f0b68e8fc8e905b5481f01a2a0eed9382bb58866ca8a9
+#24fda90e12727444ea3d9ed200d3cebb34a37fc45b388bb58db12a5f932ca9ea
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -142,6 +142,7 @@ dukun.de
 xn--durhre-yxa.de
 dns.d94.xyz
 dns.easyhns.com
+dns.ekinao.com
 dns.elemental.software
 dns.envs.net
 dns.faked.org

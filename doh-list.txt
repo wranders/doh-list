@@ -1,4 +1,4 @@
-#24fda90e12727444ea3d9ed200d3cebb34a37fc45b388bb58db12a5f932ca9ea
+#ccaf82228cf9e18137f7d83cce9273c5405af6d3c9ddaab8b68cad222d7d87a0
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -79,7 +79,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 family.cloudflare-dns.com
 dns64.cloudflare-dns.com
-dns.comss.one
 freedns.controld.com
 freedns.controld.com
 freedns.controld.com
@@ -165,6 +164,7 @@ secure.hafnova.com
 root.hagezi.org
 wurzn.hagezi.org
 juuri.hagezi.org
+ctif.hagezi.org
 dns.haka.se
 hnsdoh.com
 dns.hostux.net
@@ -260,7 +260,6 @@ doh.sz-dns.com
 dns.stirringphoto.com
 resolver.sunet.se
 dns.switch.ch
-dns.t53.de
 dns.telekom.de
 dns.tipsy.coffee
 dns.tls-data.de

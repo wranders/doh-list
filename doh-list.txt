@@ -1,4 +1,4 @@
-#ccaf82228cf9e18137f7d83cce9273c5405af6d3c9ddaab8b68cad222d7d87a0
+#186fb86ec2888208ac88763aa54feda8544ccbe685035bd78eb71e19b24b6202
 #
 # DNS-over-HTTPS Providers
 # Compiled from curl/curl wiki
@@ -22,6 +22,7 @@
 #	dns.google
 #	8888.google
 #	hnsdoh.com
+#	ledns.eu
 #	loadlow.me
 #	masters-of-cloud.de
 #	regiopolis.cloud
@@ -181,6 +182,7 @@ dns.koala.us.to
 dns.kosan.moe
 adblock.krctech.dev
 doh.lacontrevoie.fr
+ledns.eu
 dns.liberador.net
 doh.libredns.gr
 doh.libredns.gr
@@ -208,7 +210,6 @@ au-syd-w-f-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-p-1.nashkan.net
-us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
